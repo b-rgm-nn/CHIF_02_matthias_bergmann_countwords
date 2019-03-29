@@ -3,8 +3,6 @@ package htl.bergmann.countwords;
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileReader;
-import java.util.logging.Level;
-import java.util.logging.Logger;
 
 public class Producer implements Runnable {
 

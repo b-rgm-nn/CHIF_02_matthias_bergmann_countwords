@@ -1,9 +1,6 @@
 
 package htl.bergmann.countwords;
 
-import java.io.BufferedReader;
-import java.io.File;
-import java.io.FileReader;
 import java.util.HashMap;
 
 public class Book {
@@ -13,16 +10,6 @@ public class Book {
     public Book(String inputfilename, String text) {
         this.inputfilename = inputfilename;
         this.text = text;
-    }
-    
-    public void loadText() {
-        text = "";
-        try (BufferedReader br = new BufferedReader(new FileReader(new File(inputfilename)))) {
-            while(br.ready())
-                text += br.readLine();
-        } catch (Exception e) {
-            
-        }
     }
     
     public HashMap<String, Integer> countWords() {
@@ -44,4 +31,10 @@ public class Book {
         
         return countWords;
     }
+
+    public String getInputfilename() {
+        return inputfilename;
+    }
+    
+    
 }
