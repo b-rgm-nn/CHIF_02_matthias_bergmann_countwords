@@ -1,4939 +1,4939 @@
-ja             : 2073
-oli            : 1067
-haen           : 896
-ettae          : 583
-ei             : 402
-sanoi          : 400
-Nehljudof      : 392
-haenen         : 385
-on             : 378
-joka           : 261
-vaan           : 259
-mutta          : 242
-niin           : 229
-se             : 223
-nyt            : 221
-haentae        : 201
-Haen           : 178
-kanssa         : 174
-Ja             : 166
-Maslova        : 166
-kun            : 164
-kaikki         : 160
-sen            : 159
-kuin           : 157
-olisi          : 156
-the            : 155
-Mutta          : 147
-sitten         : 142
-olivat         : 138
-ollut          : 133
-mitae          : 132
-taemae         : 125
-jo             : 121
-haenelle       : 119
-vielae         : 117
-tuli           : 115
-of             : 111
-sitae          : 109
-Katjusha       : 102
-hyvin          : 102
-minae          : 102
-jotka          : 98
-Nehljudofin    : 97
-alkoi          : 91
-siitae         : 91
-mitaeaen       : 91
-ole            : 86
-taemaen        : 84
-haenet         : 81
-jonka          : 78
-ettei          : 76
-kuinka         : 75
-koko           : 75
-No             : 73
-he             : 72
-to             : 72
-kysyi          : 72
-luo            : 69
-jos            : 67
-or             : 66
-and            : 66
-a              : 65
-olla           : 65
-siis           : 65
-Gutenberg      : 64
-ne             : 64
-taas           : 64
-Ei             : 63
-puhui          : 63
-Project        : 63
-jota           : 63
-siinae         : 62
-ainoastaan     : 62
-voinut         : 62
-tunsi          : 61
-Se             : 61
-en             : 60
-in             : 60
-eikae          : 60
-Taemae         : 60
-ajatteli       : 60
-sekae          : 59
-istui          : 59
-haeneen        : 58
-aivan          : 58
-pois           : 57
-olen           : 57
-heti           : 57
-kuten          : 56
-heidaen        : 55
-itse           : 55
-yhae           : 54
-Minae          : 54
-milloin        : 54
-Maslovan       : 54
-voi            : 52
-you            : 51
-silloin        : 51
-mikae          : 51
-puheenjohtaja  : 51
-kuitenkin      : 50
-siihen         : 48
-Niin           : 48
-tm             : 48
-kyllae         : 48
-taetae         : 48
-meni           : 47
-aina           : 46
-vaikka         : 46
-missae         : 46
-ennen          : 46
-juuri          : 45
-kauppias       : 45
-vastasi        : 44
-jaelleen       : 44
-ovat           : 43
-myoeskin       : 43
-jaelkeen       : 43
-niinkuin       : 42
-Katjushan      : 41
-seisoi         : 41
-Kaikki         : 40
-naein          : 40
-work           : 40
-puoleen        : 40
-ikaeaenkuin    : 40
-kerran         : 40
-sinae          : 40
-taessae        : 39
-naehtaevaesti  : 39
-nainen         : 39
-otti           : 39
-Haenen         : 39
-te             : 38
-vastaan        : 38
-itseaensae     : 38
-luona          : 38
-tavata         : 38
-minun          : 38
-apulainen      : 38
-piti           : 37
-En             : 37
-sentaehden     : 37
-tehdae         : 37
-kaksi          : 36
-Kun            : 36
-antoi          : 36
-tullut         : 36
-siellae        : 35
-mies           : 35
-with           : 35
-edessae        : 35
-teidaen        : 35
-hyvae          : 35
-nousi          : 35
-tietaeae       : 34
-kaeaentyi      : 34
-tuo            : 34
-this           : 34
-Nehljudofia    : 34
-ilman          : 34
-ruplaa         : 34
-Mitae          : 33
-varten         : 33
-sai            : 33
-naeki          : 33
-sanoa          : 33
-ihminen        : 33
-toinen         : 33
-jotakin        : 33
-Maslovaa       : 33
-aikaan         : 33
-n              : 32
-huusi          : 32
-tai            : 32
-teki           : 32
-syyttaejaen    : 32
-tirehtoeoeri   : 32
-enaeae         : 31
-Kuinka         : 31
-minulle        : 31
-Jos            : 30
-taehaen        : 30
-ulos           : 30
-taeaellae      : 30
-kuului         : 29
-saanut         : 29
-jossa          : 29
-any            : 29
-puhua          : 28
-is             : 28
-paljon         : 28
-Katjushaa      : 28
-muisti         : 28
-Nyt            : 28
-Korabljova     : 28
-joita          : 28
-sillae         : 28
-laeksi         : 28
-minua          : 28
-vuoksi         : 28
-rahoja         : 27
-teitae         : 27
-Sofia          : 27
-vaehaen        : 27
-hymyillen      : 27
-josta          : 27
-tulee          : 27
-niitae         : 27
-saattoi        : 27
-katseli        : 26
-Missi          : 26
-saada          : 26
-works          : 26
-jotain         : 26
-haenellae      : 26
-eivaet         : 25
-erittaeinkin   : 25
-silmaet        : 25
-rahat          : 25
-vasta          : 25
-alas           : 25
-jatkoi         : 25
-enemmaen       : 25
-jolla          : 25
-katsahti       : 25
-haenestae      : 25
-samalla        : 24
-suuri          : 24
-aeaenellae     : 24
-taetien        : 24
-kiinni         : 24
-asia           : 24
-huoneeseen     : 24
-kertaa         : 24
-ihmisiae       : 24
-muuta          : 24
-teille         : 23
-sanonut        : 23
-ensi           : 23
-Botshkova      : 23
-yhtae          : 23
-tahtonut       : 23
-ihan           : 23
-mukaan         : 23
-katsoi         : 23
-Nehljudofille  : 23
-tahtoi         : 23
-naeytti        : 23
-E              : 22
-paeaessae      : 22
-me             : 22
-nopeasti       : 22
-kaetensae      : 22
-Puheenjohtaja  : 22
-pysaehtyi      : 22
-tehnyt         : 22
-noin           : 22
-Kyllae         : 22
-poika          : 22
-asti           : 22
-jopa           : 22
-kertoi         : 22
-samassa        : 22
-yloes          : 22
-paeivaenae     : 22
-tiesi          : 22
-for            : 21
-olevansa       : 21
-Onko           : 21
-omaa           : 21
-toisen         : 21
-koskaan        : 21
-olette         : 21
-aekkiae        : 21
-esille         : 21
-Smelkofin      : 21
-taehden        : 21
-paitsi         : 21
-siksi          : 21
-Kartinkin      : 21
-anteeksi       : 20
-pappi          : 20
-Foundation     : 20
-taestae        : 20
-paeaetaensae   : 20
-yksi           : 20
-kokonaan       : 20
-Maslennikof    : 20
-syystae        : 20
-oven           : 20
-sama           : 20
-vai            : 20
-itsensae       : 20
-yli            : 20
-taeytyy        : 20
-aikana         : 20
-e              : 19
-Simon          : 19
-ensin          : 19
-eli            : 19
-He             : 19
-On             : 19
-tyttoe         : 19
-pyysi          : 19
-not            : 19
-kasvot         : 19
-aikaa          : 19
-Sitten         : 19
-Naein          : 19
-alkoivat       : 19
-mahdollista    : 19
-edes           : 19
-kaevi          : 19
-sinun          : 19
-kaiken         : 19
-electronic     : 19
-are            : 19
-yksin          : 19
-tulivat        : 18
-silmaensae     : 18
-by             : 18
-johdosta       : 18
-vankilassa     : 18
-naehnyt        : 18
-kauan          : 18
-Jefimia        : 18
-huoneessa      : 18
-naimisiin      : 18
-johon          : 18
-syyttaejae     : 18
-pitaeae        : 18
-Silloin        : 18
-Maria          : 18
-taenne         : 18
-joskus         : 18
-Mitaes         : 18
-kaikkea        : 18
-puolella       : 18
-tulla          : 18
-tuntien        : 17
-Olen           : 17
-be             : 17
-paeaestae      : 17
-kulki          : 17
-ihmiset        : 17
-tirehtoeoerin  : 17
-osaa           : 17
-samaa          : 17
-Taessae        : 17
-terms          : 17
-tavalla        : 17
-Nehljudofiin   : 17
-rupesi         : 17
-olikin         : 17
-j              : 16
-s              : 16
-koska          : 16
-luoksensa      : 16
-eraeaen        : 16
-ruhtinatar     : 16
-valamiehet     : 16
-vangit         : 16
-may            : 16
-eilen          : 16
-ottaa          : 16
-naisen         : 16
-Jumalan        : 16
-hiukan         : 16
-Katariina      : 16
-sanon          : 16
-pitaenyt       : 16
-yhdessae       : 16
+ja        : 2073
+oli       : 1067
+haen      : 896
+ettae     : 583
+ei        : 402
+sanoi     : 400
+Nehljudof : 392
+haenen    : 385
+on        : 378
+joka      : 261
+vaan      : 259
+mutta     : 242
+niin      : 229
+se        : 223
+nyt       : 221
+haentae   : 201
+Haen      : 178
+kanssa    : 174
+Ja        : 166
+Maslova   : 166
+kun       : 164
+kaikki    : 160
+sen       : 159
+kuin      : 157
+olisi     : 156
+the       : 155
+Mutta     : 147
+sitten    : 142
+olivat    : 138
+ollut     : 133
+mitae     : 132
+taemae    : 125
+jo        : 121
+haenelle  : 119
+vielae    : 117
+tuli      : 115
+of        : 111
+sitae     : 109
+Katjusha  : 102
+hyvin     : 102
+minae     : 102
+jotka     : 98
+Nehljudofin: 97
+alkoi     : 91
+siitae    : 91
+mitaeaen  : 91
+ole       : 86
+taemaen   : 84
+haenet    : 81
+jonka     : 78
+ettei     : 76
+kuinka    : 75
+koko      : 75
+No        : 73
+he        : 72
+to        : 72
+kysyi     : 72
+luo       : 69
+jos       : 67
+or        : 66
+and       : 66
+a         : 65
+olla      : 65
+siis      : 65
+Gutenberg : 64
+ne        : 64
+taas      : 64
+Ei        : 63
+puhui     : 63
+Project   : 63
+jota      : 63
+siinae    : 62
+ainoastaan: 62
+voinut    : 62
+tunsi     : 61
+Se        : 61
+en        : 60
+in        : 60
+eikae     : 60
+Taemae    : 60
+ajatteli  : 60
+sekae     : 59
+istui     : 59
+haeneen   : 58
+aivan     : 58
+pois      : 57
+olen      : 57
+heti      : 57
+kuten     : 56
+heidaen   : 55
+itse      : 55
+yhae      : 54
+Minae     : 54
+milloin   : 54
+Maslovan  : 54
+voi       : 52
+you       : 51
+silloin   : 51
+mikae     : 51
+puheenjohtaja: 51
+kuitenkin : 50
+siihen    : 48
+Niin      : 48
+tm        : 48
+kyllae    : 48
+taetae    : 48
+meni      : 47
+aina      : 46
+vaikka    : 46
+missae    : 46
+ennen     : 46
+juuri     : 45
+kauppias  : 45
+vastasi   : 44
+jaelleen  : 44
+ovat      : 43
+myoeskin  : 43
+jaelkeen  : 43
+niinkuin  : 42
+Katjushan : 41
+seisoi    : 41
+Kaikki    : 40
+naein     : 40
+work      : 40
+puoleen   : 40
+ikaeaenkuin: 40
+kerran    : 40
+sinae     : 40
+taessae   : 39
+naehtaevaesti: 39
+nainen    : 39
+otti      : 39
+Haenen    : 39
+te        : 38
+vastaan   : 38
+itseaensae: 38
+luona     : 38
+tavata    : 38
+minun     : 38
+apulainen : 38
+piti      : 37
+En        : 37
+sentaehden: 37
+tehdae    : 37
+kaksi     : 36
+Kun       : 36
+antoi     : 36
+tullut    : 36
+siellae   : 35
+mies      : 35
+with      : 35
+edessae   : 35
+teidaen   : 35
+hyvae     : 35
+nousi     : 35
+tietaeae  : 34
+kaeaentyi : 34
+tuo       : 34
+this      : 34
+Nehljudofia: 34
+ilman     : 34
+ruplaa    : 34
+Mitae     : 33
+varten    : 33
+sai       : 33
+naeki     : 33
+sanoa     : 33
+ihminen   : 33
+toinen    : 33
+jotakin   : 33
+Maslovaa  : 33
+aikaan    : 33
+n         : 32
+huusi     : 32
+tai       : 32
+teki      : 32
+syyttaejaen: 32
+tirehtoeoeri: 32
+enaeae    : 31
+Kuinka    : 31
+minulle   : 31
+Jos       : 30
+taehaen   : 30
+ulos      : 30
+taeaellae : 30
+kuului    : 29
+saanut    : 29
+jossa     : 29
+any       : 29
+puhua     : 28
+is        : 28
+paljon    : 28
+Katjushaa : 28
+muisti    : 28
+Nyt       : 28
+Korabljova: 28
+joita     : 28
+sillae    : 28
+laeksi    : 28
+minua     : 28
+vuoksi    : 28
+rahoja    : 27
+teitae    : 27
+Sofia     : 27
+vaehaen   : 27
+hymyillen : 27
+josta     : 27
+tulee     : 27
+niitae    : 27
+saattoi   : 27
+katseli   : 26
+Missi     : 26
+saada     : 26
+works     : 26
+jotain    : 26
+haenellae : 26
+eivaet    : 25
+erittaeinkin: 25
+silmaet   : 25
+rahat     : 25
+vasta     : 25
+alas      : 25
+jatkoi    : 25
+enemmaen  : 25
+jolla     : 25
+katsahti  : 25
+haenestae : 25
+samalla   : 24
+suuri     : 24
+aeaenellae: 24
+taetien   : 24
+kiinni    : 24
+asia      : 24
+huoneeseen: 24
+kertaa    : 24
+ihmisiae  : 24
+muuta     : 24
+teille    : 23
+sanonut   : 23
+ensi      : 23
+Botshkova : 23
+yhtae     : 23
+tahtonut  : 23
+ihan      : 23
+mukaan    : 23
+katsoi    : 23
+Nehljudofille: 23
+tahtoi    : 23
+naeytti   : 23
+E         : 22
+paeaessae : 22
+me        : 22
+nopeasti  : 22
+kaetensae : 22
+Puheenjohtaja: 22
+pysaehtyi : 22
+tehnyt    : 22
+noin      : 22
+Kyllae    : 22
+poika     : 22
+asti      : 22
+jopa      : 22
+kertoi    : 22
+samassa   : 22
+yloes     : 22
+paeivaenae: 22
+tiesi     : 22
+for       : 21
+olevansa  : 21
+Onko      : 21
+omaa      : 21
+toisen    : 21
+koskaan   : 21
+olette    : 21
+aekkiae   : 21
+esille    : 21
+Smelkofin : 21
+taehden   : 21
+paitsi    : 21
+siksi     : 21
+Kartinkin : 21
+anteeksi  : 20
+pappi     : 20
+Foundation: 20
+taestae   : 20
+paeaetaensae: 20
+yksi      : 20
+kokonaan  : 20
+Maslennikof: 20
+syystae   : 20
+oven      : 20
+sama      : 20
+vai       : 20
+itsensae  : 20
+yli       : 20
+taeytyy   : 20
+aikana    : 20
+e         : 19
+Simon     : 19
+ensin     : 19
+eli       : 19
+He        : 19
+On        : 19
+tyttoe    : 19
+pyysi     : 19
+not       : 19
+kasvot    : 19
+aikaa     : 19
+Sitten    : 19
+Naein     : 19
+alkoivat  : 19
+mahdollista: 19
+edes      : 19
+kaevi     : 19
+sinun     : 19
+kaiken    : 19
+electronic: 19
+are       : 19
+yksin     : 19
+tulivat   : 18
+silmaensae: 18
+by        : 18
+johdosta  : 18
+vankilassa: 18
+naehnyt   : 18
+kauan     : 18
+Jefimia   : 18
+huoneessa : 18
+naimisiin : 18
+johon     : 18
+syyttaejae: 18
+pitaeae   : 18
+Silloin   : 18
+Maria     : 18
+taenne    : 18
+joskus    : 18
+Mitaes    : 18
+kaikkea   : 18
+puolella  : 18
+tulla     : 18
+tuntien   : 17
+Olen      : 17
+be        : 17
+paeaestae : 17
+kulki     : 17
+ihmiset   : 17
+tirehtoeoerin: 17
+osaa      : 17
+samaa     : 17
+Taessae   : 17
+terms     : 17
+tavalla   : 17
+Nehljudofiin: 17
+rupesi    : 17
+olikin    : 17
+j         : 16
+s         : 16
+koska     : 16
+luoksensa : 16
+eraeaen   : 16
+ruhtinatar: 16
+valamiehet: 16
+vangit    : 16
+may       : 16
+eilen     : 16
+ottaa     : 16
+naisen    : 16
+Jumalan   : 16
+hiukan    : 16
+Katariina : 16
+sanon     : 16
+pitaenyt  : 16
+yhdessae  : 16
 ProjectGutenberg: 16
-semmoista      : 16
-Agrafena       : 16
-nuori          : 16
-sinne          : 16
-all            : 16
-kahden         : 15
-lisaesi        : 15
-If             : 15
-at             : 15
-vaelillae      : 15
-vuotta         : 15
-vartija        : 15
-kaeytaevaeaen  : 15
-vieressae      : 15
-valamiesten    : 15
-kohtaan        : 15
-olleet         : 15
-syyllinen      : 15
-ihmisten       : 15
-ruhtinas       : 15
-minkae         : 15
-olevan         : 15
-istuivat       : 15
-aikoi          : 15
-The            : 15
-nosti          : 15
-Taemaen        : 15
-miksi          : 15
-luki           : 15
-enkae          : 15
-agreement      : 15
-nousivat       : 15
-kolme          : 15
-Mikae          : 15
-heitae         : 15
-silmiin        : 15
-naehdae        : 15
-ottanut        : 15
-toiseen        : 14
-tuskin         : 14
-kaeynyt        : 14
-laepi          : 14
-haeneltae      : 14
-mennae         : 14
-Pietari        : 14
-katsellen      : 14
-taemmoeinen    : 14
-sinulle        : 14
-Vera           : 14
-Fedosja        : 14
-myoeten        : 14
-kaikkein       : 14
-jaei           : 14
-asianajaja     : 14
-nuo            : 14
-jaettaeae      : 14
-sanoja         : 14
-paeaetti       : 14
-asianajajan    : 14
-herra          : 14
-kasvonsa       : 14
-antanut        : 14
-asiaa          : 14
-poeydaen       : 14
-paeinvastoin   : 14
-Katjushaan     : 14
-mistae         : 14
-koetti         : 14
-kohta          : 14
-Dmitrij        : 14
-syytetty       : 14
-voisi          : 14
-yhteen         : 14
-ikkunan        : 14
-haenessae      : 14
-tiedae         : 14
-mitenkaeaen    : 14
-pitkin         : 13
-it             : 13
-no             : 13
-sisaelle       : 13
-taikka         : 13
-vasemmalla     : 13
-Naemaet        : 13
-seikka         : 13
-copyright      : 13
-muuten         : 13
-jutun          : 13
-naemaet        : 13
-naista         : 13
-ovea           : 13
-Sec            : 13
-molemmat       : 13
-Vai            : 13
-kauvan         : 13
-kautta         : 13
-Hyvae          : 13
-tuntui         : 13
-takana         : 13
-asiasta        : 13
-taenae         : 13
-aeiti          : 13
-paein          : 13
-toisiansa      : 13
-Matrjona       : 13
-kauppiaan      : 13
-ilmoitti       : 13
-tapahtunut     : 13
-pian           : 13
-tunne          : 12
-suoraan        : 12
-as             : 12
-kaikille       : 12
-kaey           : 12
-toista         : 12
-tapahtui       : 12
-kaeaentyen     : 12
-itselleen      : 12
-olemme         : 12
-ihmisen        : 12
-antaa          : 12
-kanssaan       : 12
-naiset         : 12
-aeidin         : 12
-kaeytaevaessae : 12
-omaan          : 12
-kaikkien       : 12
-niiden         : 12
-laehteae       : 12
-samoin         : 12
-maailmassa     : 12
-liian          : 12
-oikeuden       : 12
-juoksi         : 12
-kaedellaeaen   : 12
-toisella       : 12
-erittaein      : 12
-tavattoman     : 12
-Missin         : 12
-Tirehtoeoeri   : 12
-paeaensae      : 12
-that           : 12
-taellae        : 12
-selvaesti      : 12
-aeaeni         : 12
-muut           : 12
-tulisi         : 12
-takaa          : 12
-noussut        : 12
-You            : 12
-joku           : 12
-Maslovalle     : 12
-esimies        : 12
-paeae          : 12
-Petrovna       : 12
-vuotias        : 12
-minut          : 12
-tarpeen        : 12
-katsomatta     : 12
-Siperiaan      : 12
-meidaen        : 12
-naehden        : 12
-Nehljudofista  : 12
-F              : 11
-o              : 11
-ihmistae       : 11
-Taehaen        : 11
-do             : 11
-et             : 11
-jolloin        : 11
-mieltae        : 11
-Fanarin        : 11
-pannen         : 11
-peraestae      : 11
-eBooks         : 11
-oman           : 11
-sihteeri       : 11
-saatuaan       : 11
-Tehkaeae       : 11
-puheenjohtajan : 11
-kuulla         : 11
-kysymys        : 11
-yleensae       : 11
-lapsi          : 11
-donations      : 11
-tuntenut       : 11
-saa            : 11
-oikeastaan     : 11
-edessaeaen     : 11
-kuuli          : 11
-asian          : 11
-Sen            : 11
-vankilan       : 11
-heillae        : 11
-naemae         : 11
-Archive        : 11
-Siinae         : 11
-kirjoitti      : 11
-Jeesukseni     : 11
-syytetyn       : 11
-tytoen         : 11
-pani           : 11
-todellakin     : 11
-tietaemaettae  : 11
-Miksi          : 11
-Niinpae        : 11
-ollen          : 11
-aeaereen       : 11
-sinua          : 11
-vankilaan      : 11
-Maslennikofin  : 11
-other          : 11
-kaikkia        : 11
-miten          : 11
-tuon           : 10
-vaiti          : 10
-tuota          : 10
-Ennen          : 10
-http           : 10
-OF             : 10
-Literary       : 10
-Jeesus         : 10
-Vasiljevna     : 10
-pikemmin       : 10
-from           : 10
-syytoen        : 10
-toisti         : 10
-Heidaen        : 10
-full           : 10
-hyvaesti       : 10
-pitivaet       : 10
-rahaa          : 10
-saakka         : 10
-sisaeaen       : 10
-Ivanovna       : 10
-missaeaen      : 10
-Pavlovna       : 10
-huoneeseensa   : 10
-copy           : 10
-ovi            : 10
-kokoon         : 10
-naekoeinen     : 10
-katsoen        : 10
-alla           : 10
-kohden         : 10
-Smelkofille    : 10
-aikomusta      : 10
-minulla        : 10
-use            : 10
-niihin         : 10
-vielaekin      : 10
-olisivat       : 10
-Gerasimovitsh  : 10
-www            : 10
-koettaen       : 10
-niinpae        : 10
-syylliseksi    : 10
-eteenpaein     : 10
-rikoksen       : 10
-kello          : 10
-kukaan         : 10
-ainakin        : 10
-auki           : 10
-ilmi           : 10
-gutenberg      : 10
-punatukkainen  : 10
-elaemaen       : 10
-Vielae         : 10
-vaati          : 10
-Samassa        : 10
-eBook          : 10
-vihasesti      : 10
-pahaa          : 10
-hakemaan       : 10
-Ivanovitsh     : 10
-laehestyi      : 10
-palasi         : 10
-silmin         : 10
-oikeus         : 10
-p              : 9
-ottaen         : 9
-vaimo          : 9
-jaesen         : 9
-pitkae         : 9
-ohitsensa      : 9
-usein          : 9
-Te             : 9
-trademark      : 9
-menivaet       : 9
-eteen          : 9
-eukko          : 9
-eraes          : 9
-vaikeata       : 9
-muutamia       : 9
-itseensae      : 9
-alkanut        : 9
-kaikesta       : 9
-kanssansa      : 9
-puhumaan       : 9
-aika           : 9
-naehtyaeaen    : 9
-ohitse         : 9
-vankien        : 9
-hyvaeae        : 9
-vaikeni        : 9
-saisi          : 9
-Toinen         : 9
-silmiaensae    : 9
-paragraph      : 9
-keskeytti      : 9
-toiselta       : 9
-kysymykseen    : 9
-tilassa        : 9
-vihdoin        : 9
-Heti           : 9
-mieleen        : 9
-vei            : 9
-nytkin         : 9
-tuonut         : 9
-kirkkoon       : 9
-lapset         : 9
-muita          : 9
-muka           : 9
-Siellae        : 9
-pojan          : 9
-must           : 9
-naisten        : 9
-valamiehille   : 9
-onkin          : 9
-tuomittu       : 9
-aeaeressae     : 9
-totta          : 9
-mummo          : 9
-yhtaekkiae     : 9
-naehdessaeaen  : 9
-rypisti        : 9
-ankarasti      : 9
-herrat         : 9
-kuka           : 9
-sieltae        : 9
-ymmaersi       : 9
-seurasi        : 9
-aamulla        : 9
-hyviae         : 9
-itsekin        : 9
-nauraen        : 9
-astui          : 9
-kyyneleitae    : 9
-keskenaeaen    : 9
-puolelta       : 9
-tule           : 9
-can            : 9
-ketaeaen       : 8
-kuukautta      : 8
-tehtiin        : 8
-omasta         : 8
-herkeaemaettae : 8
-miehiae        : 8
-luokse         : 8
-Smelkof        : 8
-Jo             : 8
-fee            : 8
-apulaisen      : 8
-olisin         : 8
-niistae        : 8
-sitte          : 8
-Vaan           : 8
-vanki          : 8
-odotti         : 8
-laws           : 8
-heille         : 8
-paeaessyt      : 8
-United         : 8
-olet           : 8
-joiden         : 8
-ollenkaan      : 8
-toiset         : 8
-yleisen        : 8
-kirjeen        : 8
-access         : 8
-tehtaevae      : 8
-vartijan       : 8
-vartijat       : 8
-pyydaen        : 8
-kuluttua       : 8
-puhunut        : 8
-associated     : 8
-Menshof        : 8
-alaiseksi      : 8
-net            : 8
-haluten        : 8
-elaeimellinen  : 8
-lavitsalla     : 8
-Oletteko       : 8
-States         : 8
-ovesta         : 8
-viinaa         : 8
-kotiin         : 8
-valmis         : 8
-aeitinsae      : 8
-tultuansa      : 8
-kaikkiin       : 8
-Minulle        : 8
-iloinen        : 8
-paperin        : 8
-set            : 8
-oeversti       : 8
-lukea          : 8
-talonpoika     : 8
-mustat         : 8
-sanotuksi      : 8
-semmoinen      : 8
-including      : 8
-totisesti      : 8
-teen           : 8
-etten          : 8
-keskelle       : 8
-itsekseen      : 8
-vastannut      : 8
-Haentae        : 8
-kaedessae      : 8
-Siitae         : 8
-elaemaeae      : 8
-paikalla       : 8
-saapui         : 8
-toiseksi       : 8
-which          : 8
-tappamisen     : 8
-salin          : 8
-kuunteli       : 8
-sanat          : 8
-taelle         : 8
-vielaepae      : 8
-myrkkyae       : 8
-suinkaan       : 8
-ennenkin       : 8
-puvussa        : 8
-oikeudessa     : 8
-kaettae        : 8
-Horoshafka     : 8
-vuonna         : 8
-Aelkaeae       : 8
-naeiden        : 8
-asiassa        : 8
-kaeyttaeae     : 8
-vaimon         : 8
-varmaan        : 8
-oikeuteen      : 8
-License        : 8
-halusi         : 8
-pitaeisi       : 8
-samaan         : 8
-muisteli       : 8
-asiaan         : 8
-elaemaensae    : 8
-oikeutta       : 8
-Taedit         : 8
-heraetti       : 8
-melkein        : 8
-viiniae        : 8
-hyvaet         : 7
-hyvaen         : 7
-koski          : 7
-Esimies        : 7
-avasi          : 7
-joutunut       : 7
-konttoriin     : 7
-kesken         : 7
-est            : 7
-pieni          : 7
-poikaa         : 7
-koputti        : 7
-mekon          : 7
-oikeudenjaesen : 7
-la             : 7
-ennenkuin      : 7
-sangen         : 7
-we             : 7
-etext          : 7
-Mauritanian    : 7
-mennyt         : 7
-vanha          : 7
-menen          : 7
-tiennyt        : 7
-refund         : 7
-olin           : 7
-kotona         : 7
-taaskin        : 7
-koppiin        : 7
-Ainoastaan     : 7
-toisia         : 7
-Botshkovan     : 7
-eteensae       : 7
-kaesiinsae     : 7
-tehty          : 7
-uskoa          : 7
-provide        : 7
-Kartinkinin    : 7
-viipyi         : 7
-about          : 7
-esiin          : 7
-kaeteen        : 7
-illalla        : 7
-selvaeae       : 7
-jollei         : 7
-Kauppias       : 7
-isaentae       : 7
-rahojen        : 7
-vaeitti        : 7
-uskoen         : 7
-viime          : 7
-vastapaeaetae  : 7
-your           : 7
-yleinen        : 7
-naisia         : 7
-osoittaen      : 7
-Pavlovnan      : 7
-ajoi           : 7
-Vartija        : 7
-ylpeilevaet    : 7
-oikealla       : 7
-Minulla        : 7
-Oli            : 7
-takasin        : 7
-lopussa        : 7
-Kristus        : 7
-tapasi         : 7
-Jefremovna     : 7
-todella        : 7
-pglaf          : 7
-alle           : 7
-tytaer         : 7
-jaeaenyt       : 7
-Eihaen         : 7
-viimeisen      : 7
-ottivat        : 7
-suuret         : 7
-suuren         : 7
-ajatella       : 7
-kirje          : 7
-tahtoen        : 7
-paremmin       : 7
-Koko           : 7
-saeaeliae      : 7
-puheensa       : 7
-pisti          : 7
-ajatellut      : 7
-kenenkaeaen    : 7
-olemassa       : 7
-voineet        : 7
-huolimatta     : 7
-sanottiin      : 7
-tehneet        : 7
-pulverin       : 7
-Joku           : 7
-sittenkin      : 7
-haevetti       : 7
-vaikea         : 7
-taeytyi        : 7
-painoi         : 7
-copies         : 7
-ratavahti      : 7
-odottaa        : 7
-oveen          : 7
-punastui       : 7
-kuollut        : 7
-miehensae      : 7
-liikkeellae    : 7
-verkon         : 7
-puolen         : 7
-Olemme         : 7
-syytetyt       : 7
-yhden          : 7
-teiltae        : 7
-minne          : 7
-hiljaa         : 7
-rakkauden      : 7
-domain         : 7
-tullessaan     : 7
-oliko          : 7
-talon          : 7
-tarjosi        : 7
-paikkaan       : 7
-rakastanut     : 7
-kummallinen    : 7
-Sihteeri       : 7
-istukaa        : 7
-Taeaellae      : 7
-tapauksessa    : 7
-paeaettaenyt   : 7
-distributing   : 7
-huone          : 7
-perille        : 7
-syytettyjen    : 7
-kiireesti      : 7
-erityisesti    : 7
-saivat         : 7
-taeynnaensae   : 7
-seisoivat      : 7
-Olkaa          : 7
-puoleksi       : 7
-asiata         : 7
-tarkoituksessa : 7
-kaupungissa    : 7
-askelin        : 7
-public         : 7
-taerkeaetae    : 7
-nimittaein     : 7
-Tultuaan       : 7
-Nehljudofissa  : 7
-suhteet        : 7
-kopin          : 7
-jokaisen       : 6
-tehkaeae       : 6
-I              : 6
-d              : 6
-seurassa       : 6
-sydaemmensae   : 6
-Haenellae      : 6
-silloinkin     : 6
-sisar          : 6
-pyytaeae       : 6
-kummallista    : 6
-kirjailija     : 6
-jotkut         : 6
-lausui         : 6
-Kyllaepae      : 6
-pitkaeaen      : 6
-mielentilassa  : 6
-kirjoittaa     : 6
-forth          : 6
-tietysti       : 6
-puhun          : 6
-jaettaenyt     : 6
-Olin           : 6
-Naehtyaeaen    : 6
-joukossa       : 6
-tekemaeaen     : 6
-istahti        : 6
-paperossin     : 6
-Entae          : 6
-maata          : 6
-Syyttaejaen    : 6
-harmaassa      : 6
-mikaeaen       : 6
+semmoista : 16
+Agrafena  : 16
+nuori     : 16
+sinne     : 16
+all       : 16
+kahden    : 15
+lisaesi   : 15
+If        : 15
+at        : 15
+vaelillae : 15
+vuotta    : 15
+vartija   : 15
+kaeytaevaeaen: 15
+vieressae : 15
+valamiesten: 15
+kohtaan   : 15
+olleet    : 15
+syyllinen : 15
+ihmisten  : 15
+ruhtinas  : 15
+minkae    : 15
+olevan    : 15
+istuivat  : 15
+aikoi     : 15
+The       : 15
+nosti     : 15
+Taemaen   : 15
+miksi     : 15
+luki      : 15
+enkae     : 15
+agreement : 15
+nousivat  : 15
+kolme     : 15
+Mikae     : 15
+heitae    : 15
+silmiin   : 15
+naehdae   : 15
+ottanut   : 15
+toiseen   : 14
+tuskin    : 14
+kaeynyt   : 14
+laepi     : 14
+haeneltae : 14
+mennae    : 14
+Pietari   : 14
+katsellen : 14
+taemmoeinen: 14
+sinulle   : 14
+Vera      : 14
+Fedosja   : 14
+myoeten   : 14
+kaikkein  : 14
+jaei      : 14
+asianajaja: 14
+nuo       : 14
+jaettaeae : 14
+sanoja    : 14
+paeaetti  : 14
+asianajajan: 14
+herra     : 14
+kasvonsa  : 14
+antanut   : 14
+asiaa     : 14
+poeydaen  : 14
+paeinvastoin: 14
+Katjushaan: 14
+mistae    : 14
+koetti    : 14
+kohta     : 14
+Dmitrij   : 14
+syytetty  : 14
+voisi     : 14
+yhteen    : 14
+ikkunan   : 14
+haenessae : 14
+tiedae    : 14
+mitenkaeaen: 14
+pitkin    : 13
+it        : 13
+no        : 13
+sisaelle  : 13
+taikka    : 13
+vasemmalla: 13
+Naemaet   : 13
+seikka    : 13
+copyright : 13
+muuten    : 13
+jutun     : 13
+naemaet   : 13
+naista    : 13
+ovea      : 13
+Sec       : 13
+molemmat  : 13
+Vai       : 13
+kauvan    : 13
+kautta    : 13
+Hyvae     : 13
+tuntui    : 13
+takana    : 13
+asiasta   : 13
+taenae    : 13
+aeiti     : 13
+paein     : 13
+toisiansa : 13
+Matrjona  : 13
+kauppiaan : 13
+ilmoitti  : 13
+tapahtunut: 13
+pian      : 13
+tunne     : 12
+suoraan   : 12
+as        : 12
+kaikille  : 12
+kaey      : 12
+toista    : 12
+tapahtui  : 12
+kaeaentyen: 12
+itselleen : 12
+olemme    : 12
+ihmisen   : 12
+antaa     : 12
+kanssaan  : 12
+naiset    : 12
+aeidin    : 12
+kaeytaevaessae: 12
+omaan     : 12
+kaikkien  : 12
+niiden    : 12
+laehteae  : 12
+samoin    : 12
+maailmassa: 12
+liian     : 12
+oikeuden  : 12
+juoksi    : 12
+kaedellaeaen: 12
+toisella  : 12
+erittaein : 12
+tavattoman: 12
+Missin    : 12
+Tirehtoeoeri: 12
+paeaensae : 12
+that      : 12
+taellae   : 12
+selvaesti : 12
+aeaeni    : 12
+muut      : 12
+tulisi    : 12
+takaa     : 12
+noussut   : 12
+You       : 12
+joku      : 12
+Maslovalle: 12
+esimies   : 12
+paeae     : 12
+Petrovna  : 12
+vuotias   : 12
+minut     : 12
+tarpeen   : 12
+katsomatta: 12
+Siperiaan : 12
+meidaen   : 12
+naehden   : 12
+Nehljudofista: 12
+F         : 11
+o         : 11
+ihmistae  : 11
+Taehaen   : 11
+do        : 11
+et        : 11
+jolloin   : 11
+mieltae   : 11
+Fanarin   : 11
+pannen    : 11
+peraestae : 11
+eBooks    : 11
+oman      : 11
+sihteeri  : 11
+saatuaan  : 11
+Tehkaeae  : 11
+puheenjohtajan: 11
+kuulla    : 11
+kysymys   : 11
+yleensae  : 11
+lapsi     : 11
+donations : 11
+tuntenut  : 11
+saa       : 11
+oikeastaan: 11
+edessaeaen: 11
+kuuli     : 11
+asian     : 11
+Sen       : 11
+vankilan  : 11
+heillae   : 11
+naemae    : 11
+Archive   : 11
+Siinae    : 11
+kirjoitti : 11
+Jeesukseni: 11
+syytetyn  : 11
+tytoen    : 11
+pani      : 11
+todellakin: 11
+tietaemaettae: 11
+Miksi     : 11
+Niinpae   : 11
+ollen     : 11
+aeaereen  : 11
+sinua     : 11
+vankilaan : 11
+Maslennikofin: 11
+other     : 11
+kaikkia   : 11
+miten     : 11
+tuon      : 10
+vaiti     : 10
+tuota     : 10
+Ennen     : 10
+http      : 10
+OF        : 10
+Literary  : 10
+Jeesus    : 10
+Vasiljevna: 10
+pikemmin  : 10
+from      : 10
+syytoen   : 10
+toisti    : 10
+Heidaen   : 10
+full      : 10
+hyvaesti  : 10
+pitivaet  : 10
+rahaa     : 10
+saakka    : 10
+sisaeaen  : 10
+Ivanovna  : 10
+missaeaen : 10
+Pavlovna  : 10
+huoneeseensa: 10
+copy      : 10
+ovi       : 10
+kokoon    : 10
+naekoeinen: 10
+katsoen   : 10
+alla      : 10
+kohden    : 10
+Smelkofille: 10
+aikomusta : 10
+minulla   : 10
+use       : 10
+niihin    : 10
+vielaekin : 10
+olisivat  : 10
+Gerasimovitsh: 10
+www       : 10
+koettaen  : 10
+niinpae   : 10
+syylliseksi: 10
+eteenpaein: 10
+rikoksen  : 10
+kello     : 10
+kukaan    : 10
+ainakin   : 10
+auki      : 10
+ilmi      : 10
+gutenberg : 10
+punatukkainen: 10
+elaemaen  : 10
+Vielae    : 10
+vaati     : 10
+Samassa   : 10
+eBook     : 10
+vihasesti : 10
+pahaa     : 10
+hakemaan  : 10
+Ivanovitsh: 10
+laehestyi : 10
+palasi    : 10
+silmin    : 10
+oikeus    : 10
+p         : 9
+ottaen    : 9
+vaimo     : 9
+jaesen    : 9
+pitkae    : 9
+ohitsensa : 9
+usein     : 9
+Te        : 9
+trademark : 9
+menivaet  : 9
+eteen     : 9
+eukko     : 9
+eraes     : 9
+vaikeata  : 9
+muutamia  : 9
+itseensae : 9
+alkanut   : 9
+kaikesta  : 9
+kanssansa : 9
+puhumaan  : 9
+aika      : 9
+naehtyaeaen: 9
+ohitse    : 9
+vankien   : 9
+hyvaeae   : 9
+vaikeni   : 9
+saisi     : 9
+Toinen    : 9
+silmiaensae: 9
+paragraph : 9
+keskeytti : 9
+toiselta  : 9
+kysymykseen: 9
+tilassa   : 9
+vihdoin   : 9
+Heti      : 9
+mieleen   : 9
+vei       : 9
+nytkin    : 9
+tuonut    : 9
+kirkkoon  : 9
+lapset    : 9
+muita     : 9
+muka      : 9
+Siellae   : 9
+pojan     : 9
+must      : 9
+naisten   : 9
+valamiehille: 9
+onkin     : 9
+tuomittu  : 9
+aeaeressae: 9
+totta     : 9
+mummo     : 9
+yhtaekkiae: 9
+naehdessaeaen: 9
+rypisti   : 9
+ankarasti : 9
+herrat    : 9
+kuka      : 9
+sieltae   : 9
+ymmaersi  : 9
+seurasi   : 9
+aamulla   : 9
+hyviae    : 9
+itsekin   : 9
+nauraen   : 9
+astui     : 9
+kyyneleitae: 9
+keskenaeaen: 9
+puolelta  : 9
+tule      : 9
+can       : 9
+ketaeaen  : 8
+kuukautta : 8
+tehtiin   : 8
+omasta    : 8
+herkeaemaettae: 8
+miehiae   : 8
+luokse    : 8
+Smelkof   : 8
+Jo        : 8
+fee       : 8
+apulaisen : 8
+olisin    : 8
+niistae   : 8
+sitte     : 8
+Vaan      : 8
+vanki     : 8
+odotti    : 8
+laws      : 8
+heille    : 8
+paeaessyt : 8
+United    : 8
+olet      : 8
+joiden    : 8
+ollenkaan : 8
+toiset    : 8
+yleisen   : 8
+kirjeen   : 8
+access    : 8
+tehtaevae : 8
+vartijan  : 8
+vartijat  : 8
+pyydaen   : 8
+kuluttua  : 8
+puhunut   : 8
+associated: 8
+Menshof   : 8
+alaiseksi : 8
+net       : 8
+haluten   : 8
+elaeimellinen: 8
+lavitsalla: 8
+Oletteko  : 8
+States    : 8
+ovesta    : 8
+viinaa    : 8
+kotiin    : 8
+valmis    : 8
+aeitinsae : 8
+tultuansa : 8
+kaikkiin  : 8
+Minulle   : 8
+iloinen   : 8
+paperin   : 8
+set       : 8
+oeversti  : 8
+lukea     : 8
+talonpoika: 8
+mustat    : 8
+sanotuksi : 8
+semmoinen : 8
+including : 8
+totisesti : 8
+teen      : 8
+etten     : 8
+keskelle  : 8
+itsekseen : 8
+vastannut : 8
+Haentae   : 8
+kaedessae : 8
+Siitae    : 8
+elaemaeae : 8
+paikalla  : 8
+saapui    : 8
+toiseksi  : 8
+which     : 8
+tappamisen: 8
+salin     : 8
+kuunteli  : 8
+sanat     : 8
+taelle    : 8
+vielaepae : 8
+myrkkyae  : 8
+suinkaan  : 8
+ennenkin  : 8
+puvussa   : 8
+oikeudessa: 8
+kaettae   : 8
+Horoshafka: 8
+vuonna    : 8
+Aelkaeae  : 8
+naeiden   : 8
+asiassa   : 8
+kaeyttaeae: 8
+vaimon    : 8
+varmaan   : 8
+oikeuteen : 8
+License   : 8
+halusi    : 8
+pitaeisi  : 8
+samaan    : 8
+muisteli  : 8
+asiaan    : 8
+elaemaensae: 8
+oikeutta  : 8
+Taedit    : 8
+heraetti  : 8
+melkein   : 8
+viiniae   : 8
+hyvaet    : 7
+hyvaen    : 7
+koski     : 7
+Esimies   : 7
+avasi     : 7
+joutunut  : 7
+konttoriin: 7
+kesken    : 7
+est       : 7
+pieni     : 7
+poikaa    : 7
+koputti   : 7
+mekon     : 7
+oikeudenjaesen: 7
+la        : 7
+ennenkuin : 7
+sangen    : 7
+we        : 7
+etext     : 7
+Mauritanian: 7
+mennyt    : 7
+vanha     : 7
+menen     : 7
+tiennyt   : 7
+refund    : 7
+olin      : 7
+kotona    : 7
+taaskin   : 7
+koppiin   : 7
+Ainoastaan: 7
+toisia    : 7
+Botshkovan: 7
+eteensae  : 7
+kaesiinsae: 7
+tehty     : 7
+uskoa     : 7
+provide   : 7
+Kartinkinin: 7
+viipyi    : 7
+about     : 7
+esiin     : 7
+kaeteen   : 7
+illalla   : 7
+selvaeae  : 7
+jollei    : 7
+Kauppias  : 7
+isaentae  : 7
+rahojen   : 7
+vaeitti   : 7
+uskoen    : 7
+viime     : 7
+vastapaeaetae: 7
+your      : 7
+yleinen   : 7
+naisia    : 7
+osoittaen : 7
+Pavlovnan : 7
+ajoi      : 7
+Vartija   : 7
+ylpeilevaet: 7
+oikealla  : 7
+Minulla   : 7
+Oli       : 7
+takasin   : 7
+lopussa   : 7
+Kristus   : 7
+tapasi    : 7
+Jefremovna: 7
+todella   : 7
+pglaf     : 7
+alle      : 7
+tytaer    : 7
+jaeaenyt  : 7
+Eihaen    : 7
+viimeisen : 7
+ottivat   : 7
+suuret    : 7
+suuren    : 7
+ajatella  : 7
+kirje     : 7
+tahtoen   : 7
+paremmin  : 7
+Koko      : 7
+saeaeliae : 7
+puheensa  : 7
+pisti     : 7
+ajatellut : 7
+kenenkaeaen: 7
+olemassa  : 7
+voineet   : 7
+huolimatta: 7
+sanottiin : 7
+tehneet   : 7
+pulverin  : 7
+Joku      : 7
+sittenkin : 7
+haevetti  : 7
+vaikea    : 7
+taeytyi   : 7
+painoi    : 7
+copies    : 7
+ratavahti : 7
+odottaa   : 7
+oveen     : 7
+punastui  : 7
+kuollut   : 7
+miehensae : 7
+liikkeellae: 7
+verkon    : 7
+puolen    : 7
+Olemme    : 7
+syytetyt  : 7
+yhden     : 7
+teiltae   : 7
+minne     : 7
+hiljaa    : 7
+rakkauden : 7
+domain    : 7
+tullessaan: 7
+oliko     : 7
+talon     : 7
+tarjosi   : 7
+paikkaan  : 7
+rakastanut: 7
+kummallinen: 7
+Sihteeri  : 7
+istukaa   : 7
+Taeaellae : 7
+tapauksessa: 7
+paeaettaenyt: 7
+distributing: 7
+huone     : 7
+perille   : 7
+syytettyjen: 7
+kiireesti : 7
+erityisesti: 7
+saivat    : 7
+taeynnaensae: 7
+seisoivat : 7
+Olkaa     : 7
+puoleksi  : 7
+asiata    : 7
+tarkoituksessa: 7
+kaupungissa: 7
+askelin   : 7
+public    : 7
+taerkeaetae: 7
+nimittaein: 7
+Tultuaan  : 7
+Nehljudofissa: 7
+suhteet   : 7
+kopin     : 7
+jokaisen  : 6
+tehkaeae  : 6
+I         : 6
+d         : 6
+seurassa  : 6
+sydaemmensae: 6
+Haenellae : 6
+silloinkin: 6
+sisar     : 6
+pyytaeae  : 6
+kummallista: 6
+kirjailija: 6
+jotkut    : 6
+lausui    : 6
+Kyllaepae : 6
+pitkaeaen : 6
+mielentilassa: 6
+kirjoittaa: 6
+forth     : 6
+tietysti  : 6
+puhun     : 6
+jaettaenyt: 6
+Olin      : 6
+Naehtyaeaen: 6
+joukossa  : 6
+tekemaeaen: 6
+istahti   : 6
+paperossin: 6
+Entae     : 6
+maata     : 6
+Syyttaejaen: 6
+harmaassa : 6
+mikaeaen  : 6
 hyvaenluontoinen: 6
-paeaettaeen    : 6
-ympaerilleen   : 6
-Ensin          : 6
-olitte         : 6
-number         : 6
-Taenae         : 6
-vanhat         : 6
-lakeija        : 6
-comply         : 6
-Tahtoisin      : 6
-pannut         : 6
-Sitae          : 6
-tahansa        : 6
-Vaikka         : 6
-vangin         : 6
-yhteydessae    : 6
-puhuivat       : 6
-sanoiNehljudof : 6
-lukeminen      : 6
-muutamat       : 6
-vankeja        : 6
-milloinkaan    : 6
-elaemae        : 6
-kasvojen       : 6
-tekee          : 6
-talossa        : 6
-hetken         : 6
-nae            : 6
-konttorissa    : 6
-kertaan        : 6
-juttu          : 6
-vapaamielinen  : 6
-iloista        : 6
-niinikaeaen    : 6
-naeitae        : 6
-saattanut      : 6
-veti           : 6
-tekivaet       : 6
-oma            : 6
-tavallinen     : 6
-pakkotoeihin   : 6
-kaeteensae     : 6
-ajan           : 6
-jokainen       : 6
-haenoli        : 6
-Eikoe          : 6
-vielaekaeaen   : 6
-otan           : 6
-que            : 6
-Anna           : 6
-toisensa       : 6
-pienen         : 6
-valamies       : 6
-riippui        : 6
-paperia        : 6
-alta           : 6
-johonkin       : 6
-pantiin        : 6
+paeaettaeen: 6
+ympaerilleen: 6
+Ensin     : 6
+olitte    : 6
+number    : 6
+Taenae    : 6
+vanhat    : 6
+lakeija   : 6
+comply    : 6
+Tahtoisin : 6
+pannut    : 6
+Sitae     : 6
+tahansa   : 6
+Vaikka    : 6
+vangin    : 6
+yhteydessae: 6
+puhuivat  : 6
+sanoiNehljudof: 6
+lukeminen : 6
+muutamat  : 6
+vankeja   : 6
+milloinkaan: 6
+elaemae   : 6
+kasvojen  : 6
+tekee     : 6
+talossa   : 6
+hetken    : 6
+nae       : 6
+konttorissa: 6
+kertaan   : 6
+juttu     : 6
+vapaamielinen: 6
+iloista   : 6
+niinikaeaen: 6
+naeitae   : 6
+saattanut : 6
+veti      : 6
+tekivaet  : 6
+oma       : 6
+tavallinen: 6
+pakkotoeihin: 6
+kaeteensae: 6
+ajan      : 6
+jokainen  : 6
+haenoli   : 6
+Eikoe     : 6
+vielaekaeaen: 6
+otan      : 6
+que       : 6
+Anna      : 6
+toisensa  : 6
+pienen    : 6
+valamies  : 6
+riippui   : 6
+paperia   : 6
+alta      : 6
+johonkin  : 6
+pantiin   : 6
 puheenjohtajaan: 6
-suu            : 6
-eiollut        : 6
-mustaa         : 6
-tax            : 6
-kymmenen       : 6
-vuoden         : 6
-toiselle       : 6
-onhan          : 6
-hymyili        : 6
-vastaamatta    : 6
-minaekin       : 6
-hetkellae      : 6
-anastamiseen   : 6
-armahda        : 6
-Maslovaan      : 6
-naekyi         : 6
-vaikkei        : 6
-liikahtamatta  : 6
-selittaeae     : 6
-silmillaeaen   : 6
-saaneet        : 6
-toisinaan      : 6
-ukko           : 6
-taelloein      : 6
-eteiseen       : 6
-without        : 6
-kaikkialla     : 6
-pihalla        : 6
-yhtaikaa       : 6
-kuullut        : 6
-oleva          : 6
-katsoivat      : 6
-polttaa        : 6
-mihin          : 6
-puolesta       : 6
-katsahtaen     : 6
-Taestae        : 6
-tahdo          : 6
-YOU            : 6
-saatte         : 6
-lavalle        : 6
-tupakkia       : 6
-istumaan       : 6
-seisaalleen    : 6
-teetae         : 6
-hyvaeaen       : 6
-lupa           : 6
-joko           : 6
-syynae         : 6
-Ettekoe        : 6
-tosin          : 6
-lukemisen      : 6
-joissa         : 6
-joista         : 6
-itsellensae    : 6
-asetti         : 6
-paid           : 6
-haemmaestytti  : 6
-miehet         : 6
-miehen         : 6
-ympaeri        : 6
-aamuna         : 6
-palvella       : 6
-luvan          : 6
-sanomatta      : 6
-musta          : 6
-paeaestaeae    : 6
-sille          : 6
+suu       : 6
+eiollut   : 6
+mustaa    : 6
+tax       : 6
+kymmenen  : 6
+vuoden    : 6
+toiselle  : 6
+onhan     : 6
+hymyili   : 6
+vastaamatta: 6
+minaekin  : 6
+hetkellae : 6
+anastamiseen: 6
+armahda   : 6
+Maslovaan : 6
+naekyi    : 6
+vaikkei   : 6
+liikahtamatta: 6
+selittaeae: 6
+silmillaeaen: 6
+saaneet   : 6
+toisinaan : 6
+ukko      : 6
+taelloein : 6
+eteiseen  : 6
+without   : 6
+kaikkialla: 6
+pihalla   : 6
+yhtaikaa  : 6
+kuullut   : 6
+oleva     : 6
+katsoivat : 6
+polttaa   : 6
+mihin     : 6
+puolesta  : 6
+katsahtaen: 6
+Taestae   : 6
+tahdo     : 6
+YOU       : 6
+saatte    : 6
+lavalle   : 6
+tupakkia  : 6
+istumaan  : 6
+seisaalleen: 6
+teetae    : 6
+hyvaeaen  : 6
+lupa      : 6
+joko      : 6
+syynae    : 6
+Ettekoe   : 6
+tosin     : 6
+lukemisen : 6
+joissa    : 6
+joista    : 6
+itsellensae: 6
+asetti    : 6
+paid      : 6
+haemmaestytti: 6
+miehet    : 6
+miehen    : 6
+ympaeri   : 6
+aamuna    : 6
+palvella  : 6
+luvan     : 6
+sanomatta : 6
+musta     : 6
+paeaestaeae: 6
+sille     : 6
 epaemiellyttaevae: 6
-puettu         : 6
-takaisin       : 6
-sanottu        : 6
-tuulella       : 6
-semmoisia      : 6
-aeaeneensae    : 6
-usko           : 6
-itseaeaen      : 6
-kasvoissa      : 6
-huono          : 6
-myrkytykseen   : 6
-kasvoja        : 6
-laehtenyt      : 6
-yoenae         : 6
-jalat          : 6
-laehti         : 6
-astua          : 6
-seuraavana     : 6
-kaikista       : 6
-naisosaston    : 6
-risti          : 6
-agree          : 6
-muiden         : 6
-linnassa       : 6
-ehtinyt        : 6
-Minun          : 6
-paeivaen       : 6
-asianne        : 6
-tyttoeae       : 6
-jaetti         : 6
-S              : 5
-c              : 5
-jaelkeensae    : 5
-huomasi        : 5
-annettu        : 5
-edelleen       : 5
-ajatus         : 5
-Mihail         : 5
-apulaista      : 5
-vaikutuksen    : 5
-paeaettynyt    : 5
-tunnusta       : 5
-vaehemmaen     : 5
-erikoinen      : 5
-itseksensae    : 5
-hyvaeksi       : 5
-rangaistuksen  : 5
-filename       : 5
-ilettaevaeae   : 5
-kummallisia    : 5
-Et             : 5
-asemansa       : 5
-juolahtanut    : 5
-Ensi           : 5
-mahdoton       : 5
-selitti        : 5
-OR             : 5
+puettu    : 6
+takaisin  : 6
+sanottu   : 6
+tuulella  : 6
+semmoisia : 6
+aeaeneensae: 6
+usko      : 6
+itseaeaen : 6
+kasvoissa : 6
+huono     : 6
+myrkytykseen: 6
+kasvoja   : 6
+laehtenyt : 6
+yoenae    : 6
+jalat     : 6
+laehti    : 6
+astua     : 6
+seuraavana: 6
+kaikista  : 6
+naisosaston: 6
+risti     : 6
+agree     : 6
+muiden    : 6
+linnassa  : 6
+ehtinyt   : 6
+Minun     : 6
+paeivaen  : 6
+asianne   : 6
+tyttoeae  : 6
+jaetti    : 6
+S         : 5
+c         : 5
+jaelkeensae: 5
+huomasi   : 5
+annettu   : 5
+edelleen  : 5
+ajatus    : 5
+Mihail    : 5
+apulaista : 5
+vaikutuksen: 5
+paeaettynyt: 5
+tunnusta  : 5
+vaehemmaen: 5
+erikoinen : 5
+itseksensae: 5
+hyvaeksi  : 5
+rangaistuksen: 5
+filename  : 5
+ilettaevaeae: 5
+kummallisia: 5
+Et        : 5
+asemansa  : 5
+juolahtanut: 5
+Ensi      : 5
+mahdoton  : 5
+selitti   : 5
+OR        : 5
 ympaerillaensae: 5
-ovelle         : 5
-luokan         : 5
-paeaetoekseen  : 5
-vihaisesti     : 5
-puotipalvelija : 5
-valossa        : 5
-mieleensae     : 5
-rinnan         : 5
-Millae         : 5
-charge         : 5
-siten          : 5
-Fanarinin      : 5
-ensiksikin     : 5
-vartijanainen  : 5
-if             : 5
-paeaettyi      : 5
-panna          : 5
-tunsivat       : 5
-lujasti        : 5
-mekossa        : 5
-tahdon         : 5
-hypaehti       : 5
-paeaettaeae    : 5
-Seuraavana     : 5
-Valamiehet     : 5
-apulaiseen     : 5
-eivaetkae      : 5
-semmoisena     : 5
-found          : 5
-poeytaeae      : 5
-unohtanut      : 5
-sitaevastoin   : 5
-enin           : 5
-jaeaedae       : 5
-annan          : 5
-keskustelua    : 5
-naekoeisenae   : 5
-Yksi           : 5
-mene           : 5
-kiitos         : 5
-keskenaensae   : 5
-paikallensa    : 5
-saavutti       : 5
-Vasiljef       : 5
-Aleksejevna    : 5
-alkaa          : 5
-Tietysti       : 5
-paeivae        : 5
-ruumiin        : 5
-loeytaeae      : 5
-using          : 5
-vanhan         : 5
-lajia          : 5
-joi            : 5
-laehtee        : 5
-toisin         : 5
-viereensae     : 5
-taloon         : 5
-mahdotonta     : 5
-nuorukainen    : 5
-Asianajaja     : 5
-laiha          : 5
-ksi            : 5
-laskien        : 5
-merkitys       : 5
-kopekkaa       : 5
-naeyttaeae     : 5
-noita          : 5
-asioita        : 5
-Fedosjan       : 5
-Kortshaginien  : 5
-kaikkeen       : 5
-permission     : 5
-kaeski         : 5
-Kolosof        : 5
-koettivat      : 5
-millae         : 5
-nojalla        : 5
-paeaesi        : 5
-huokasi        : 5
-new            : 5
-itsekaeaen     : 5
-kieltaenyt     : 5
-ette           : 5
-kipeaetae      : 5
-huoneesta      : 5
-toverinsa      : 5
-mitaes         : 5
-ottamaan       : 5
-sanoen         : 5
-huonosti       : 5
-Eikae          : 5
-yoellae        : 5
-hymaehti       : 5
-yoen           : 5
-vankia         : 5
-viisi          : 5
-toisessa       : 5
-our            : 5
-paeaelle       : 5
-olento         : 5
-kaupunkiin     : 5
-suusta         : 5
-medium         : 5
-sanaakaan      : 5
-suuteli        : 5
-puristaen      : 5
-elaemaessae    : 5
-taerkeae       : 5
-sanokaa        : 5
-elaeae         : 5
-muista         : 5
-pitaemaeaen    : 5
-henkinen       : 5
-hetki          : 5
-ymmaertaenyt   : 5
-rupesivat      : 5
-aeaeniae       : 5
-muistot        : 5
-rouva          : 5
-heidaet        : 5
-myoes          : 5
-kysymyksessae  : 5
-rauhallisesti  : 5
-paeivaellisen  : 5
-jonkun         : 5
-silmiaeaen     : 5
+ovelle    : 5
+luokan    : 5
+paeaetoekseen: 5
+vihaisesti: 5
+puotipalvelija: 5
+valossa   : 5
+mieleensae: 5
+rinnan    : 5
+Millae    : 5
+charge    : 5
+siten     : 5
+Fanarinin : 5
+ensiksikin: 5
+vartijanainen: 5
+if        : 5
+paeaettyi : 5
+panna     : 5
+tunsivat  : 5
+lujasti   : 5
+mekossa   : 5
+tahdon    : 5
+hypaehti  : 5
+paeaettaeae: 5
+Seuraavana: 5
+Valamiehet: 5
+apulaiseen: 5
+eivaetkae : 5
+semmoisena: 5
+found     : 5
+poeytaeae : 5
+unohtanut : 5
+sitaevastoin: 5
+enin      : 5
+jaeaedae  : 5
+annan     : 5
+keskustelua: 5
+naekoeisenae: 5
+Yksi      : 5
+mene      : 5
+kiitos    : 5
+keskenaensae: 5
+paikallensa: 5
+saavutti  : 5
+Vasiljef  : 5
+Aleksejevna: 5
+alkaa     : 5
+Tietysti  : 5
+paeivae   : 5
+ruumiin   : 5
+loeytaeae : 5
+using     : 5
+vanhan    : 5
+lajia     : 5
+joi       : 5
+laehtee   : 5
+toisin    : 5
+viereensae: 5
+taloon    : 5
+mahdotonta: 5
+nuorukainen: 5
+Asianajaja: 5
+laiha     : 5
+ksi       : 5
+laskien   : 5
+merkitys  : 5
+kopekkaa  : 5
+naeyttaeae: 5
+noita     : 5
+asioita   : 5
+Fedosjan  : 5
+Kortshaginien: 5
+kaikkeen  : 5
+permission: 5
+kaeski    : 5
+Kolosof   : 5
+koettivat : 5
+millae    : 5
+nojalla   : 5
+paeaesi   : 5
+huokasi   : 5
+new       : 5
+itsekaeaen: 5
+kieltaenyt: 5
+ette      : 5
+kipeaetae : 5
+huoneesta : 5
+toverinsa : 5
+mitaes    : 5
+ottamaan  : 5
+sanoen    : 5
+huonosti  : 5
+Eikae     : 5
+yoellae   : 5
+hymaehti  : 5
+yoen      : 5
+vankia    : 5
+viisi     : 5
+toisessa  : 5
+our       : 5
+paeaelle  : 5
+olento    : 5
+kaupunkiin: 5
+suusta    : 5
+medium    : 5
+sanaakaan : 5
+suuteli   : 5
+puristaen : 5
+elaemaessae: 5
+taerkeae  : 5
+sanokaa   : 5
+elaeae    : 5
+muista    : 5
+pitaemaeaen: 5
+henkinen  : 5
+hetki     : 5
+ymmaertaenyt: 5
+rupesivat : 5
+aeaeniae  : 5
+muistot   : 5
+rouva     : 5
+heidaet   : 5
+myoes     : 5
+kysymyksessae: 5
+rauhallisesti: 5
+paeivaellisen: 5
+jonkun    : 5
+silmiaeaen: 5
 sydaemmessaeaen: 5
-tunnustaa      : 5
-riippuu        : 5
-semmoisella    : 5
-kysymyksen     : 5
-naeistae       : 5
-vaeaerin       : 5
-perustuksella  : 5
-vastaukseen    : 5
-viimeisenae    : 5
-haki           : 5
-Enhaen         : 5
-toi            : 5
-iltana         : 5
-hetkeksi       : 5
-Kortshagin     : 5
-state          : 5
-nuoren         : 5
-Eipae          : 5
-pidetty        : 5
-kyyneleet      : 5
-rakastunut     : 5
-voivat         : 5
-nimellae       : 5
-under          : 5
-Information    : 5
-paeaevartija   : 5
-tarttui        : 5
-lasta          : 5
-THIS           : 5
-jahaenen       : 5
-nimensae       : 5
-elaevaesti     : 5
-teidaet        : 5
-edestakasin    : 5
-tukkaansa      : 5
-vaikkapa       : 5
-antaen         : 5
-paikalle       : 5
-samat          : 5
-syyttoemiksi   : 5
-Section        : 5
-kunnia         : 5
-taeti          : 5
-vaaleaverinen  : 5
-aelkaeae       : 5
-volunteers     : 5
-Voi            : 5
-Kitajeva       : 5
-luokseni       : 5
-voin           : 5
-ulko           : 5
-viereen        : 5
-naekynyt       : 5
-rakkaus        : 5
-pelko          : 5
-Taeti          : 5
-vous           : 5
-yoe            : 5
-vaeliin        : 5
-aeaenettoemyys : 5
-haluatte       : 5
-kuitenkaan     : 5
-syyttaejaelle  : 5
-jolle          : 5
-pitaeen        : 5
-based          : 5
-rikas          : 5
-sanan          : 5
-pitkaen        : 5
-tiedaen        : 5
-tulkaa         : 5
-enempaeae      : 5
-neidit         : 5
-kumartui       : 5
-kohti          : 5
-pidettiin      : 5
-haevettaeae    : 5
-kuunnellen     : 5
-aateliston     : 5
-paeinsae       : 5
-tunnen         : 5
-kohautti       : 5
-ilmestyi       : 5
-kapsaekistae   : 5
-inhoittaa      : 5
-miestae        : 5
-useamman       : 5
-leikkiae       : 5
-pyytaemaeaen   : 5
-koskevan       : 5
-kahteen        : 5
-menemaeaen     : 5
-syytae         : 5
-ihmetteli      : 5
-jaesenen       : 5
-muistutti      : 5
-sanotaan       : 5
-Minkae         : 5
-ilmaa          : 5
-nurkassa       : 5
-Jumala         : 5
-Sanon          : 5
-uskaltanut     : 5
-niinkoe        : 5
-sulki          : 5
-kaeymaevieraat : 5
-piteli         : 5
-Kohta          : 5
-valamiehenae   : 5
-toki           : 5
-ristin         : 5
-tuntee         : 5
-tuntea         : 5
-kestae         : 5
-paeaetoeksen   : 5
-todistajat     : 5
-vartijalle     : 5
-paeivaeae      : 5
-tieto          : 5
-puolustajan    : 5
-jotenkin       : 5
-lukkari        : 5
-kaikin         : 5
-osaksi         : 5
-mistaeaen      : 5
-taemaekin      : 5
-tulen          : 5
-edellae        : 5
-maahan         : 5
-olemaan        : 5
-syyttoemaesti  : 5
-ollessaan      : 5
-vaehae         : 5
-sinut          : 5
-heitti         : 5
-nopein         : 5
-file           : 5
-irti           : 5
-isae           : 5
+tunnustaa : 5
+riippuu   : 5
+semmoisella: 5
+kysymyksen: 5
+naeistae  : 5
+vaeaerin  : 5
+perustuksella: 5
+vastaukseen: 5
+viimeisenae: 5
+haki      : 5
+Enhaen    : 5
+toi       : 5
+iltana    : 5
+hetkeksi  : 5
+Kortshagin: 5
+state     : 5
+nuoren    : 5
+Eipae     : 5
+pidetty   : 5
+kyyneleet : 5
+rakastunut: 5
+voivat    : 5
+nimellae  : 5
+under     : 5
+Information: 5
+paeaevartija: 5
+tarttui   : 5
+lasta     : 5
+THIS      : 5
+jahaenen  : 5
+nimensae  : 5
+elaevaesti: 5
+teidaet   : 5
+edestakasin: 5
+tukkaansa : 5
+vaikkapa  : 5
+antaen    : 5
+paikalle  : 5
+samat     : 5
+syyttoemiksi: 5
+Section   : 5
+kunnia    : 5
+taeti     : 5
+vaaleaverinen: 5
+aelkaeae  : 5
+volunteers: 5
+Voi       : 5
+Kitajeva  : 5
+luokseni  : 5
+voin      : 5
+ulko      : 5
+viereen   : 5
+naekynyt  : 5
+rakkaus   : 5
+pelko     : 5
+Taeti     : 5
+vous      : 5
+yoe       : 5
+vaeliin   : 5
+aeaenettoemyys: 5
+haluatte  : 5
+kuitenkaan: 5
+syyttaejaelle: 5
+jolle     : 5
+pitaeen   : 5
+based     : 5
+rikas     : 5
+sanan     : 5
+pitkaen   : 5
+tiedaen   : 5
+tulkaa    : 5
+enempaeae : 5
+neidit    : 5
+kumartui  : 5
+kohti     : 5
+pidettiin : 5
+haevettaeae: 5
+kuunnellen: 5
+aateliston: 5
+paeinsae  : 5
+tunnen    : 5
+kohautti  : 5
+ilmestyi  : 5
+kapsaekistae: 5
+inhoittaa : 5
+miestae   : 5
+useamman  : 5
+leikkiae  : 5
+pyytaemaeaen: 5
+koskevan  : 5
+kahteen   : 5
+menemaeaen: 5
+syytae    : 5
+ihmetteli : 5
+jaesenen  : 5
+muistutti : 5
+sanotaan  : 5
+Minkae    : 5
+ilmaa     : 5
+nurkassa  : 5
+Jumala    : 5
+Sanon     : 5
+uskaltanut: 5
+niinkoe   : 5
+sulki     : 5
+kaeymaevieraat: 5
+piteli    : 5
+Kohta     : 5
+valamiehenae: 5
+toki      : 5
+ristin    : 5
+tuntee    : 5
+tuntea    : 5
+kestae    : 5
+paeaetoeksen: 5
+todistajat: 5
+vartijalle: 5
+paeivaeae : 5
+tieto     : 5
+puolustajan: 5
+jotenkin  : 5
+lukkari   : 5
+kaikin    : 5
+osaksi    : 5
+mistaeaen : 5
+taemaekin : 5
+tulen     : 5
+edellae   : 5
+maahan    : 5
+olemaan   : 5
+syyttoemaesti: 5
+ollessaan : 5
+vaehae    : 5
+sinut     : 5
+heitti    : 5
+nopein    : 5
+file      : 5
+irti      : 5
+isae      : 5
 oikeudenpalvelija: 5
-tarvitse       : 5
-kaunis         : 5
-vankipuvussa   : 5
-askeleita      : 5
-lensi          : 5
-Kolosofin      : 5
-huivin         : 5
-kolmella       : 5
-itki           : 5
-kuolema        : 5
-todistaa       : 5
-sattui         : 5
-tyyni          : 5
-makasi         : 5
-huomannut      : 5
-but            : 5
-tulin          : 5
-oikein         : 5
-Bogoduhofskaja : 5
-laehetti       : 4
-C              : 4
-kaeskenyt      : 4
-toivoen        : 4
-Aelae          : 4
-kauhistutti    : 4
-avain          : 4
-uudestaan      : 4
-ihmisille      : 4
-kysyae         : 4
-distribute     : 4
-ajatuksensa    : 4
-toisena        : 4
-kysyen         : 4
-ssae           : 4
-tarttuen       : 4
-aikonut        : 4
-tunnusti       : 4
-hyoedyllistae  : 4
-vastausta      : 4
-states         : 4
-Asetuksen      : 4
-naisaeaeni     : 4
-suhteista      : 4
-juttuun        : 4
-tuhatta        : 4
-Sinae          : 4
-Anatol         : 4
-hotelliin      : 4
-rinnalla       : 4
-Ah             : 4
-vieressaeaen   : 4
-otettiin       : 4
-kullalla       : 4
-tarkoitusta    : 4
-kortteerissa   : 4
-jaeljennoeksen : 4
-vasten         : 4
-Mene           : 4
-eri            : 4
-asemaansa      : 4
-Ne             : 4
-koholla        : 4
-juomaan        : 4
-punaseksi      : 4
-such           : 4
-Sillae         : 4
-keskeyttaeae   : 4
-kysyttaevaeae  : 4
-an             : 4
-valtaan        : 4
-oikea          : 4
-huomiota       : 4
-de             : 4
-Tulin          : 4
-syrjaeaen      : 4
-nimessae       : 4
-license        : 4
-vaivaa         : 4
-kohosi         : 4
-astuen         : 4
-pysyi          : 4
-erityisen      : 4
-eteisessae     : 4
-Ketae          : 4
-syvimmaessae   : 4
-kaikilta       : 4
-rypistaeen     : 4
-heraettaeae    : 4
-vaesyksissae   : 4
-tuttu          : 4
-luonnottomasti : 4
-Vaimo          : 4
-oikeassa       : 4
-erityistae     : 4
-menee          : 4
-Tirehtoeoerin  : 4
-ilmaisi        : 4
-puheen         : 4
-valamiehiae    : 4
-osoitti        : 4
-sanoivat       : 4
-how            : 4
+tarvitse  : 5
+kaunis    : 5
+vankipuvussa: 5
+askeleita : 5
+lensi     : 5
+Kolosofin : 5
+huivin    : 5
+kolmella  : 5
+itki      : 5
+kuolema   : 5
+todistaa  : 5
+sattui    : 5
+tyyni     : 5
+makasi    : 5
+huomannut : 5
+but       : 5
+tulin     : 5
+oikein    : 5
+Bogoduhofskaja: 5
+laehetti  : 4
+C         : 4
+kaeskenyt : 4
+toivoen   : 4
+Aelae     : 4
+kauhistutti: 4
+avain     : 4
+uudestaan : 4
+ihmisille : 4
+kysyae    : 4
+distribute: 4
+ajatuksensa: 4
+toisena   : 4
+kysyen    : 4
+ssae      : 4
+tarttuen  : 4
+aikonut   : 4
+tunnusti  : 4
+hyoedyllistae: 4
+vastausta : 4
+states    : 4
+Asetuksen : 4
+naisaeaeni: 4
+suhteista : 4
+juttuun   : 4
+tuhatta   : 4
+Sinae     : 4
+Anatol    : 4
+hotelliin : 4
+rinnalla  : 4
+Ah        : 4
+vieressaeaen: 4
+otettiin  : 4
+kullalla  : 4
+tarkoitusta: 4
+kortteerissa: 4
+jaeljennoeksen: 4
+vasten    : 4
+Mene      : 4
+eri       : 4
+asemaansa : 4
+Ne        : 4
+koholla   : 4
+juomaan   : 4
+punaseksi : 4
+such      : 4
+Sillae    : 4
+keskeyttaeae: 4
+kysyttaevaeae: 4
+an        : 4
+valtaan   : 4
+oikea     : 4
+huomiota  : 4
+de        : 4
+Tulin     : 4
+syrjaeaen : 4
+nimessae  : 4
+license   : 4
+vaivaa    : 4
+kohosi    : 4
+astuen    : 4
+pysyi     : 4
+erityisen : 4
+eteisessae: 4
+Ketae     : 4
+syvimmaessae: 4
+kaikilta  : 4
+rypistaeen: 4
+heraettaeae: 4
+vaesyksissae: 4
+tuttu     : 4
+luonnottomasti: 4
+Vaimo     : 4
+oikeassa  : 4
+erityistae: 4
+menee     : 4
+Tirehtoeoerin: 4
+ilmaisi   : 4
+puheen    : 4
+valamiehiae: 4
+osoitti   : 4
+sanoivat  : 4
+how       : 4
 vaelttaemaettae: 4
-puheeseensa    : 4
-luonnollisena  : 4
+puheeseensa: 4
+luonnollisena: 4
 prostitueerattu: 4
-free           : 4
-paeaetaeaen    : 4
-korkea         : 4
-portaille      : 4
-nukkunut       : 4
-its            : 4
-henkiloen      : 4
-odottaen       : 4
-viaton         : 4
-hirveaen       : 4
-ikkunaan       : 4
-rakasti        : 4
-silmillae      : 4
-Matvei         : 4
-suuhun         : 4
-ylioppilas     : 4
-syyt           : 4
-aseman         : 4
-Haentunsi      : 4
-saattoivat     : 4
-ylitse         : 4
-tapahtuu       : 4
-tehtaevaen     : 4
-jokaista       : 4
-Katjushalle    : 4
-uskonut        : 4
-istuntosaliin  : 4
-viimeinen      : 4
-santarmia      : 4
-kovalla        : 4
-muuttui        : 4
-taeytelaes     : 4
-tulleet        : 4
-uskoi          : 4
-vieraan        : 4
-suunsa         : 4
-tullessa       : 4
-haenenkanssaan : 4
-Vasiljevnan    : 4
-emaentae       : 4
-nauroi         : 4
-ollaan         : 4
-esillae        : 4
-Sanokaa        : 4
-hotellissa     : 4
-haenkin        : 4
-huonetta       : 4
-lyoedae        : 4
-lyseossa       : 4
-aeaeneen       : 4
-silmiinsae     : 4
-paljoa         : 4
-vasemmalle     : 4
-sitaekin       : 4
-received       : 4
-laehtien       : 4
-kaeytti        : 4
-Petrovitsh     : 4
-Oikeus         : 4
-tunteita       : 4
-Taas           : 4
-Vasiljevnaan   : 4
-pimeaessae     : 4
-huulet         : 4
-mielensae      : 4
-erinomaisen    : 4
-punaset        : 4
-ainakaan       : 4
-ympaerillae    : 4
-uutta          : 4
-tavoin         : 4
-jollekin       : 4
-lakkaamatta    : 4
-helposti       : 4
-joukkoon       : 4
-kullatun       : 4
-nauramaan      : 4
-sanoin         : 4
-Eikoes         : 4
-ajattelihaen   : 4
-Ivanovnan      : 4
-viinin         : 4
-kohtalo        : 4
-ohi            : 4
-valtaansa      : 4
-puku           : 4
-old            : 4
-paeaestoelipun : 4
-koettaa        : 4
-org            : 4
-mielihyvaellae : 4
-puristi        : 4
-will           : 4
-alkaen         : 4
-pidetaeaen     : 4
-sormus         : 4
-Ljubka         : 4
-asianajajat    : 4
-tuolin         : 4
-vuoroin        : 4
-Taetae         : 4
-hyoedyksi      : 4
-laskeutuivat   : 4
-aeidille       : 4
-asema          : 4
-yllensae       : 4
-tuntematta     : 4
-siveellisen    : 4
-requirements   : 4
-tahi           : 4
-pyhaenae       : 4
-kolmannen      : 4
-ASCII          : 4
-olleen         : 4
-kasvoihin      : 4
-moneen         : 4
-kaeytaevaestae : 4
-Kiitaen        : 4
-keskellae      : 4
-johtajan       : 4
-meillae        : 4
+free      : 4
+paeaetaeaen: 4
+korkea    : 4
+portaille : 4
+nukkunut  : 4
+its       : 4
+henkiloen : 4
+odottaen  : 4
+viaton    : 4
+hirveaen  : 4
+ikkunaan  : 4
+rakasti   : 4
+silmillae : 4
+Matvei    : 4
+suuhun    : 4
+ylioppilas: 4
+syyt      : 4
+aseman    : 4
+Haentunsi : 4
+saattoivat: 4
+ylitse    : 4
+tapahtuu  : 4
+tehtaevaen: 4
+jokaista  : 4
+Katjushalle: 4
+uskonut   : 4
+istuntosaliin: 4
+viimeinen : 4
+santarmia : 4
+kovalla   : 4
+muuttui   : 4
+taeytelaes: 4
+tulleet   : 4
+uskoi     : 4
+vieraan   : 4
+suunsa    : 4
+tullessa  : 4
+haenenkanssaan: 4
+Vasiljevnan: 4
+emaentae  : 4
+nauroi    : 4
+ollaan    : 4
+esillae   : 4
+Sanokaa   : 4
+hotellissa: 4
+haenkin   : 4
+huonetta  : 4
+lyoedae   : 4
+lyseossa  : 4
+aeaeneen  : 4
+silmiinsae: 4
+paljoa    : 4
+vasemmalle: 4
+sitaekin  : 4
+received  : 4
+laehtien  : 4
+kaeytti   : 4
+Petrovitsh: 4
+Oikeus    : 4
+tunteita  : 4
+Taas      : 4
+Vasiljevnaan: 4
+pimeaessae: 4
+huulet    : 4
+mielensae : 4
+erinomaisen: 4
+punaset   : 4
+ainakaan  : 4
+ympaerillae: 4
+uutta     : 4
+tavoin    : 4
+jollekin  : 4
+lakkaamatta: 4
+helposti  : 4
+joukkoon  : 4
+kullatun  : 4
+nauramaan : 4
+sanoin    : 4
+Eikoes    : 4
+ajattelihaen: 4
+Ivanovnan : 4
+viinin    : 4
+kohtalo   : 4
+ohi       : 4
+valtaansa : 4
+puku      : 4
+old       : 4
+paeaestoelipun: 4
+koettaa   : 4
+org       : 4
+mielihyvaellae: 4
+puristi   : 4
+will      : 4
+alkaen    : 4
+pidetaeaen: 4
+sormus    : 4
+Ljubka    : 4
+asianajajat: 4
+tuolin    : 4
+vuoroin   : 4
+Taetae    : 4
+hyoedyksi : 4
+laskeutuivat: 4
+aeidille  : 4
+asema     : 4
+yllensae  : 4
+tuntematta: 4
+siveellisen: 4
+requirements: 4
+tahi      : 4
+pyhaenae  : 4
+kolmannen : 4
+ASCII     : 4
+olleen    : 4
+kasvoihin : 4
+moneen    : 4
+kaeytaevaestae: 4
+Kiitaen   : 4
+keskellae : 4
+johtajan  : 4
+meillae   : 4
 tyoehuoneeseensa: 4
-kukkia         : 4
-tapana         : 4
-poeytae        : 4
-posted         : 4
-sovittaa       : 4
-hiljeni        : 4
-historian      : 4
-kohdan         : 4
-pienet         : 4
-huonoja        : 4
-lasiastiassa   : 4
+kukkia    : 4
+tapana    : 4
+poeytae   : 4
+posted    : 4
+sovittaa  : 4
+hiljeni   : 4
+historian : 4
+kohdan    : 4
+pienet    : 4
+huonoja   : 4
+lasiastiassa: 4
 taenaepaeivaenae: 4
-poeydaestae    : 4
-valtiollinen   : 4
+poeydaestae: 4
+valtiollinen: 4
 velvollisuuksia: 4
-Herra          : 4
-kysymykset     : 4
-ystaevae       : 4
-puolustaja     : 4
-olkapaeitaeaen : 4
-ryhtyae        : 4
-taemmoeistae   : 4
-Ruhtinatar     : 4
-suurta         : 4
-tahdoin        : 4
-hiukset        : 4
-Olisiko        : 4
-Syytetty       : 4
-paeaellae      : 4
-kaesissae      : 4
-format         : 4
-mieli          : 4
-meitae         : 4
-tunnetta       : 4
-menetteli      : 4
-sittemmin      : 4
-kolmen         : 4
-kuunnellut     : 4
-tarkalleen     : 4
-selkaeaen      : 4
-Missae         : 4
-joitakuita     : 4
-istuvan        : 4
-esineiden      : 4
+Herra     : 4
+kysymykset: 4
+ystaevae  : 4
+puolustaja: 4
+olkapaeitaeaen: 4
+ryhtyae   : 4
+taemmoeistae: 4
+Ruhtinatar: 4
+suurta    : 4
+tahdoin   : 4
+hiukset   : 4
+Olisiko   : 4
+Syytetty  : 4
+paeaellae : 4
+kaesissae : 4
+format    : 4
+mieli     : 4
+meitae    : 4
+tunnetta  : 4
+menetteli : 4
+sittemmin : 4
+kolmen    : 4
+kuunnellut: 4
+tarkalleen: 4
+selkaeaen : 4
+Missae    : 4
+joitakuita: 4
+istuvan   : 4
+esineiden : 4
 syyttaejaenapulainen: 4
-sydaemmessae   : 4
-vangeille      : 4
-GUTENBERG      : 4
-lankonsa       : 4
-sanoilla       : 4
-syytetaeaen    : 4
-suostui        : 4
-valkoisessa    : 4
-varusmestari   : 4
-paksun         : 4
-Entaes         : 4
+sydaemmessae: 4
+vangeille : 4
+GUTENBERG : 4
+lankonsa  : 4
+sanoilla  : 4
+syytetaeaen: 4
+suostui   : 4
+valkoisessa: 4
+varusmestari: 4
+paksun    : 4
+Entaes    : 4
 kuusinaulaisessa: 4
-siirtyi        : 4
-kertonut       : 4
-tuomio         : 4
-lapsen         : 4
-luulin         : 4
-PROJECT        : 4
-haluaisin      : 4
-taerkeaenae    : 4
-virka          : 4
-laeksivaet     : 4
-pulveria       : 4
-jostakin       : 4
-Simonin        : 4
-asettua        : 4
-syytettiin     : 4
-rykmentin      : 4
-itkuun         : 4
-taeydellinen   : 4
-laeaekaerin    : 4
-sanoihaen      : 4
-Joka           : 4
-kuuluvat       : 4
-totuuden       : 4
-erikseen       : 4
-omien          : 4
-luokseen       : 4
-asettui        : 4
-laehemmaeksi   : 4
-olenkin        : 4
-Ettae          : 4
-Naiset         : 4
-hartioilleen   : 4
-haemillaeaen   : 4
-tuossa         : 4
-hieno          : 4
-asui           : 4
-rouvan         : 4
-puhetta        : 4
-katsoa         : 4
-samainen       : 4
-sanoo          : 4
-kirjoitetaan   : 4
-tavallisesti   : 4
-kauhulla       : 4
-Kyllaehaen     : 4
-aeaenet        : 4
-ikkunasta      : 4
-tekeminen      : 4
-aeaenen        : 4
-totisen        : 4
-vaekeae        : 4
-Ymmaerraen     : 4
-Samaa          : 4
-luuli          : 4
-selville       : 4
-maeaeraetty    : 4
-laehtoeae      : 4
-distributed    : 4
-tahallaan      : 4
-onnea          : 4
-herrasmies     : 4
-jonne          : 4
-itsestaeaen    : 4
-auta           : 4
-elaenyt        : 4
-ilma           : 4
-ilme           : 4
-istuen         : 4
-following      : 4
-site           : 4
+siirtyi   : 4
+kertonut  : 4
+tuomio    : 4
+lapsen    : 4
+luulin    : 4
+PROJECT   : 4
+haluaisin : 4
+taerkeaenae: 4
+virka     : 4
+laeksivaet: 4
+pulveria  : 4
+jostakin  : 4
+Simonin   : 4
+asettua   : 4
+syytettiin: 4
+rykmentin : 4
+itkuun    : 4
+taeydellinen: 4
+laeaekaerin: 4
+sanoihaen : 4
+Joka      : 4
+kuuluvat  : 4
+totuuden  : 4
+erikseen  : 4
+omien     : 4
+luokseen  : 4
+asettui   : 4
+laehemmaeksi: 4
+olenkin   : 4
+Ettae     : 4
+Naiset    : 4
+hartioilleen: 4
+haemillaeaen: 4
+tuossa    : 4
+hieno     : 4
+asui      : 4
+rouvan    : 4
+puhetta   : 4
+katsoa    : 4
+samainen  : 4
+sanoo     : 4
+kirjoitetaan: 4
+tavallisesti: 4
+kauhulla  : 4
+Kyllaehaen: 4
+aeaenet   : 4
+ikkunasta : 4
+tekeminen : 4
+aeaenen   : 4
+totisen   : 4
+vaekeae   : 4
+Ymmaerraen: 4
+Samaa     : 4
+luuli     : 4
+selville  : 4
+maeaeraetty: 4
+laehtoeae : 4
+distributed: 4
+tahallaan : 4
+onnea     : 4
+herrasmies: 4
+jonne     : 4
+itsestaeaen: 4
+auta      : 4
+elaenyt   : 4
+ilma      : 4
+ilme      : 4
+istuen    : 4
+following : 4
+site      : 4
 jumalanpalvelus: 4
-person         : 4
-syoenyt        : 4
-itseltaeaen    : 4
-rehellinen     : 4
-katosi         : 4
-kaeaentynyt    : 4
-silmillaensae  : 4
-auttaa         : 4
-tungeskellen   : 4
-huulensa       : 4
-taeaellaekin   : 4
-linnaan        : 4
-tottunut       : 4
-auttoi         : 4
-samallainen    : 4
-Botshkovaan    : 4
-suostuvainen   : 4
+person    : 4
+syoenyt   : 4
+itseltaeaen: 4
+rehellinen: 4
+katosi    : 4
+kaeaentynyt: 4
+silmillaensae: 4
+auttaa    : 4
+tungeskellen: 4
+huulensa  : 4
+taeaellaekin: 4
+linnaan   : 4
+tottunut  : 4
+auttoi    : 4
+samallainen: 4
+Botshkovaan: 4
+suostuvainen: 4
 vaelttaemaetoentae: 4
-jahaen         : 4
-mielestae      : 4
-kaeden         : 4
-part           : 4
-kenen          : 4
-kaedet         : 4
-kiljasi        : 4
-onnistunut     : 4
+jahaen    : 4
+mielestae : 4
+kaeden    : 4
+part      : 4
+kenen     : 4
+kaedet    : 4
+kiljasi   : 4
+onnistunut: 4
 vaehintaekaeaen: 4
-luullut        : 4
-kohdassa       : 4
-sanojensa      : 4
-syntyi         : 4
-sellainen      : 4
-nykyaeaen      : 4
-pudisti        : 4
-displaying     : 4
-kunhan         : 4
-olipa          : 4
-hirmuinen      : 4
-tuskallista    : 4
-herran         : 4
-kuoleman       : 4
-eihaen         : 4
+luullut   : 4
+kohdassa  : 4
+sanojensa : 4
+syntyi    : 4
+sellainen : 4
+nykyaeaen : 4
+pudisti   : 4
+displaying: 4
+kunhan    : 4
+olipa     : 4
+hirmuinen : 4
+tuskallista: 4
+herran    : 4
+kuoleman  : 4
+eihaen    : 4
 kaupunkilaisnainen: 4
-kuva           : 4
-Pietariin      : 4
-taerkeaen      : 4
-Jonkun         : 4
-lukemaan       : 4
-korvapuustin   : 4
-silmineen      : 4
+kuva      : 4
+Pietariin : 4
+taerkeaen : 4
+Jonkun    : 4
+lukemaan  : 4
+korvapuustin: 4
+silmineen : 4
 paeaettaevaesti: 4
-kortteeriin    : 4
-ikkunaa        : 4
-Talonpoika     : 4
-asemesta       : 4
-tullen         : 4
-silmistae      : 4
-laehettaenyt   : 4
-kirkossa       : 4
-selvaen        : 4
-Huoneeseen     : 4
-paeaesisi      : 4
-support        : 4
-kuuluisa       : 4
-distribution   : 4
-aitauksen      : 4
-date           : 4
-huolta         : 4
-ensimaeisen    : 4
-compliance     : 4
-these          : 4
-laemmin        : 4
-vapauttavat    : 4
-days           : 4
-nauru          : 4
-sisaepiika     : 4
-taetin         : 4
-Sergejevitsh   : 4
-vastauksen     : 4
-vastaukset     : 4
-sytytti        : 4
-odottanut      : 4
-tukka          : 4
-vakuutettu     : 4
-ihmetellen     : 4
-taeten         : 4
-penkillae      : 4
-tehden         : 4
-Menshofin      : 4
-Teidaen        : 4
-hillitae       : 4
-astuessaan     : 4
-purskahti      : 4
-konna          : 4
-owner          : 4
-within         : 4
-talonpojille   : 4
-online         : 4
-huomenna       : 4
+kortteeriin: 4
+ikkunaa   : 4
+Talonpoika: 4
+asemesta  : 4
+tullen    : 4
+silmistae : 4
+laehettaenyt: 4
+kirkossa  : 4
+selvaen   : 4
+Huoneeseen: 4
+paeaesisi : 4
+support   : 4
+kuuluisa  : 4
+distribution: 4
+aitauksen : 4
+date      : 4
+huolta    : 4
+ensimaeisen: 4
+compliance: 4
+these     : 4
+laemmin   : 4
+vapauttavat: 4
+days      : 4
+nauru     : 4
+sisaepiika: 4
+taetin    : 4
+Sergejevitsh: 4
+vastauksen: 4
+vastaukset: 4
+sytytti   : 4
+odottanut : 4
+tukka     : 4
+vakuutettu: 4
+ihmetellen: 4
+taeten    : 4
+penkillae : 4
+tehden    : 4
+Menshofin : 4
+Teidaen   : 4
+hillitae  : 4
+astuessaan: 4
+purskahti : 4
+konna     : 4
+owner     : 4
+within    : 4
+talonpojille: 4
+online    : 4
+huomenna  : 4
 haenenohitsensa: 4
-saeaeli        : 4
-kaikissa       : 4
-istuutui       : 4
-vastustaa      : 4
-anyone         : 4
-aelae          : 4
-kohottaen      : 4
-cannot         : 4
-annoin         : 4
-luopua         : 4
-uuden          : 4
-jollakin       : 4
-asioista       : 4
-puolelle       : 4
-arvoluokan     : 4
-rinnassa       : 4
-kuukauden      : 4
-sormuksen      : 4
-holder         : 4
-salissa        : 4
-tahdotte       : 4
-ilmoittamaan   : 4
-naisista       : 4
-puolustajansa  : 4
-joilla         : 4
-noista         : 4
-vilkas         : 4
-kutsui         : 4
-juoksenteli    : 4
-vanhempi       : 4
-kuulunut       : 4
-katseensa      : 4
-perheen        : 4
-senkin         : 4
-poliisi        : 4
+saeaeli   : 4
+kaikissa  : 4
+istuutui  : 4
+vastustaa : 4
+anyone    : 4
+aelae     : 4
+kohottaen : 4
+cannot    : 4
+annoin    : 4
+luopua    : 4
+uuden     : 4
+jollakin  : 4
+asioista  : 4
+puolelle  : 4
+arvoluokan: 4
+rinnassa  : 4
+kuukauden : 4
+sormuksen : 4
+holder    : 4
+salissa   : 4
+tahdotte  : 4
+ilmoittamaan: 4
+naisista  : 4
+puolustajansa: 4
+joilla    : 4
+noista    : 4
+vilkas    : 4
+kutsui    : 4
+juoksenteli: 4
+vanhempi  : 4
+kuulunut  : 4
+katseensa : 4
+perheen   : 4
+senkin    : 4
+poliisi   : 4
 Bogoduhofskajaa: 4
-lyhyenlaentae  : 4
-mieluista      : 4
-kaikkiaan      : 3
-ymmaertaeae    : 3
-M              : 3
-U              : 3
-suuhunsa       : 3
-l              : 3
-Tihon          : 3
-tyttaeren      : 3
-jokaiselle     : 3
-yksinaensae    : 3
-ennaettaenyt   : 3
-silmillensae   : 3
-paeaevartijan  : 3
-jalkojansa     : 3
-huhtikuuta     : 3
-hyvaeksensae   : 3
-entae          : 3
-laitokseen     : 3
-eilisen        : 3
-vaelin         : 3
-kasvoilla      : 3
-opettajatar    : 3
-sormensa       : 3
-puoleensa      : 3
-maan           : 3
-huudahti       : 3
-status         : 3
-minuutin       : 3
-hylaennyt      : 3
-inhoitti       : 3
-rangaistusta   : 3
-kaeheaellae    : 3
-make           : 3
-istuutuen      : 3
-stae           : 3
-kummallisen    : 3
-numbers        : 3
-kuulleet       : 3
-vaatteet       : 3
-esimiehen      : 3
-tohtori        : 3
-EBook          : 3
-omassa         : 3
-turhia         : 3
-syoedae        : 3
-mitkae         : 3
-huoneen        : 3
-turha          : 3
-kantoi         : 3
-riemusta       : 3
-ikaeinen       : 3
-kuivasti       : 3
-Do             : 3
-kauhea         : 3
-reipasta       : 3
-miespuoliset   : 3
-paraikaa       : 3
-below          : 3
-valtasi        : 3
-PG             : 3
-tutkiminen     : 3
-puhuu          : 3
-suorana        : 3
-kauhua         : 3
-To             : 3
-votre          : 3
-esineitae      : 3
-syypaeae       : 3
-Tuomarit       : 3
-valkoinen      : 3
-sumu           : 3
-aekisti        : 3
-kaesiaeaen     : 3
-ottaisi        : 3
-taakse         : 3
-rivissae       : 3
-joukosta       : 3
-form           : 3
-viereiseen     : 3
-kaeveli        : 3
-tarkasti       : 3
-lempeaesti     : 3
-muistella      : 3
-mutisi         : 3
-hihansa        : 3
-lukkarin       : 3
-kirkkoa        : 3
-ensimaeisessae : 3
-Syytettyjen    : 3
-Vihdoin        : 3
-Hyvaesti       : 3
-loppuu         : 3
-tuijottaen     : 3
-suotta         : 3
-un             : 3
-up             : 3
-kantaa         : 3
-Agrafenan      : 3
-pehmeaesti     : 3
-unohtaa        : 3
-osoittaa       : 3
-aeaenetoennae  : 3
-tekevaet       : 3
-Ylosnousemus   : 3
-luonansa       : 3
-avulla         : 3
-emme           : 3
-FOR            : 3
-polttanut      : 3
-Tuossa         : 3
-tahdot         : 3
-maeaeraeaen    : 3
-yltaeaen       : 3
-eukon          : 3
-kunnioitusta   : 3
-sekin          : 3
-puheillensa    : 3
-uunin          : 3
-performing     : 3
-paperossia     : 3
-paperossit     : 3
-Ihmiset        : 3
-pidaen         : 3
-senvuoksi      : 3
-laskettiin     : 3
-astunut        : 3
-kopissa        : 3
-hae            : 3
-kopista        : 3
+lyhyenlaentae: 4
+mieluista : 4
+kaikkiaan : 3
+ymmaertaeae: 3
+M         : 3
+U         : 3
+suuhunsa  : 3
+l         : 3
+Tihon     : 3
+tyttaeren : 3
+jokaiselle: 3
+yksinaensae: 3
+ennaettaenyt: 3
+silmillensae: 3
+paeaevartijan: 3
+jalkojansa: 3
+huhtikuuta: 3
+hyvaeksensae: 3
+entae     : 3
+laitokseen: 3
+eilisen   : 3
+vaelin    : 3
+kasvoilla : 3
+opettajatar: 3
+sormensa  : 3
+puoleensa : 3
+maan      : 3
+huudahti  : 3
+status    : 3
+minuutin  : 3
+hylaennyt : 3
+inhoitti  : 3
+rangaistusta: 3
+kaeheaellae: 3
+make      : 3
+istuutuen : 3
+stae      : 3
+kummallisen: 3
+numbers   : 3
+kuulleet  : 3
+vaatteet  : 3
+esimiehen : 3
+tohtori   : 3
+EBook     : 3
+omassa    : 3
+turhia    : 3
+syoedae   : 3
+mitkae    : 3
+huoneen   : 3
+turha     : 3
+kantoi    : 3
+riemusta  : 3
+ikaeinen  : 3
+kuivasti  : 3
+Do        : 3
+kauhea    : 3
+reipasta  : 3
+miespuoliset: 3
+paraikaa  : 3
+below     : 3
+valtasi   : 3
+PG        : 3
+tutkiminen: 3
+puhuu     : 3
+suorana   : 3
+kauhua    : 3
+To        : 3
+votre     : 3
+esineitae : 3
+syypaeae  : 3
+Tuomarit  : 3
+valkoinen : 3
+sumu      : 3
+aekisti   : 3
+kaesiaeaen: 3
+ottaisi   : 3
+taakse    : 3
+rivissae  : 3
+joukosta  : 3
+form      : 3
+viereiseen: 3
+kaeveli   : 3
+tarkasti  : 3
+lempeaesti: 3
+muistella : 3
+mutisi    : 3
+hihansa   : 3
+lukkarin  : 3
+kirkkoa   : 3
+ensimaeisessae: 3
+Syytettyjen: 3
+Vihdoin   : 3
+Hyvaesti  : 3
+loppuu    : 3
+tuijottaen: 3
+suotta    : 3
+un        : 3
+up        : 3
+kantaa    : 3
+Agrafenan : 3
+pehmeaesti: 3
+unohtaa   : 3
+osoittaa  : 3
+aeaenetoennae: 3
+tekevaet  : 3
+Ylosnousemus: 3
+luonansa  : 3
+avulla    : 3
+emme      : 3
+FOR       : 3
+polttanut : 3
+Tuossa    : 3
+tahdot    : 3
+maeaeraeaen: 3
+yltaeaen  : 3
+eukon     : 3
+kunnioitusta: 3
+sekin     : 3
+puheillensa: 3
+uunin     : 3
+performing: 3
+paperossia: 3
+paperossit: 3
+Ihmiset   : 3
+pidaen    : 3
+senvuoksi : 3
+laskettiin: 3
+astunut   : 3
+kopissa   : 3
+hae       : 3
+kopista   : 3
 hyvaennaekoeinen: 3
-hyvaenae       : 3
-antaisi        : 3
-itkeae         : 3
-tuoden         : 3
-cher           : 3
-Onpa           : 3
-arveli         : 3
-portailta      : 3
-papin          : 3
-aesken         : 3
-kovemmalla     : 3
-keuhkotautinen : 3
-sinellin       : 3
-kohteliaasti   : 3
-lasiin         : 3
-tirehtoeoeriin : 3
-sileaeksi      : 3
-huutaa         : 3
-totuus         : 3
-odottamassa    : 3
-tuominneet     : 3
-Tunnustatteko  : 3
-Mies           : 3
-pystyyn        : 3
-syytekirjan    : 3
-tytoestae      : 3
-vaanhaen       : 3
-kaesistaeaen   : 3
-Paitsi         : 3
-tarpeetonta    : 3
-hyvaessae      : 3
-suhteestansa   : 3
+hyvaenae  : 3
+antaisi   : 3
+itkeae    : 3
+tuoden    : 3
+cher      : 3
+Onpa      : 3
+arveli    : 3
+portailta : 3
+papin     : 3
+aesken    : 3
+kovemmalla: 3
+keuhkotautinen: 3
+sinellin  : 3
+kohteliaasti: 3
+lasiin    : 3
+tirehtoeoeriin: 3
+sileaeksi : 3
+huutaa    : 3
+totuus    : 3
+odottamassa: 3
+tuominneet: 3
+Tunnustatteko: 3
+Mies      : 3
+pystyyn   : 3
+syytekirjan: 3
+tytoestae : 3
+vaanhaen  : 3
+kaesistaeaen: 3
+Paitsi    : 3
+tarpeetonta: 3
+hyvaessae : 3
+suhteestansa: 3
 aeaenekkaeaesti: 3
-oltu           : 3
-syyttoemaet    : 3
-vankilasta     : 3
-minuun         : 3
-lyhyeksi       : 3
-tuskallinen    : 3
-epaeilemaettae : 3
-Kolmanneksi    : 3
-iskien         : 3
-anastitte      : 3
-nimiae         : 3
-kaksikin       : 3
-limitation     : 3
-syyn           : 3
-edessaensae    : 3
-heistae        : 3
-kirkon         : 3
-tiedaette      : 3
-tempasi        : 3
-rahoista       : 3
-jaeljessaeaen  : 3
+oltu      : 3
+syyttoemaet: 3
+vankilasta: 3
+minuun    : 3
+lyhyeksi  : 3
+tuskallinen: 3
+epaeilemaettae: 3
+Kolmanneksi: 3
+iskien    : 3
+anastitte : 3
+nimiae    : 3
+kaksikin  : 3
+limitation: 3
+syyn      : 3
+edessaensae: 3
+heistae   : 3
+kirkon    : 3
+tiedaette : 3
+tempasi   : 3
+rahoista  : 3
+jaeljessaeaen: 3
 tapaamishuoneessa: 3
-Kristuksen     : 3
-naeette        : 3
-jaottaen       : 3
-samallatavalla : 3
-neiti          : 3
-kai            : 3
-asemaa         : 3
-Olihan         : 3
-voimatta       : 3
-juoda          : 3
-ikaevae        : 3
+Kristuksen: 3
+naeette   : 3
+jaottaen  : 3
+samallatavalla: 3
+neiti     : 3
+kai       : 3
+asemaa    : 3
+Olihan    : 3
+voimatta  : 3
+juoda     : 3
+ikaevae   : 3
 vierashuoneessa: 3
-hatussaan      : 3
-kadulla        : 3
-kadulle        : 3
-syyllisyyteni  : 3
-herrasvaeki    : 3
-minuuttia      : 3
-sanoneet       : 3
-Katjushalla    : 3
-piikakamarin   : 3
-onko           : 3
-piian          : 3
-sinulla        : 3
-maitoa         : 3
-mattoa         : 3
-lauloi         : 3
-sytyttaenyt    : 3
-Kertokaa       : 3
-Jumalasta      : 3
-suustansa      : 3
-paikasta       : 3
-defective      : 3
-paikassa       : 3
+hatussaan : 3
+kadulla   : 3
+kadulle   : 3
+syyllisyyteni: 3
+herrasvaeki: 3
+minuuttia : 3
+sanoneet  : 3
+Katjushalla: 3
+piikakamarin: 3
+onko      : 3
+piian     : 3
+sinulla   : 3
+maitoa    : 3
+mattoa    : 3
+lauloi    : 3
+sytyttaenyt: 3
+Kertokaa  : 3
+Jumalasta : 3
+suustansa : 3
+paikasta  : 3
+defective : 3
+paikassa  : 3
 Oikeudenpalvelija: 3
-taisteli       : 3
-Vanki          : 3
-heraeaemys     : 3
-kuvaili        : 3
-Aina           : 3
-tuohon         : 3
-kaettaensae    : 3
-Olisitte       : 3
-jokaoli        : 3
-pikku          : 3
-kaesin         : 3
-voiman         : 3
-menisi         : 3
-rikoslain      : 3
-ympaeroeivaet  : 3
-eikoe          : 3
-oikeutensa     : 3
-mielestaeaen   : 3
-equipment      : 3
-henki          : 3
-haemaeraesti   : 3
-viinilasiin    : 3
-Pappi          : 3
-kesaeae        : 3
-toveriensa     : 3
-vastata        : 3
-money          : 3
-Shenbok        : 3
-mon            : 3
-saatu          : 3
-tuomionsa      : 3
-writing        : 3
-ruumiinsa      : 3
-kantasormuksen : 3
-valtiollista   : 3
-lyhyet         : 3
-salkku         : 3
-muuttaa        : 3
-seikan         : 3
-tekin          : 3
-puheeseen      : 3
-taeltae        : 3
-hienolla       : 3
-kauppiasta     : 3
-Punatukkainen  : 3
-istuu          : 3
-ikinae         : 3
-kotoansa       : 3
-leveaen        : 3
+taisteli  : 3
+Vanki     : 3
+heraeaemys: 3
+kuvaili   : 3
+Aina      : 3
+tuohon    : 3
+kaettaensae: 3
+Olisitte  : 3
+jokaoli   : 3
+pikku     : 3
+kaesin    : 3
+voiman    : 3
+menisi    : 3
+rikoslain : 3
+ympaeroeivaet: 3
+eikoe     : 3
+oikeutensa: 3
+mielestaeaen: 3
+equipment : 3
+henki     : 3
+haemaeraesti: 3
+viinilasiin: 3
+Pappi     : 3
+kesaeae   : 3
+toveriensa: 3
+vastata   : 3
+money     : 3
+Shenbok   : 3
+mon       : 3
+saatu     : 3
+tuomionsa : 3
+writing   : 3
+ruumiinsa : 3
+kantasormuksen: 3
+valtiollista: 3
+lyhyet    : 3
+salkku    : 3
+muuttaa   : 3
+seikan    : 3
+tekin     : 3
+puheeseen : 3
+taeltae   : 3
+hienolla  : 3
+kauppiasta: 3
+Punatukkainen: 3
+istuu     : 3
+ikinae    : 3
+kotoansa  : 3
+leveaen   : 3
 electronicworks: 3
-Leo            : 3
-rikokseen      : 3
-mihinkaeaen    : 3
-myrkyttaeae    : 3
-tekoa          : 3
-Ovissa         : 3
-jotahaen       : 3
-Nimenne        : 3
-muutos         : 3
-ajatellakaan   : 3
-aeaenensae     : 3
-lavitsalle     : 3
-Kaeytaevaessae : 3
-kynttilaet     : 3
-naekemaettae   : 3
-sisaren        : 3
-kainalossa     : 3
-muuttuivat     : 3
-punaposkinen   : 3
-valituksen     : 3
-hyvaeltae      : 3
+Leo       : 3
+rikokseen : 3
+mihinkaeaen: 3
+myrkyttaeae: 3
+tekoa     : 3
+Ovissa    : 3
+jotahaen  : 3
+Nimenne   : 3
+muutos    : 3
+ajatellakaan: 3
+aeaenensae: 3
+lavitsalle: 3
+Kaeytaevaessae: 3
+kynttilaet: 3
+naekemaettae: 3
+sisaren   : 3
+kainalossa: 3
+muuttuivat: 3
+punaposkinen: 3
+valituksen: 3
+hyvaeltae : 3
 kauppiasSmelkofin: 3
-toisesta       : 3
-iloiten        : 3
-levottomasti   : 3
-taemmoeiset    : 3
-ovessa         : 3
-huomionsa      : 3
-upseeri        : 3
-paeivaellistae : 3
-aihe           : 3
-ota            : 3
-suuntaan       : 3
-oliollut       : 3
-synkaen        : 3
-ehkae          : 3
-efforts        : 3
-kulkiessaan    : 3
-cost           : 3
-tarvinnut      : 3
-esitti         : 3
-tavallista     : 3
-kieroon        : 3
-tuolia         : 3
-ymmaerrae      : 3
-Eilen          : 3
-poeydaelle     : 3
-kaesissaeaen   : 3
-nopeammin      : 3
-Stsheglof      : 3
-korjata        : 3
-tuolla         : 3
-vapaata        : 3
-Missille       : 3
-itkemaeaen     : 3
-Nuo            : 3
-entisen        : 3
-lisaeksi       : 3
-entiset        : 3
-arvatenkin     : 3
-mahdolliseksi  : 3
-seisoalleen    : 3
-kutsutaan      : 3
-muistui        : 3
-Sano           : 3
-Sama           : 3
-paeaesti       : 3
-vaunu          : 3
-oikealle       : 3
-sittenkuin     : 3
-paeaetetty     : 3
-elaeimellisen  : 3
-vaelttaeae     : 3
-akan           : 3
-asetettu       : 3
-muistaa        : 3
-huulilla       : 3
-aeskettaein    : 3
-sinisillae     : 3
-seuraa         : 3
-ruumista       : 3
-taetiensae     : 3
-paikallaan     : 3
-tilaisuudessa  : 3
-rikoksensa     : 3
-ulkomaille     : 3
-alituisesti    : 3
-tapauksen      : 3
-tavaran        : 3
-soitto         : 3
-Hyvaeae        : 3
-nousseet       : 3
-vanhasta       : 3
-raskaasti      : 3
-pidaetellen    : 3
-syytetyille    : 3
-Huolimatta     : 3
-Katso          : 3
-olevien        : 3
-kaesiaensae    : 3
-kadottanut     : 3
-Kunpa          : 3
-taetejae       : 3
-laski          : 3
-future         : 3
-avoinna        : 3
-nimitti        : 3
-itseaenne      : 3
-seiniae        : 3
-Missiin        : 3
-tervehti       : 3
-kauluksen      : 3
-Katjushasta    : 3
-vapaalla       : 3
-paeaellysmies  : 3
-vaimonsa       : 3
-varastanut     : 3
-Sepae          : 3
-todistajien    : 3
-kahvia         : 3
-kovasti        : 3
-taaksepaein    : 3
-sopinut        : 3
-poelloe        : 3
-puhuttiin      : 3
-Herrat         : 3
-uskomatta      : 3
-avioliittoa    : 3
-maailmaan      : 3
-koskapa        : 3
-Ensiksikin     : 3
-mission        : 3
-varmaankin     : 3
-poltteli       : 3
-syy            : 3
-ystaevaellinen : 3
-suuria         : 3
-tapaus         : 3
-keskeytys      : 3
-keskeytyi      : 3
-laehteminen    : 3
-taa            : 3
+toisesta  : 3
+iloiten   : 3
+levottomasti: 3
+taemmoeiset: 3
+ovessa    : 3
+huomionsa : 3
+upseeri   : 3
+paeivaellistae: 3
+aihe      : 3
+ota       : 3
+suuntaan  : 3
+oliollut  : 3
+synkaen   : 3
+ehkae     : 3
+efforts   : 3
+kulkiessaan: 3
+cost      : 3
+tarvinnut : 3
+esitti    : 3
+tavallista: 3
+kieroon   : 3
+tuolia    : 3
+ymmaerrae : 3
+Eilen     : 3
+poeydaelle: 3
+kaesissaeaen: 3
+nopeammin : 3
+Stsheglof : 3
+korjata   : 3
+tuolla    : 3
+vapaata   : 3
+Missille  : 3
+itkemaeaen: 3
+Nuo       : 3
+entisen   : 3
+lisaeksi  : 3
+entiset   : 3
+arvatenkin: 3
+mahdolliseksi: 3
+seisoalleen: 3
+kutsutaan : 3
+muistui   : 3
+Sano      : 3
+Sama      : 3
+paeaesti  : 3
+vaunu     : 3
+oikealle  : 3
+sittenkuin: 3
+paeaetetty: 3
+elaeimellisen: 3
+vaelttaeae: 3
+akan      : 3
+asetettu  : 3
+muistaa   : 3
+huulilla  : 3
+aeskettaein: 3
+sinisillae: 3
+seuraa    : 3
+ruumista  : 3
+taetiensae: 3
+paikallaan: 3
+tilaisuudessa: 3
+rikoksensa: 3
+ulkomaille: 3
+alituisesti: 3
+tapauksen : 3
+tavaran   : 3
+soitto    : 3
+Hyvaeae   : 3
+nousseet  : 3
+vanhasta  : 3
+raskaasti : 3
+pidaetellen: 3
+syytetyille: 3
+Huolimatta: 3
+Katso     : 3
+olevien   : 3
+kaesiaensae: 3
+kadottanut: 3
+Kunpa     : 3
+taetejae  : 3
+laski     : 3
+future    : 3
+avoinna   : 3
+nimitti   : 3
+itseaenne : 3
+seiniae   : 3
+Missiin   : 3
+tervehti  : 3
+kauluksen : 3
+Katjushasta: 3
+vapaalla  : 3
+paeaellysmies: 3
+vaimonsa  : 3
+varastanut: 3
+Sepae     : 3
+todistajien: 3
+kahvia    : 3
+kovasti   : 3
+taaksepaein: 3
+sopinut   : 3
+poelloe   : 3
+puhuttiin : 3
+Herrat    : 3
+uskomatta : 3
+avioliittoa: 3
+maailmaan : 3
+koskapa   : 3
+Ensiksikin: 3
+mission   : 3
+varmaankin: 3
+poltteli  : 3
+syy       : 3
+ystaevaellinen: 3
+suuria    : 3
+tapaus    : 3
+keskeytys : 3
+keskeytyi : 3
+laehteminen: 3
+taa       : 3
 PietariGerasimovitsh: 3
-ovenvartija    : 3
-juoksemaan     : 3
-erikoisella    : 3
-tuomittiin     : 3
-artikkelin     : 3
-alhaalta       : 3
-vaikenivat     : 3
-sano           : 3
-aihetta        : 3
-pitaevaensae   : 3
-have           : 3
-olisaattanut   : 3
-hyvaeksyvaesti : 3
-Kaikkein       : 3
-erota          : 3
-This           : 3
-ensimaeinen    : 3
-eraestae       : 3
-lunta          : 3
-paikka         : 3
-paljain        : 3
-kuulusteltu    : 3
-THE            : 3
-paidassa       : 3
-kohtaloansa    : 3
-Jumalaa        : 3
-asettuivat     : 3
+ovenvartija: 3
+juoksemaan: 3
+erikoisella: 3
+tuomittiin: 3
+artikkelin: 3
+alhaalta  : 3
+vaikenivat: 3
+sano      : 3
+aihetta   : 3
+pitaevaensae: 3
+have      : 3
+olisaattanut: 3
+hyvaeksyvaesti: 3
+Kaikkein  : 3
+erota     : 3
+This      : 3
+ensimaeinen: 3
+eraestae  : 3
+lunta     : 3
+paikka    : 3
+paljain   : 3
+kuulusteltu: 3
+THE       : 3
+paidassa  : 3
+kohtaloansa: 3
+Jumalaa   : 3
+asettuivat: 3
 vastenmielistae: 3
-varmasti       : 3
-kumartaen      : 3
-kerrassaan     : 3
-tahtonsa       : 3
-vaelissae      : 3
-noiden         : 3
-uudisti        : 3
-mamma          : 3
-tuttuja        : 3
-kallistaen     : 3
-ohella         : 3
-naekyy         : 3
-erinomainen    : 3
-elaemaeaensae  : 3
-alussa         : 3
-loistaen       : 3
-paeaellaeaen   : 3
-ainoa          : 3
-vaelistae      : 3
-korkeutenne    : 3
-voitte         : 3
-kyseli         : 3
-jatkaa         : 3
-mustine        : 3
-niinhaen       : 3
-suostua        : 3
-Kopissa        : 3
-jokin          : 3
-pieneen        : 3
-perusteita     : 3
-tuomaan        : 3
-links          : 3
-complying      : 3
-antako         : 3
-taeaeltae      : 3
-liikkua        : 3
-antoikin       : 3
-seisten        : 3
-toveri         : 3
-toisten        : 3
-liikkui        : 3
+varmasti  : 3
+kumartaen : 3
+kerrassaan: 3
+tahtonsa  : 3
+vaelissae : 3
+noiden    : 3
+uudisti   : 3
+mamma     : 3
+tuttuja   : 3
+kallistaen: 3
+ohella    : 3
+naekyy    : 3
+erinomainen: 3
+elaemaeaensae: 3
+alussa    : 3
+loistaen  : 3
+paeaellaeaen: 3
+ainoa     : 3
+vaelistae : 3
+korkeutenne: 3
+voitte    : 3
+kyseli    : 3
+jatkaa    : 3
+mustine   : 3
+niinhaen  : 3
+suostua   : 3
+Kopissa   : 3
+jokin     : 3
+pieneen   : 3
+perusteita: 3
+tuomaan   : 3
+links     : 3
+complying : 3
+antako    : 3
+taeaeltae : 3
+liikkua   : 3
+antoikin  : 3
+seisten   : 3
+toveri    : 3
+toisten   : 3
+liikkui   : 3
 kohteliaisuudella: 3
-sielun         : 3
-way            : 3
-web            : 3
-mielipide      : 3
-olevat         : 3
-puhuin         : 3
-pykaelaen      : 3
-muistiin       : 3
-terve          : 3
-mitenkae       : 3
-lapsia         : 3
-kaeskeae       : 3
-sanottavaa     : 3
-tuijotti       : 3
-Tunnenhan      : 3
-naeyttaenyt    : 3
-neljae         : 3
-ruukun         : 3
-than           : 3
-voisin         : 3
-halua          : 3
-katuja         : 3
-juoksivat      : 3
-katsonut       : 3
-ainoan         : 3
-kohdalla       : 3
-toverilleen    : 3
-upseerin       : 3
-rauhaan        : 3
-humalassa      : 3
-luota          : 3
-Filip          : 3
-kysymyksiin    : 3
-tyoensi        : 3
-help           : 3
-located        : 3
-ylimmilleen    : 3
-ilosta         : 3
-avaimen        : 3
-aeaenellaeaen  : 3
-uudinta        : 3
-tmelectronic   : 3
-ehdotti        : 3
-formats        : 3
-sijaan         : 3
-tavataan       : 3
-samallaisia    : 3
-Taemmoeinen    : 3
-aikomuksessa   : 3
-tien           : 3
-koki           : 3
-muuttamaan     : 3
-tulipunaseksi  : 3
-sisaellae      : 3
-Kuinkas        : 3
-jolta          : 3
-arvattavasti   : 3
-teette         : 3
-aukeni         : 3
-askeleen       : 3
-vaivannut      : 3
-tuominnut      : 3
-Web            : 3
-naisosastoon   : 3
-tarpeellista   : 3
-puolueeseen    : 3
-Kortshaginin   : 3
-katsomaan      : 3
-ympaerille     : 3
-puolestaan     : 3
-LIMITED        : 3
-nyyhkyttaeen   : 3
-vastattiin     : 3
-nukkua         : 3
+sielun    : 3
+way       : 3
+web       : 3
+mielipide : 3
+olevat    : 3
+puhuin    : 3
+pykaelaen : 3
+muistiin  : 3
+terve     : 3
+mitenkae  : 3
+lapsia    : 3
+kaeskeae  : 3
+sanottavaa: 3
+tuijotti  : 3
+Tunnenhan : 3
+naeyttaenyt: 3
+neljae    : 3
+ruukun    : 3
+than      : 3
+voisin    : 3
+halua     : 3
+katuja    : 3
+juoksivat : 3
+katsonut  : 3
+ainoan    : 3
+kohdalla  : 3
+toverilleen: 3
+upseerin  : 3
+rauhaan   : 3
+humalassa : 3
+luota     : 3
+Filip     : 3
+kysymyksiin: 3
+tyoensi   : 3
+help      : 3
+located   : 3
+ylimmilleen: 3
+ilosta    : 3
+avaimen   : 3
+aeaenellaeaen: 3
+uudinta   : 3
+tmelectronic: 3
+ehdotti   : 3
+formats   : 3
+sijaan    : 3
+tavataan  : 3
+samallaisia: 3
+Taemmoeinen: 3
+aikomuksessa: 3
+tien      : 3
+koki      : 3
+muuttamaan: 3
+tulipunaseksi: 3
+sisaellae : 3
+Kuinkas   : 3
+jolta     : 3
+arvattavasti: 3
+teette    : 3
+aukeni    : 3
+askeleen  : 3
+vaivannut : 3
+tuominnut : 3
+Web       : 3
+naisosastoon: 3
+tarpeellista: 3
+puolueeseen: 3
+Kortshaginin: 3
+katsomaan : 3
+ympaerille: 3
+puolestaan: 3
+LIMITED   : 3
+nyyhkyttaeen: 3
+vastattiin: 3
+nukkua    : 3
 vaelittaemaettae: 3
-muodossa       : 3
-ristiin        : 3
-kerrottu       : 3
-taeytti        : 3
-kumarteli      : 3
-notre          : 3
-miehille       : 3
-raskaita       : 3
-pelkaesi       : 3
-asianlaita     : 3
-todisti        : 3
-todiste        : 3
-kunheidaen     : 3
-vieressaensae  : 3
-Oikeuden       : 3
-hyvaekseen     : 3
-huoaten        : 3
-replacement    : 3
-tiesivaet      : 3
-pidellen       : 3
+muodossa  : 3
+ristiin   : 3
+kerrottu  : 3
+taeytti   : 3
+kumarteli : 3
+notre     : 3
+miehille  : 3
+raskaita  : 3
+pelkaesi  : 3
+asianlaita: 3
+todisti   : 3
+todiste   : 3
+kunheidaen: 3
+vieressaensae: 3
+Oikeuden  : 3
+hyvaekseen: 3
+huoaten   : 3
+replacement: 3
+tiesivaet : 3
+pidellen  : 3
 ajatteliNehljudof: 3
-kuultuansa     : 3
-parempi        : 3
+kuultuansa: 3
+parempi   : 3
 puheenjohtajalle: 3
-paperille      : 3
-julistaa       : 3
-nousten        : 3
-poikansa       : 3
-paeaestyaeaen  : 3
-tavannut       : 3
-Lapset         : 3
-vietiin        : 3
-voivansa       : 3
-puuttui        : 3
-viedaeaen      : 3
-laehtoensae    : 3
-Nehljudofilla  : 3
-Tuskinpa       : 3
-Mistae         : 3
-lukitusta      : 3
-kirjoitetun    : 3
-phrase         : 3
-vedellae       : 3
-Kuka           : 3
-paikoillansa   : 3
-tahtoo         : 3
-payments       : 3
-tyytyvaeinen   : 3
-jona           : 3
-mahaan         : 3
-toisiinsa      : 3
-useammin       : 3
-toverien       : 3
-pettaenyt      : 3
-paeaestaenyt   : 3
-kuolemansa     : 3
-Kitaevan       : 3
-Muuten         : 3
-individual     : 3
-rutisti        : 3
-ankara         : 3
-hauskaa        : 3
-ilmausi        : 3
-vapauttaa      : 3
-silmaeae       : 3
-huomaa         : 3
-rakastin       : 3
-jaheidaen      : 3
-Poika          : 3
-menestyksen    : 3
-maalla         : 3
-Hetkeksi       : 3
-aeitiae        : 3
-Olette         : 3
-muistellen     : 3
-paha           : 3
-Kolmas         : 3
-away           : 3
-naehtyaensae   : 3
-kaeytaevaen    : 3
-saepsaehti     : 3
-anomuksen      : 3
-samaten        : 3
-means          : 3
-obtain         : 3
-path           : 3
-suurella       : 3
-pyytaeisin     : 3
-Nikititsh      : 3
-Nehljudofkin   : 3
-vaatteita      : 3
-paeaeasia      : 3
-toimitti       : 3
-matkusti       : 3
-tahtoisin      : 3
-poeydaeltae    : 3
-sentaeaen      : 3
-aluksi         : 3
-Pihalla        : 3
-kirjoittanut   : 3
-jaloin         : 3
-kauheata       : 3
-itsenne        : 3
-vertansa       : 3
-Jokohan        : 3
-ajattelematta  : 3
-isaen          : 3
-kauniit        : 3
-SimonKartinkin : 3
-katsahteli     : 3
-vietti         : 3
-puhettansa     : 3
-koskevaan      : 3
-paeaestetty    : 3
-keveaesti      : 3
-kieltaeae      : 3
-merkitsee      : 3
-aikoina        : 3
-iloisena       : 3
-edellistae     : 3
-naisvanki      : 3
-syrjaeovesta   : 3
-Semmoinen      : 3
-tunteensa      : 3
-Siinaepae      : 3
-seuraus        : 3
-antamaan       : 3
-Spencerin      : 3
-kuun           : 3
-uhraamaan      : 3
-osaan          : 3
-seurata        : 3
-merkityksen    : 3
-murhapoltosta  : 3
-leveae         : 3
-Tiedaen        : 3
-omalla         : 3
-olkoon         : 3
-maljan         : 3
-esiintyi       : 3
-mahtavan       : 3
-paikoillensa   : 3
-give           : 3
+paperille : 3
+julistaa  : 3
+nousten   : 3
+poikansa  : 3
+paeaestyaeaen: 3
+tavannut  : 3
+Lapset    : 3
+vietiin   : 3
+voivansa  : 3
+puuttui   : 3
+viedaeaen : 3
+laehtoensae: 3
+Nehljudofilla: 3
+Tuskinpa  : 3
+Mistae    : 3
+lukitusta : 3
+kirjoitetun: 3
+phrase    : 3
+vedellae  : 3
+Kuka      : 3
+paikoillansa: 3
+tahtoo    : 3
+payments  : 3
+tyytyvaeinen: 3
+jona      : 3
+mahaan    : 3
+toisiinsa : 3
+useammin  : 3
+toverien  : 3
+pettaenyt : 3
+paeaestaenyt: 3
+kuolemansa: 3
+Kitaevan  : 3
+Muuten    : 3
+individual: 3
+rutisti   : 3
+ankara    : 3
+hauskaa   : 3
+ilmausi   : 3
+vapauttaa : 3
+silmaeae  : 3
+huomaa    : 3
+rakastin  : 3
+jaheidaen : 3
+Poika     : 3
+menestyksen: 3
+maalla    : 3
+Hetkeksi  : 3
+aeitiae   : 3
+Olette    : 3
+muistellen: 3
+paha      : 3
+Kolmas    : 3
+away      : 3
+naehtyaensae: 3
+kaeytaevaen: 3
+saepsaehti: 3
+anomuksen : 3
+samaten   : 3
+means     : 3
+obtain    : 3
+path      : 3
+suurella  : 3
+pyytaeisin: 3
+Nikititsh : 3
+Nehljudofkin: 3
+vaatteita : 3
+paeaeasia : 3
+toimitti  : 3
+matkusti  : 3
+tahtoisin : 3
+poeydaeltae: 3
+sentaeaen : 3
+aluksi    : 3
+Pihalla   : 3
+kirjoittanut: 3
+jaloin    : 3
+kauheata  : 3
+itsenne   : 3
+vertansa  : 3
+Jokohan   : 3
+ajattelematta: 3
+isaen     : 3
+kauniit   : 3
+SimonKartinkin: 3
+katsahteli: 3
+vietti    : 3
+puhettansa: 3
+koskevaan : 3
+paeaestetty: 3
+keveaesti : 3
+kieltaeae : 3
+merkitsee : 3
+aikoina   : 3
+iloisena  : 3
+edellistae: 3
+naisvanki : 3
+syrjaeovesta: 3
+Semmoinen : 3
+tunteensa : 3
+Siinaepae : 3
+seuraus   : 3
+antamaan  : 3
+Spencerin : 3
+kuun      : 3
+uhraamaan : 3
+osaan     : 3
+seurata   : 3
+merkityksen: 3
+murhapoltosta: 3
+leveae    : 3
+Tiedaen   : 3
+omalla    : 3
+olkoon    : 3
+maljan    : 3
+esiintyi  : 3
+mahtavan  : 3
+paikoillensa: 3
+give      : 3
 mielikuvituksessaan: 3
-user           : 3
-lasten         : 3
-mattoja        : 3
-kasvoihinsa    : 3
-yksitellen     : 3
-rikkaan        : 3
-semmoisen      : 3
-selvaeksi      : 3
-nenaeaensae    : 3
-taeydellisesti : 3
-yliopistossa   : 3
-avaten         : 3
-ollutkaan      : 3
-toivonut       : 3
-seitsemaen     : 3
-kaulaan        : 3
-odottamaan     : 3
-kiersi         : 3
-ilmeen         : 3
-joutui         : 3
-palasen        : 3
-Palattuaan     : 3
-tahtoivat      : 3
-jossain        : 3
-ihmisiin       : 3
-Naeiden        : 3
-alkaessa       : 3
-tyrkkaesi      : 3
-raskasta       : 3
-kasvoineen     : 3
-Erittaeinkin   : 3
-Itse           : 3
-osotti         : 3
-tarkoittanut   : 3
-alaisiksi      : 3
-sairaita       : 3
-taerkeaeae     : 3
-huutoja        : 3
-kapakoitsija   : 3
-sielussaan     : 3
-kaesi          : 3
-syliinsae      : 3
-aeaentaensae   : 3
-tointa         : 3
-jatkaen        : 3
-luopuminen     : 3
-Menshofia      : 3
-Tuntien        : 3
-oliannettu     : 3
-asialle        : 3
-kylaestae      : 3
-paragraphs     : 3
-ajatellutkaan  : 3
-selitteli      : 3
-luullakseni    : 3
-return         : 3
-pienellae      : 3
-Ivan           : 3
-lihava         : 3
-Muttahaenen    : 3
-paikoilleen    : 3
-ruplan         : 3
-viettaenyt     : 3
-seisomaan      : 3
-teihin         : 3
-alettuaan      : 3
-joutukaa       : 3
+user      : 3
+lasten    : 3
+mattoja   : 3
+kasvoihinsa: 3
+yksitellen: 3
+rikkaan   : 3
+semmoisen : 3
+selvaeksi : 3
+nenaeaensae: 3
+taeydellisesti: 3
+yliopistossa: 3
+avaten    : 3
+ollutkaan : 3
+toivonut  : 3
+seitsemaen: 3
+kaulaan   : 3
+odottamaan: 3
+kiersi    : 3
+ilmeen    : 3
+joutui    : 3
+palasen   : 3
+Palattuaan: 3
+tahtoivat : 3
+jossain   : 3
+ihmisiin  : 3
+Naeiden   : 3
+alkaessa  : 3
+tyrkkaesi : 3
+raskasta  : 3
+kasvoineen: 3
+Erittaeinkin: 3
+Itse      : 3
+osotti    : 3
+tarkoittanut: 3
+alaisiksi : 3
+sairaita  : 3
+taerkeaeae: 3
+huutoja   : 3
+kapakoitsija: 3
+sielussaan: 3
+kaesi     : 3
+syliinsae : 3
+aeaentaensae: 3
+tointa    : 3
+jatkaen   : 3
+luopuminen: 3
+Menshofia : 3
+Tuntien   : 3
+oliannettu: 3
+asialle   : 3
+kylaestae : 3
+paragraphs: 3
+ajatellutkaan: 3
+selitteli : 3
+luullakseni: 3
+return    : 3
+pienellae : 3
+Ivan      : 3
+lihava    : 3
+Muttahaenen: 3
+paikoilleen: 3
+ruplan    : 3
+viettaenyt: 3
+seisomaan : 3
+teihin    : 3
+alettuaan : 3
+joutukaa  : 3
 kaesikynkaestae: 3
-pakko          : 3
-tahtovat       : 3
-ravintolassa   : 3
-pitkaeae       : 3
-naey           : 3
-silmien        : 3
-applicable     : 3
-kahta          : 3
-selvitti       : 3
-voimakas       : 3
-tiedustella    : 3
-olikaan        : 3
-taeytaentoeoen : 3
-saattaa        : 3
-silmae         : 3
-donate         : 3
-katsahdettuaan : 3
-salista        : 3
-hotellin       : 3
-kaukana        : 3
-laitoksessa    : 3
-punatukkaisen  : 3
-loukannut      : 3
-ryoestaemisen  : 3
-poskiansa      : 3
-kesti          : 3
-tasan          : 3
-syntynyt       : 3
-tuijottivat    : 3
-noeyraesti     : 3
-keskustelu     : 3
-ANY            : 3
-olinyt         : 3
-ketae          : 3
-sittenkaeaen   : 3
+pakko     : 3
+tahtovat  : 3
+ravintolassa: 3
+pitkaeae  : 3
+naey      : 3
+silmien   : 3
+applicable: 3
+kahta     : 3
+selvitti  : 3
+voimakas  : 3
+tiedustella: 3
+olikaan   : 3
+taeytaentoeoen: 3
+saattaa   : 3
+silmae    : 3
+donate    : 3
+katsahdettuaan: 3
+salista   : 3
+hotellin  : 3
+kaukana   : 3
+laitoksessa: 3
+punatukkaisen: 3
+loukannut : 3
+ryoestaemisen: 3
+poskiansa : 3
+kesti     : 3
+tasan     : 3
+syntynyt  : 3
+tuijottivat: 3
+noeyraesti: 3
+keskustelu: 3
+ANY       : 3
+olinyt    : 3
+ketae     : 3
+sittenkaeaen: 3
 hyvaeluontoinen: 3
-ahnaasti       : 3
-rakkaudesta    : 3
-viiniin        : 3
-General        : 3
-suhteen        : 3
-suorastaan     : 3
-kaeaensi       : 2
-kaedellae      : 2
-mahassa        : 2
-fyysilliseksi  : 2
-nurkan         : 2
-salata         : 2
-B              : 2
-N              : 2
-vuorotellen    : 2
-loppunut       : 2
-r              : 2
-v              : 2
-information    : 2
-copying        : 2
-Elle           : 2
-pidae          : 2
-kupongin       : 2
-hyoedyllinen   : 2
+ahnaasti  : 3
+rakkaudesta: 3
+viiniin   : 3
+General   : 3
+suhteen   : 3
+suorastaan: 3
+kaeaensi  : 2
+kaedellae : 2
+mahassa   : 2
+fyysilliseksi: 2
+nurkan    : 2
+salata    : 2
+B         : 2
+N         : 2
+vuorotellen: 2
+loppunut  : 2
+r         : 2
+v         : 2
+information: 2
+copying   : 2
+Elle      : 2
+pidae     : 2
+kupongin  : 2
+hyoedyllinen: 2
 tyytyvaeisyydellae: 2
-haukkua        : 2
-kaapun         : 2
-jalkojen       : 2
+haukkua   : 2
+kaapun    : 2
+jalkojen  : 2
 hyvaenhajuisella: 2
-myoentaevaet   : 2
-myoentaevaen   : 2
-niissae        : 2
-loukkasi       : 2
-olihaenellae   : 2
-viettelijaen   : 2
-asennossa      : 2
-tammikuun      : 2
-ottaaosaa      : 2
-creating       : 2
-Vanilla        : 2
-selaellaeaen   : 2
-tuote          : 2
-saeilytettiin  : 2
-paying         : 2
-There          : 2
-rohkeammin     : 2
-suutansa       : 2
-Muuta          : 2
-tapasivat      : 2
+myoentaevaet: 2
+myoentaevaen: 2
+niissae   : 2
+loukkasi  : 2
+olihaenellae: 2
+viettelijaen: 2
+asennossa : 2
+tammikuun : 2
+ottaaosaa : 2
+creating  : 2
+Vanilla   : 2
+selaellaeaen: 2
+tuote     : 2
+saeilytettiin: 2
+paying    : 2
+There     : 2
+rohkeammin: 2
+suutansa  : 2
+Muuta     : 2
+tapasivat : 2
 haenenhuomaamattansa: 2
-selvaeaen      : 2
-toimintaa      : 2
-viattomasti    : 2
-ettaejuuri     : 2
-kosia          : 2
-Tulen          : 2
-tavan          : 2
-koivut         : 2
-kuntaemae      : 2
-Enpae          : 2
-paeaetettyae   : 2
-useimmat       : 2
-hengityksensae : 2
-yllaetti       : 2
-syyttaeen      : 2
-yhdentekevaeae : 2
-penkereillae   : 2
-haisevaan      : 2
-kaeaentyivaet  : 2
-polttamisen    : 2
-pesijaettaeret : 2
-avata          : 2
-sovittaminen   : 2
-kohauttaen     : 2
-Taellae        : 2
-hiuksensa      : 2
-syyttaeae      : 2
-itkien         : 2
-turpean        : 2
-maksavat       : 2
-otsaansa       : 2
-huomautuksen   : 2
-kristillinen   : 2
+selvaeaen : 2
+toimintaa : 2
+viattomasti: 2
+ettaejuuri: 2
+kosia     : 2
+Tulen     : 2
+tavan     : 2
+koivut    : 2
+kuntaemae : 2
+Enpae     : 2
+paeaetettyae: 2
+useimmat  : 2
+hengityksensae: 2
+yllaetti  : 2
+syyttaeen : 2
+yhdentekevaeae: 2
+penkereillae: 2
+haisevaan : 2
+kaeaentyivaet: 2
+polttamisen: 2
+pesijaettaeret: 2
+avata     : 2
+sovittaminen: 2
+kohauttaen: 2
+Taellae   : 2
+hiuksensa : 2
+syyttaeae : 2
+itkien    : 2
+turpean   : 2
+maksavat  : 2
+otsaansa  : 2
+huomautuksen: 2
+kristillinen: 2
 kaeytaevaeaepitkin: 2
-tilaa          : 2
-nojatuolissa   : 2
-aeijae         : 2
+tilaa     : 2
+nojatuolissa: 2
+aeijae    : 2
 senkinvietaevae: 2
-syyttoemiae    : 2
-pyrki          : 2
-pyytaeen       : 2
-lykaetae       : 2
-tuomitsevan    : 2
-laehteekin     : 2
+syyttoemiae: 2
+pyrki     : 2
+pyytaeen  : 2
+lykaetae  : 2
+tuomitsevan: 2
+laehteekin: 2
 kastunutviinamarja: 2
-kokonansa      : 2
-Yleinen        : 2
+kokonansa : 2
+Yleinen   : 2
 kirjoituspoeydaen: 2
-ajelluilla     : 2
-kaeytaevissae  : 2
-silmaellae     : 2
-yleensaekin    : 2
-ellei          : 2
-tarvita        : 2
-reippaan       : 2
-arvasi         : 2
-vangittu       : 2
-Jasitten       : 2
-moittivasti    : 2
+ajelluilla: 2
+kaeytaevissae: 2
+silmaellae: 2
+yleensaekin: 2
+ellei     : 2
+tarvita   : 2
+reippaan  : 2
+arvasi    : 2
+vangittu  : 2
+Jasitten  : 2
+moittivasti: 2
 poskipartoineen: 2
-kaeytaevistae  : 2
-turhaa         : 2
-korkealle      : 2
-korkealla      : 2
-kasvoissaan    : 2
-hymaehtaeen    : 2
-joutuneet      : 2
-Kertomuksen    : 2
-lyhyt          : 2
-selittaenyt    : 2
-teillae        : 2
-suonikas       : 2
-satojen        : 2
-jaeljet        : 2
-nauruun        : 2
-piikaa         : 2
-annetuksi      : 2
-Ensimaeinen    : 2
-kuvernoeoerin  : 2
-poeydaellae    : 2
-hieroen        : 2
-kalpea         : 2
-kasvoissansa   : 2
-ylioppilaiden  : 2
-maljassa       : 2
-ukkoa          : 2
-muutokset      : 2
-Vastaamatta    : 2
-ylimenot       : 2
-myoennae       : 2
-odottaminen    : 2
-katsellut      : 2
-year           : 2
-luonanne       : 2
-Taeytyy        : 2
-nuorukaisen    : 2
-puolilla       : 2
-haevettaevaeae : 2
-vihille        : 2
-venaelaeisen   : 2
-ollessa        : 2
-halpamaisuuden : 2
-tekivaetkin    : 2
-yhteisesti     : 2
-Dr             : 2
-sanomme        : 2
-liikutetuksi   : 2
-royalties      : 2
-Mitja          : 2
-ajoissa        : 2
-tarvitaan      : 2
-sotilas        : 2
-It             : 2
+kaeytaevistae: 2
+turhaa    : 2
+korkealle : 2
+korkealla : 2
+kasvoissaan: 2
+hymaehtaeen: 2
+joutuneet : 2
+Kertomuksen: 2
+lyhyt     : 2
+selittaenyt: 2
+teillae   : 2
+suonikas  : 2
+satojen   : 2
+jaeljet   : 2
+nauruun   : 2
+piikaa    : 2
+annetuksi : 2
+Ensimaeinen: 2
+kuvernoeoerin: 2
+poeydaellae: 2
+hieroen   : 2
+kalpea    : 2
+kasvoissansa: 2
+ylioppilaiden: 2
+maljassa  : 2
+ukkoa     : 2
+muutokset : 2
+Vastaamatta: 2
+ylimenot  : 2
+myoennae  : 2
+odottaminen: 2
+katsellut : 2
+year      : 2
+luonanne  : 2
+Taeytyy   : 2
+nuorukaisen: 2
+puolilla  : 2
+haevettaevaeae: 2
+vihille   : 2
+venaelaeisen: 2
+ollessa   : 2
+halpamaisuuden: 2
+tekivaetkin: 2
+yhteisesti: 2
+Dr        : 2
+sanomme   : 2
+liikutetuksi: 2
+royalties : 2
+Mitja     : 2
+ajoissa   : 2
+tarvitaan : 2
+sotilas   : 2
+It        : 2
 yleisensyyttaejaen: 2
-Todellakin     : 2
+Todellakin: 2
 lukuunottamatta: 2
-cela           : 2
-vieraiden      : 2
-Me             : 2
-NO             : 2
-myrkky         : 2
-synkaesti      : 2
-joukko         : 2
-menetellae     : 2
-Keskustelu     : 2
-nuorena        : 2
-Royalty        : 2
-etteivaet      : 2
-juossut        : 2
-ovella         : 2
-Keskellae      : 2
-tuhannen       : 2
-pyyhkien       : 2
+cela      : 2
+vieraiden : 2
+Me        : 2
+NO        : 2
+myrkky    : 2
+synkaesti : 2
+joukko    : 2
+menetellae: 2
+Keskustelu: 2
+nuorena   : 2
+Royalty   : 2
+etteivaet : 2
+juossut   : 2
+ovella    : 2
+Keskellae : 2
+tuhannen  : 2
+pyyhkien  : 2
 vierashuoneeseen: 2
-kiintynyt      : 2
-hymyilyllae    : 2
-viikkoa        : 2
-permannolla    : 2
-ominaisuuden   : 2
-EBOOK          : 2
-taidokkaasti   : 2
-tiedaettekoes  : 2
-pistettynae    : 2
-tulisivat      : 2
-Krapivenskin   : 2
-outside        : 2
-kuuntelematta  : 2
-puuhaamaan     : 2
-muuttuvat      : 2
-Kenties        : 2
-mekin          : 2
-miellyttaenyt  : 2
-ah             : 2
-ai             : 2
-lapsuudestaan  : 2
-vartijain      : 2
-Distributed    : 2
-rauhallinen    : 2
-freely         : 2
-tultua         : 2
-huostaansa     : 2
-levottomuutta  : 2
-sotilaspuvussa : 2
-lyoenyt        : 2
-ystaevaensae   : 2
-laillisuuden   : 2
-linnut         : 2
-nuorille       : 2
-Senaatti       : 2
-verkkoihin     : 2
-je             : 2
-aeaenellaensae : 2
-nukkuisi       : 2
-second         : 2
-kallistuen     : 2
-Jollei         : 2
-nuhteita       : 2
-saapuminen     : 2
-otaksumiseen   : 2
-Except         : 2
-yhdeksi        : 2
-pidaettaeae    : 2
-haureustaloon  : 2
-joutavia       : 2
-Borkin         : 2
-registered     : 2
+kiintynyt : 2
+hymyilyllae: 2
+viikkoa   : 2
+permannolla: 2
+ominaisuuden: 2
+EBOOK     : 2
+taidokkaasti: 2
+tiedaettekoes: 2
+pistettynae: 2
+tulisivat : 2
+Krapivenskin: 2
+outside   : 2
+kuuntelematta: 2
+puuhaamaan: 2
+muuttuvat : 2
+Kenties   : 2
+mekin     : 2
+miellyttaenyt: 2
+ah        : 2
+ai        : 2
+lapsuudestaan: 2
+vartijain : 2
+Distributed: 2
+rauhallinen: 2
+freely    : 2
+tultua    : 2
+huostaansa: 2
+levottomuutta: 2
+sotilaspuvussa: 2
+lyoenyt   : 2
+ystaevaensae: 2
+laillisuuden: 2
+linnut    : 2
+nuorille  : 2
+Senaatti  : 2
+verkkoihin: 2
+je        : 2
+aeaenellaensae: 2
+nukkuisi  : 2
+second    : 2
+kallistuen: 2
+Jollei    : 2
+nuhteita  : 2
+saapuminen: 2
+otaksumiseen: 2
+Except    : 2
+yhdeksi   : 2
+pidaettaeae: 2
+haureustaloon: 2
+joutavia  : 2
+Borkin    : 2
+registered: 2
 tuliNehljudofin: 2
-pysyy          : 2
-passeja        : 2
-ajettiin       : 2
-ts             : 2
-totisuutta     : 2
-ontapahtunut   : 2
-Syntyi         : 2
-paksuja        : 2
+pysyy     : 2
+passeja   : 2
+ajettiin  : 2
+ts        : 2
+totisuutta: 2
+ontapahtunut: 2
+Syntyi    : 2
+paksuja   : 2
 Paeaestettyaeaen: 2
-senmukaan      : 2
-tyoe           : 2
-neitien        : 2
-ryyppy         : 2
-sulavasti      : 2
-eivoinut       : 2
-menevaensae    : 2
-hienot         : 2
-hienon         : 2
-Turgenjefin    : 2
-varoja         : 2
-hienoa         : 2
-seikkaa        : 2
-silmaelaseissa : 2
-naehdaeksensae : 2
-Tuoss          : 2
-luonnolliselta : 2
-jotkaolivat    : 2
-tyhjaeaen      : 2
-Paeaevartija   : 2
-toivoa         : 2
-piestiin       : 2
-puhuakseni     : 2
-valheen        : 2
-pistettyaeaen  : 2
+senmukaan : 2
+tyoe      : 2
+neitien   : 2
+ryyppy    : 2
+sulavasti : 2
+eivoinut  : 2
+menevaensae: 2
+hienot    : 2
+hienon    : 2
+Turgenjefin: 2
+varoja    : 2
+hienoa    : 2
+seikkaa   : 2
+silmaelaseissa: 2
+naehdaeksensae: 2
+Tuoss     : 2
+luonnolliselta: 2
+jotkaolivat: 2
+tyhjaeaen : 2
+Paeaevartija: 2
+toivoa    : 2
+piestiin  : 2
+puhuakseni: 2
+valheen   : 2
+pistettyaeaen: 2
 viettelijaensae: 2
-jaasiantuntija : 2
-voitavansa     : 2
-kynaeae        : 2
-toinentoisensa : 2
-ahdistella     : 2
-toivoi         : 2
-semmoiseen     : 2
-hellyyttae     : 2
-jaeljellae     : 2
+jaasiantuntija: 2
+voitavansa: 2
+kynaeae   : 2
+toinentoisensa: 2
+ahdistella: 2
+toivoi    : 2
+semmoiseen: 2
+hellyyttae: 2
+jaeljellae: 2
 Vastaanottohuoneessa: 2
 syyllisiksiyhteen: 2
-passinsa       : 2
-kaikilla       : 2
-sairaana       : 2
-tammikuuta     : 2
-syytettyihin   : 2
-erityisellae   : 2
-yllaepitaeae   : 2
+passinsa  : 2
+kaikilla  : 2
+sairaana  : 2
+tammikuuta: 2
+syytettyihin: 2
+erityisellae: 2
+yllaepitaeae: 2
 sotapalvelukseen: 2
-muutellen      : 2
-myrkytysjuttu  : 2
-jaetetty       : 2
-avatusta       : 2
-haepeaetae     : 2
-alalle         : 2
-laskea         : 2
-viipyae        : 2
-sydaen         : 2
+muutellen : 2
+myrkytysjuttu: 2
+jaetetty  : 2
+avatusta  : 2
+haepeaetae: 2
+alalle    : 2
+laskea    : 2
+viipyae   : 2
+sydaen    : 2
 GutenbergLiterary: 2
-kirkkaat       : 2
-has            : 2
-arvelunsa      : 2
-papista        : 2
-niskassa       : 2
-teeskennelty   : 2
-sanomaan       : 2
-syytettyyn     : 2
-vihasen        : 2
-kavahti        : 2
-karhuja        : 2
-hirteen        : 2
-apulaisista    : 2
-astumista      : 2
-vaunussa       : 2
-rehelliset     : 2
-veivaet        : 2
-sydaemmeensae  : 2
-suljetun       : 2
-jalallanikaan  : 2
-suljetut       : 2
-avioliitto     : 2
-eronnut        : 2
-kaeskystae     : 2
-small          : 2
-koiria         : 2
-ajuria         : 2
-pihan          : 2
-tielle         : 2
-Otettuaan      : 2
-nauhasissa     : 2
-kuvailla       : 2
-kohtauksen     : 2
-avioliiton     : 2
-hartaasti      : 2
-totuutta       : 2
-olituntenut    : 2
-japunastui     : 2
-ettemme        : 2
+kirkkaat  : 2
+has       : 2
+arvelunsa : 2
+papista   : 2
+niskassa  : 2
+teeskennelty: 2
+sanomaan  : 2
+syytettyyn: 2
+vihasen   : 2
+kavahti   : 2
+karhuja   : 2
+hirteen   : 2
+apulaisista: 2
+astumista : 2
+vaunussa  : 2
+rehelliset: 2
+veivaet   : 2
+sydaemmeensae: 2
+suljetun  : 2
+jalallanikaan: 2
+suljetut  : 2
+avioliitto: 2
+eronnut   : 2
+kaeskystae: 2
+small     : 2
+koiria    : 2
+ajuria    : 2
+pihan     : 2
+tielle    : 2
+Otettuaan : 2
+nauhasissa: 2
+kuvailla  : 2
+kohtauksen: 2
+avioliiton: 2
+hartaasti : 2
+totuutta  : 2
+olituntenut: 2
+japunastui: 2
+ettemme   : 2
 tyydyttaemaettae: 2
-turmelukseen   : 2
-Olenhan        : 2
-lopun          : 2
-seisoskeli     : 2
-perhettaensae  : 2
-Onneksi        : 2
-elpyi          : 2
-punastuen      : 2
-keskustelun    : 2
-taemmoeisiae   : 2
-isaennaen      : 2
-Sitaepaitsi    : 2
-poltti         : 2
-tyttaerensae   : 2
-haenenpiti     : 2
-irvessae       : 2
-pahaksi        : 2
-hullusti       : 2
-vihiae         : 2
-poikia         : 2
-emaennaelle    : 2
-jameni         : 2
-antautuu       : 2
-irroittaa      : 2
-rikkoa         : 2
-antautui       : 2
-verkkoa        : 2
+turmelukseen: 2
+Olenhan   : 2
+lopun     : 2
+seisoskeli: 2
+perhettaensae: 2
+Onneksi   : 2
+elpyi     : 2
+punastuen : 2
+keskustelun: 2
+taemmoeisiae: 2
+isaennaen : 2
+Sitaepaitsi: 2
+poltti    : 2
+tyttaerensae: 2
+haenenpiti: 2
+irvessae  : 2
+pahaksi   : 2
+hullusti  : 2
+vihiae    : 2
+poikia    : 2
+emaennaelle: 2
+jameni    : 2
+antautuu  : 2
+irroittaa : 2
+rikkoa    : 2
+antautui  : 2
+verkkoa   : 2
 kaunopuheliaisuudella: 2
-sallittu       : 2
-vieraalle      : 2
-junan          : 2
-katselemassa   : 2
-kaeymaeaen     : 2
-kovin          : 2
-tunnustanut    : 2
-isaensae       : 2
-toimenanne     : 2
-haentaevastaan : 2
-Puheenjohtajan : 2
-raehiset       : 2
-julman         : 2
-oksat          : 2
-laittautui     : 2
-olkapaeaet     : 2
-ansioita       : 2
-paloivat       : 2
-miellyttaevae  : 2
-arvostelemisen : 2
-muille         : 2
-kysymyksissae  : 2
-ikkunanluona   : 2
-kielletty      : 2
-portailla      : 2
-muuttunut      : 2
-puheli         : 2
-mikaetapahtui  : 2
-kiihkeaesti    : 2
-lujemmin       : 2
-vapaasti       : 2
-kiitti         : 2
-silmaekulmansa : 2
-tilaan         : 2
-pahalla        : 2
-valta          : 2
-synnyttaenyt   : 2
-Haevettaeae    : 2
+sallittu  : 2
+vieraalle : 2
+junan     : 2
+katselemassa: 2
+kaeymaeaen: 2
+kovin     : 2
+tunnustanut: 2
+isaensae  : 2
+toimenanne: 2
+haentaevastaan: 2
+Puheenjohtajan: 2
+raehiset  : 2
+julman    : 2
+oksat     : 2
+laittautui: 2
+olkapaeaet: 2
+ansioita  : 2
+paloivat  : 2
+miellyttaevae: 2
+arvostelemisen: 2
+muille    : 2
+kysymyksissae: 2
+ikkunanluona: 2
+kielletty : 2
+portailla : 2
+muuttunut : 2
+puheli    : 2
+mikaetapahtui: 2
+kiihkeaesti: 2
+lujemmin  : 2
+vapaasti  : 2
+kiitti    : 2
+silmaekulmansa: 2
+tilaan    : 2
+pahalla   : 2
+valta     : 2
+synnyttaenyt: 2
+Haevettaeae: 2
 kahdenvaiheilla: 2
-keskustella    : 2
-Apulainen      : 2
-yllaensae      : 2
-vaikuttaa      : 2
-Suokaa         : 2
-kertoivat      : 2
-lopettanut     : 2
-sataruplasia   : 2
-Kulkiessaan    : 2
-Stsheglofia    : 2
-puhutte        : 2
-nainutmies     : 2
-juosta         : 2
-nimi           : 2
-vapaa          : 2
+keskustella: 2
+Apulainen : 2
+yllaensae : 2
+vaikuttaa : 2
+Suokaa    : 2
+kertoivat : 2
+lopettanut: 2
+sataruplasia: 2
+Kulkiessaan: 2
+Stsheglofia: 2
+puhutte   : 2
+nainutmies: 2
+juosta    : 2
+nimi      : 2
+vapaa     : 2
 paeaestaeksensae: 2
-raskaat        : 2
-sinulta        : 2
-viikon         : 2
-taeyttaemistae : 2
-ihastuttavaa   : 2
-odotellen      : 2
-pappien        : 2
-elivaet        : 2
-tulipalon      : 2
-kiihoittunut   : 2
-kaetiloe       : 2
-onsyyllinen    : 2
-paikotellen    : 2
-toistaen       : 2
-vaikutti       : 2
-haenetja       : 2
-lavitsoilla    : 2
-vanhus         : 2
-vartijoista    : 2
-koppien        : 2
-sataruplasen   : 2
-liikkeelle     : 2
-toisiaan       : 2
-toistaan       : 2
-tottua         : 2
-bonte          : 2
-vietteli       : 2
-omat           : 2
-FULL           : 2
-ilmoittaen     : 2
+raskaat   : 2
+sinulta   : 2
+viikon    : 2
+taeyttaemistae: 2
+ihastuttavaa: 2
+odotellen : 2
+pappien   : 2
+elivaet   : 2
+tulipalon : 2
+kiihoittunut: 2
+kaetiloe  : 2
+onsyyllinen: 2
+paikotellen: 2
+toistaen  : 2
+vaikutti  : 2
+haenetja  : 2
+lavitsoilla: 2
+vanhus    : 2
+vartijoista: 2
+koppien   : 2
+sataruplasen: 2
+liikkeelle: 2
+toisiaan  : 2
+toistaan  : 2
+tottua    : 2
+bonte     : 2
+vietteli  : 2
+omat      : 2
+FULL      : 2
+ilmoittaen: 2
 briljanttisormus: 2
-naiseen        : 2
-sisaelmyksien  : 2
-Istukaahan     : 2
-tuotiin        : 2
-III            : 2
-ihanaksi       : 2
-omia           : 2
-ansaitsee      : 2
-kolistellen    : 2
-pitikin        : 2
+naiseen   : 2
+sisaelmyksien: 2
+Istukaahan: 2
+tuotiin   : 2
+III       : 2
+ihanaksi  : 2
+omia      : 2
+ansaitsee : 2
+kolistellen: 2
+pitikin   : 2
 Vierashuoneessa: 2
-nyrkkinsae     : 2
-asukkaita      : 2
-Yleisen        : 2
-YLOSNOUSEMUS   : 2
-Ensimaeisessae : 2
-maanomistus    : 2
-keltainen      : 2
-contain        : 2
+nyrkkinsae: 2
+asukkaita : 2
+Yleisen   : 2
+YLOSNOUSEMUS: 2
+Ensimaeisessae: 2
+maanomistus: 2
+keltainen : 2
+contain   : 2
 haureuslaitoksessa: 2
-allensa        : 2
-naurahti       : 2
-Kuinkako       : 2
-juo            : 2
-koskei         : 2
-parta          : 2
-contact        : 2
-Sillaevaelin   : 2
-ajeltuna       : 2
-enemmaenkin    : 2
-piika          : 2
-suljettuina    : 2
-historia       : 2
-pelaennyt      : 2
-valkoisen      : 2
-millaeaen      : 2
-lopulta        : 2
-luokkaan       : 2
-sentence       : 2
-vain           : 2
-silloinkuin    : 2
-hajulla        : 2
-riviin         : 2
-sehaen         : 2
-valo           : 2
-luotansa       : 2
-pulska         : 2
-ulkopuolella   : 2
-kynaen         : 2
-suostuivat     : 2
-lakeijan       : 2
-piiri          : 2
-different      : 2
-kaevellae      : 2
-matkien        : 2
-rillit         : 2
-editions       : 2
-Tulkaa         : 2
-huoneestansa   : 2
-ennenkaikkea   : 2
-Etpaehaen      : 2
-sotamiesten    : 2
-hytkaehti      : 2
-todistaja      : 2
-kaesitti       : 2
-paeivaeltae    : 2
-ihanin         : 2
-Ahaa           : 2
-siitaekin      : 2
-kuvattu        : 2
-jakaikki       : 2
-Paeaekallon    : 2
-parasta        : 2
-rukoili        : 2
-hiljainen      : 2
-mieslyhyessae  : 2
-ylettyivaet    : 2
-valkoista      : 2
-hapuili        : 2
-naehkaeaes     : 2
-Syytettynae    : 2
+allensa   : 2
+naurahti  : 2
+Kuinkako  : 2
+juo       : 2
+koskei    : 2
+parta     : 2
+contact   : 2
+Sillaevaelin: 2
+ajeltuna  : 2
+enemmaenkin: 2
+piika     : 2
+suljettuina: 2
+historia  : 2
+pelaennyt : 2
+valkoisen : 2
+millaeaen : 2
+lopulta   : 2
+luokkaan  : 2
+sentence  : 2
+vain      : 2
+silloinkuin: 2
+hajulla   : 2
+riviin    : 2
+sehaen    : 2
+valo      : 2
+luotansa  : 2
+pulska    : 2
+ulkopuolella: 2
+kynaen    : 2
+suostuivat: 2
+lakeijan  : 2
+piiri     : 2
+different : 2
+kaevellae : 2
+matkien   : 2
+rillit    : 2
+editions  : 2
+Tulkaa    : 2
+huoneestansa: 2
+ennenkaikkea: 2
+Etpaehaen : 2
+sotamiesten: 2
+hytkaehti : 2
+todistaja : 2
+kaesitti  : 2
+paeivaeltae: 2
+ihanin    : 2
+Ahaa      : 2
+siitaekin : 2
+kuvattu   : 2
+jakaikki  : 2
+Paeaekallon: 2
+parasta   : 2
+rukoili   : 2
+hiljainen : 2
+mieslyhyessae: 2
+ylettyivaet: 2
+valkoista : 2
+hapuili   : 2
+naehkaeaes: 2
+Syytettynae: 2
 kaesittaemaettae: 2
-only           : 2
-Ette           : 2
-laeheinen      : 2
-accepted       : 2
-arvostaan      : 2
-liikkumatta    : 2
-kappalaisen    : 2
-voittanut      : 2
-Botshkovaa     : 2
-onni           : 2
-varovasti      : 2
-would          : 2
-seoli          : 2
+only      : 2
+Ette      : 2
+laeheinen : 2
+accepted  : 2
+arvostaan : 2
+liikkumatta: 2
+kappalaisen: 2
+voittanut : 2
+Botshkovaa: 2
+onni      : 2
+varovasti : 2
+would     : 2
+seoli     : 2
 sairashuoneeseen: 2
-uskonto        : 2
-neljaenneksi   : 2
-kanssani       : 2
-kului          : 2
-Iltasella      : 2
-kumartelivat   : 2
-Its            : 2
-pienestae      : 2
-others         : 2
-Lakeija        : 2
-kaikkiolivat   : 2
+uskonto   : 2
+neljaenneksi: 2
+kanssani  : 2
+kului     : 2
+Iltasella : 2
+kumartelivat: 2
+Its       : 2
+pienestae : 2
+others    : 2
+Lakeija   : 2
+kaikkiolivat: 2
 miettivaeiseksi: 2
-noudattaa      : 2
-juottanut      : 2
-koitteli       : 2
-muistoja       : 2
-santarmin      : 2
-heolivat       : 2
-karkoitti      : 2
-Clementin      : 2
-uskomasta      : 2
-esine          : 2
-lasisilmaeinen : 2
-tovereillensa  : 2
-Kirjailija     : 2
-mielestaeni    : 2
-yhteiskunnan   : 2
-kiitollinen    : 2
-puhumatta      : 2
-oikeudelle     : 2
-les            : 2
-yhdellae       : 2
-naekoeiseksi   : 2
-heihin         : 2
+noudattaa : 2
+juottanut : 2
+koitteli  : 2
+muistoja  : 2
+santarmin : 2
+heolivat  : 2
+karkoitti : 2
+Clementin : 2
+uskomasta : 2
+esine     : 2
+lasisilmaeinen: 2
+tovereillensa: 2
+Kirjailija: 2
+mielestaeni: 2
+yhteiskunnan: 2
+kiitollinen: 2
+puhumatta : 2
+oikeudelle: 2
+les       : 2
+yhdellae  : 2
+naekoeiseksi: 2
+heihin    : 2
 tyydyttaemiseksi: 2
-verkkoon       : 2
-does           : 2
-taistelu       : 2
-tulleen        : 2
-lie            : 2
-uskoo          : 2
-ompeli         : 2
-valkoset       : 2
-siirsi         : 2
-olkapaeitae    : 2
-Vahtisotamies  : 2
-pauhu          : 2
-nauraa         : 2
-anastanut      : 2
+verkkoon  : 2
+does      : 2
+taistelu  : 2
+tulleen   : 2
+lie       : 2
+uskoo     : 2
+ompeli    : 2
+valkoset  : 2
+siirsi    : 2
+olkapaeitae: 2
+Vahtisotamies: 2
+pauhu     : 2
+nauraa    : 2
+anastanut : 2
 perinnoellisyyden: 2
-huomion        : 2
+huomion   : 2
 miellyttaevaeae: 2
-ulkonaisen     : 2
-kirkko         : 2
-jaentevae      : 2
-vaimoonsa      : 2
-varas          : 2
+ulkonaisen: 2
+kirkko    : 2
+jaentevae : 2
+vaimoonsa : 2
+varas     : 2
 vaelttaemaettoemaesti: 2
-sataan         : 2
-sukunimenne    : 2
-vangeista      : 2
-laulun         : 2
-spiooni        : 2
-lapsinensa     : 2
-Vanha          : 2
-kysellae       : 2
-viattoman      : 2
-kortteeria     : 2
-totuudessa     : 2
-valheesta      : 2
-monta          : 2
-omissa         : 2
-totuudesta     : 2
-sattuivat      : 2
-pysaehtynein   : 2
+sataan    : 2
+sukunimenne: 2
+vangeista : 2
+laulun    : 2
+spiooni   : 2
+lapsinensa: 2
+Vanha     : 2
+kysellae  : 2
+viattoman : 2
+kortteeria: 2
+totuudessa: 2
+valheesta : 2
+monta     : 2
+omissa    : 2
+totuudesta: 2
+sattuivat : 2
+pysaehtynein: 2
 kokoushuoneessa: 2
-lyhyillae      : 2
-itselleni      : 2
-luista         : 2
-ratkaistu      : 2
-tulvasi        : 2
-ratkaista      : 2
-Vasiljevnaa    : 2
-jamais         : 2
-Kornei         : 2
-maa            : 2
-viedae         : 2
-paeaessaensae  : 2
-sammuttivat    : 2
-myrkyttaenyt   : 2
-Vangit         : 2
-rauhallisena   : 2
-seinien        : 2
-korvansa       : 2
-maailma        : 2
-physical       : 2
-lasisilmissae  : 2
-elossa         : 2
-amour          : 2
-poissaolon     : 2
-helppo         : 2
-syytetyltae    : 2
-kanssanne      : 2
-olijoutunut    : 2
-vaikealta      : 2
-aeidiltae      : 2
-eilenkin       : 2
-huoneessansa   : 2
-ajatuksista    : 2
-kahdessa       : 2
-withalmost     : 2
-kaulansa       : 2
-vauhtia        : 2
-francaise      : 2
-rupeisin       : 2
-Menshova       : 2
-lakia          : 2
-puheenjohtajaa : 2
-specified      : 2
-suureen        : 2
-federal        : 2
-naurun         : 2
-ihmisestae     : 2
-taenaeaen      : 2
-nekin          : 2
-pojalle        : 2
-ajattelette    : 2
-muusta         : 2
-uskoivat       : 2
-lyhyen         : 2
-hetapasivat    : 2
-kuohahti       : 2
-ettaehaen      : 2
-kirjoja        : 2
-syyllisiksi    : 2
-kaikessa       : 2
-olleensa       : 2
-jutusta        : 2
-iloiset        : 2
-Roomaan        : 2
-ympaerillensae : 2
-anasti         : 2
-taulua         : 2
-ilmeestae      : 2
+lyhyillae : 2
+itselleni : 2
+luista    : 2
+ratkaistu : 2
+tulvasi   : 2
+ratkaista : 2
+Vasiljevnaa: 2
+jamais    : 2
+Kornei    : 2
+maa       : 2
+viedae    : 2
+paeaessaensae: 2
+sammuttivat: 2
+myrkyttaenyt: 2
+Vangit    : 2
+rauhallisena: 2
+seinien   : 2
+korvansa  : 2
+maailma   : 2
+physical  : 2
+lasisilmissae: 2
+elossa    : 2
+amour     : 2
+poissaolon: 2
+helppo    : 2
+syytetyltae: 2
+kanssanne : 2
+olijoutunut: 2
+vaikealta : 2
+aeidiltae : 2
+eilenkin  : 2
+huoneessansa: 2
+ajatuksista: 2
+kahdessa  : 2
+withalmost: 2
+kaulansa  : 2
+vauhtia   : 2
+francaise : 2
+rupeisin  : 2
+Menshova  : 2
+lakia     : 2
+puheenjohtajaa: 2
+specified : 2
+suureen   : 2
+federal   : 2
+naurun    : 2
+ihmisestae: 2
+taenaeaen : 2
+nekin     : 2
+pojalle   : 2
+ajattelette: 2
+muusta    : 2
+uskoivat  : 2
+lyhyen    : 2
+hetapasivat: 2
+kuohahti  : 2
+ettaehaen : 2
+kirjoja   : 2
+syyllisiksi: 2
+kaikessa  : 2
+olleensa  : 2
+jutusta   : 2
+iloiset   : 2
+Roomaan   : 2
+ympaerillensae: 2
+anasti    : 2
+taulua    : 2
+ilmeestae : 2
 koukkunokkainen: 2
-virkatakki     : 2
-talosta        : 2
-sotilaallinen  : 2
-pitaeneet      : 2
-pukuun         : 2
-ottaneet       : 2
-tietaeen       : 2
-jutussa        : 2
-rikokseni      : 2
-rappusten      : 2
-valamiehistae  : 2
-kauhu          : 2
-vyoetettynae   : 2
-pahana         : 2
-kaula          : 2
+virkatakki: 2
+talosta   : 2
+sotilaallinen: 2
+pitaeneet : 2
+pukuun    : 2
+ottaneet  : 2
+tietaeen  : 2
+jutussa   : 2
+rikokseni : 2
+rappusten : 2
+valamiehistae: 2
+kauhu     : 2
+vyoetettynae: 2
+pahana    : 2
+kaula     : 2
 metsaestyslaukussa: 2
-nen            : 2
-auttoivat      : 2
-ollutkoskaan   : 2
-Toisen         : 2
-jumalankuvan   : 2
-Toiset         : 2
-kaersi         : 2
-kuolemasta     : 2
-liikahti       : 2
-makuulle       : 2
-poissa         : 2
-jaettaekaeae   : 2
-veijareita     : 2
-lukemisesta    : 2
-muutti         : 2
-mitaepae       : 2
-intohimon      : 2
-haudannut      : 2
-leipae         : 2
-sanoitte       : 2
-myrkytyksestae : 2
-ylevae         : 2
-laetaekoeiden  : 2
-eiole          : 2
-odottamattoman : 2
-Olkapaeaet     : 2
-loeytynyt      : 2
-kunpa          : 2
-ruveta         : 2
-huomaavat      : 2
-Akka           : 2
-henkiloestae   : 2
-tuoksua        : 2
-kaesillaeaen   : 2
-jaerjestykseen : 2
-tuomarit       : 2
-certain        : 2
-hulluuden      : 2
-tyoehoen       : 2
-marked         : 2
-ehdottomasti   : 2
-Naeitae        : 2
-rakastuneet    : 2
-painautuen     : 2
-hinnasta       : 2
-vaivasi        : 2
-tarpeettomia   : 2
-kuullessaan    : 2
-lapsikin       : 2
-ajaksi         : 2
-promoting      : 2
-loeydetty      : 2
-varsinkin      : 2
-pahempaa       : 2
-nuoruudessa    : 2
-tauluja        : 2
-huomaamatta    : 2
-veli           : 2
-mustissa       : 2
-vastakkain     : 2
-kultaisissa    : 2
+nen       : 2
+auttoivat : 2
+ollutkoskaan: 2
+Toisen    : 2
+jumalankuvan: 2
+Toiset    : 2
+kaersi    : 2
+kuolemasta: 2
+liikahti  : 2
+makuulle  : 2
+poissa    : 2
+jaettaekaeae: 2
+veijareita: 2
+lukemisesta: 2
+muutti    : 2
+mitaepae  : 2
+intohimon : 2
+haudannut : 2
+leipae    : 2
+sanoitte  : 2
+myrkytyksestae: 2
+ylevae    : 2
+laetaekoeiden: 2
+eiole     : 2
+odottamattoman: 2
+Olkapaeaet: 2
+loeytynyt : 2
+kunpa     : 2
+ruveta    : 2
+huomaavat : 2
+Akka      : 2
+henkiloestae: 2
+tuoksua   : 2
+kaesillaeaen: 2
+jaerjestykseen: 2
+tuomarit  : 2
+certain   : 2
+hulluuden : 2
+tyoehoen  : 2
+marked    : 2
+ehdottomasti: 2
+Naeitae   : 2
+rakastuneet: 2
+painautuen: 2
+hinnasta  : 2
+vaivasi   : 2
+tarpeettomia: 2
+kuullessaan: 2
+lapsikin  : 2
+ajaksi    : 2
+promoting : 2
+loeydetty : 2
+varsinkin : 2
+pahempaa  : 2
+nuoruudessa: 2
+tauluja   : 2
+huomaamatta: 2
+veli      : 2
+mustissa  : 2
+vastakkain: 2
+kultaisissa: 2
 odotushuoneessa: 2
-jutellen       : 2
-kaunistyttoe   : 2
-veri           : 2
-naama          : 2
-Alussa         : 2
-lopettaisi     : 2
+jutellen  : 2
+kaunistyttoe: 2
+veri      : 2
+naama     : 2
+Alussa    : 2
+lopettaisi: 2
 VapahtajaniJeesus: 2
-Mat            : 2
-yllytti        : 2
-kummallisella  : 2
-pitsimyssy     : 2
-naimisissa     : 2
+Mat       : 2
+yllytti   : 2
+kummallisella: 2
+pitsimyssy: 2
+naimisissa: 2
 toisellapuolella: 2
-korkeassa      : 2
-tuodut         : 2
-huvittavalta   : 2
-naeoeltae      : 2
-salaisia       : 2
-ilmaisee       : 2
-runous         : 2
-henkisen       : 2
-pienimmaetkin  : 2
-puhu           : 2
-oja            : 2
-taemmoeisen    : 2
-paeaestoelippu : 2
-Parin          : 2
-pujotti        : 2
-liikuttava     : 2
-ikkuna         : 2
-puki           : 2
-Poeydaen       : 2
-kirjoitamme    : 2
-Tietenkin      : 2
-peraeae        : 2
-Jotkut         : 2
-ihmettae       : 2
-NOT            : 2
-jasitten       : 2
-jaalkoi        : 2
-lieu           : 2
-viini          : 2
-huoneustoa     : 2
-nelistaeminen  : 2
-raippoja       : 2
-mekkonsa       : 2
-tekemistae     : 2
-omaisuuteen    : 2
-ohikulkevien   : 2
-Ljubofj        : 2
-Oletettiin     : 2
-paidan         : 2
-orre           : 2
-iloitsi        : 2
-hihoissa       : 2
-yksikaeaen     : 2
-toistensa      : 2
-kieltaeytyi    : 2
-omituisuus     : 2
-tuttua         : 2
-pilkkaa        : 2
-guvernantti    : 2
-silmaeili      : 2
-uskoon         : 2
-paeivaestae    : 2
-lapsiansa      : 2
+korkeassa : 2
+tuodut    : 2
+huvittavalta: 2
+naeoeltae : 2
+salaisia  : 2
+ilmaisee  : 2
+runous    : 2
+henkisen  : 2
+pienimmaetkin: 2
+puhu      : 2
+oja       : 2
+taemmoeisen: 2
+paeaestoelippu: 2
+Parin     : 2
+pujotti   : 2
+liikuttava: 2
+ikkuna    : 2
+puki      : 2
+Poeydaen  : 2
+kirjoitamme: 2
+Tietenkin : 2
+peraeae   : 2
+Jotkut    : 2
+ihmettae  : 2
+NOT       : 2
+jasitten  : 2
+jaalkoi   : 2
+lieu      : 2
+viini     : 2
+huoneustoa: 2
+nelistaeminen: 2
+raippoja  : 2
+mekkonsa  : 2
+tekemistae: 2
+omaisuuteen: 2
+ohikulkevien: 2
+Ljubofj   : 2
+Oletettiin: 2
+paidan    : 2
+orre      : 2
+iloitsi   : 2
+hihoissa  : 2
+yksikaeaen: 2
+toistensa : 2
+kieltaeytyi: 2
+omituisuus: 2
+tuttua    : 2
+pilkkaa   : 2
+guvernantti: 2
+silmaeili : 2
+uskoon    : 2
+paeivaestae: 2
+lapsiansa : 2
 palovakuutuksen: 2
-verkkojen      : 2
-tyttaereltae   : 2
-syntyae        : 2
-kummastutti    : 2
-pyyhki         : 2
-estettae       : 2
-mimmoisena     : 2
-kaeytiin       : 2
-ylempaenae     : 2
-Avioliittoa    : 2
-hienojen       : 2
-Berta          : 2
-Oven           : 2
-tulemassa      : 2
-tultuanne      : 2
-ylaepuolella   : 2
-nythaen        : 2
-osan           : 2
+verkkojen : 2
+tyttaereltae: 2
+syntyae   : 2
+kummastutti: 2
+pyyhki    : 2
+estettae  : 2
+mimmoisena: 2
+kaeytiin  : 2
+ylempaenae: 2
+Avioliittoa: 2
+hienojen  : 2
+Berta     : 2
+Oven      : 2
+tulemassa : 2
+tultuanne : 2
+ylaepuolella: 2
+nythaen   : 2
+osan      : 2
 tirehtoeoeriltae: 2
-taemaeseikka   : 2
+taemaeseikka: 2
 yhteiskunnallisia: 2
-vaeaeryyden    : 2
-tarkastamaan   : 2
-Jumalani       : 2
-silmissaensae  : 2
-ryoestoe       : 2
-laskenut       : 2
-yhtaemittaa    : 2
-mieshenkiloe   : 2
-lihaa          : 2
+vaeaeryyden: 2
+tarkastamaan: 2
+Jumalani  : 2
+silmissaensae: 2
+ryoestoe  : 2
+laskenut  : 2
+yhtaemittaa: 2
+mieshenkiloe: 2
+lihaa     : 2
 neuvoshuoneeseen: 2
-siperialainen  : 2
-sormet         : 2
-erillaeaen     : 2
-solakkaa       : 2
-merkitystae    : 2
-tunnustaminen  : 2
-saapunut       : 2
-Kaiken         : 2
-korjasi        : 2
-jatkamaan      : 2
-muisto         : 2
-mustunut       : 2
-Senkin         : 2
-sormin         : 2
-tarmokas       : 2
-mahdollisuudet : 2
-receipt        : 2
-hihittaeen     : 2
-kuulusteluista : 2
-antoivat       : 2
-Jumalaan       : 2
-muistuttivat   : 2
-kaikkine       : 2
-kaikkina       : 2
+siperialainen: 2
+sormet    : 2
+erillaeaen: 2
+solakkaa  : 2
+merkitystae: 2
+tunnustaminen: 2
+saapunut  : 2
+Kaiken    : 2
+korjasi   : 2
+jatkamaan : 2
+muisto    : 2
+mustunut  : 2
+Senkin    : 2
+sormin    : 2
+tarmokas  : 2
+mahdollisuudet: 2
+receipt   : 2
+hihittaeen: 2
+kuulusteluista: 2
+antoivat  : 2
+Jumalaan  : 2
+muistuttivat: 2
+kaikkine  : 2
+kaikkina  : 2
 vaeaennyksissae: 2
-ajaessaan      : 2
-Eraeaen        : 2
-tulleensa      : 2
-osti           : 2
-vierivaet      : 2
+ajaessaan : 2
+Eraeaen   : 2
+tulleensa : 2
+osti      : 2
+vierivaet : 2
 ainoastaansentaehden: 2
-paeaesyn       : 2
-loisti         : 2
-toimesta       : 2
-vaimolle       : 2
-naisaeaeniae   : 2
-toimessa       : 2
-hopeinen       : 2
-Vaelimatka     : 2
-syntynytkin    : 2
-lamppu         : 2
-Pietarissa     : 2
-elaemaeaen     : 2
-syyttaejaeltae : 2
-tuokiossa      : 2
-musiikkia      : 2
-talo           : 2
-syvaeaen       : 2
-sanojen        : 2
-laidan         : 2
-kolmasti       : 2
-Saako          : 2
-laesnaeolijain : 2
-koputettiin    : 2
+paeaesyn  : 2
+loisti    : 2
+toimesta  : 2
+vaimolle  : 2
+naisaeaeniae: 2
+toimessa  : 2
+hopeinen  : 2
+Vaelimatka: 2
+syntynytkin: 2
+lamppu    : 2
+Pietarissa: 2
+elaemaeaen: 2
+syyttaejaeltae: 2
+tuokiossa : 2
+musiikkia : 2
+talo      : 2
+syvaeaen  : 2
+sanojen   : 2
+laidan    : 2
+kolmasti  : 2
+Saako     : 2
+laesnaeolijain: 2
+koputettiin: 2
 Kortshagineihin: 2
-koettavansa    : 2
-vankila        : 2
-tapa           : 2
-vuosi          : 2
-omistamalla    : 2
-Rahat          : 2
-kasvatettu     : 2
-Haluaisin      : 2
-kuinkakin      : 2
-toimiin        : 2
-asetetut       : 2
-asuvan         : 2
-leivaen        : 2
-toimi          : 2
-otin           : 2
-paeaeset       : 2
-totisiksi      : 2
-paikkaa        : 2
-soiton         : 2
-veltto         : 2
-Rapsodia       : 2
-viikset        : 2
-vuotiaana      : 2
+koettavansa: 2
+vankila   : 2
+tapa      : 2
+vuosi     : 2
+omistamalla: 2
+Rahat     : 2
+kasvatettu: 2
+Haluaisin : 2
+kuinkakin : 2
+toimiin   : 2
+asetetut  : 2
+asuvan    : 2
+leivaen   : 2
+toimi     : 2
+otin      : 2
+paeaeset  : 2
+totisiksi : 2
+paikkaa   : 2
+soiton    : 2
+veltto    : 2
+Rapsodia  : 2
+viikset   : 2
+vuotiaana : 2
 valamiesoikeutta: 2
-taedit         : 2
-kyynaespaeaet  : 2
-kuoli          : 2
-kotiopettaja   : 2
-Saivat         : 2
-collection     : 2
-sisaelsivaet   : 2
-Pikku          : 2
-naekoeisensae  : 2
-Saeaetynne     : 2
-poeytaeaen     : 2
-jaettaemaettae : 2
-mainio         : 2
-Yhtae          : 2
-damages        : 2
-ajatellen      : 2
-sanoiMaslova   : 2
-lumessa        : 2
-poikkesi       : 2
-rappusilta     : 2
-Ovella         : 2
-noeyrimmaesti  : 2
-suurilla       : 2
-solicit        : 2
-nauruansa      : 2
-kelloa         : 2
-paperiinsa     : 2
-kyllaehaen     : 2
-jalallaan      : 2
-lyhyesti       : 2
-huolellisuus   : 2
-pimeae         : 2
-tapauksissa    : 2
-samoja         : 2
-piirikunnassa  : 2
-pojalta        : 2
-piirikunnasta  : 2
-talonpojan     : 2
-kirjaimineen   : 2
-itsessaensae   : 2
-sairaiden      : 2
-tunnustetuksi  : 2
-naeissae       : 2
-talonpojat     : 2
-erinomaisesti  : 2
-hirveae        : 2
-sanoakseni     : 2
-paeivaeaen     : 2
-lasit          : 2
-lasin          : 2
-ketale         : 2
-Poelloe        : 2
-valkea         : 2
-kuski          : 2
-lumen          : 2
-mestarinsa     : 2
-tiesin         : 2
-Tavallisesti   : 2
-nopea          : 2
-Riikonenand    : 2
-hirvittaevae   : 2
-tyhjaelle      : 2
-Tyttoe         : 2
-vuodeksi       : 2
-Vuonna         : 2
-where          : 2
-through        : 2
-punanen        : 2
-itsessaeaen    : 2
-jatuntien      : 2
-tapaan         : 2
-tyttoejae      : 2
-tunnustan      : 2
+taedit    : 2
+kyynaespaeaet: 2
+kuoli     : 2
+kotiopettaja: 2
+Saivat    : 2
+collection: 2
+sisaelsivaet: 2
+Pikku     : 2
+naekoeisensae: 2
+Saeaetynne: 2
+poeytaeaen: 2
+jaettaemaettae: 2
+mainio    : 2
+Yhtae     : 2
+damages   : 2
+ajatellen : 2
+sanoiMaslova: 2
+lumessa   : 2
+poikkesi  : 2
+rappusilta: 2
+Ovella    : 2
+noeyrimmaesti: 2
+suurilla  : 2
+solicit   : 2
+nauruansa : 2
+kelloa    : 2
+paperiinsa: 2
+kyllaehaen: 2
+jalallaan : 2
+lyhyesti  : 2
+huolellisuus: 2
+pimeae    : 2
+tapauksissa: 2
+samoja    : 2
+piirikunnassa: 2
+pojalta   : 2
+piirikunnasta: 2
+talonpojan: 2
+kirjaimineen: 2
+itsessaensae: 2
+sairaiden : 2
+tunnustetuksi: 2
+naeissae  : 2
+talonpojat: 2
+erinomaisesti: 2
+hirveae   : 2
+sanoakseni: 2
+paeivaeaen: 2
+lasit     : 2
+lasin     : 2
+ketale    : 2
+Poelloe   : 2
+valkea    : 2
+kuski     : 2
+lumen     : 2
+mestarinsa: 2
+tiesin    : 2
+Tavallisesti: 2
+nopea     : 2
+Riikonenand: 2
+hirvittaevae: 2
+tyhjaelle : 2
+Tyttoe    : 2
+vuodeksi  : 2
+Vuonna    : 2
+where     : 2
+through   : 2
+punanen   : 2
+itsessaeaen: 2
+jatuntien : 2
+tapaan    : 2
+tyttoejae : 2
+tunnustan : 2
 laehetettaevaeksi: 2
-katsella       : 2
-Katjushassa    : 2
-paitasillaan   : 2
-Samaan         : 2
-vankikenkien   : 2
-saappaat       : 2
-aijon          : 2
-paperit        : 2
-viekkaudella   : 2
-rauhalliset    : 2
-vauhtiin       : 2
-viisas         : 2
-rivakkaasti    : 2
-ilmaisten      : 2
-koridoorissa   : 2
+katsella  : 2
+Katjushassa: 2
+paitasillaan: 2
+Samaan    : 2
+vankikenkien: 2
+saappaat  : 2
+aijon     : 2
+paperit   : 2
+viekkaudella: 2
+rauhalliset: 2
+vauhtiin  : 2
+viisas    : 2
+rivakkaasti: 2
+ilmaisten : 2
+koridoorissa: 2
 minkaeaenlaista: 2
-most           : 2
-Uutta          : 2
-huvittavaa     : 2
-kaesiin        : 2
-lupasi         : 2
-Poikanen       : 2
-ratsastaminen  : 2
-also           : 2
-olisiollut     : 2
-kallistuivat   : 2
-JaNehljudofin  : 2
-vuodenkuluttua : 2
-liikkeillae    : 2
-syistae        : 2
-WARRANTY       : 2
-anastaminen    : 2
+most      : 2
+Uutta     : 2
+huvittavaa: 2
+kaesiin   : 2
+lupasi    : 2
+Poikanen  : 2
+ratsastaminen: 2
+also      : 2
+olisiollut: 2
+kallistuivat: 2
+JaNehljudofin: 2
+vuodenkuluttua: 2
+liikkeillae: 2
+syistae   : 2
+WARRANTY  : 2
+anastaminen: 2
 briljanttisormuksen: 2
-maksan         : 2
-muuttaen       : 2
-Majesteetille  : 2
-ovet           : 2
-bound          : 2
-ruumiillisesti : 2
-tuhlasi        : 2
-inhoa          : 2
-kahvin         : 2
-taaksensa      : 2
-maeaeraessae   : 2
-Petrovnalle    : 2
-tietenkaeaen   : 2
-riemu          : 2
-kurja          : 2
-laillisen      : 2
-naurahtaen     : 2
-soi            : 2
+maksan    : 2
+muuttaen  : 2
+Majesteetille: 2
+ovet      : 2
+bound     : 2
+ruumiillisesti: 2
+tuhlasi   : 2
+inhoa     : 2
+kahvin    : 2
+taaksensa : 2
+maeaeraessae: 2
+Petrovnalle: 2
+tietenkaeaen: 2
+riemu     : 2
+kurja     : 2
+laillisen : 2
+naurahtaen: 2
+soi       : 2
 kirjoituspoeytae: 2
-tyhjaen        : 2
-ripustettu     : 2
-paeaeseminen   : 2
-haluttaisi     : 2
-rikosasiain    : 2
-kaesistae      : 2
-puhumme        : 2
-nykyiseen      : 2
-rautojen       : 2
-umpeen         : 2
-suurinta       : 2
-kuritushuone   : 2
-tarkoitti      : 2
-irtautua       : 2
-irtautuu       : 2
+tyhjaen   : 2
+ripustettu: 2
+paeaeseminen: 2
+haluttaisi: 2
+rikosasiain: 2
+kaesistae : 2
+puhumme   : 2
+nykyiseen : 2
+rautojen  : 2
+umpeen    : 2
+suurinta  : 2
+kuritushuone: 2
+tarkoitti : 2
+irtautua  : 2
+irtautuu  : 2
 kuulumattomasti: 2
-jommoista      : 2
-tietae         : 2
-Siihen         : 2
-pysyen         : 2
-tarkoitus      : 2
+jommoista : 2
+tietae    : 2
+Siihen    : 2
+pysyen    : 2
+tarkoitus : 2
 saeaelimaettoemaesti: 2
-suurin         : 2
-mukanaan       : 2
-levitteli      : 2
-laittomasti    : 2
-luvannut       : 2
-Haenoli        : 2
-naeet          : 2
-Vasta          : 2
-tuomitsemaan   : 2
-files          : 2
-maksa          : 2
-leikattu       : 2
-olennossaan    : 2
-kaesivarrella  : 2
-edellensae     : 2
-tee            : 2
-Alappa         : 2
-haju           : 2
-ottamatta      : 2
-aelaes         : 2
-Syytetyt       : 2
-same           : 2
-hame           : 2
-halu           : 2
-keskeytyksen   : 2
-sana           : 2
-ikaevaen       : 2
-paeaesseet     : 2
-tarkoituksensa : 2
-pysaehtyivaet  : 2
-provided       : 2
-varkaudesta    : 2
+suurin    : 2
+mukanaan  : 2
+levitteli : 2
+laittomasti: 2
+luvannut  : 2
+Haenoli   : 2
+naeet     : 2
+Vasta     : 2
+tuomitsemaan: 2
+files     : 2
+maksa     : 2
+leikattu  : 2
+olennossaan: 2
+kaesivarrella: 2
+edellensae: 2
+tee       : 2
+Alappa    : 2
+haju      : 2
+ottamatta : 2
+aelaes    : 2
+Syytetyt  : 2
+same      : 2
+hame      : 2
+halu      : 2
+keskeytyksen: 2
+sana      : 2
+ikaevaen  : 2
+paeaesseet: 2
+tarkoituksensa: 2
+pysaehtyivaet: 2
+provided  : 2
+varkaudesta: 2
 haenenkanssansa: 2
-ihmeen         : 2
-meneminen      : 2
-kuulu          : 2
+ihmeen    : 2
+meneminen : 2
+kuulu     : 2
 ruhtinattarelle: 2
-withthe        : 2
-kaeytaevaeae   : 2
-Comme          : 2
-ratkaiseva     : 2
-luettiin       : 2
-Ihan           : 2
-owns           : 2
-sytyttaeneet   : 2
-kuuluivat      : 2
-mielellaeaen   : 2
-kuusi          : 2
-hymyily        : 2
-naisvankia     : 2
-oletko         : 2
-ontaeaellae    : 2
-odottamattansa : 2
-heraettaenyt   : 2
-Muutamat       : 2
-taeytyykin     : 2
-rangaistus     : 2
-taemaepae      : 2
-anna           : 2
-syytettynae    : 2
-Taikka         : 2
-saeaelittaeae  : 2
-mytty          : 2
-seurauksia     : 2
-nuorta         : 2
-huonekaluja    : 2
-kynttiloeillae : 2
-created        : 2
-tunnettu       : 2
-tuntemattomain : 2
-tuottaa        : 2
-korttia        : 2
-Naeinhaen      : 2
-monien         : 2
-kolmas         : 2
-lunastaa       : 2
-right          : 2
-pitaemaettae   : 2
-haenkuitenkin  : 2
-sohvan         : 2
+withthe   : 2
+kaeytaevaeae: 2
+Comme     : 2
+ratkaiseva: 2
+luettiin  : 2
+Ihan      : 2
+owns      : 2
+sytyttaeneet: 2
+kuuluivat : 2
+mielellaeaen: 2
+kuusi     : 2
+hymyily   : 2
+naisvankia: 2
+oletko    : 2
+ontaeaellae: 2
+odottamattansa: 2
+heraettaenyt: 2
+Muutamat  : 2
+taeytyykin: 2
+rangaistus: 2
+taemaepae : 2
+anna      : 2
+syytettynae: 2
+Taikka    : 2
+saeaelittaeae: 2
+mytty     : 2
+seurauksia: 2
+nuorta    : 2
+huonekaluja: 2
+kynttiloeillae: 2
+created   : 2
+tunnettu  : 2
+tuntemattomain: 2
+tuottaa   : 2
+korttia   : 2
+Naeinhaen : 2
+monien    : 2
+kolmas    : 2
+lunastaa  : 2
+right     : 2
+pitaemaettae: 2
+haenkuitenkin: 2
+sohvan    : 2
 kuritushuoneeseen: 2
-viilari        : 2
-ettet          : 2
-une            : 2
-uni            : 2
-huvitettu      : 2
-aikomuksensa   : 2
-tukassa        : 2
-ihmisistae     : 2
-toimeen        : 2
-hajua          : 2
-kahtia         : 2
-kiharoina      : 2
-THAT           : 2
-ajatuksiinsa   : 2
-Antakaahan     : 2
-esivalta       : 2
+viilari   : 2
+ettet     : 2
+une       : 2
+uni       : 2
+huvitettu : 2
+aikomuksensa: 2
+tukassa   : 2
+ihmisistae: 2
+toimeen   : 2
+hajua     : 2
+kahtia    : 2
+kiharoina : 2
+THAT      : 2
+ajatuksiinsa: 2
+Antakaahan: 2
+esivalta  : 2
 poerhoetukkainen: 2
-kutoi          : 2
-tarkoituksen   : 2
-kaeaentymaeaen : 2
-seurustelu     : 2
-Niinkuin       : 2
-pisteli        : 2
-vaipuneena     : 2
-Miranda        : 2
-harvoja        : 2
-Nainen         : 2
-konjakkiin     : 2
-ryypaennyt     : 2
-ainoastansa    : 2
-laeksin        : 2
-haenenkasvonsa : 2
-metsaessae     : 2
-teraevaellae   : 2
-paeaettyneeksi : 2
-saeaelien      : 2
-laesnaeolijan  : 2
-hattuansa      : 2
-tuliikkunan    : 2
-valitsi        : 2
-kokenut        : 2
-Rouva          : 2
-van            : 2
-heraennyt      : 2
-alhaalla       : 2
-Naeettekoes    : 2
-liiteriin      : 2
-hakea          : 2
-syyksi         : 2
+kutoi     : 2
+tarkoituksen: 2
+kaeaentymaeaen: 2
+seurustelu: 2
+Niinkuin  : 2
+pisteli   : 2
+vaipuneena: 2
+Miranda   : 2
+harvoja   : 2
+Nainen    : 2
+konjakkiin: 2
+ryypaennyt: 2
+ainoastansa: 2
+laeksin   : 2
+haenenkasvonsa: 2
+metsaessae: 2
+teraevaellae: 2
+paeaettyneeksi: 2
+saeaelien : 2
+laesnaeolijan: 2
+hattuansa : 2
+tuliikkunan: 2
+valitsi   : 2
+kokenut   : 2
+Rouva     : 2
+van       : 2
+heraennyt : 2
+alhaalla  : 2
+Naeettekoes: 2
+liiteriin : 2
+hakea     : 2
+syyksi    : 2
 maeaeraepaeivaeae: 2
-Muttajuuri     : 2
-naekoeisinae   : 2
-sukulainen     : 2
-Sentaehden     : 2
-loukkaantui    : 2
-seinaen        : 2
-veriin         : 2
-ikkunalta      : 2
-katsomuksen    : 2
-pulverilla     : 2
-Teillae        : 2
-menneeksi      : 2
-Kartinkiniin   : 2
-juotuansa      : 2
-official       : 2
-often          : 2
-obtaining      : 2
-Istukaa        : 2
-Asia           : 2
-START          : 2
-tavatakseen    : 2
-mustina        : 2
-valoon         : 2
-sekasin        : 2
-kelloonsa      : 2
-remahti        : 2
-shall          : 2
-traagillisella : 2
-lattiaan       : 2
-apulaiselleen  : 2
-huonolla       : 2
-suostun        : 2
-maistui        : 2
-kaivoi         : 2
-arasti         : 2
-appi           : 2
+Muttajuuri: 2
+naekoeisinae: 2
+sukulainen: 2
+Sentaehden: 2
+loukkaantui: 2
+seinaen   : 2
+veriin    : 2
+ikkunalta : 2
+katsomuksen: 2
+pulverilla: 2
+Teillae   : 2
+menneeksi : 2
+Kartinkiniin: 2
+juotuansa : 2
+official  : 2
+often     : 2
+obtaining : 2
+Istukaa   : 2
+Asia      : 2
+START     : 2
+tavatakseen: 2
+mustina   : 2
+valoon    : 2
+sekasin   : 2
+kelloonsa : 2
+remahti   : 2
+shall     : 2
+traagillisella: 2
+lattiaan  : 2
+apulaiselleen: 2
+huonolla  : 2
+suostun   : 2
+maistui   : 2
+kaivoi    : 2
+arasti    : 2
+appi      : 2
 hyvaentahtoisine: 2
-anastetun      : 2
-ristinmerkkiae : 2
-loeytaeneet    : 2
-asianajajasta  : 2
-toimintaansa   : 2
-Nuorukainen    : 2
-apua           : 2
-vaesynyt       : 2
-laehellae      : 2
-paeaen         : 2
-paeaet         : 2
-poppelit       : 2
-mimmoisia      : 2
+anastetun : 2
+ristinmerkkiae: 2
+loeytaeneet: 2
+asianajajasta: 2
+toimintaansa: 2
+Nuorukainen: 2
+apua      : 2
+vaesynyt  : 2
+laehellae : 2
+paeaen    : 2
+paeaet    : 2
+poppelit  : 2
+mimmoisia : 2
 tuttavallisuutta: 2
-laehestyen     : 2
-kruunu         : 2
-saapua         : 2
-puhuessa       : 2
-naelkaeinen    : 2
-selittaeen     : 2
-hameen         : 2
-paksua         : 2
-paksut         : 2
-kaikkiihmiset  : 2
-tyttoenae      : 2
-viekas         : 2
-visit          : 2
-lupaa          : 2
-olisitte       : 2
-kaikellaisia   : 2
-riita          : 2
-Oikealla       : 2
-peitti         : 2
-tienneet       : 2
-sekotettuna    : 2
-Antakaa        : 2
-avaimella      : 2
+laehestyen: 2
+kruunu    : 2
+saapua    : 2
+puhuessa  : 2
+naelkaeinen: 2
+selittaeen: 2
+hameen    : 2
+paksua    : 2
+paksut    : 2
+kaikkiihmiset: 2
+tyttoenae : 2
+viekas    : 2
+visit     : 2
+lupaa     : 2
+olisitte  : 2
+kaikellaisia: 2
+riita     : 2
+Oikealla  : 2
+peitti    : 2
+tienneet  : 2
+sekotettuna: 2
+Antakaa   : 2
+avaimella : 2
 prostitueeratulle: 2
-palvelijaksi   : 2
-keskustassa    : 2
-kohtaoli       : 2
-Use            : 2
-kiinnitti      : 2
-haenei         : 2
+palvelijaksi: 2
+keskustassa: 2
+kohtaoli  : 2
+Use       : 2
+kiinnitti : 2
+haenei    : 2
 RikosasiainOikeudenkaeyntiae: 2
-kyllaekin      : 2
-suljettuja     : 2
-hengiltae      : 2
-tuomet         : 2
-kaeyvaet       : 2
-Vladimirskaja  : 2
-jalkansa       : 2
-Paeaettaeen    : 2
-they           : 2
-mahdottomalta  : 2
-taeyteen       : 2
-sanomista      : 2
-sisaellystae   : 2
-compressed     : 2
-malttanut      : 2
-generations    : 2
-jonnekin       : 2
-istuessaan     : 2
-tarkastella    : 2
-omallatunnolla : 2
-includedwith   : 2
-sanoiAgrafena  : 2
-reippaasti     : 2
-rintaan        : 2
-surullisen     : 2
-jaettae        : 2
-BREACH         : 2
-molemmin       : 2
-raepyttaeen    : 2
-paeaehaen      : 2
-kaetenne       : 2
-kuvan          : 2
-ranskan        : 2
-nyrpeaenae     : 2
-kaersinyt      : 2
-addresses      : 2
-kallista       : 2
-iltaan         : 2
-kallisti       : 2
-expenses       : 2
-vaimoja        : 2
-costs          : 2
-kunnes         : 2
-virhe          : 2
-kysymyksiae    : 2
-whatsoever     : 2
-ivalla         : 2
-rappeutunut    : 2
-taisi          : 2
-saastasta      : 2
-jalalla        : 2
-Minaepae       : 2
-Ajurit         : 2
-kevaet         : 2
-Onhan          : 2
-Muistakaa      : 2
-kulissien      : 2
-pihalle        : 2
-ilmioe         : 2
-takanansa      : 2
-rauhalliselta  : 2
-huivi          : 2
-inhotti        : 2
-sinutella      : 2
+kyllaekin : 2
+suljettuja: 2
+hengiltae : 2
+tuomet    : 2
+kaeyvaet  : 2
+Vladimirskaja: 2
+jalkansa  : 2
+Paeaettaeen: 2
+they      : 2
+mahdottomalta: 2
+taeyteen  : 2
+sanomista : 2
+sisaellystae: 2
+compressed: 2
+malttanut : 2
+generations: 2
+jonnekin  : 2
+istuessaan: 2
+tarkastella: 2
+omallatunnolla: 2
+includedwith: 2
+sanoiAgrafena: 2
+reippaasti: 2
+rintaan   : 2
+surullisen: 2
+jaettae   : 2
+BREACH    : 2
+molemmin  : 2
+raepyttaeen: 2
+paeaehaen : 2
+kaetenne  : 2
+kuvan     : 2
+ranskan   : 2
+nyrpeaenae: 2
+kaersinyt : 2
+addresses : 2
+kallista  : 2
+iltaan    : 2
+kallisti  : 2
+expenses  : 2
+vaimoja   : 2
+costs     : 2
+kunnes    : 2
+virhe     : 2
+kysymyksiae: 2
+whatsoever: 2
+ivalla    : 2
+rappeutunut: 2
+taisi     : 2
+saastasta : 2
+jalalla   : 2
+Minaepae  : 2
+Ajurit    : 2
+kevaet    : 2
+Onhan     : 2
+Muistakaa : 2
+kulissien : 2
+pihalle   : 2
+ilmioe    : 2
+takanansa : 2
+rauhalliselta: 2
+huivi     : 2
+inhotti   : 2
+sinutella : 2
 mitaeaensanomatta: 2
-toimittamaan   : 2
-muutamilla     : 2
-luoksesi       : 2
-vieras         : 2
-valoisa        : 2
-kengaet        : 2
-historiansa    : 2
-Joko           : 2
-salaisuus      : 2
-olalle         : 2
-tilansa        : 2
-Maslovakin     : 2
-vaille         : 2
-samallaisen    : 2
-Korabljovalle  : 2
-Siis           : 2
-olisitahtonut  : 2
-tyhjaessae     : 2
+toimittamaan: 2
+muutamilla: 2
+luoksesi  : 2
+vieras    : 2
+valoisa   : 2
+kengaet   : 2
+historiansa: 2
+Joko      : 2
+salaisuus : 2
+olalle    : 2
+tilansa   : 2
+Maslovakin: 2
+vaille    : 2
+samallaisen: 2
+Korabljovalle: 2
+Siis      : 2
+olisitahtonut: 2
+tyhjaessae: 2
 laeheisyydessae: 2
-tyoen          : 2
-tarkoittaen    : 2
-vastoin        : 2
-asunut         : 2
-maannut        : 2
-katsottiin     : 2
-koossa         : 2
-kirkkaassa     : 2
-muun           : 2
-edullisen      : 2
-kapsaekin      : 2
-tarpeellisia   : 2
-nojautuen      : 2
-odottavansa    : 2
-Siperialainen  : 2
-vaunut         : 2
-askeleet       : 2
-mennaeaen      : 2
-ruoho          : 2
-taeysin        : 2
-Helena         : 2
-hyvaellae      : 2
-jaantaen       : 2
-kova           : 2
-syyttaejaenae  : 2
-tottumattomana : 2
-viimeistae     : 2
-matalassa      : 2
-kertomusta     : 2
-pelon          : 2
-vereksi        : 2
-jalkojensa     : 2
-asemassaan     : 2
-kaeyneensae    : 2
-tutustua       : 2
-Sehaen         : 2
-asumaan        : 2
-etteiollut     : 2
-vaivoin        : 2
-paeaellaensae  : 2
-kultainen      : 2
-vuoteelta      : 2
+tyoen     : 2
+tarkoittaen: 2
+vastoin   : 2
+asunut    : 2
+maannut   : 2
+katsottiin: 2
+koossa    : 2
+kirkkaassa: 2
+muun      : 2
+edullisen : 2
+kapsaekin : 2
+tarpeellisia: 2
+nojautuen : 2
+odottavansa: 2
+Siperialainen: 2
+vaunut    : 2
+askeleet  : 2
+mennaeaen : 2
+ruoho     : 2
+taeysin   : 2
+Helena    : 2
+hyvaellae : 2
+jaantaen  : 2
+kova      : 2
+syyttaejaenae: 2
+tottumattomana: 2
+viimeistae: 2
+matalassa : 2
+kertomusta: 2
+pelon     : 2
+vereksi   : 2
+jalkojensa: 2
+asemassaan: 2
+kaeyneensae: 2
+tutustua  : 2
+Sehaen    : 2
+asumaan   : 2
+etteiollut: 2
+vaivoin   : 2
+paeaellaensae: 2
+kultainen : 2
+vuoteelta : 2
 naimisiinhaenen: 2
-jaKatjusha     : 2
-kauttani       : 2
-ristiae        : 2
-esiintyae      : 2
-Taaskin        : 2
-tmLicense      : 2
-palttoota      : 2
-Annette        : 2
-Muista         : 2
-notice         : 2
+jaKatjusha: 2
+kauttani  : 2
+ristiae   : 2
+esiintyae : 2
+Taaskin   : 2
+tmLicense : 2
+palttoota : 2
+Annette   : 2
+Muista    : 2
+notice    : 2
 oikeudenjaesenen: 2
 oikeudenjaesenet: 2
-ajatuksia      : 2
-taeynnae       : 2
-Samalla        : 2
-liinan         : 2
-Pimeaessae     : 2
-paeiden        : 2
-laeaeniae      : 2
-rakkaudella    : 2
-ensimaeiseen   : 2
-virkansa       : 2
-Muistattehan   : 2
-puolestani     : 2
-painaa         : 2
-tarjoten       : 2
-Lukkarin       : 2
-haenensyykseen : 2
-etupaeaessae   : 2
-kaerpaeset     : 2
-taemaenkanssa  : 2
-jaettaeneet    : 2
-Mauritania     : 2
-asuu           : 2
-sanaa          : 2
-joksi          : 2
-suurine        : 2
-Emmehaen       : 2
-fait           : 2
-Natasha        : 2
-omituinen      : 2
-luopunut       : 2
-alusvaatteet   : 2
-Puhutte        : 2
-vaatia         : 2
-mainittuja     : 2
-juttua         : 2
-jaNehljudof    : 2
-tuomitut       : 2
-tuomitun       : 2
-rikos          : 2
-painoa         : 2
-mukana         : 2
-ajamaan        : 2
-muistettuaan   : 2
-ilmoittaa      : 2
-syyllisyyttae  : 2
-miekka         : 2
+ajatuksia : 2
+taeynnae  : 2
+Samalla   : 2
+liinan    : 2
+Pimeaessae: 2
+paeiden   : 2
+laeaeniae : 2
+rakkaudella: 2
+ensimaeiseen: 2
+virkansa  : 2
+Muistattehan: 2
+puolestani: 2
+painaa    : 2
+tarjoten  : 2
+Lukkarin  : 2
+haenensyykseen: 2
+etupaeaessae: 2
+kaerpaeset: 2
+taemaenkanssa: 2
+jaettaeneet: 2
+Mauritania: 2
+asuu      : 2
+sanaa     : 2
+joksi     : 2
+suurine   : 2
+Emmehaen  : 2
+fait      : 2
+Natasha   : 2
+omituinen : 2
+luopunut  : 2
+alusvaatteet: 2
+Puhutte   : 2
+vaatia    : 2
+mainittuja: 2
+juttua    : 2
+jaNehljudof: 2
+tuomitut  : 2
+tuomitun  : 2
+rikos     : 2
+painoa    : 2
+mukana    : 2
+ajamaan   : 2
+muistettuaan: 2
+ilmoittaa : 2
+syyllisyyttae: 2
+miekka    : 2
 ranskankielellae: 2
-pudisteli      : 2
-kuuntelivat    : 2
-pelkkae        : 2
-laehden        : 2
+pudisteli : 2
+kuuntelivat: 2
+pelkkae   : 2
+laehden   : 2
 vaanpaeinvastoin: 2
-koetan         : 2
-illan          : 2
-yhtaeaen       : 2
-astian         : 2
+koetan    : 2
+illan     : 2
+yhtaeaen  : 2
+astian    : 2
 jokuvalamiehistae: 2
-niillae        : 2
-laehetettiin   : 2
+niillae   : 2
+laehetettiin: 2
 hyvaentahtoisen: 2
 katsomattaNehljudofiin: 2
 hyvaentahtoiset: 2
-kulkivat       : 2
-Donations      : 2
-sanoihin       : 2
-miekat         : 2
-miekan         : 2
-vaeistyi       : 2
-vuotiaan       : 2
-ainiaaksi      : 2
-pahantekijae   : 2
-ylhaeisen      : 2
-kelle          : 2
+kulkivat  : 2
+Donations : 2
+sanoihin  : 2
+miekat    : 2
+miekan    : 2
+vaeistyi  : 2
+vuotiaan  : 2
+ainiaaksi : 2
+pahantekijae: 2
+ylhaeisen : 2
+kelle     : 2
 erittaeinkaeaen: 2
-removed        : 2
-suhteesi       : 2
-paeaehaensae   : 2
-read           : 2
-sidottuna      : 2
-kassatsiooniin : 2
-syoemaeaen     : 2
-lukemista      : 2
-henkistae      : 2
-nteen          : 2
-tyoessae       : 2
-laulavalla     : 2
-kaupunkia      : 2
-kirkkailla     : 2
-keksi          : 2
-virkamiehet    : 2
-kieroine       : 2
-uskontoon      : 2
-palvelusvaeki  : 2
+removed   : 2
+suhteesi  : 2
+paeaehaensae: 2
+read      : 2
+sidottuna : 2
+kassatsiooniin: 2
+syoemaeaen: 2
+lukemista : 2
+henkistae : 2
+nteen     : 2
+tyoessae  : 2
+laulavalla: 2
+kaupunkia : 2
+kirkkailla: 2
+keksi     : 2
+virkamiehet: 2
+kieroine  : 2
+uskontoon : 2
+palvelusvaeki: 2
 taeaellaetehtiin: 2
-suhteessa      : 2
-muodostunut    : 2
-nurkkaan       : 2
-saevaehti      : 2
+suhteessa : 2
+muodostunut: 2
+nurkkaan  : 2
+saevaehti : 2
 kaupunkilaisnaisen: 2
-silkkisen      : 2
-unta           : 2
-vastikaeaen    : 2
-kehittynyt     : 2
-torstaina      : 2
-ilonen         : 2
-repi           : 2
-tyoetae        : 2
-kirjoitettu    : 2
-olevaan        : 2
-takia          : 2
-ihmisessae     : 2
+silkkisen : 2
+unta      : 2
+vastikaeaen: 2
+kehittynyt: 2
+torstaina : 2
+ilonen    : 2
+repi      : 2
+tyoetae   : 2
+kirjoitettu: 2
+olevaan   : 2
+takia     : 2
+ihmisessae: 2
 miellyttaevaesti: 2
-lerpallaan     : 2
-poikanen       : 2
-kaeynnin       : 2
-retkale        : 2
-suloista       : 2
-suoritettu     : 2
-laskeutui      : 2
-suunnitellut   : 2
-voidakseen     : 2
-hyvaenhajuisen : 2
-Emaentae       : 2
-valkonen       : 2
-tunnin         : 2
-luku           : 2
-haevittaeae    : 2
-jaeae          : 2
-kuolemaansa    : 2
-puhtaus        : 2
-asetuksen      : 2
-kaeaentaeen    : 2
-suloisia       : 2
-matot          : 2
-pyoereaet      : 2
-merkinnyt      : 2
-directly       : 2
-kysymystae     : 2
-Terms          : 2
-restrictions   : 2
-kahdella       : 2
-syynne         : 2
-Maslovalla     : 2
-kasvojaan      : 2
-ollakseen      : 2
-iloa           : 2
+lerpallaan: 2
+poikanen  : 2
+kaeynnin  : 2
+retkale   : 2
+suloista  : 2
+suoritettu: 2
+laskeutui : 2
+suunnitellut: 2
+voidakseen: 2
+hyvaenhajuisen: 2
+Emaentae  : 2
+valkonen  : 2
+tunnin    : 2
+luku      : 2
+haevittaeae: 2
+jaeae     : 2
+kuolemaansa: 2
+puhtaus   : 2
+asetuksen : 2
+kaeaentaeen: 2
+suloisia  : 2
+matot     : 2
+pyoereaet : 2
+merkinnyt : 2
+directly  : 2
+kysymystae: 2
+Terms     : 2
+restrictions: 2
+kahdella  : 2
+syynne    : 2
+Maslovalla: 2
+kasvojaan : 2
+ollakseen : 2
+iloa      : 2
 osoittaensilmillaeaen: 2
-jalkasin       : 2
-kaeynnillaeaen : 2
-leikkien       : 2
-UnitedStates   : 2
-konfehteja     : 2
-puolin         : 2
-available      : 2
-nuorelle       : 2
-Ljubkan        : 2
-olihaenen      : 2
-kylmae         : 2
-tunnustaen     : 2
-entinen        : 2
-puolia         : 2
-hitaasti       : 2
-matkustan      : 2
-rukouksia      : 2
-poikaansa      : 2
-huuteli        : 2
-oikeudesta     : 2
-uljaan         : 2
-puolustukseksi : 2
-should         : 2
-edeltaepaein   : 2
-toisilleen     : 2
-vaaran         : 2
-katsoneet      : 2
-saavat         : 2
-kertoa         : 2
-jonkinlaista   : 2
-limited        : 2
-kenraalin      : 2
-prepare        : 2
-reipas         : 2
-omikseen       : 2
-electronically : 2
-kulunut        : 2
-emaentaeae     : 2
-rakastui       : 2
-muualla        : 2
+jalkasin  : 2
+kaeynnillaeaen: 2
+leikkien  : 2
+UnitedStates: 2
+konfehteja: 2
+puolin    : 2
+available : 2
+nuorelle  : 2
+Ljubkan   : 2
+olihaenen : 2
+kylmae    : 2
+tunnustaen: 2
+entinen   : 2
+puolia    : 2
+hitaasti  : 2
+matkustan : 2
+rukouksia : 2
+poikaansa : 2
+huuteli   : 2
+oikeudesta: 2
+uljaan    : 2
+puolustukseksi: 2
+should    : 2
+edeltaepaein: 2
+toisilleen: 2
+vaaran    : 2
+katsoneet : 2
+saavat    : 2
+kertoa    : 2
+jonkinlaista: 2
+limited   : 2
+kenraalin : 2
+prepare   : 2
+reipas    : 2
+omikseen  : 2
+electronically: 2
+kulunut   : 2
+emaentaeae: 2
+rakastui  : 2
+muualla   : 2
 Jumalanpalvelus: 2
-suudellen      : 2
-olkaa          : 2
-kehuivat       : 2
-pitkaeksi      : 2
-toimittanut    : 2
-puolustajaksi  : 2
-yhteys         : 2
-meille         : 2
-jaerjestaeae   : 2
-jyrkaesti      : 2
-suurempi       : 2
-November       : 2
-piireissae     : 2
-kiipesi        : 2
-silmissae      : 2
-tapaamaan      : 2
-anomus         : 2
-Hyvin          : 2
-lavitsain      : 2
-toimissa       : 2
-tapahtumaan    : 2
-vaelitae       : 2
-ilmeni         : 2
+suudellen : 2
+olkaa     : 2
+kehuivat  : 2
+pitkaeksi : 2
+toimittanut: 2
+puolustajaksi: 2
+yhteys    : 2
+meille    : 2
+jaerjestaeae: 2
+jyrkaesti : 2
+suurempi  : 2
+November  : 2
+piireissae: 2
+kiipesi   : 2
+silmissae : 2
+tapaamaan : 2
+anomus    : 2
+Hyvin     : 2
+lavitsain : 2
+toimissa  : 2
+tapahtumaan: 2
+vaelitae  : 2
+ilmeni    : 2
 kovallaaeaenellae: 2
-tavatonta      : 2
-vaehaellae     : 2
-annoitte       : 2
-onkaan         : 2
-miehenae       : 2
-vaipua         : 2
-liikaa         : 2
-ettaehaenen    : 2
-ristinmerkin   : 2
-huomio         : 2
-Petrof         : 2
+tavatonta : 2
+vaehaellae: 2
+annoitte  : 2
+onkaan    : 2
+miehenae  : 2
+vaipua    : 2
+liikaa    : 2
+ettaehaenen: 2
+ristinmerkin: 2
+huomio    : 2
+Petrof    : 2
 vastenmielisesti: 2
-ettaesiellae   : 2
-erehdyksen     : 2
-Katsahdettuaan : 2
-olisyytoen     : 2
-liiterin       : 2
-ilolla         : 2
-Pojan          : 2
-kaevijoeitae   : 2
-istunto        : 2
-tyhmae         : 2
-kuivattuaan    : 2
+ettaesiellae: 2
+erehdyksen: 2
+Katsahdettuaan: 2
+olisyytoen: 2
+liiterin  : 2
+ilolla    : 2
+Pojan     : 2
+kaevijoeitae: 2
+istunto   : 2
+tyhmae    : 2
+kuivattuaan: 2
 sanoitirehtoeoeri: 2
-tytoelle       : 2
-jokseenkin     : 2
-paperosseja    : 2
-vallannut      : 2
-Toiseksi       : 2
-vartijalta     : 2
-olentoon       : 2
-Laehden        : 2
-kaedestaeaen   : 2
-Tuomarien      : 2
-mustahko       : 2
-ryppyisen      : 2
-istunut        : 2
-meistae        : 2
-Heijning       : 2
-pari           : 2
-arvelette      : 2
-muuttuen       : 2
-hauska         : 2
-talvi          : 2
-jakirjoitti    : 2
+tytoelle  : 2
+jokseenkin: 2
+paperosseja: 2
+vallannut : 2
+Toiseksi  : 2
+vartijalta: 2
+olentoon  : 2
+Laehden   : 2
+kaedestaeaen: 2
+Tuomarien : 2
+mustahko  : 2
+ryppyisen : 2
+istunut   : 2
+meistae   : 2
+Heijning  : 2
+pari      : 2
+arvelette : 2
+muuttuen  : 2
+hauska    : 2
+talvi     : 2
+jakirjoitti: 2
 salakapakoitsija: 2
-tyytyvaeisenae : 2
-vaatimaan      : 2
-mentyaensae    : 2
-keskeytyksiae  : 2
-kaeyden        : 2
-katsotaan      : 2
-inho           : 2
-tuuhea         : 2
-keskustelivat  : 2
-leipaeae       : 2
-istumme        : 2
-ruvennut       : 2
-astumaan       : 2
-tultuaan       : 2
-antaneensa     : 2
-syyni          : 2
-pahoja         : 2
-samasta        : 2
-lukien         : 2
-fees           : 2
-osastoon       : 2
-rahatja        : 2
-Onkos          : 2
-loistavasti    : 2
-armahdusta     : 2
-vehnaesiae     : 2
-voitu          : 2
-hengittaeen    : 2
-kauniin        : 2
-olijo          : 2
-vaalean        : 2
-hiuksista      : 2
-ansainnut      : 2
-Kuultuansa     : 2
-tyoehuoneen    : 2
-vaunuun        : 2
-syytetyistae   : 2
-huonon         : 2
-paljaissa      : 2
-temput         : 2
-lujakurinpito  : 2
-pysaeytti      : 2
-varustetut     : 2
-lahjoitti      : 2
-taloa          : 2
-Kaeytaevaeaen  : 2
-vingahti       : 2
-sisaestae      : 2
-yhdyttaenyt    : 2
+tyytyvaeisenae: 2
+vaatimaan : 2
+mentyaensae: 2
+keskeytyksiae: 2
+kaeyden   : 2
+katsotaan : 2
+inho      : 2
+tuuhea    : 2
+keskustelivat: 2
+leipaeae  : 2
+istumme   : 2
+ruvennut  : 2
+astumaan  : 2
+tultuaan  : 2
+antaneensa: 2
+syyni     : 2
+pahoja    : 2
+samasta   : 2
+lukien    : 2
+fees      : 2
+osastoon  : 2
+rahatja   : 2
+Onkos     : 2
+loistavasti: 2
+armahdusta: 2
+vehnaesiae: 2
+voitu     : 2
+hengittaeen: 2
+kauniin   : 2
+olijo     : 2
+vaalean   : 2
+hiuksista : 2
+ansainnut : 2
+Kuultuansa: 2
+tyoehuoneen: 2
+vaunuun   : 2
+syytetyistae: 2
+huonon    : 2
+paljaissa : 2
+temput    : 2
+lujakurinpito: 2
+pysaeytti : 2
+varustetut: 2
+lahjoitti : 2
+taloa     : 2
+Kaeytaevaeaen: 2
+vingahti  : 2
+sisaestae : 2
+yhdyttaenyt: 2
 epaeluonnollisesti: 2
-miehelle       : 2
-Molemmat       : 2
-uskontoa       : 2
-varjelette     : 2
-Haenet         : 2
-kaeymaevieraan : 2
-puotipojan     : 2
-lainkaan       : 2
-torttuja       : 2
-seuraavat      : 2
-nopealla       : 2
-Stepan         : 2
-jospa          : 2
-noutamaan      : 2
-palttoonsa     : 2
-Niiden         : 2
-asettuen       : 2
-Juna           : 2
-asianomaisten  : 2
+miehelle  : 2
+Molemmat  : 2
+uskontoa  : 2
+varjelette: 2
+Haenet    : 2
+kaeymaevieraan: 2
+puotipojan: 2
+lainkaan  : 2
+torttuja  : 2
+seuraavat : 2
+nopealla  : 2
+Stepan    : 2
+jospa     : 2
+noutamaan : 2
+palttoonsa: 2
+Niiden    : 2
+asettuen  : 2
+Juna      : 2
+asianomaisten: 2
 kaeyskentelivaet: 2
-Breve          : 2
-Hirmuista      : 2
-esiliinassa    : 2
-pukunsa        : 2
-suorittaa      : 2
-ystaevaeae     : 2
-release        : 2
+Breve     : 2
+Hirmuista : 2
+esiliinassa: 2
+pukunsa   : 2
+suorittaa : 2
+ystaevaeae: 2
+release   : 2
 paeaetettyaensae: 2
-vaunuja        : 2
-jaBotshkovan   : 2
-lapsensa       : 2
-tuttavuutta    : 2
-tekonsa        : 2
-kummastuttaa   : 2
-haisevampi     : 2
-ilmoittanut    : 2
-Tunnen         : 2
+vaunuja   : 2
+jaBotshkovan: 2
+lapsensa  : 2
+tuttavuutta: 2
+tekonsa   : 2
+kummastuttaa: 2
+haisevampi: 2
+ilmoittanut: 2
+Tunnen    : 2
 ehdottomastikin: 2
-kirjaan        : 2
-Totta          : 2
-tuomion        : 2
-unohti         : 2
-iloiseen       : 2
-synnyttaejae   : 2
-tulemaan       : 2
-kulkevat       : 2
-huoneisiin     : 2
-muistaen       : 2
-astia          : 2
-kaeyttaeen     : 2
-itsekkyys      : 2
-naimisen       : 2
-saamatta       : 2
-mamman         : 2
-katsovat       : 2
-katseessa      : 2
-ihmeellisen    : 2
-menettelevaet  : 2
-petosta        : 2
-korvapuustit   : 2
-used           : 2
-laehempaenae   : 2
-komeine        : 2
-paeaestaeen    : 2
-typerae        : 2
-asiastani      : 2
-saattaen       : 2
-komea          : 2
-Hauskaa        : 2
+kirjaan   : 2
+Totta     : 2
+tuomion   : 2
+unohti    : 2
+iloiseen  : 2
+synnyttaejae: 2
+tulemaan  : 2
+kulkevat  : 2
+huoneisiin: 2
+muistaen  : 2
+astia     : 2
+kaeyttaeen: 2
+itsekkyys : 2
+naimisen  : 2
+saamatta  : 2
+mamman    : 2
+katsovat  : 2
+katseessa : 2
+ihmeellisen: 2
+menettelevaet: 2
+petosta   : 2
+korvapuustit: 2
+used      : 2
+laehempaenae: 2
+komeine   : 2
+paeaestaeen: 2
+typerae   : 2
+asiastani : 2
+saattaen  : 2
+komea     : 2
+Hauskaa   : 2
 rikoksellisuutta: 2
-puolustaa      : 2
-disclaimer     : 2
-perhe          : 2
-Tosin          : 2
-jonakin        : 2
-EBooks         : 2
-vanhoista      : 2
-nytvasta       : 2
-haltuunsa      : 2
-Plain          : 2
-tuoleja        : 2
-totinen        : 2
-kierot         : 2
-oikeammin      : 2
-perin          : 2
-jaerittaeinkin : 2
-puhdasta       : 2
-mummon         : 2
-ennestaeaen    : 2
-turhanpaeiten  : 2
-kantaen        : 2
-kirkosta       : 2
-vaimoa         : 2
-vaimot         : 2
-ovien          : 2
-poistui        : 2
-puhtaaseen     : 2
-kauemmin       : 2
+puolustaa : 2
+disclaimer: 2
+perhe     : 2
+Tosin     : 2
+jonakin   : 2
+EBooks    : 2
+vanhoista : 2
+nytvasta  : 2
+haltuunsa : 2
+Plain     : 2
+tuoleja   : 2
+totinen   : 2
+kierot    : 2
+oikeammin : 2
+perin     : 2
+jaerittaeinkin: 2
+puhdasta  : 2
+mummon    : 2
+ennestaeaen: 2
+turhanpaeiten: 2
+kantaen   : 2
+kirkosta  : 2
+vaimoa    : 2
+vaimot    : 2
+ovien     : 2
+poistui   : 2
+puhtaaseen: 2
+kauemmin  : 2
 miellyttaevaellae: 2
-rakastaa       : 2
-sisaepuolelta  : 2
-harjoitelmia   : 2
-takimaisten    : 2
-neljaettae     : 2
-tyoehuoneeseen : 2
-kuolleista     : 2
-elaeneet       : 2
-Saatte         : 2
-country        : 2
-DAMAGES        : 2
-verkalleen     : 2
-Taemmoeisessae : 2
-katsomassa     : 2
-ehdottanut     : 2
-tuhka          : 2
-nostanut       : 2
-ylhaeisten     : 2
-athttp         : 2
-palaset        : 2
-method         : 2
-ilahutti       : 2
-sisaepuolella  : 2
-tirkistaeae    : 2
-syyttaejaeae   : 2
-kasvoista      : 2
-joutuu         : 2
-suorittanut    : 2
-luultavasti    : 2
-affaire        : 2
-kieltae        : 2
-haluansa       : 2
-suutelivat     : 2
-Aehae          : 2
-explanation    : 2
-vaelillaeaen   : 2
-tunteen        : 2
-pitaeisikoe    : 2
-hengitystaeaen : 2
-vapautta       : 2
-arvoltaan      : 2
-tehdyt         : 2
-nousta         : 2
-muistamaan     : 2
-asiamme        : 2
-ulkona         : 2
-vapautua       : 2
-kesaeksi       : 2
-kuulumme       : 2
-Riikka         : 2
-ilmaan         : 2
-nauratti       : 2
-taetit         : 2
-Kenen          : 2
-omansa         : 2
-kutsuttiin     : 2
-ettaeMaslova   : 2
-seteliae       : 2
-parantaa       : 2
+rakastaa  : 2
+sisaepuolelta: 2
+harjoitelmia: 2
+takimaisten: 2
+neljaettae: 2
+tyoehuoneeseen: 2
+kuolleista: 2
+elaeneet  : 2
+Saatte    : 2
+country   : 2
+DAMAGES   : 2
+verkalleen: 2
+Taemmoeisessae: 2
+katsomassa: 2
+ehdottanut: 2
+tuhka     : 2
+nostanut  : 2
+ylhaeisten: 2
+athttp    : 2
+palaset   : 2
+method    : 2
+ilahutti  : 2
+sisaepuolella: 2
+tirkistaeae: 2
+syyttaejaeae: 2
+kasvoista : 2
+joutuu    : 2
+suorittanut: 2
+luultavasti: 2
+affaire   : 2
+kieltae   : 2
+haluansa  : 2
+suutelivat: 2
+Aehae     : 2
+explanation: 2
+vaelillaeaen: 2
+tunteen   : 2
+pitaeisikoe: 2
+hengitystaeaen: 2
+vapautta  : 2
+arvoltaan : 2
+tehdyt    : 2
+nousta    : 2
+muistamaan: 2
+asiamme   : 2
+ulkona    : 2
+vapautua  : 2
+kesaeksi  : 2
+kuulumme  : 2
+Riikka    : 2
+ilmaan    : 2
+nauratti  : 2
+taetit    : 2
+Kenen     : 2
+omansa    : 2
+kutsuttiin: 2
+ettaeMaslova: 2
+seteliae  : 2
+parantaa  : 2
 tappamisenaikomusta: 2
-sisaepiian     : 2
-valmiina       : 2
+sisaepiian: 2
+valmiina  : 2
 rikoksentekijae: 2
-kynnyksellae   : 2
-cause          : 2
-syytettyjae    : 2
+kynnyksellae: 2
+cause     : 2
+syytettyjae: 2
 vaeitoeskirjaansa: 2
-hajosi         : 2
-renamed        : 2
-naurunsa       : 2
+hajosi    : 2
+renamed   : 2
+naurunsa  : 2
 haentaepidettiin: 2
-pettaeae       : 2
-nyyhkytyksiae  : 2
-inholla        : 2
-olosuhteissa   : 2
-toisianne      : 2
-kohdata        : 2
-pysynyt        : 2
-employees      : 2
-jaeaekoeoen    : 2
-kumarsi        : 2
-sukkelasti     : 2
-maetae         : 2
-vastarintaa    : 2
-nautintoansa   : 2
-tutkia         : 2
-kaeytetty      : 2
-ajoilta        : 2
-kehuvat        : 2
-suinkin        : 2
-Yhden          : 2
-taskustaan     : 2
-muodikkaan     : 2
-replace        : 2
-nopeaan        : 2
-kaevikin       : 2
-siveetoen      : 2
-hirmuista      : 2
-komean         : 2
-kuultuaan      : 2
-Tule           : 2
-juosten        : 2
-varkaus        : 2
-asiani         : 2
-kuulemaan      : 2
-juna           : 2
-palveluksesta  : 2
-soei           : 2
-osasi          : 2
-samana         : 2
-kalpeat        : 2
-valkean        : 2
-lohduttaa      : 2
-saeaelinyt     : 2
-vuoteen        : 2
-laittomana     : 2
-palveluksessa  : 2
-murhaaja       : 2
-uusi           : 2
-additional     : 2
-sotamiehet     : 2
-lopetti        : 2
-haluaa         : 2
-siniset        : 2
-vaanherkesi    : 2
-takertui       : 2
+pettaeae  : 2
+nyyhkytyksiae: 2
+inholla   : 2
+olosuhteissa: 2
+toisianne : 2
+kohdata   : 2
+pysynyt   : 2
+employees : 2
+jaeaekoeoen: 2
+kumarsi   : 2
+sukkelasti: 2
+maetae    : 2
+vastarintaa: 2
+nautintoansa: 2
+tutkia    : 2
+kaeytetty : 2
+ajoilta   : 2
+kehuvat   : 2
+suinkin   : 2
+Yhden     : 2
+taskustaan: 2
+muodikkaan: 2
+replace   : 2
+nopeaan   : 2
+kaevikin  : 2
+siveetoen : 2
+hirmuista : 2
+komean    : 2
+kuultuaan : 2
+Tule      : 2
+juosten   : 2
+varkaus   : 2
+asiani    : 2
+kuulemaan : 2
+juna      : 2
+palveluksesta: 2
+soei      : 2
+osasi     : 2
+samana    : 2
+kalpeat   : 2
+valkean   : 2
+lohduttaa : 2
+saeaelinyt: 2
+vuoteen   : 2
+laittomana: 2
+palveluksessa: 2
+murhaaja  : 2
+uusi      : 2
+additional: 2
+sotamiehet: 2
+lopetti   : 2
+haluaa    : 2
+siniset   : 2
+vaanherkesi: 2
+takertui  : 2
 pesijaettaereksi: 2
-pahan          : 2
-univormussa    : 2
-hirmuisen      : 2
-esineet        : 2
-maailman       : 2
-olevalla       : 2
-Enkoe          : 2
-sota           : 2
+pahan     : 2
+univormussa: 2
+hirmuisen : 2
+esineet   : 2
+maailman  : 2
+olevalla  : 2
+Enkoe     : 2
+sota      : 2
 perinnoellisyydestae: 2
-savun          : 2
-varmuudella    : 2
-Ignatjevna     : 2
-katseella      : 2
-virsuissaan    : 2
-kertomuksensa  : 2
-kulkenut       : 2
-heiluttaen     : 2
-koskemattomina : 2
-kummastui      : 2
-unless         : 2
-paeaestaevaet  : 2
-people         : 2
-tappo          : 2
-hetkenae       : 2
-Breven         : 2
-pyoeritellen   : 2
-nauroivat      : 2
-derivative     : 2
-lukenut        : 2
-runsaasti      : 2
-ottotyttoe     : 2
-runoutta       : 2
-ruokasaliin    : 2
-Ljubkaksi      : 2
-raolleen       : 2
-rakennuksen    : 2
-Eivaetpae      : 2
-pitkaestae     : 2
+savun     : 2
+varmuudella: 2
+Ignatjevna: 2
+katseella : 2
+virsuissaan: 2
+kertomuksensa: 2
+kulkenut  : 2
+heiluttaen: 2
+koskemattomina: 2
+kummastui : 2
+unless    : 2
+paeaestaevaet: 2
+people    : 2
+tappo     : 2
+hetkenae  : 2
+Breven    : 2
+pyoeritellen: 2
+nauroivat : 2
+derivative: 2
+lukenut   : 2
+runsaasti : 2
+ottotyttoe: 2
+runoutta  : 2
+ruokasaliin: 2
+Ljubkaksi : 2
+raolleen  : 2
+rakennuksen: 2
+Eivaetpae : 2
+pitkaestae: 2
 sanoiKorabljova: 2
-jataas         : 2
-erikoisen      : 2
-karsseriin     : 2
-puhella        : 2
-Enkae          : 2
-toisille       : 2
-Astukaa        : 2
-uudet          : 2
-aijetta        : 2
-turmelus       : 2
-punainen       : 2
-kesaenae       : 2
-references     : 2
-onnellinen     : 2
-haureustalossa : 2
-jatkoivat      : 2
-lavitsan       : 2
-laitaa         : 2
-olituonut      : 2
-ylhaeisyytenne : 2
-lakkasi        : 2
-oikean         : 2
-kylaessae      : 2
-naeihin        : 2
-tekijaeae      : 2
-Baklashof      : 2
-valloitti      : 2
-hellaesti      : 2
-suuressa       : 2
-ankaralla      : 2
-kaeskettiin    : 2
-sotaan         : 2
-AGREE          : 2
-taemmoeisessae : 2
-soljet         : 2
-julmuutensa    : 2
-paljaana       : 2
-tuhansia       : 2
-metsaestykseen : 2
-naee           : 2
-iloisina       : 2
-pitkine        : 2
-kerrottiin     : 2
-suuresti       : 2
+jataas    : 2
+erikoisen : 2
+karsseriin: 2
+puhella   : 2
+Enkae     : 2
+toisille  : 2
+Astukaa   : 2
+uudet     : 2
+aijetta   : 2
+turmelus  : 2
+punainen  : 2
+kesaenae  : 2
+references: 2
+onnellinen: 2
+haureustalossa: 2
+jatkoivat : 2
+lavitsan  : 2
+laitaa    : 2
+olituonut : 2
+ylhaeisyytenne: 2
+lakkasi   : 2
+oikean    : 2
+kylaessae : 2
+naeihin   : 2
+tekijaeae : 2
+Baklashof : 2
+valloitti : 2
+hellaesti : 2
+suuressa  : 2
+ankaralla : 2
+kaeskettiin: 2
+sotaan    : 2
+AGREE     : 2
+taemmoeisessae: 2
+soljet    : 2
+julmuutensa: 2
+paljaana  : 2
+tuhansia  : 2
+metsaestykseen: 2
+naee      : 2
+iloisina  : 2
+pitkine   : 2
+kerrottiin: 2
+suuresti  : 2
 kaeyttaemaettae: 2
-ihmisissae     : 2
-pelaeten       : 2
-anywhere       : 2
-alusvaatteissa : 2
-laehestyy      : 2
-omaisuutta     : 2
-Aivan          : 2
-rappusia       : 2
-pysymaeaen     : 2
-uudelleen      : 2
-ympaeroeitsi   : 2
-siristaeen     : 2
-kuukaudeksi    : 2
-olimme         : 2
-tuoretta       : 2
-kuiskuttelivat : 2
-kysyvaesti     : 2
-itkun          : 2
-itkua          : 2
-iloisesti      : 2
-mekkoa         : 2
-Tapio          : 2
-koppiinsa      : 2
-mieheltae      : 2
-eraeille       : 2
-asiain         : 2
-koskettaen     : 2
-rypistyae      : 2
-Produced       : 2
-jonkinlaisella : 2
-avautui        : 2
-noissa         : 2
-lihavaan       : 2
+ihmisissae: 2
+pelaeten  : 2
+anywhere  : 2
+alusvaatteissa: 2
+laehestyy : 2
+omaisuutta: 2
+Aivan     : 2
+rappusia  : 2
+pysymaeaen: 2
+uudelleen : 2
+ympaeroeitsi: 2
+siristaeen: 2
+kuukaudeksi: 2
+olimme    : 2
+tuoretta  : 2
+kuiskuttelivat: 2
+kysyvaesti: 2
+itkun     : 2
+itkua     : 2
+iloisesti : 2
+mekkoa    : 2
+Tapio     : 2
+koppiinsa : 2
+mieheltae : 2
+eraeille  : 2
+asiain    : 2
+koskettaen: 2
+rypistyae : 2
+Produced  : 2
+jonkinlaisella: 2
+avautui   : 2
+noissa    : 2
+lihavaan  : 2
 kaeaentaemaettae: 2
-nimet          : 2
-syrjaeisten    : 2
-avioliittoon   : 2
-tapaamisen     : 2
-suurimmalla    : 2
-Paeaestyaensae : 2
-otetut         : 2
-asianajajain   : 2
-otettu         : 2
-liikemiehelle  : 2
-pysaehtyae     : 2
-tapaamista     : 2
-katselivat     : 2
-viinissae      : 2
-vaihtanut      : 2
-Syytekirja     : 2
-haenellekaikki : 2
-several        : 2
-office         : 2
-sattuu         : 2
-pysaehtyen     : 2
-itkevaen       : 2
-pikemminkin    : 2
-neuvosta       : 2
-vapisevalla    : 2
-kuvernoeoeri   : 2
+nimet     : 2
+syrjaeisten: 2
+avioliittoon: 2
+tapaamisen: 2
+suurimmalla: 2
+Paeaestyaensae: 2
+otetut    : 2
+asianajajain: 2
+otettu    : 2
+liikemiehelle: 2
+pysaehtyae: 2
+tapaamista: 2
+katselivat: 2
+viinissae : 2
+vaihtanut : 2
+Syytekirja: 2
+haenellekaikki: 2
+several   : 2
+office    : 2
+sattuu    : 2
+pysaehtyen: 2
+itkevaen  : 2
+pikemminkin: 2
+neuvosta  : 2
+vapisevalla: 2
+kuvernoeoeri: 2
 Petropavlovskin: 2
-harmaissa      : 2
-kuinoli        : 2
-viettaeae      : 2
-lopulliseen    : 2
-Sinaekoe       : 2
-entistae       : 2
-written        : 2
-vanhimmaksi    : 2
-kaulahuivi     : 2
-vartijanaisen  : 2
-uskonkappalten : 2
+harmaissa : 2
+kuinoli   : 2
+viettaeae : 2
+lopulliseen: 2
+Sinaekoe  : 2
+entistae  : 2
+written   : 2
+vanhimmaksi: 2
+kaulahuivi: 2
+vartijanaisen: 2
+uskonkappalten: 2
 keraeaentyivaet: 2
-voittaa        : 2
-palanut        : 2
-alati          : 2
-luottamuksella : 2
-voimalla       : 2
+voittaa   : 2
+palanut   : 2
+alati     : 2
+luottamuksella: 2
+voimalla  : 2
 toissapaeivaenae: 2
-Tiedaenhaen    : 2
-jaettu         : 2
-Kolme          : 2
-keski          : 2
-ovista         : 2
-kertaakaan     : 2
-surullisesti   : 2
-loistavat      : 2
-raikas         : 2
-readable       : 2
-housunpoimuja  : 2
-vallassanne    : 2
-vanhoja        : 2
-ensiksi        : 2
-puhutaan       : 2
-Salissa        : 2
-verta          : 2
+Tiedaenhaen: 2
+jaettu    : 2
+Kolme     : 2
+keski     : 2
+ovista    : 2
+kertaakaan: 2
+surullisesti: 2
+loistavat : 2
+raikas    : 2
+readable  : 2
+housunpoimuja: 2
+vallassanne: 2
+vanhoja   : 2
+ensiksi   : 2
+puhutaan  : 2
+Salissa   : 2
+verta     : 2

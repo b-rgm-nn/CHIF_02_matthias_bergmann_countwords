@@ -29,6 +29,4 @@ public class Book {
     public String getInputfilename() {
         return inputfilename;
     }
-    
-    
 }

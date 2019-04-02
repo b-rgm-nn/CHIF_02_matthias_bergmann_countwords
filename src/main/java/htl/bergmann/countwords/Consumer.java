@@ -5,7 +5,6 @@ import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.util.Collections;
-import java.util.HashMap;
 import java.util.LinkedHashMap;
 import java.util.Map;
 import java.util.logging.Level;
@@ -15,6 +14,7 @@ import static java.util.stream.Collectors.toMap;
 public class Consumer implements Runnable {
 
     private Queue<Book> queue;
+    private volatile boolean running = true;
 
     public Consumer(Queue<Book> queue) {
         this.queue = queue;
@@ -22,7 +22,7 @@ public class Consumer implements Runnable {
 
     @Override
     public void run() {
-        while (true) {
+        while (running) {
             Book book;
             synchronized (queue) {
                 try {
@@ -46,12 +46,16 @@ public class Consumer implements Runnable {
             try (BufferedWriter bw = new BufferedWriter(new FileWriter(new File("./files/output/" + book.getInputfilename() + "-output.txt")))) {
                 for (String key : countWords.keySet()) {
                     if(countWords.get(key) == 1) continue;
-                    bw.write(String.format("%-15s: %d\n", key, countWords.get(key)));
+                    bw.write(String.format("%-10s: %d\n", key, countWords.get(key)));
                 }
             } catch (IOException ex) {
                 Logger.getLogger(Consumer.class.getName()).log(Level.SEVERE, null, ex);
             }
         }
+    }
+    
+    public void stop() {
+        running = false;
     }
 
 }

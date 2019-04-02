@@ -33,6 +33,7 @@ public class Producer implements Runnable {
             synchronized(queue) {
                 try{
                     queue.put(book);
+                    System.out.println("put " + (i+1) + " / " + books.length);
                     queue.notifyAll();
                 } catch (FullException ex) {
                     --i;
