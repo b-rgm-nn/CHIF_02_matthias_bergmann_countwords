@@ -33,9 +33,10 @@ public class Consumer implements Runnable {
                 }
             }
 
-            try (BufferedWriter bw = new BufferedWriter(new FileWriter(new File("./files/" + book.getInputfilename() + "-output.txt")))) {
+            try (BufferedWriter bw = new BufferedWriter(new FileWriter(new File("./files/output/" + book.getInputfilename() + "-output.txt")))) {
                 HashMap<String, Integer> countWords = book.countWords();
                 for (String key : countWords.keySet()) {
+                    if(countWords.get(key) == 1) continue;
                     bw.write(key + ": " + countWords.get(key) + "\n");
                 }
             } catch (IOException ex) {

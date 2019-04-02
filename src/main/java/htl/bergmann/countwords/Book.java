@@ -23,12 +23,6 @@ public class Book {
                 countWords.put(word, 1);
             }
         }
-        for (String key : countWords.keySet()) {
-            if(countWords.get(key) == 1) {
-                countWords.remove(key);
-            }
-        }
-        
         return countWords;
     }
 

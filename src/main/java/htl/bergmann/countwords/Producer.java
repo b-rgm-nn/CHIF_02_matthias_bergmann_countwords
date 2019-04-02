@@ -25,25 +25,25 @@ public class Producer implements Runnable {
 
     @Override
     public void run() {
-        File books = new File("./files");
-        for (File listFile : books.listFiles()) {
-            Book book = new Book(listFile.getName(), loadText(listFile));
+        File booksFolder = new File("./files");
+        File[] books = booksFolder.listFiles();
+        for (int i = 0; i < books.length; i++) {
+            if(!books[i].isFile()) continue;
+            Book book = new Book(books[i].getName(), loadText(books[i]));
             synchronized(queue) {
                 try{
                     queue.put(book);
                     queue.notifyAll();
                 } catch (FullException ex) {
+                    --i;
                     try {
                         queue.wait();
                     } catch (InterruptedException ex1) {
                     }
-                    try {
-                        queue.put(book);
-                    } catch (FullException ex1) {
-                    }
                 }
             }
         }
+        System.out.println("done");
     }
 
 }
