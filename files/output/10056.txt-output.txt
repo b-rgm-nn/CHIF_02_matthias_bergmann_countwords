@@ -1,5316 +1,5316 @@
-the: 5037
-of: 3084
-and: 2627
-to: 2280
-in: 1401
-a: 1364
-is: 929
-he: 895
-The: 801
-his: 766
-I: 722
-with: 659
-it: 635
-not: 620
-that: 580
-be: 565
-was: 544
-on: 489
-for: 476
-are: 475
-from: 432
-as: 415
-you: 414
-they: 401
-this: 384
-s: 380
-have: 375
-all: 374
-him: 373
-said: 356
-their: 348
-by: 329
-which: 318
-one: 315
-who: 315
-there: 308
-my: 304
-at: 292
-them: 292
-or: 290
-will: 287
-but: 249
-man: 244
-And: 234
-Master: 234
-were: 233
-when: 219
-When: 215
-an: 212
-we: 201
-me: 198
-men: 198
-our: 196
-do: 192
-your: 190
-Buddha: 190
-In: 188
-so: 187
-had: 187
-would: 182
-where: 181
-what: 179
-no: 177
-Tsz: 174
-has: 170
-may: 160
-people: 157
-A: 153
-king: 152
-He: 145
-Footnote: 144
-about: 139
-great: 139
-place: 135
-those: 126
-if: 123
-been: 123
-But: 120
-its: 120
-then: 120
-should: 120
-can: 117
-If: 112
-such: 111
-her: 111
-out: 109
-go: 108
-any: 108
-how: 107
-To: 106
-good: 105
-three: 103
-more: 102
-after: 99
-make: 99
-now: 98
-It: 97
-up: 97
-hundred: 97
-without: 97
-There: 96
-day: 96
-two: 94
-upon: 94
-shall: 93
-these: 93
-made: 92
-Confucius: 92
-also: 91
-They: 88
-On: 87
-My: 86
-replied: 86
-work: 86
-way: 86
-into: 86
-What: 85
-country: 85
-years: 85
-being: 84
-went: 83
-come: 83
-time: 83
-monks: 82
-asked: 82
-only: 79
-yet: 79
-other: 79
-came: 78
-four: 77
-like: 77
-than: 77
-King: 75
-days: 75
-heart: 75
-OF: 74
-Fa: 73
-With: 73
-say: 73
-long: 73
-did: 72
-As: 72
-city: 71
-over: 71
-first: 71
-still: 71
-himself: 70
-down: 70
-some: 70
-take: 69
-away: 69
-know: 68
-must: 68
-here: 67
-How: 65
-Let: 65
-life: 65
-could: 65
-Gutenberg: 64
-lu: 64
-others: 64
-mind: 63
-own: 63
-Project: 63
-This: 63
-never: 63
-Ts: 62
-hien: 62
-name: 62
-us: 60
-does: 60
-Heaven: 59
-well: 59
-high: 59
-each: 59
-At: 58
-see: 58
-whom: 57
-prince: 57
-K: 56
-superior: 56
-five: 56
-words: 55
-might: 55
-things: 55
-nor: 54
-having: 53
-Han: 53
-Majesty: 53
-vihara: 53
-thousand: 52
-am: 52
-she: 52
-called: 52
-Yen: 52
-many: 51
-We: 51
-old: 51
-same: 51
-O: 50
-His: 50
-once: 50
-seven: 50
-tope: 50
-home: 50
-put: 49
-again: 49
-large: 49
-right: 49
-kung: 49
-give: 49
-tree: 49
-back: 48
-So: 48
-far: 48
-tm: 48
-found: 48
-east: 48
-seen: 47
-part: 47
-offerings: 46
-small: 46
-left: 46
-through: 46
-kingdom: 46
-among: 45
-BOOK: 45
-government: 45
-State: 45
-All: 44
-Of: 44
-let: 44
-another: 44
-indeed: 44
-find: 44
-death: 43
-Emperor: 43
-though: 43
-even: 43
-THE: 43
-while: 43
-Wan: 43
-cannot: 43
-food: 42
-full: 42
-Law: 42
-disciple: 42
-under: 42
-land: 41
-After: 41
-round: 41
-hand: 41
-That: 41
-show: 41
-forth: 40
-You: 40
-every: 40
-trees: 39
-Yu: 39
-li: 39
-before: 39
-present: 39
-disciples: 39
-father: 39
-love: 39
-Where: 39
-thus: 39
-CHAPTER: 39
-took: 39
-ground: 39
-set: 38
-virtue: 38
-person: 38
-night: 38
-themselves: 37
-Ch: 37
-From: 37
-able: 37
-done: 37
-Chinese: 37
-use: 37
-side: 37
-thought: 37
-became: 36
-towards: 36
-ang: 36
-order: 35
-exclaimed: 35
-very: 35
-wish: 35
-Our: 35
-Again: 35
-rest: 35
-used: 35
-i: 34
-question: 34
-Chow: 34
-west: 34
-alone: 34
-Duke: 34
-answered: 34
-son: 34
-look: 34
-head: 34
-rules: 34
-much: 34
-speak: 34
-E: 33
-year: 33
-brought: 33
-body: 33
-says: 33
-heard: 33
-times: 32
-er: 32
-most: 32
-gave: 32
-south: 32
-gone: 31
-No: 31
-For: 31
-become: 31
-chang: 31
-hill: 31
-Is: 30
-got: 30
-nirvana: 30
-works: 30
-different: 30
-live: 30
-six: 30
-regard: 30
-empire: 30
-whose: 30
-palace: 30
-going: 29
-China: 29
-Ki: 29
-form: 29
-remarked: 29
-bear: 29
-between: 29
-Three: 29
-Now: 29
-light: 29
-state: 29
-built: 29
-hear: 29
-course: 29
-however: 29
-means: 29
-twenty: 29
-whole: 29
-Some: 29
-attained: 29
-ODES: 29
-given: 29
-near: 28
-Ah: 28
-world: 28
-keep: 28
-saw: 28
-India: 28
-hands: 28
-white: 28
-together: 28
-cubits: 27
-immediately: 27
-friends: 27
-proper: 27
-Here: 27
-ofthe: 27
-While: 27
-family: 27
-hold: 27
-within: 27
-return: 27
-case: 27
-ministers: 27
-thing: 26
-common: 26
-monastery: 26
-Hwuy: 26
-An: 26
-end: 26
-places: 26
-get: 26
-meet: 26
-poor: 26
-number: 26
-saying: 26
-Wife: 26
-Your: 26
-travellers: 26
-off: 26
-wild: 26
-service: 26
-Then: 26
-topes: 26
-gate: 26
-sent: 26
-Why: 26
-parents: 26
-bring: 26
-age: 26
-last: 25
-new: 25
-along: 25
-both: 25
-too: 25
-water: 25
-observed: 25
-lord: 25
-word: 25
-ruler: 25
-north: 25
-Each: 25
-Mencius: 25
-call: 25
-think: 24
-dynasty: 24
-distance: 24
-none: 24
-kings: 24
-comes: 24
-little: 24
-various: 24
-EMPEROR: 24
-appear: 24
-paces: 24
-music: 24
-hills: 24
-chief: 24
-public: 24
-rock: 24
-Their: 23
-bright: 23
-Lu: 23
-eight: 23
-Her: 23
-yojanas: 23
-account: 23
-sad: 23
-eyes: 23
-ten: 23
-former: 23
-seek: 23
-terms: 23
-Who: 23
-true: 23
-care: 23
-e: 22
-o: 22
-By: 22
-Wu: 22
-power: 22
-rule: 22
-nothing: 22
-earth: 22
-door: 22
-against: 22
-wife: 22
-duty: 22
-princess: 22
-sun: 22
-occasion: 22
-fellow: 22
-because: 22
-around: 22
-spirits: 22
-enough: 22
-Such: 22
-minister: 21
-died: 21
-Once: 21
-ill: 21
-month: 21
-thoughts: 21
-image: 21
-May: 21
-States: 21
-hall: 21
-top: 21
-stand: 21
-rain: 21
-families: 21
-young: 21
-court: 21
-face: 21
-officers: 21
-Tsang: 21
-wished: 21
-flowers: 20
-study: 20
-ways: 20
-Well: 20
-perfect: 20
-Foundation: 20
-Its: 20
-met: 20
-Those: 20
-Nor: 20
-bowl: 20
-doing: 20
-hard: 20
-returned: 20
-named: 20
-till: 20
-Wei: 20
-principles: 20
-Rules: 20
-making: 20
-living: 20
-Sakyamuni: 19
-remain: 19
-few: 19
-grow: 19
-second: 19
-reply: 19
-master: 19
-received: 19
-ever: 19
-Chung: 19
-sat: 19
-sir: 19
-bound: 19
-sky: 19
-forward: 19
-feeling: 19
-Great: 19
-South: 19
-pass: 19
-feet: 19
-desire: 19
-electronic: 19
-mother: 19
-yourself: 19
-river: 19
-pleasure: 19
-incense: 19
-die: 18
-Chief: 18
-black: 18
-presented: 18
-ll: 18
-follow: 18
-lady: 18
-heaven: 18
-Propriety: 18
-Wisdom: 18
-persons: 18
-vain: 18
-fifty: 18
-wind: 18
-wise: 18
-serve: 18
-coming: 18
-therefore: 18
-spirit: 18
-try: 18
-steps: 18
-according: 18
-taken: 18
-following: 18
-rather: 18
-rich: 18
-Odes: 18
-cause: 18
-act: 18
-latter: 18
-gold: 17
-T: 17
-known: 17
-eat: 17
-Hwui: 17
-eye: 17
-envoy: 17
-noble: 17
-want: 17
-hia: 17
-answer: 17
-free: 17
-looked: 17
-duties: 17
-drink: 17
-mourning: 17
-above: 17
-DECADE: 17
-Book: 17
-yellow: 17
-Not: 17
-Officer: 17
-Yuen: 17
-grass: 17
-spring: 17
-looking: 17
-thee: 17
-held: 17
-whether: 17
-minded: 17
-North: 17
-thirty: 17
-pari: 17
-fell: 17
-Buddhist: 17
-spot: 17
-office: 17
-store: 17
-D: 16
-cut: 16
-Lady: 16
-honored: 16
-need: 16
-matters: 16
-dress: 16
-wall: 16
-Enter: 16
-laws: 16
-low: 16
-Like: 16
-worthy: 16
-height: 16
-allow: 16
-students: 16
-brother: 16
-Alas: 16
-steeds: 16
-arrived: 16
-evil: 16
-receive: 16
-millions: 16
-moon: 16
-beauty: 16
-subject: 16
-sorrow: 16
-learn: 16
-why: 16
-precious: 16
-help: 16
-appearance: 16
-grief: 16
-Kung: 16
-agreement: 16
-gather: 16
+the            : 5037
+of             : 3084
+and            : 2627
+to             : 2280
+in             : 1401
+a              : 1364
+is             : 929
+he             : 895
+The            : 801
+his            : 766
+I              : 722
+with           : 659
+it             : 635
+not            : 620
+that           : 580
+be             : 565
+was            : 544
+on             : 489
+for            : 476
+are            : 475
+from           : 432
+as             : 415
+you            : 414
+they           : 401
+this           : 384
+s              : 380
+have           : 375
+all            : 374
+him            : 373
+said           : 356
+their          : 348
+by             : 329
+which          : 318
+one            : 315
+who            : 315
+there          : 308
+my             : 304
+at             : 292
+them           : 292
+or             : 290
+will           : 287
+but            : 249
+man            : 244
+And            : 234
+Master         : 234
+were           : 233
+when           : 219
+When           : 215
+an             : 212
+we             : 201
+me             : 198
+men            : 198
+our            : 196
+do             : 192
+your           : 190
+Buddha         : 190
+In             : 188
+so             : 187
+had            : 187
+would          : 182
+where          : 181
+what           : 179
+no             : 177
+Tsz            : 174
+has            : 170
+may            : 160
+people         : 157
+A              : 153
+king           : 152
+He             : 145
+Footnote       : 144
+about          : 139
+great          : 139
+place          : 135
+those          : 126
+if             : 123
+been           : 123
+But            : 120
+its            : 120
+then           : 120
+should         : 120
+can            : 117
+If             : 112
+such           : 111
+her            : 111
+out            : 109
+go             : 108
+any            : 108
+how            : 107
+To             : 106
+good           : 105
+three          : 103
+more           : 102
+after          : 99
+make           : 99
+now            : 98
+It             : 97
+up             : 97
+hundred        : 97
+without        : 97
+There          : 96
+day            : 96
+two            : 94
+upon           : 94
+shall          : 93
+these          : 93
+made           : 92
+Confucius      : 92
+also           : 91
+They           : 88
+On             : 87
+My             : 86
+replied        : 86
+work           : 86
+way            : 86
+into           : 86
+What           : 85
+country        : 85
+years          : 85
+being          : 84
+went           : 83
+come           : 83
+time           : 83
+monks          : 82
+asked          : 82
+only           : 79
+yet            : 79
+other          : 79
+came           : 78
+four           : 77
+like           : 77
+than           : 77
+King           : 75
+days           : 75
+heart          : 75
+OF             : 74
+Fa             : 73
+With           : 73
+say            : 73
+long           : 73
+did            : 72
+As             : 72
+city           : 71
+over           : 71
+first          : 71
+still          : 71
+himself        : 70
+down           : 70
+some           : 70
+take           : 69
+away           : 69
+know           : 68
+must           : 68
+here           : 67
+How            : 65
+Let            : 65
+life           : 65
+could          : 65
+Gutenberg      : 64
+lu             : 64
+others         : 64
+mind           : 63
+own            : 63
+Project        : 63
+This           : 63
+never          : 63
+Ts             : 62
+hien           : 62
+name           : 62
+us             : 60
+does           : 60
+Heaven         : 59
+well           : 59
+high           : 59
+each           : 59
+At             : 58
+see            : 58
+whom           : 57
+prince         : 57
+K              : 56
+superior       : 56
+five           : 56
+words          : 55
+might          : 55
+things         : 55
+nor            : 54
+having         : 53
+Han            : 53
+Majesty        : 53
+vihara         : 53
+thousand       : 52
+am             : 52
+she            : 52
+called         : 52
+Yen            : 52
+many           : 51
+We             : 51
+old            : 51
+same           : 51
+O              : 50
+His            : 50
+once           : 50
+seven          : 50
+tope           : 50
+home           : 50
+put            : 49
+again          : 49
+large          : 49
+right          : 49
+kung           : 49
+give           : 49
+tree           : 49
+back           : 48
+So             : 48
+far            : 48
+tm             : 48
+found          : 48
+east           : 48
+seen           : 47
+part           : 47
+offerings      : 46
+small          : 46
+left           : 46
+through        : 46
+kingdom        : 46
+among          : 45
+BOOK           : 45
+government     : 45
+State          : 45
+All            : 44
+Of             : 44
+let            : 44
+another        : 44
+indeed         : 44
+find           : 44
+death          : 43
+Emperor        : 43
+though         : 43
+even           : 43
+THE            : 43
+while          : 43
+Wan            : 43
+cannot         : 43
+food           : 42
+full           : 42
+Law            : 42
+disciple       : 42
+under          : 42
+land           : 41
+After          : 41
+round          : 41
+hand           : 41
+That           : 41
+show           : 41
+forth          : 40
+You            : 40
+every          : 40
+trees          : 39
+Yu             : 39
+li             : 39
+before         : 39
+present        : 39
+disciples      : 39
+father         : 39
+love           : 39
+Where          : 39
+thus           : 39
+CHAPTER        : 39
+took           : 39
+ground         : 39
+set            : 38
+virtue         : 38
+person         : 38
+night          : 38
+themselves     : 37
+Ch             : 37
+From           : 37
+able           : 37
+done           : 37
+Chinese        : 37
+use            : 37
+side           : 37
+thought        : 37
+became         : 36
+towards        : 36
+ang            : 36
+order          : 35
+exclaimed      : 35
+very           : 35
+wish           : 35
+Our            : 35
+Again          : 35
+rest           : 35
+used           : 35
+i              : 34
+question       : 34
+Chow           : 34
+west           : 34
+alone          : 34
+Duke           : 34
+answered       : 34
+son            : 34
+look           : 34
+head           : 34
+rules          : 34
+much           : 34
+speak          : 34
+E              : 33
+year           : 33
+brought        : 33
+body           : 33
+says           : 33
+heard          : 33
+times          : 32
+er             : 32
+most           : 32
+gave           : 32
+south          : 32
+gone           : 31
+No             : 31
+For            : 31
+become         : 31
+chang          : 31
+hill           : 31
+Is             : 30
+got            : 30
+nirvana        : 30
+works          : 30
+different      : 30
+live           : 30
+six            : 30
+regard         : 30
+empire         : 30
+whose          : 30
+palace         : 30
+going          : 29
+China          : 29
+Ki             : 29
+form           : 29
+remarked       : 29
+bear           : 29
+between        : 29
+Three          : 29
+Now            : 29
+light          : 29
+state          : 29
+built          : 29
+hear           : 29
+course         : 29
+however        : 29
+means          : 29
+twenty         : 29
+whole          : 29
+Some           : 29
+attained       : 29
+ODES           : 29
+given          : 29
+near           : 28
+Ah             : 28
+world          : 28
+keep           : 28
+saw            : 28
+India          : 28
+hands          : 28
+white          : 28
+together       : 28
+cubits         : 27
+immediately    : 27
+friends        : 27
+proper         : 27
+Here           : 27
+ofthe          : 27
+While          : 27
+family         : 27
+hold           : 27
+within         : 27
+return         : 27
+case           : 27
+ministers      : 27
+thing          : 26
+common         : 26
+monastery      : 26
+Hwuy           : 26
+An             : 26
+end            : 26
+places         : 26
+get            : 26
+meet           : 26
+poor           : 26
+number         : 26
+saying         : 26
+Wife           : 26
+Your           : 26
+travellers     : 26
+off            : 26
+wild           : 26
+service        : 26
+Then           : 26
+topes          : 26
+gate           : 26
+sent           : 26
+Why            : 26
+parents        : 26
+bring          : 26
+age            : 26
+last           : 25
+new            : 25
+along          : 25
+both           : 25
+too            : 25
+water          : 25
+observed       : 25
+lord           : 25
+word           : 25
+ruler          : 25
+north          : 25
+Each           : 25
+Mencius        : 25
+call           : 25
+think          : 24
+dynasty        : 24
+distance       : 24
+none           : 24
+kings          : 24
+comes          : 24
+little         : 24
+various        : 24
+EMPEROR        : 24
+appear         : 24
+paces          : 24
+music          : 24
+hills          : 24
+chief          : 24
+public         : 24
+rock           : 24
+Their          : 23
+bright         : 23
+Lu             : 23
+eight          : 23
+Her            : 23
+yojanas        : 23
+account        : 23
+sad            : 23
+eyes           : 23
+ten            : 23
+former         : 23
+seek           : 23
+terms          : 23
+Who            : 23
+true           : 23
+care           : 23
+e              : 22
+o              : 22
+By             : 22
+Wu             : 22
+power          : 22
+rule           : 22
+nothing        : 22
+earth          : 22
+door           : 22
+against        : 22
+wife           : 22
+duty           : 22
+princess       : 22
+sun            : 22
+occasion       : 22
+fellow         : 22
+because        : 22
+around         : 22
+spirits        : 22
+enough         : 22
+Such           : 22
+minister       : 21
+died           : 21
+Once           : 21
+ill            : 21
+month          : 21
+thoughts       : 21
+image          : 21
+May            : 21
+States         : 21
+hall           : 21
+top            : 21
+stand          : 21
+rain           : 21
+families       : 21
+young          : 21
+court          : 21
+face           : 21
+officers       : 21
+Tsang          : 21
+wished         : 21
+flowers        : 20
+study          : 20
+ways           : 20
+Well           : 20
+perfect        : 20
+Foundation     : 20
+Its            : 20
+met            : 20
+Those          : 20
+Nor            : 20
+bowl           : 20
+doing          : 20
+hard           : 20
+returned       : 20
+named          : 20
+till           : 20
+Wei            : 20
+principles     : 20
+Rules          : 20
+making         : 20
+living         : 20
+Sakyamuni      : 19
+remain         : 19
+few            : 19
+grow           : 19
+second         : 19
+reply          : 19
+master         : 19
+received       : 19
+ever           : 19
+Chung          : 19
+sat            : 19
+sir            : 19
+bound          : 19
+sky            : 19
+forward        : 19
+feeling        : 19
+Great          : 19
+South          : 19
+pass           : 19
+feet           : 19
+desire         : 19
+electronic     : 19
+mother         : 19
+yourself       : 19
+river          : 19
+pleasure       : 19
+incense        : 19
+die            : 18
+Chief          : 18
+black          : 18
+presented      : 18
+ll             : 18
+follow         : 18
+lady           : 18
+heaven         : 18
+Propriety      : 18
+Wisdom         : 18
+persons        : 18
+vain           : 18
+fifty          : 18
+wind           : 18
+wise           : 18
+serve          : 18
+coming         : 18
+therefore      : 18
+spirit         : 18
+try            : 18
+steps          : 18
+according      : 18
+taken          : 18
+following      : 18
+rather         : 18
+rich           : 18
+Odes           : 18
+cause          : 18
+act            : 18
+latter         : 18
+gold           : 17
+T              : 17
+known          : 17
+eat            : 17
+Hwui           : 17
+eye            : 17
+envoy          : 17
+noble          : 17
+want           : 17
+hia            : 17
+answer         : 17
+free           : 17
+looked         : 17
+duties         : 17
+drink          : 17
+mourning       : 17
+above          : 17
+DECADE         : 17
+Book           : 17
+yellow         : 17
+Not            : 17
+Officer        : 17
+Yuen           : 17
+grass          : 17
+spring         : 17
+looking        : 17
+thee           : 17
+held           : 17
+whether        : 17
+minded         : 17
+North          : 17
+thirty         : 17
+pari           : 17
+fell           : 17
+Buddhist       : 17
+spot           : 17
+office         : 17
+store          : 17
+D              : 16
+cut            : 16
+Lady           : 16
+honored        : 16
+need           : 16
+matters        : 16
+dress          : 16
+wall           : 16
+Enter          : 16
+laws           : 16
+low            : 16
+Like           : 16
+worthy         : 16
+height         : 16
+allow          : 16
+students       : 16
+brother        : 16
+Alas           : 16
+steeds         : 16
+arrived        : 16
+evil           : 16
+receive        : 16
+millions       : 16
+moon           : 16
+beauty         : 16
+subject        : 16
+sorrow         : 16
+learn          : 16
+why            : 16
+precious       : 16
+help           : 16
+appearance     : 16
+grief          : 16
+Kung           : 16
+agreement      : 16
+gather         : 16
 ProjectGutenberg: 16
-Asoka: 16
-dignity: 16
-Buddhism: 16
-passed: 16
-just: 16
-sons: 16
-summer: 16
-fine: 16
-bad: 16
-road: 16
-yu: 15
-meal: 15
-God: 15
-entered: 15
-kept: 15
-turned: 15
-Ananda: 15
-learning: 15
-pure: 15
-copy: 15
-hearts: 15
-followed: 15
-strong: 15
-tis: 15
-grain: 15
-wood: 15
-fields: 15
-green: 15
-sound: 15
-Bodhisattva: 15
-fair: 15
-East: 15
-fast: 15
-sheep: 15
-front: 15
-afterwards: 15
-complete: 15
-Husband: 15
-affairs: 15
-manner: 15
-soon: 15
-cease: 15
-d: 14
-t: 14
-better: 14
-taking: 14
-These: 14
-short: 14
-further: 14
-Since: 14
-sure: 14
-fly: 14
-appeared: 14
-Buddhas: 14
-conduct: 14
-Only: 14
-tribes: 14
-matter: 14
-crossed: 14
-peace: 14
-practice: 14
-clear: 14
-Ode: 14
-duke: 14
-always: 14
-grace: 14
-Celebrating: 14
-sea: 14
-behind: 14
-attain: 14
-She: 14
-reared: 14
-Tis: 14
-war: 14
-Though: 14
-beyond: 14
-happy: 14
-Woo: 14
-fall: 14
-Praise: 14
-hinayana: 14
-close: 14
-demand: 14
-Yes: 14
-learned: 14
-sight: 14
-seeing: 14
-Arhat: 14
-Court: 14
-added: 14
-myself: 14
-rice: 14
-told: 14
-imperial: 14
-wisdom: 14
-Legends: 14
-fire: 14
-fish: 14
-erected: 14
-stands: 14
-C: 13
-turn: 13
-enter: 13
-stream: 13
-Do: 13
-below: 13
-righteousness: 13
-Or: 13
-remark: 13
-needs: 13
-sufficient: 13
-ne: 13
-mean: 13
-bent: 13
-condition: 13
-led: 13
-lie: 13
-season: 13
-sleep: 13
-copyright: 13
-certain: 13
-World: 13
-line: 13
-Through: 13
-knowledge: 13
-merchants: 13
-One: 13
-truth: 13
-alms: 13
-born: 13
-hair: 13
-speech: 13
-house: 13
-tell: 13
-possible: 13
-feast: 13
-grand: 13
-official: 13
-leave: 13
-lines: 13
-changed: 13
-self: 13
-approach: 13
-something: 13
-somewhat: 13
-silk: 13
-inthe: 13
-capital: 13
-mountain: 13
-pain: 13
-paid: 13
-reverence: 13
-character: 13
-carry: 13
-trouble: 13
-dare: 13
-began: 13
-Good: 13
-flesh: 13
-morning: 13
-stone: 13
-robe: 13
-goes: 13
-B: 12
-beautiful: 12
-Are: 12
-adorned: 12
-knows: 12
-Absence: 12
-Can: 12
-seems: 12
-next: 12
-play: 12
-Ye: 12
-gan: 12
-continued: 12
-Having: 12
-han: 12
-square: 12
-Going: 12
-Tartar: 12
-raised: 12
-reverent: 12
-sweet: 12
-grandly: 12
-Men: 12
-note: 12
-period: 12
-existing: 12
-gifts: 12
-future: 12
-view: 12
-bold: 12
-kind: 12
-children: 12
-require: 12
-watch: 12
-Chaoukeun: 12
-Thus: 12
-Sir: 12
-worn: 12
-grave: 12
-seat: 12
-send: 12
-Shun: 12
-Kasyapa: 12
-point: 12
-difficult: 12
-fail: 12
-wings: 12
-copies: 12
-important: 12
-gentleman: 12
-reach: 12
-supply: 12
-fixed: 12
-path: 12
-human: 12
-brothers: 12
-middle: 12
-temple: 12
-rise: 12
-bride: 12
-carriage: 12
-feelings: 12
-host: 12
-sort: 12
-since: 12
-succeeded: 12
-ask: 12
-greater: 12
-dead: 12
-Maouyenshow: 12
-F: 11
-Four: 11
-wishing: 11
-cup: 11
-fit: 11
-ability: 11
-Literary: 11
-dragon: 11
-sway: 11
-reached: 11
-eBooks: 11
-worth: 11
-guard: 11
-employed: 11
-homes: 11
-lot: 11
-virtuous: 11
-search: 11
-mountains: 11
-speaking: 11
-cold: 11
-lamps: 11
-Would: 11
-theMaster: 11
-ofBuddha: 11
-position: 11
-plants: 11
-leaves: 11
-donations: 11
-caused: 11
-Jetavana: 11
-red: 11
-system: 11
-anxious: 11
-officials: 11
-change: 11
-makes: 11
-marriage: 11
-half: 11
-straight: 11
-See: 11
-countries: 11
-portion: 11
-gain: 11
-rare: 11
-elephant: 11
-possessed: 11
-Archive: 11
-numerous: 11
-carrying: 11
-Southern: 11
-tothe: 11
-devas: 11
-Give: 11
-spoken: 11
-equal: 11
-ears: 11
-past: 11
-Virtue: 11
-Buddhists: 11
-propriety: 11
-support: 11
-robes: 11
-gives: 11
-standing: 11
-birds: 11
-horses: 11
-Mang: 11
-simply: 11
-deep: 11
-clothes: 11
-S: 10
-placewhere: 10
-woman: 10
-cry: 10
-ninety: 10
-journey: 10
-numbers: 10
-walking: 10
-http: 10
-II: 10
-seventy: 10
-effect: 10
-charge: 10
-ch: 10
-ve: 10
-thereupon: 10
-portrait: 10
-wait: 10
-laid: 10
-walk: 10
-although: 10
-chow: 10
-pond: 10
-silver: 10
-deeds: 10
-longer: 10
-III: 10
-thepeople: 10
-access: 10
-throughout: 10
-Kingdom: 10
-lay: 10
-monasteries: 10
-teaching: 10
-bird: 10
-title: 10
-Even: 10
-wicked: 10
-moral: 10
-net: 10
-Although: 10
-wide: 10
-flight: 10
-inquired: 10
-Books: 10
-chariots: 10
-sacred: 10
-meditation: 10
-substances: 10
-spread: 10
-sit: 10
-doctrine: 10
-famous: 10
-offering: 10
-subsequently: 10
-often: 10
-followers: 10
-Maitreya: 10
-www: 10
-single: 10
-generations: 10
-adopted: 10
-success: 10
-Hien: 10
-army: 10
-grieve: 10
-difference: 10
-reason: 10
-containing: 10
-Shaou: 10
-Princess: 10
-lute: 10
-regular: 10
-plain: 10
-object: 10
-southeast: 10
-teacher: 10
-converted: 10
-husband: 10
-sacrifice: 10
-easy: 10
-pillar: 10
-gutenberg: 10
-coarse: 10
-gift: 10
-yojana: 10
-town: 10
-wrong: 10
-months: 10
-dark: 10
-pear: 10
-eBook: 10
-hunger: 10
-during: 10
-becoming: 10
-drought: 10
-drama: 10
-car: 10
-k: 9
-walked: 9
-rose: 9
-PRESIDENT: 9
-third: 9
-business: 9
-kindness: 9
-bank: 9
-highest: 9
-Be: 9
-forty: 9
-IV: 9
-forms: 9
-trademark: 9
-piety: 9
-faith: 9
-foot: 9
-freely: 9
-mahayana: 9
-placed: 9
-ye: 9
-correct: 9
-Does: 9
-retreat: 9
-sentence: 9
-ones: 9
-wear: 9
-spoke: 9
-less: 9
-surely: 9
-philanthropy: 9
-provide: 9
-relief: 9
-sense: 9
-mat: 9
-open: 9
-NOTE: 9
-honor: 9
-apartments: 9
+Asoka          : 16
+dignity        : 16
+Buddhism       : 16
+passed         : 16
+just           : 16
+sons           : 16
+summer         : 16
+fine           : 16
+bad            : 16
+road           : 16
+yu             : 15
+meal           : 15
+God            : 15
+entered        : 15
+kept           : 15
+turned         : 15
+Ananda         : 15
+learning       : 15
+pure           : 15
+copy           : 15
+hearts         : 15
+followed       : 15
+strong         : 15
+tis            : 15
+grain          : 15
+wood           : 15
+fields         : 15
+green          : 15
+sound          : 15
+Bodhisattva    : 15
+fair           : 15
+East           : 15
+fast           : 15
+sheep          : 15
+front          : 15
+afterwards     : 15
+complete       : 15
+Husband        : 15
+affairs        : 15
+manner         : 15
+soon           : 15
+cease          : 15
+d              : 14
+t              : 14
+better         : 14
+taking         : 14
+These          : 14
+short          : 14
+further        : 14
+Since          : 14
+sure           : 14
+fly            : 14
+appeared       : 14
+Buddhas        : 14
+conduct        : 14
+Only           : 14
+tribes         : 14
+matter         : 14
+crossed        : 14
+peace          : 14
+practice       : 14
+clear          : 14
+Ode            : 14
+duke           : 14
+always         : 14
+grace          : 14
+Celebrating    : 14
+sea            : 14
+behind         : 14
+attain         : 14
+She            : 14
+reared         : 14
+Tis            : 14
+war            : 14
+Though         : 14
+beyond         : 14
+happy          : 14
+Woo            : 14
+fall           : 14
+Praise         : 14
+hinayana       : 14
+close          : 14
+demand         : 14
+Yes            : 14
+learned        : 14
+sight          : 14
+seeing         : 14
+Arhat          : 14
+Court          : 14
+added          : 14
+myself         : 14
+rice           : 14
+told           : 14
+imperial       : 14
+wisdom         : 14
+Legends        : 14
+fire           : 14
+fish           : 14
+erected        : 14
+stands         : 14
+C              : 13
+turn           : 13
+enter          : 13
+stream         : 13
+Do             : 13
+below          : 13
+righteousness  : 13
+Or             : 13
+remark         : 13
+needs          : 13
+sufficient     : 13
+ne             : 13
+mean           : 13
+bent           : 13
+condition      : 13
+led            : 13
+lie            : 13
+season         : 13
+sleep          : 13
+copyright      : 13
+certain        : 13
+World          : 13
+line           : 13
+Through        : 13
+knowledge      : 13
+merchants      : 13
+One            : 13
+truth          : 13
+alms           : 13
+born           : 13
+hair           : 13
+speech         : 13
+house          : 13
+tell           : 13
+possible       : 13
+feast          : 13
+grand          : 13
+official       : 13
+leave          : 13
+lines          : 13
+changed        : 13
+self           : 13
+approach       : 13
+something      : 13
+somewhat       : 13
+silk           : 13
+inthe          : 13
+capital        : 13
+mountain       : 13
+pain           : 13
+paid           : 13
+reverence      : 13
+character      : 13
+carry          : 13
+trouble        : 13
+dare           : 13
+began          : 13
+Good           : 13
+flesh          : 13
+morning        : 13
+stone          : 13
+robe           : 13
+goes           : 13
+B              : 12
+beautiful      : 12
+Are            : 12
+adorned        : 12
+knows          : 12
+Absence        : 12
+Can            : 12
+seems          : 12
+next           : 12
+play           : 12
+Ye             : 12
+gan            : 12
+continued      : 12
+Having         : 12
+han            : 12
+square         : 12
+Going          : 12
+Tartar         : 12
+raised         : 12
+reverent       : 12
+sweet          : 12
+grandly        : 12
+Men            : 12
+note           : 12
+period         : 12
+existing       : 12
+gifts          : 12
+future         : 12
+view           : 12
+bold           : 12
+kind           : 12
+children       : 12
+require        : 12
+watch          : 12
+Chaoukeun      : 12
+Thus           : 12
+Sir            : 12
+worn           : 12
+grave          : 12
+seat           : 12
+send           : 12
+Shun           : 12
+Kasyapa        : 12
+point          : 12
+difficult      : 12
+fail           : 12
+wings          : 12
+copies         : 12
+important      : 12
+gentleman      : 12
+reach          : 12
+supply         : 12
+fixed          : 12
+path           : 12
+human          : 12
+brothers       : 12
+middle         : 12
+temple         : 12
+rise           : 12
+bride          : 12
+carriage       : 12
+feelings       : 12
+host           : 12
+sort           : 12
+since          : 12
+succeeded      : 12
+ask            : 12
+greater        : 12
+dead           : 12
+Maouyenshow    : 12
+F              : 11
+Four           : 11
+wishing        : 11
+cup            : 11
+fit            : 11
+ability        : 11
+Literary       : 11
+dragon         : 11
+sway           : 11
+reached        : 11
+eBooks         : 11
+worth          : 11
+guard          : 11
+employed       : 11
+homes          : 11
+lot            : 11
+virtuous       : 11
+search         : 11
+mountains      : 11
+speaking       : 11
+cold           : 11
+lamps          : 11
+Would          : 11
+theMaster      : 11
+ofBuddha       : 11
+position       : 11
+plants         : 11
+leaves         : 11
+donations      : 11
+caused         : 11
+Jetavana       : 11
+red            : 11
+system         : 11
+anxious        : 11
+officials      : 11
+change         : 11
+makes          : 11
+marriage       : 11
+half           : 11
+straight       : 11
+See            : 11
+countries      : 11
+portion        : 11
+gain           : 11
+rare           : 11
+elephant       : 11
+possessed      : 11
+Archive        : 11
+numerous       : 11
+carrying       : 11
+Southern       : 11
+tothe          : 11
+devas          : 11
+Give           : 11
+spoken         : 11
+equal          : 11
+ears           : 11
+past           : 11
+Virtue         : 11
+Buddhists      : 11
+propriety      : 11
+support        : 11
+robes          : 11
+gives          : 11
+standing       : 11
+birds          : 11
+horses         : 11
+Mang           : 11
+simply         : 11
+deep           : 11
+clothes        : 11
+S              : 10
+placewhere     : 10
+woman          : 10
+cry            : 10
+ninety         : 10
+journey        : 10
+numbers        : 10
+walking        : 10
+http           : 10
+II             : 10
+seventy        : 10
+effect         : 10
+charge         : 10
+ch             : 10
+ve             : 10
+thereupon      : 10
+portrait       : 10
+wait           : 10
+laid           : 10
+walk           : 10
+although       : 10
+chow           : 10
+pond           : 10
+silver         : 10
+deeds          : 10
+longer         : 10
+III            : 10
+thepeople      : 10
+access         : 10
+throughout     : 10
+Kingdom        : 10
+lay            : 10
+monasteries    : 10
+teaching       : 10
+bird           : 10
+title          : 10
+Even           : 10
+wicked         : 10
+moral          : 10
+net            : 10
+Although       : 10
+wide           : 10
+flight         : 10
+inquired       : 10
+Books          : 10
+chariots       : 10
+sacred         : 10
+meditation     : 10
+substances     : 10
+spread         : 10
+sit            : 10
+doctrine       : 10
+famous         : 10
+offering       : 10
+subsequently   : 10
+often          : 10
+followers      : 10
+Maitreya       : 10
+www            : 10
+single         : 10
+generations    : 10
+adopted        : 10
+success        : 10
+Hien           : 10
+army           : 10
+grieve         : 10
+difference     : 10
+reason         : 10
+containing     : 10
+Shaou          : 10
+Princess       : 10
+lute           : 10
+regular        : 10
+plain          : 10
+object         : 10
+southeast      : 10
+teacher        : 10
+converted      : 10
+husband        : 10
+sacrifice      : 10
+easy           : 10
+pillar         : 10
+gutenberg      : 10
+coarse         : 10
+gift           : 10
+yojana         : 10
+town           : 10
+wrong          : 10
+months         : 10
+dark           : 10
+pear           : 10
+eBook          : 10
+hunger         : 10
+during         : 10
+becoming       : 10
+drought        : 10
+drama          : 10
+car            : 10
+k              : 9
+walked         : 9
+rose           : 9
+PRESIDENT      : 9
+third          : 9
+business       : 9
+kindness       : 9
+bank           : 9
+highest        : 9
+Be             : 9
+forty          : 9
+IV             : 9
+forms          : 9
+trademark      : 9
+piety          : 9
+faith          : 9
+foot           : 9
+freely         : 9
+mahayana       : 9
+placed         : 9
+ye             : 9
+correct        : 9
+Does           : 9
+retreat        : 9
+sentence       : 9
+ones           : 9
+wear           : 9
+spoke          : 9
+less           : 9
+surely         : 9
+philanthropy   : 9
+provide        : 9
+relief         : 9
+sense          : 9
+mat            : 9
+open           : 9
+NOTE           : 9
+honor          : 9
+apartments     : 9
 straightforward: 9
-ancient: 9
-lies: 9
-streams: 9
-branches: 9
-Among: 9
-eighty: 9
-appears: 9
-Tartars: 9
-wants: 9
-begged: 9
-abroad: 9
-officer: 9
-bone: 9
-images: 9
-guests: 9
-paragraph: 9
-range: 9
-aside: 9
-provided: 9
-withthe: 9
-save: 9
-moment: 9
-Keang: 9
-blows: 9
-preached: 9
-learnt: 9
-Tao: 9
-shade: 9
-share: 9
-Royal: 9
-dwell: 9
-interview: 9
-knew: 9
-gaze: 9
-careful: 9
-seem: 9
-audience: 9
-Sakya: 9
-religious: 9
-please: 9
-inferior: 9
-presume: 9
-Leang: 9
-handed: 9
-arrive: 9
-powers: 9
-intercourse: 9
-stones: 9
-fourth: 9
-principal: 9
-kingdoms: 9
-breast: 9
-elder: 9
-command: 9
-toil: 9
-lived: 9
-heads: 9
-attaining: 9
-proceed: 9
-grows: 9
-venture: 9
-sought: 9
-inside: 9
-qualities: 9
-air: 9
-Music: 9
-cast: 9
-display: 9
-simple: 9
-profit: 9
-bow: 9
-boy: 9
-Vinaya: 9
-deva: 9
-cap: 9
-P: 8
-shows: 8
-length: 8
-meaning: 8
-stay: 8
-step: 8
-mark: 8
-mate: 8
-stop: 8
-fee: 8
-outside: 8
-fond: 8
-language: 8
-lo: 8
-oo: 8
-ox: 8
-bells: 8
-purpose: 8
-neglected: 8
-People: 8
-Should: 8
-Fan: 8
-meat: 8
-filial: 8
-United: 8
-dolichos: 8
-HAN: 8
-emperor: 8
-ing: 8
-PRINCESS: 8
-nine: 8
-goodness: 8
-using: 8
-joy: 8
-repose: 8
-alive: 8
-falls: 8
-weak: 8
-walls: 8
-lin: 8
-district: 8
-aught: 8
-omitted: 8
-mine: 8
-field: 8
-Kan: 8
-associated: 8
-sends: 8
-female: 8
-sovereign: 8
-color: 8
-presence: 8
-kinds: 8
-ceremonial: 8
-shadow: 8
-neither: 8
-pleasant: 8
-moreover: 8
-Minister: 8
-Yung: 8
-poverty: 8
-mourn: 8
-move: 8
-delay: 8
-nature: 8
-buried: 8
-idea: 8
-passing: 8
-sage: 8
-tax: 8
-village: 8
-ordered: 8
-including: 8
-destroy: 8
-requires: 8
-stage: 8
-winter: 8
-allowed: 8
-private: 8
-During: 8
-brave: 8
-attention: 8
-rank: 8
-tooth: 8
-apart: 8
-superiors: 8
-committed: 8
-Eitel: 8
-certainly: 8
-fact: 8
-foreign: 8
-winds: 8
-satisfaction: 8
-removed: 8
-border: 8
-influence: 8
-original: 8
-Ruler: 8
-Which: 8
-informed: 8
-minds: 8
-Young: 8
-Kwan: 8
-painful: 8
-obtain: 8
-domain: 8
-Jambudvipa: 8
-Because: 8
-fear: 8
-feel: 8
-felt: 8
-knowing: 8
-eager: 8
-respecting: 8
-wives: 8
-Soon: 8
-territory: 8
-lives: 8
-ladies: 8
-upright: 8
-strange: 8
-child: 8
-License: 8
-consulting: 8
-disgrace: 8
-spare: 8
-onthe: 8
-fill: 8
-Sramana: 8
-unless: 8
-ought: 8
-agree: 8
-Maha: 8
-already: 8
-Twas: 8
-longing: 8
-greatly: 8
-stood: 8
-written: 8
-room: 7
-pine: 7
-dread: 7
-shown: 7
-compare: 7
-virtues: 7
-company: 7
-Hwan: 7
-due: 7
-progress: 7
-naraka: 7
-speed: 7
-Every: 7
-een: 7
-branch: 7
-kindly: 7
-Ho: 7
-Oh: 7
-proceeded: 7
-pleased: 7
-looks: 7
-ai: 7
-delight: 7
-si: 7
-etext: 7
-force: 7
-Central: 7
-misery: 7
-considered: 7
-native: 7
-religion: 7
-secure: 7
-school: 7
-worship: 7
-best: 7
-mere: 7
-resentment: 7
-refund: 7
-finished: 7
-charged: 7
-post: 7
-respect: 7
-filled: 7
-Sariputtra: 7
-acts: 7
-comply: 7
-contain: 7
-views: 7
-quiet: 7
-distant: 7
-loves: 7
-quite: 7
-Death: 7
-particular: 7
-Will: 7
-Palace: 7
-dove: 7
-associates: 7
-bitter: 7
-azure: 7
-books: 7
-Take: 7
-reaching: 7
-frontier: 7
-stayed: 7
-houses: 7
-whatever: 7
-peach: 7
-lower: 7
-decree: 7
-draw: 7
-regularly: 7
-treated: 7
-Muh: 7
-Both: 7
-pay: 7
-perform: 7
-follower: 7
-retired: 7
-Lover: 7
-valley: 7
-collection: 7
-residing: 7
-multitude: 7
-holding: 7
-morrow: 7
-royal: 7
-alas: 7
-chiefs: 7
-mount: 7
-pglaf: 7
-strength: 7
-travelling: 7
-princely: 7
-monk: 7
-mouth: 7
-collected: 7
-kill: 7
-suffer: 7
-getting: 7
-wheel: 7
-friend: 7
-horse: 7
-serving: 7
-Indus: 7
-higher: 7
-really: 7
-sake: 7
-drums: 7
-harm: 7
-direction: 7
-dying: 7
-ancestral: 7
-manners: 7
-build: 7
-staff: 7
-midst: 7
-ung: 7
-benefit: 7
-Till: 7
-lost: 7
-clouds: 7
-least: 7
-Thy: 7
-Soldiers: 7
-greet: 7
-Scholar: 7
-formed: 7
-keeping: 7
-Arhats: 7
-occupied: 7
-teachings: 7
-ruled: 7
-sees: 7
-thou: 7
-creatures: 7
-bull: 7
-Way: 7
-history: 7
-subjects: 7
-sometimes: 7
-based: 7
-showed: 7
-honors: 7
-repair: 7
-attendant: 7
-Part: 7
-fate: 7
-retire: 7
-read: 7
-fifteen: 7
-takes: 7
-either: 7
-Yet: 7
-Yin: 7
-Shang: 7
-plant: 7
-sayings: 7
-everything: 7
-dislike: 7
-sing: 7
-society: 7
-tower: 7
-doubt: 7
-verses: 7
-roads: 7
-wealth: 7
-park: 7
-brings: 7
-princes: 7
-owing: 7
-enjoy: 7
-tobe: 7
-forest: 7
-Indian: 7
-dance: 7
-nearly: 7
-Tsai: 7
-lofty: 7
-constantly: 7
-uses: 7
-Tsin: 7
-scarcely: 7
-generally: 7
-eldest: 7
-spiritual: 7
-distributing: 7
-harmony: 7
-divided: 7
-ching: 7
-snow: 7
-friendship: 7
-Ganges: 7
-encountered: 7
-choice: 7
-glad: 7
-population: 7
-hearing: 7
-cavern: 7
-heavy: 7
-firm: 7
-reference: 7
-Sutras: 7
-aid: 7
-Festal: 7
-leader: 7
-mentioned: 7
-dear: 7
-earnest: 7
-allthe: 7
-deer: 7
-punishment: 7
-several: 7
-thrown: 7
-AND: 7
-dwelling: 7
-wishes: 7
-throne: 7
-Sung: 7
-result: 6
-V: 6
-m: 6
-Proprieties: 6
-quarters: 6
-picture: 6
-circumstances: 6
-thine: 6
-fellows: 6
-sorrows: 6
-possession: 6
-Prince: 6
-seasons: 6
-cries: 6
-labor: 6
-across: 6
-ear: 6
-opinion: 6
-flies: 6
-wanted: 6
-describe: 6
-TS: 6
-Other: 6
-grew: 6
-Sutra: 6
-behold: 6
-forgets: 6
-contend: 6
-else: 6
-author: 6
-student: 6
-sitting: 6
-nation: 6
-military: 6
-troops: 6
-abide: 6
-mulberry: 6
-Vaisali: 6
-almost: 6
-discussion: 6
-colors: 6
-late: 6
-early: 6
-attendants: 6
-regarded: 6
-basket: 6
-Were: 6
-girdle: 6
-Sayings: 6
-crooked: 6
-utterance: 6
-fathers: 6
-rests: 6
-points: 6
-leaving: 6
-hence: 6
-sacrificial: 6
-sixty: 6
-Pratyeka: 6
-demeanor: 6
-inquiring: 6
-studied: 6
-rabbit: 6
-narrative: 6
-orders: 6
-fashion: 6
-southwest: 6
-plantains: 6
-lonely: 6
-piled: 6
-mien: 6
-quick: 6
-beasts: 6
-patra: 6
-seated: 6
-abode: 6
-permission: 6
-travels: 6
-danger: 6
-millet: 6
-holds: 6
-money: 6
-writing: 6
-barbarians: 6
-refuse: 6
-blind: 6
-strive: 6
-hearted: 6
-frame: 6
-acted: 6
-drew: 6
-cock: 6
-sincerity: 6
-practise: 6
-More: 6
-Nan: 6
-New: 6
-escape: 6
-anything: 6
-requirements: 6
-clean: 6
-tail: 6
-tall: 6
-Monks: 6
-swept: 6
-distress: 6
-Mugalan: 6
-bosom: 6
-southern: 6
-moved: 6
-northeast: 6
-Peh: 6
-tender: 6
-Pih: 6
-fruits: 6
-run: 6
-Long: 6
-disorder: 6
-Love: 6
-causing: 6
-favor: 6
-constant: 6
-mission: 6
-suh: 6
-Complaint: 6
-hate: 6
-concern: 6
-hours: 6
-bhikshu: 6
-Shi: 6
-Sin: 6
-text: 6
-hewas: 6
-bythe: 6
-loss: 6
-Sravasti: 6
-Seuen: 6
-andthe: 6
-Two: 6
-remains: 6
-Lament: 6
-olden: 6
-sides: 6
-visit: 6
-woe: 6
-Shau: 6
-knee: 6
-separate: 6
-thin: 6
-remarkable: 6
-Shuh: 6
-youth: 6
-standard: 6
-authority: 6
-names: 6
-oftheir: 6
-Sakra: 6
-House: 6
-garden: 6
-governed: 6
-twice: 6
-assembly: 6
-waiting: 6
-yun: 6
-action: 6
-snakes: 6
-fame: 6
-YOU: 6
-ashamed: 6
-distributed: 6
-blessing: 6
-yield: 6
-real: 6
-ship: 6
-consulted: 6
-shuh: 6
-cloth: 6
-join: 6
-ordinary: 6
-errors: 6
-consumes: 6
-social: 6
-rejoice: 6
-supposed: 6
-Spirits: 6
-distinguished: 6
-killing: 6
-descendants: 6
-unable: 6
-Suppose: 6
-Chang: 6
-forces: 6
-forever: 6
-haste: 6
-appointed: 6
-luxuriant: 6
-inhabitants: 6
-vessel: 6
-follows: 6
-elders: 6
-twelve: 6
-suppose: 6
-Whenever: 6
-distribution: 6
-birth: 6
-arrow: 6
-reign: 6
-fruit: 6
-displayed: 6
-traitor: 6
-hope: 6
-file: 6
-Sramans: 6
-troubled: 6
-Families: 6
-favorite: 6
-Legend: 6
-chamber: 6
-depart: 6
-artful: 6
-until: 6
-taste: 6
-Brahman: 6
-devoted: 6
-art: 6
-aye: 6
-cars: 6
-increase: 6
-deal: 6
-facing: 6
-deed: 6
-current: 6
-russet: 6
-flat: 6
-recall: 6
-rejoined: 6
-carried: 6
-W: 5
-eating: 5
-entering: 5
-che: 5
-ascend: 5
-thieves: 5
-breadth: 5
-reform: 5
-homage: 5
-shore: 5
-hanging: 5
-remained: 5
-states: 5
-lying: 5
-status: 5
-crime: 5
-credit: 5
-dry: 5
-filename: 5
-seeks: 5
-tread: 5
-needed: 5
-admit: 5
-apply: 5
-separated: 5
-base: 5
-existence: 5
-Mean: 5
-community: 5
-Am: 5
-kalpa: 5
-excepting: 5
-hardly: 5
-LADY: 5
-IN: 5
-seventh: 5
-Ke: 5
-doctrines: 5
-OR: 5
-Pi: 5
-nets: 5
-VI: 5
-classes: 5
-Wo: 5
-lowest: 5
-Rule: 5
-extent: 5
-addition: 5
-ae: 5
-piece: 5
-tears: 5
-fox: 5
-easily: 5
-schemes: 5
-occurrence: 5
-license: 5
-oh: 5
-obtained: 5
-Buddhistic: 5
-waters: 5
-forthwith: 5
-rivers: 5
-masters: 5
-lack: 5
-departed: 5
-delivered: 5
-larger: 5
-queen: 5
-lamb: 5
-smart: 5
-Being: 5
-beat: 5
-rectitude: 5
-advance: 5
-concerned: 5
-West: 5
-afraid: 5
-ien: 5
-rush: 5
-properly: 5
-benevolence: 5
-Forth: 5
-Brahmans: 5
-gentle: 5
-Kalpa: 5
-difficulty: 5
-planted: 5
-suddenly: 5
-anxiety: 5
-parts: 5
-western: 5
-prompt: 5
-report: 5
-precepts: 5
-roots: 5
-lords: 5
-query: 5
-rulers: 5
-altars: 5
-fearing: 5
-fierce: 5
-lover: 5
-produce: 5
-raise: 5
-law: 5
-lest: 5
-Against: 5
-dogs: 5
-manage: 5
-threw: 5
-furs: 5
-alliance: 5
-experience: 5
-ofhis: 5
-Addressing: 5
-Government: 5
-morethan: 5
-residence: 5
-equipment: 5
-animal: 5
-suffering: 5
-literary: 5
-chung: 5
-fully: 5
-modern: 5
-songs: 5
-marked: 5
-keen: 5
-teachers: 5
-wrought: 5
-org: 5
-succeed: 5
-connection: 5
-cook: 5
-blow: 5
-Also: 5
-enlightened: 5
-wine: 5
-speaks: 5
-medium: 5
-English: 5
-formerly: 5
-Council: 5
-KING: 5
-hunting: 5
-Said: 5
-Hard: 5
-evening: 5
-selected: 5
-drove: 5
-Have: 5
-husbandry: 5
-Superior: 5
-Narrative: 5
-mutual: 5
-faults: 5
-uncle: 5
-generation: 5
-pattern: 5
-beings: 5
-bows: 5
-brilliant: 5
-fresh: 5
-satisfied: 5
-northern: 5
-Khoten: 5
-Along: 5
-gloom: 5
-reborn: 5
-blood: 5
-thy: 5
-pressed: 5
-probably: 5
-occurred: 5
-Self: 5
-keeps: 5
-island: 5
-bowls: 5
-Information: 5
-questioned: 5
-nought: 5
-grounds: 5
-THIS: 5
-lose: 5
-loud: 5
-instead: 5
-absent: 5
-viz: 5
-inmates: 5
-addressing: 5
-springs: 5
-weapons: 5
-elegant: 5
-sharp: 5
-Tushita: 5
-dreams: 5
-complying: 5
-MINISTER: 5
+ancient        : 9
+lies           : 9
+streams        : 9
+branches       : 9
+Among          : 9
+eighty         : 9
+appears        : 9
+Tartars        : 9
+wants          : 9
+begged         : 9
+abroad         : 9
+officer        : 9
+bone           : 9
+images         : 9
+guests         : 9
+paragraph      : 9
+range          : 9
+aside          : 9
+provided       : 9
+withthe        : 9
+save           : 9
+moment         : 9
+Keang          : 9
+blows          : 9
+preached       : 9
+learnt         : 9
+Tao            : 9
+shade          : 9
+share          : 9
+Royal          : 9
+dwell          : 9
+interview      : 9
+knew           : 9
+gaze           : 9
+careful        : 9
+seem           : 9
+audience       : 9
+Sakya          : 9
+religious      : 9
+please         : 9
+inferior       : 9
+presume        : 9
+Leang          : 9
+handed         : 9
+arrive         : 9
+powers         : 9
+intercourse    : 9
+stones         : 9
+fourth         : 9
+principal      : 9
+kingdoms       : 9
+breast         : 9
+elder          : 9
+command        : 9
+toil           : 9
+lived          : 9
+heads          : 9
+attaining      : 9
+proceed        : 9
+grows          : 9
+venture        : 9
+sought         : 9
+inside         : 9
+qualities      : 9
+air            : 9
+Music          : 9
+cast           : 9
+display        : 9
+simple         : 9
+profit         : 9
+bow            : 9
+boy            : 9
+Vinaya         : 9
+deva           : 9
+cap            : 9
+P              : 8
+shows          : 8
+length         : 8
+meaning        : 8
+stay           : 8
+step           : 8
+mark           : 8
+mate           : 8
+stop           : 8
+fee            : 8
+outside        : 8
+fond           : 8
+language       : 8
+lo             : 8
+oo             : 8
+ox             : 8
+bells          : 8
+purpose        : 8
+neglected      : 8
+People         : 8
+Should         : 8
+Fan            : 8
+meat           : 8
+filial         : 8
+United         : 8
+dolichos       : 8
+HAN            : 8
+emperor        : 8
+ing            : 8
+PRINCESS       : 8
+nine           : 8
+goodness       : 8
+using          : 8
+joy            : 8
+repose         : 8
+alive          : 8
+falls          : 8
+weak           : 8
+walls          : 8
+lin            : 8
+district       : 8
+aught          : 8
+omitted        : 8
+mine           : 8
+field          : 8
+Kan            : 8
+associated     : 8
+sends          : 8
+female         : 8
+sovereign      : 8
+color          : 8
+presence       : 8
+kinds          : 8
+ceremonial     : 8
+shadow         : 8
+neither        : 8
+pleasant       : 8
+moreover       : 8
+Minister       : 8
+Yung           : 8
+poverty        : 8
+mourn          : 8
+move           : 8
+delay          : 8
+nature         : 8
+buried         : 8
+idea           : 8
+passing        : 8
+sage           : 8
+tax            : 8
+village        : 8
+ordered        : 8
+including      : 8
+destroy        : 8
+requires       : 8
+stage          : 8
+winter         : 8
+allowed        : 8
+private        : 8
+During         : 8
+brave          : 8
+attention      : 8
+rank           : 8
+tooth          : 8
+apart          : 8
+superiors      : 8
+committed      : 8
+Eitel          : 8
+certainly      : 8
+fact           : 8
+foreign        : 8
+winds          : 8
+satisfaction   : 8
+removed        : 8
+border         : 8
+influence      : 8
+original       : 8
+Ruler          : 8
+Which          : 8
+informed       : 8
+minds          : 8
+Young          : 8
+Kwan           : 8
+painful        : 8
+obtain         : 8
+domain         : 8
+Jambudvipa     : 8
+Because        : 8
+fear           : 8
+feel           : 8
+felt           : 8
+knowing        : 8
+eager          : 8
+respecting     : 8
+wives          : 8
+Soon           : 8
+territory      : 8
+lives          : 8
+ladies         : 8
+upright        : 8
+strange        : 8
+child          : 8
+License        : 8
+consulting     : 8
+disgrace       : 8
+spare          : 8
+onthe          : 8
+fill           : 8
+Sramana        : 8
+unless         : 8
+ought          : 8
+agree          : 8
+Maha           : 8
+already        : 8
+Twas           : 8
+longing        : 8
+greatly        : 8
+stood          : 8
+written        : 8
+room           : 7
+pine           : 7
+dread          : 7
+shown          : 7
+compare        : 7
+virtues        : 7
+company        : 7
+Hwan           : 7
+due            : 7
+progress       : 7
+naraka         : 7
+speed          : 7
+Every          : 7
+een            : 7
+branch         : 7
+kindly         : 7
+Ho             : 7
+Oh             : 7
+proceeded      : 7
+pleased        : 7
+looks          : 7
+ai             : 7
+delight        : 7
+si             : 7
+etext          : 7
+force          : 7
+Central        : 7
+misery         : 7
+considered     : 7
+native         : 7
+religion       : 7
+secure         : 7
+school         : 7
+worship        : 7
+best           : 7
+mere           : 7
+resentment     : 7
+refund         : 7
+finished       : 7
+charged        : 7
+post           : 7
+respect        : 7
+filled         : 7
+Sariputtra     : 7
+acts           : 7
+comply         : 7
+contain        : 7
+views          : 7
+quiet          : 7
+distant        : 7
+loves          : 7
+quite          : 7
+Death          : 7
+particular     : 7
+Will           : 7
+Palace         : 7
+dove           : 7
+associates     : 7
+bitter         : 7
+azure          : 7
+books          : 7
+Take           : 7
+reaching       : 7
+frontier       : 7
+stayed         : 7
+houses         : 7
+whatever       : 7
+peach          : 7
+lower          : 7
+decree         : 7
+draw           : 7
+regularly      : 7
+treated        : 7
+Muh            : 7
+Both           : 7
+pay            : 7
+perform        : 7
+follower       : 7
+retired        : 7
+Lover          : 7
+valley         : 7
+collection     : 7
+residing       : 7
+multitude      : 7
+holding        : 7
+morrow         : 7
+royal          : 7
+alas           : 7
+chiefs         : 7
+mount          : 7
+pglaf          : 7
+strength       : 7
+travelling     : 7
+princely       : 7
+monk           : 7
+mouth          : 7
+collected      : 7
+kill           : 7
+suffer         : 7
+getting        : 7
+wheel          : 7
+friend         : 7
+horse          : 7
+serving        : 7
+Indus          : 7
+higher         : 7
+really         : 7
+sake           : 7
+drums          : 7
+harm           : 7
+direction      : 7
+dying          : 7
+ancestral      : 7
+manners        : 7
+build          : 7
+staff          : 7
+midst          : 7
+ung            : 7
+benefit        : 7
+Till           : 7
+lost           : 7
+clouds         : 7
+least          : 7
+Thy            : 7
+Soldiers       : 7
+greet          : 7
+Scholar        : 7
+formed         : 7
+keeping        : 7
+Arhats         : 7
+occupied       : 7
+teachings      : 7
+ruled          : 7
+sees           : 7
+thou           : 7
+creatures      : 7
+bull           : 7
+Way            : 7
+history        : 7
+subjects       : 7
+sometimes      : 7
+based          : 7
+showed         : 7
+honors         : 7
+repair         : 7
+attendant      : 7
+Part           : 7
+fate           : 7
+retire         : 7
+read           : 7
+fifteen        : 7
+takes          : 7
+either         : 7
+Yet            : 7
+Yin            : 7
+Shang          : 7
+plant          : 7
+sayings        : 7
+everything     : 7
+dislike        : 7
+sing           : 7
+society        : 7
+tower          : 7
+doubt          : 7
+verses         : 7
+roads          : 7
+wealth         : 7
+park           : 7
+brings         : 7
+princes        : 7
+owing          : 7
+enjoy          : 7
+tobe           : 7
+forest         : 7
+Indian         : 7
+dance          : 7
+nearly         : 7
+Tsai           : 7
+lofty          : 7
+constantly     : 7
+uses           : 7
+Tsin           : 7
+scarcely       : 7
+generally      : 7
+eldest         : 7
+spiritual      : 7
+distributing   : 7
+harmony        : 7
+divided        : 7
+ching          : 7
+snow           : 7
+friendship     : 7
+Ganges         : 7
+encountered    : 7
+choice         : 7
+glad           : 7
+population     : 7
+hearing        : 7
+cavern         : 7
+heavy          : 7
+firm           : 7
+reference      : 7
+Sutras         : 7
+aid            : 7
+Festal         : 7
+leader         : 7
+mentioned      : 7
+dear           : 7
+earnest        : 7
+allthe         : 7
+deer           : 7
+punishment     : 7
+several        : 7
+thrown         : 7
+AND            : 7
+dwelling       : 7
+wishes         : 7
+throne         : 7
+Sung           : 7
+result         : 6
+V              : 6
+m              : 6
+Proprieties    : 6
+quarters       : 6
+picture        : 6
+circumstances  : 6
+thine          : 6
+fellows        : 6
+sorrows        : 6
+possession     : 6
+Prince         : 6
+seasons        : 6
+cries          : 6
+labor          : 6
+across         : 6
+ear            : 6
+opinion        : 6
+flies          : 6
+wanted         : 6
+describe       : 6
+TS             : 6
+Other          : 6
+grew           : 6
+Sutra          : 6
+behold         : 6
+forgets        : 6
+contend        : 6
+else           : 6
+author         : 6
+student        : 6
+sitting        : 6
+nation         : 6
+military       : 6
+troops         : 6
+abide          : 6
+mulberry       : 6
+Vaisali        : 6
+almost         : 6
+discussion     : 6
+colors         : 6
+late           : 6
+early          : 6
+attendants     : 6
+regarded       : 6
+basket         : 6
+Were           : 6
+girdle         : 6
+Sayings        : 6
+crooked        : 6
+utterance      : 6
+fathers        : 6
+rests          : 6
+points         : 6
+leaving        : 6
+hence          : 6
+sacrificial    : 6
+sixty          : 6
+Pratyeka       : 6
+demeanor       : 6
+inquiring      : 6
+studied        : 6
+rabbit         : 6
+narrative      : 6
+orders         : 6
+fashion        : 6
+southwest      : 6
+plantains      : 6
+lonely         : 6
+piled          : 6
+mien           : 6
+quick          : 6
+beasts         : 6
+patra          : 6
+seated         : 6
+abode          : 6
+permission     : 6
+travels        : 6
+danger         : 6
+millet         : 6
+holds          : 6
+money          : 6
+writing        : 6
+barbarians     : 6
+refuse         : 6
+blind          : 6
+strive         : 6
+hearted        : 6
+frame          : 6
+acted          : 6
+drew           : 6
+cock           : 6
+sincerity      : 6
+practise       : 6
+More           : 6
+Nan            : 6
+New            : 6
+escape         : 6
+anything       : 6
+requirements   : 6
+clean          : 6
+tail           : 6
+tall           : 6
+Monks          : 6
+swept          : 6
+distress       : 6
+Mugalan        : 6
+bosom          : 6
+southern       : 6
+moved          : 6
+northeast      : 6
+Peh            : 6
+tender         : 6
+Pih            : 6
+fruits         : 6
+run            : 6
+Long           : 6
+disorder       : 6
+Love           : 6
+causing        : 6
+favor          : 6
+constant       : 6
+mission        : 6
+suh            : 6
+Complaint      : 6
+hate           : 6
+concern        : 6
+hours          : 6
+bhikshu        : 6
+Shi            : 6
+Sin            : 6
+text           : 6
+hewas          : 6
+bythe          : 6
+loss           : 6
+Sravasti       : 6
+Seuen          : 6
+andthe         : 6
+Two            : 6
+remains        : 6
+Lament         : 6
+olden          : 6
+sides          : 6
+visit          : 6
+woe            : 6
+Shau           : 6
+knee           : 6
+separate       : 6
+thin           : 6
+remarkable     : 6
+Shuh           : 6
+youth          : 6
+standard       : 6
+authority      : 6
+names          : 6
+oftheir        : 6
+Sakra          : 6
+House          : 6
+garden         : 6
+governed       : 6
+twice          : 6
+assembly       : 6
+waiting        : 6
+yun            : 6
+action         : 6
+snakes         : 6
+fame           : 6
+YOU            : 6
+ashamed        : 6
+distributed    : 6
+blessing       : 6
+yield          : 6
+real           : 6
+ship           : 6
+consulted      : 6
+shuh           : 6
+cloth          : 6
+join           : 6
+ordinary       : 6
+errors         : 6
+consumes       : 6
+social         : 6
+rejoice        : 6
+supposed       : 6
+Spirits        : 6
+distinguished  : 6
+killing        : 6
+descendants    : 6
+unable         : 6
+Suppose        : 6
+Chang          : 6
+forces         : 6
+forever        : 6
+haste          : 6
+appointed      : 6
+luxuriant      : 6
+inhabitants    : 6
+vessel         : 6
+follows        : 6
+elders         : 6
+twelve         : 6
+suppose        : 6
+Whenever       : 6
+distribution   : 6
+birth          : 6
+arrow          : 6
+reign          : 6
+fruit          : 6
+displayed      : 6
+traitor        : 6
+hope           : 6
+file           : 6
+Sramans        : 6
+troubled       : 6
+Families       : 6
+favorite       : 6
+Legend         : 6
+chamber        : 6
+depart         : 6
+artful         : 6
+until          : 6
+taste          : 6
+Brahman        : 6
+devoted        : 6
+art            : 6
+aye            : 6
+cars           : 6
+increase       : 6
+deal           : 6
+facing         : 6
+deed           : 6
+current        : 6
+russet         : 6
+flat           : 6
+recall         : 6
+rejoined       : 6
+carried        : 6
+W              : 5
+eating         : 5
+entering       : 5
+che            : 5
+ascend         : 5
+thieves        : 5
+breadth        : 5
+reform         : 5
+homage         : 5
+shore          : 5
+hanging        : 5
+remained       : 5
+states         : 5
+lying          : 5
+status         : 5
+crime          : 5
+credit         : 5
+dry            : 5
+filename       : 5
+seeks          : 5
+tread          : 5
+needed         : 5
+admit          : 5
+apply          : 5
+separated      : 5
+base           : 5
+existence      : 5
+Mean           : 5
+community      : 5
+Am             : 5
+kalpa          : 5
+excepting      : 5
+hardly         : 5
+LADY           : 5
+IN             : 5
+seventh        : 5
+Ke             : 5
+doctrines      : 5
+OR             : 5
+Pi             : 5
+nets           : 5
+VI             : 5
+classes        : 5
+Wo             : 5
+lowest         : 5
+Rule           : 5
+extent         : 5
+addition       : 5
+ae             : 5
+piece          : 5
+tears          : 5
+fox            : 5
+easily         : 5
+schemes        : 5
+occurrence     : 5
+license        : 5
+oh             : 5
+obtained       : 5
+Buddhistic     : 5
+waters         : 5
+forthwith      : 5
+rivers         : 5
+masters        : 5
+lack           : 5
+departed       : 5
+delivered      : 5
+larger         : 5
+queen          : 5
+lamb           : 5
+smart          : 5
+Being          : 5
+beat           : 5
+rectitude      : 5
+advance        : 5
+concerned      : 5
+West           : 5
+afraid         : 5
+ien            : 5
+rush           : 5
+properly       : 5
+benevolence    : 5
+Forth          : 5
+Brahmans       : 5
+gentle         : 5
+Kalpa          : 5
+difficulty     : 5
+planted        : 5
+suddenly       : 5
+anxiety        : 5
+parts          : 5
+western        : 5
+prompt         : 5
+report         : 5
+precepts       : 5
+roots          : 5
+lords          : 5
+query          : 5
+rulers         : 5
+altars         : 5
+fearing        : 5
+fierce         : 5
+lover          : 5
+produce        : 5
+raise          : 5
+law            : 5
+lest           : 5
+Against        : 5
+dogs           : 5
+manage         : 5
+threw          : 5
+furs           : 5
+alliance       : 5
+experience     : 5
+ofhis          : 5
+Addressing     : 5
+Government     : 5
+morethan       : 5
+residence      : 5
+equipment      : 5
+animal         : 5
+suffering      : 5
+literary       : 5
+chung          : 5
+fully          : 5
+modern         : 5
+songs          : 5
+marked         : 5
+keen           : 5
+teachers       : 5
+wrought        : 5
+org            : 5
+succeed        : 5
+connection     : 5
+cook           : 5
+blow           : 5
+Also           : 5
+enlightened    : 5
+wine           : 5
+speaks         : 5
+medium         : 5
+English        : 5
+formerly       : 5
+Council        : 5
+KING           : 5
+hunting        : 5
+Said           : 5
+Hard           : 5
+evening        : 5
+selected       : 5
+drove          : 5
+Have           : 5
+husbandry      : 5
+Superior       : 5
+Narrative      : 5
+mutual         : 5
+faults         : 5
+uncle          : 5
+generation     : 5
+pattern        : 5
+beings         : 5
+bows           : 5
+brilliant      : 5
+fresh          : 5
+satisfied      : 5
+northern       : 5
+Khoten         : 5
+Along          : 5
+gloom          : 5
+reborn         : 5
+blood          : 5
+thy            : 5
+pressed        : 5
+probably       : 5
+occurred       : 5
+Self           : 5
+keeps          : 5
+island         : 5
+bowls          : 5
+Information    : 5
+questioned     : 5
+nought         : 5
+grounds        : 5
+THIS           : 5
+lose           : 5
+loud           : 5
+instead        : 5
+absent         : 5
+viz            : 5
+inmates        : 5
+addressing     : 5
+springs        : 5
+weapons        : 5
+elegant        : 5
+sharp          : 5
+Tushita        : 5
+dreams         : 5
+complying      : 5
+MINISTER       : 5
 precioussubstances: 5
-race: 5
-raft: 5
-older: 5
-distinction: 5
-retirement: 5
-prove: 5
-observe: 5
-perhaps: 5
-contrary: 5
-Middle: 5
-literature: 5
-elapsed: 5
-Shen: 5
-seas: 5
-Section: 5
-thesame: 5
-possess: 5
-volunteers: 5
-sets: 5
-supernatural: 5
-governor: 5
-marsh: 5
-Was: 5
-flourishing: 5
-Grand: 5
-marks: 5
-Upon: 5
-weary: 5
-commands: 5
-doors: 5
-error: 5
-fare: 5
-shell: 5
-attainments: 5
-Yau: 5
-elephants: 5
-repeated: 5
-estimates: 5
-gems: 5
-maiden: 5
-sigh: 5
-total: 5
-countrymen: 5
-control: 5
-apprehension: 5
-feudallords: 5
-individual: 5
-regards: 5
-ready: 5
-match: 5
-prepare: 5
-destroyed: 5
-communities: 5
-cares: 5
-refused: 5
-prayer: 5
-merely: 5
-meant: 5
-prefect: 5
-Ceylon: 5
-richest: 5
-endless: 5
-poetry: 5
-ministering: 5
-feed: 5
-First: 5
-Rajagriha: 5
-atthe: 5
-famine: 5
-carved: 5
-canopies: 5
-haired: 5
-board: 5
-necessarily: 5
-Spirit: 5
-shine: 5
-faithfulness: 5
-girls: 5
-attended: 5
-Devas: 5
-thegreat: 5
-bushy: 5
-Yama: 5
-cases: 5
-exist: 5
-Hanchenyu: 5
-stories: 5
-compliance: 5
-conversation: 5
-creature: 5
-Deep: 5
-meeting: 5
-prosperous: 5
-pheasant: 5
-iron: 5
-Gandhara: 5
-song: 5
-Still: 5
-theplace: 5
-hears: 5
-horn: 5
-sore: 5
-soul: 5
-ignorant: 5
-accordance: 5
-Sorrows: 5
-itself: 5
-regions: 5
-Marvellous: 5
-theRules: 5
-add: 5
-Chiefs: 5
-happiness: 5
-movement: 5
-consists: 5
-results: 5
-neighborhood: 5
-Judge: 5
-axe: 5
-broad: 5
-itis: 5
-amount: 5
-feudal: 5
-deem: 5
-capable: 5
-nations: 5
-extended: 5
-story: 5
-General: 5
-natural: 5
-herself: 5
-covering: 5
-flit: 4
-information: 4
-root: 4
-intellectual: 4
-grudged: 4
-whence: 4
-rows: 4
-disfigured: 4
-distribute: 4
-shook: 4
-shoot: 4
-memory: 4
-Aye: 4
-planned: 4
+race           : 5
+raft           : 5
+older          : 5
+distinction    : 5
+retirement     : 5
+prove          : 5
+observe        : 5
+perhaps        : 5
+contrary       : 5
+Middle         : 5
+literature     : 5
+elapsed        : 5
+Shen           : 5
+seas           : 5
+Section        : 5
+thesame        : 5
+possess        : 5
+volunteers     : 5
+sets           : 5
+supernatural   : 5
+governor       : 5
+marsh          : 5
+Was            : 5
+flourishing    : 5
+Grand          : 5
+marks          : 5
+Upon           : 5
+weary          : 5
+commands       : 5
+doors          : 5
+error          : 5
+fare           : 5
+shell          : 5
+attainments    : 5
+Yau            : 5
+elephants      : 5
+repeated       : 5
+estimates      : 5
+gems           : 5
+maiden         : 5
+sigh           : 5
+total          : 5
+countrymen     : 5
+control        : 5
+apprehension   : 5
+feudallords    : 5
+individual     : 5
+regards        : 5
+ready          : 5
+match          : 5
+prepare        : 5
+destroyed      : 5
+communities    : 5
+cares          : 5
+refused        : 5
+prayer         : 5
+merely         : 5
+meant          : 5
+prefect        : 5
+Ceylon         : 5
+richest        : 5
+endless        : 5
+poetry         : 5
+ministering    : 5
+feed           : 5
+First          : 5
+Rajagriha      : 5
+atthe          : 5
+famine         : 5
+carved         : 5
+canopies       : 5
+haired         : 5
+board          : 5
+necessarily    : 5
+Spirit         : 5
+shine          : 5
+faithfulness   : 5
+girls          : 5
+attended       : 5
+Devas          : 5
+thegreat       : 5
+bushy          : 5
+Yama           : 5
+cases          : 5
+exist          : 5
+Hanchenyu      : 5
+stories        : 5
+compliance     : 5
+conversation   : 5
+creature       : 5
+Deep           : 5
+meeting        : 5
+prosperous     : 5
+pheasant       : 5
+iron           : 5
+Gandhara       : 5
+song           : 5
+Still          : 5
+theplace       : 5
+hears          : 5
+horn           : 5
+sore           : 5
+soul           : 5
+ignorant       : 5
+accordance     : 5
+Sorrows        : 5
+itself         : 5
+regions        : 5
+Marvellous     : 5
+theRules       : 5
+add            : 5
+Chiefs         : 5
+happiness      : 5
+movement       : 5
+consists       : 5
+results        : 5
+neighborhood   : 5
+Judge          : 5
+axe            : 5
+broad          : 5
+itis           : 5
+amount         : 5
+feudal         : 5
+deem           : 5
+capable        : 5
+nations        : 5
+extended       : 5
+story          : 5
+General        : 5
+natural        : 5
+herself        : 5
+covering       : 5
+flit           : 4
+information    : 4
+root           : 4
+intellectual   : 4
+grudged        : 4
+whence         : 4
+rows           : 4
+disfigured     : 4
+distribute     : 4
+shook          : 4
+shoot          : 4
+memory         : 4
+Aye            : 4
+planned        : 4
 Characteristics: 4
-isstill: 4
-annals: 4
-Bad: 4
-Ngai: 4
-dew: 4
-carefully: 4
-quarter: 4
-showing: 4
-yielded: 4
-shone: 4
-sadness: 4
-fulfil: 4
-expression: 4
-devote: 4
-Ching: 4
-Seang: 4
-cattle: 4
-secret: 4
-Chau: 4
-thrust: 4
-awful: 4
-silence: 4
-CH: 4
-severe: 4
-fling: 4
-Dr: 4
-loose: 4
-FA: 4
-education: 4
-cent: 4
-etc: 4
-Le: 4
-Ceremonial: 4
-Sz: 4
-affable: 4
-fan: 4
-plan: 4
-naturalness: 4
-fagots: 4
-suit: 4
-burned: 4
-Brahma: 4
-fix: 4
-proceeding: 4
-Bewails: 4
-CHOW: 4
-banners: 4
-James: 4
-fowl: 4
-dream: 4
-se: 4
-decision: 4
-failure: 4
-frightened: 4
-teams: 4
-provisions: 4
-gem: 4
-regret: 4
-scale: 4
-quart: 4
-Things: 4
-isnot: 4
-unhappy: 4
-Seeing: 4
-imposing: 4
-livelihood: 4
-arrangements: 4
-mankind: 4
-circle: 4
-Deplores: 4
-goods: 4
-tomake: 4
-wash: 4
-Misery: 4
-Ones: 4
-Appropriate: 4
-strict: 4
-putting: 4
-ENVOY: 4
-vision: 4
-bend: 4
-Northern: 4
-concerning: 4
-pieces: 4
-Speaking: 4
-ruin: 4
-dressed: 4
-Get: 4
-mysterious: 4
-boldly: 4
-culture: 4
-Japan: 4
-Thick: 4
-pool: 4
-Disciple: 4
-pearls: 4
-pour: 4
-Srataparna: 4
-slack: 4
-masses: 4
-erect: 4
-Had: 4
-lifted: 4
-carriages: 4
-eighteen: 4
-TRAVELS: 4
-freedom: 4
-Hia: 4
-Envoy: 4
-daughter: 4
-difficulties: 4
-composed: 4
-backs: 4
-vase: 4
+isstill        : 4
+annals         : 4
+Bad            : 4
+Ngai           : 4
+dew            : 4
+carefully      : 4
+quarter        : 4
+showing        : 4
+yielded        : 4
+shone          : 4
+sadness        : 4
+fulfil         : 4
+expression     : 4
+devote         : 4
+Ching          : 4
+Seang          : 4
+cattle         : 4
+secret         : 4
+Chau           : 4
+thrust         : 4
+awful          : 4
+silence        : 4
+CH             : 4
+severe         : 4
+fling          : 4
+Dr             : 4
+loose          : 4
+FA             : 4
+education      : 4
+cent           : 4
+etc            : 4
+Le             : 4
+Ceremonial     : 4
+Sz             : 4
+affable        : 4
+fan            : 4
+plan           : 4
+naturalness    : 4
+fagots         : 4
+suit           : 4
+burned         : 4
+Brahma         : 4
+fix            : 4
+proceeding     : 4
+Bewails        : 4
+CHOW           : 4
+banners        : 4
+James          : 4
+fowl           : 4
+dream          : 4
+se             : 4
+decision       : 4
+failure        : 4
+frightened     : 4
+teams          : 4
+provisions     : 4
+gem            : 4
+regret         : 4
+scale          : 4
+quart          : 4
+Things         : 4
+isnot          : 4
+unhappy        : 4
+Seeing         : 4
+imposing       : 4
+livelihood     : 4
+arrangements   : 4
+mankind        : 4
+circle         : 4
+Deplores       : 4
+goods          : 4
+tomake         : 4
+wash           : 4
+Misery         : 4
+Ones           : 4
+Appropriate    : 4
+strict         : 4
+putting        : 4
+ENVOY          : 4
+vision         : 4
+bend           : 4
+Northern       : 4
+concerning     : 4
+pieces         : 4
+Speaking       : 4
+ruin           : 4
+dressed        : 4
+Get            : 4
+mysterious     : 4
+boldly         : 4
+culture        : 4
+Japan          : 4
+Thick          : 4
+pool           : 4
+Disciple       : 4
+pearls         : 4
+pour           : 4
+Srataparna     : 4
+slack          : 4
+masses         : 4
+erect          : 4
+Had            : 4
+lifted         : 4
+carriages      : 4
+eighteen       : 4
+TRAVELS        : 4
+freedom        : 4
+Hia            : 4
+Envoy          : 4
+daughter       : 4
+difficulties   : 4
+composed       : 4
+backs          : 4
+vase           : 4
 straightforwardness: 4
-figures: 4
-hewould: 4
-leaf: 4
-lead: 4
-resembles: 4
-accepted: 4
-corresponding: 4
-example: 4
-throw: 4
-fifth: 4
-flows: 4
-observance: 4
-consigned: 4
-arrows: 4
-detrimental: 4
-prey: 4
-thekingdom: 4
-SORROWS: 4
-Cunningham: 4
-legislation: 4
-quit: 4
-Liau: 4
-plums: 4
-relics: 4
-Life: 4
-afar: 4
-translator: 4
-None: 4
-Joy: 4
-apartment: 4
-duckweed: 4
-habit: 4
-Ishould: 4
-SAYINGS: 4
-Kau: 4
-exactly: 4
-receives: 4
-vigor: 4
-heavenly: 4
-Sanscrit: 4
-lodged: 4
-believed: 4
-forthe: 4
-prepared: 4
-Forbade: 4
-Chwang: 4
-sweep: 4
-praise: 4
-driver: 4
-joyous: 4
-Lit: 4
-Liu: 4
-supported: 4
-droop: 4
-Without: 4
-borne: 4
-market: 4
-aloof: 4
-plough: 4
-utmost: 4
-proverb: 4
-class: 4
-Exit: 4
-Man: 4
-sphere: 4
-oft: 4
-oil: 4
-evidently: 4
-breaking: 4
-Min: 4
-assist: 4
-demons: 4
-Industry: 4
-Another: 4
-Mong: 4
-isthe: 4
-drum: 4
-govern: 4
-apparent: 4
-wing: 4
-invitation: 4
-onwards: 4
-remove: 4
-Over: 4
-seclusion: 4
-Formerly: 4
-saidto: 4
-burning: 4
-lapis: 4
-ancients: 4
-perish: 4
-playing: 4
-questioning: 4
-prime: 4
-intellect: 4
-Sang: 4
-ASCII: 4
-theyare: 4
-PIH: 4
-seriously: 4
-invade: 4
-Dakshina: 4
-yawning: 4
-employ: 4
-pride: 4
-Stands: 4
-Promote: 4
-building: 4
-score: 4
-despatched: 4
-posted: 4
-saint: 4
-Pao: 4
-benevolent: 4
-Return: 4
-moves: 4
-boat: 4
-rob: 4
-bowed: 4
-ours: 4
-warriors: 4
-benefits: 4
-absence: 4
-demon: 4
-hunters: 4
-personal: 4
-bhikshus: 4
-Immediately: 4
-avoid: 4
-glory: 4
-Nagara: 4
-express: 4
-fills: 4
-Vaisya: 4
-figure: 4
-tah: 4
-tinkling: 4
-smooth: 4
-Rama: 4
-Western: 4
-daring: 4
-competent: 4
-poems: 4
-Abhayagiri: 4
-SHI: 4
-sang: 4
-incident: 4
-caught: 4
-desires: 4
-eastern: 4
-Plaint: 4
-stars: 4
-measures: 4
-Respecting: 4
-unknown: 4
-format: 4
-Say: 4
-thecountry: 4
-banks: 4
-birthplace: 4
-surround: 4
-inform: 4
-Tells: 4
-Suy: 4
-dense: 4
-lore: 4
-wore: 4
-exists: 4
-vie: 4
-Mourns: 4
-notes: 4
-sleeping: 4
-Condition: 4
-special: 4
-GUTENBERG: 4
-shaft: 4
-wanting: 4
-narrow: 4
-shape: 4
-shame: 4
-Vaisyas: 4
-countenance: 4
-leads: 4
-severity: 4
-slanderers: 4
-double: 4
-wet: 4
-Fang: 4
-withdrew: 4
-profound: 4
-skill: 4
-Sudatta: 4
-divine: 4
-plates: 4
-announce: 4
-sending: 4
-tongues: 4
-seed: 4
-heed: 4
-flower: 4
-PROJECT: 4
-changes: 4
-heir: 4
-ended: 4
-obliged: 4
-proud: 4
-herd: 4
-entitled: 4
-resolved: 4
-lictors: 4
-Rejoicing: 4
-Lung: 4
-loyalty: 4
-intelligence: 4
-consequence: 4
-particularly: 4
-arms: 4
-unite: 4
-sacrifices: 4
-High: 4
-quietly: 4
-crowds: 4
-arts: 4
-entirely: 4
-Keeper: 4
-yih: 4
-yin: 4
-ofthese: 4
-opportunity: 4
-Confucian: 4
-march: 4
-calls: 4
-questions: 4
-exposed: 4
-outward: 4
-killed: 4
-thereis: 4
-Davids: 4
-SOUTH: 4
-acting: 4
-forget: 4
-thereby: 4
-tohave: 4
-melancholy: 4
-vital: 4
-Earl: 4
-Anxiety: 4
-firmly: 4
-choose: 4
-monarch: 4
-courage: 4
-touch: 4
-completed: 4
-Greek: 4
-wrapped: 4
-phrase: 4
-erroneous: 4
-PART: 4
-servant: 4
-Miscellaneous: 4
-bream: 4
-whenthe: 4
-equalled: 4
-break: 4
-declined: 4
-willbe: 4
-traveller: 4
-Asked: 4
-site: 4
-Travels: 4
-quitted: 4
-thestate: 4
-applied: 4
-downwards: 4
-successor: 4
-ceremony: 4
-pillow: 4
-geese: 4
-Nature: 4
-polish: 4
-allotted: 4
-disappeared: 4
-ease: 4
-resound: 4
-Strange: 4
-articles: 4
-whereas: 4
-grudge: 4
-supplied: 4
-displaying: 4
-bears: 4
-renewed: 4
-Gridhra: 4
-naturally: 4
-voice: 4
-Buddhaship: 4
-layers: 4
-rises: 4
-Song: 4
-crossing: 4
-Exeunt: 4
-kuta: 4
-stores: 4
-rishi: 4
-ring: 4
-Lichchhavis: 4
-slow: 4
-solemn: 4
-rocks: 4
-attainment: 4
-Better: 4
-fourteen: 4
-knife: 4
-dutiful: 4
-EDITOR: 4
-management: 4
-seemed: 4
-Ajatasatru: 4
-brightly: 4
-excellence: 4
-oaks: 4
-Yang: 4
-date: 4
-Cave: 4
-wasthe: 4
-Filial: 4
-Ihave: 4
-vulgar: 4
-skull: 4
-department: 4
-drizzling: 4
-dispersed: 4
-facts: 4
-sandal: 4
-asking: 4
-general: 4
-hurry: 4
-soft: 4
-Bhadra: 4
-scholar: 4
-owner: 4
-paragraphs: 4
-distinctly: 4
-online: 4
-tiger: 4
-deplore: 4
-anyone: 4
-event: 4
-halted: 4
-published: 4
-Devadatta: 4
-younger: 4
-soldiers: 4
-usages: 4
-mighty: 4
-aim: 4
-Crossing: 4
-northwest: 4
-Many: 4
-holder: 4
-Mara: 4
-neath: 4
-Bemoans: 4
-Bride: 4
-ACT: 4
-practical: 4
-uttered: 4
-hadgone: 4
-animals: 4
-likewise: 4
-instruction: 4
-posts: 4
-devalaya: 4
-box: 4
-drawn: 4
-noblest: 4
-autumn: 4
-reins: 4
-lovely: 4
-humility: 4
-roam: 4
-Sometimes: 4
-flew: 4
-imperfect: 3
-energy: 3
-U: 3
-c: 3
-posture: 3
-creepers: 3
-u: 3
-readers: 3
-faithful: 3
-pigs: 3
-Careful: 3
-besides: 3
-serious: 3
-pile: 3
-flow: 3
-women: 3
-protection: 3
-whenhe: 3
-surname: 3
-avail: 3
-Sovereign: 3
-ceasing: 3
-renowned: 3
-effective: 3
-pity: 3
-Analects: 3
-archery: 3
-reported: 3
-stability: 3
-assume: 3
-Sentences: 3
-coats: 3
-gallery: 3
-performed: 3
-dam: 3
-pierced: 3
-demands: 3
-attitude: 3
-average: 3
-taught: 3
-Translated: 3
-Champa: 3
-scattered: 3
-brook: 3
-bearing: 3
-commit: 3
-friendships: 3
-Mohammedans: 3
-star: 3
-treat: 3
-bare: 3
-seeds: 3
-Gotama: 3
-bodily: 3
-mats: 3
-EBook: 3
-stated: 3
-solitude: 3
-reward: 3
-devour: 3
-escort: 3
-visitors: 3
-eeh: 3
-enmity: 3
-exception: 3
-togive: 3
-evidence: 3
-Selections: 3
-lasting: 3
-females: 3
-turns: 3
-gradually: 3
-tried: 3
-Afterwards: 3
-Person: 3
-err: 3
-entrance: 3
-Li: 3
-howshould: 3
-endeavor: 3
-PG: 3
-represented: 3
-shines: 3
-hues: 3
-austerities: 3
-gray: 3
-nest: 3
-exacting: 3
-wealthy: 3
-arriving: 3
-huge: 3
-Pataliputtra: 3
-Vainly: 3
-Within: 3
-taxes: 3
-fat: 3
-rested: 3
-Friend: 3
-hunt: 3
-opened: 3
-hung: 3
-Until: 3
-helpmeet: 3
-Confucianists: 3
-folk: 3
-Poor: 3
-isthat: 3
-garment: 3
-Ying: 3
-feather: 3
-ho: 3
-foul: 3
-majestic: 3
-le: 3
-fur: 3
-hehas: 3
-City: 3
-charms: 3
-dive: 3
-skilful: 3
-discipline: 3
-bathed: 3
-re: 3
-oppose: 3
-Eastern: 3
-bridge: 3
-discovered: 3
-executed: 3
-ui: 3
-gay: 3
-teach: 3
-brides: 3
-create: 3
-station: 3
-Thine: 3
-devise: 3
-god: 3
-mindful: 3
-FOR: 3
-reveres: 3
-chariot: 3
-Ere: 3
-accordingly: 3
-messenger: 3
-predecessors: 3
-charity: 3
-However: 3
-couches: 3
-convey: 3
-Dharma: 3
-performing: 3
-foremost: 3
-myriads: 3
-thatthe: 3
-hae: 3
-measure: 3
-impossible: 3
-dried: 3
-ends: 3
-Far: 3
-observing: 3
-hew: 3
-Women: 3
-reverse: 3
-repairs: 3
-Divine: 3
-sounds: 3
-Left: 3
-blame: 3
-confusion: 3
-Reciprocity: 3
-hue: 3
-bell: 3
-hwa: 3
-strike: 3
-banquet: 3
-Records: 3
-Less: 3
-cities: 3
-regulation: 3
-inanother: 3
-rude: 3
-household: 3
-invite: 3
-Full: 3
-whohad: 3
-seize: 3
-Criminal: 3
-runs: 3
-descending: 3
-liberality: 3
-value: 3
-Learned: 3
-excellent: 3
-providing: 3
-Ming: 3
-arrayed: 3
-utterances: 3
-magpie: 3
-urged: 3
-Eunuch: 3
-Bimbisara: 3
-gently: 3
-frequently: 3
-individuals: 3
-worse: 3
-catalogue: 3
-everywhere: 3
-parties: 3
-plains: 3
-stranger: 3
-omen: 3
-waist: 3
-Hih: 3
-worshipped: 3
-hwang: 3
-bones: 3
-limitation: 3
-administrator: 3
-offer: 3
-Hoo: 3
-sixth: 3
-civil: 3
-founder: 3
-pillars: 3
-contact: 3
-party: 3
-crowd: 3
-Hwa: 3
-Taoism: 3
-pursuit: 3
-unnerved: 3
-level: 3
-preserve: 3
-cross: 3
-scene: 3
+figures        : 4
+hewould        : 4
+leaf           : 4
+lead           : 4
+resembles      : 4
+accepted       : 4
+corresponding  : 4
+example        : 4
+throw          : 4
+fifth          : 4
+flows          : 4
+observance     : 4
+consigned      : 4
+arrows         : 4
+detrimental    : 4
+prey           : 4
+thekingdom     : 4
+SORROWS        : 4
+Cunningham     : 4
+legislation    : 4
+quit           : 4
+Liau           : 4
+plums          : 4
+relics         : 4
+Life           : 4
+afar           : 4
+translator     : 4
+None           : 4
+Joy            : 4
+apartment      : 4
+duckweed       : 4
+habit          : 4
+Ishould        : 4
+SAYINGS        : 4
+Kau            : 4
+exactly        : 4
+receives       : 4
+vigor          : 4
+heavenly       : 4
+Sanscrit       : 4
+lodged         : 4
+believed       : 4
+forthe         : 4
+prepared       : 4
+Forbade        : 4
+Chwang         : 4
+sweep          : 4
+praise         : 4
+driver         : 4
+joyous         : 4
+Lit            : 4
+Liu            : 4
+supported      : 4
+droop          : 4
+Without        : 4
+borne          : 4
+market         : 4
+aloof          : 4
+plough         : 4
+utmost         : 4
+proverb        : 4
+class          : 4
+Exit           : 4
+Man            : 4
+sphere         : 4
+oft            : 4
+oil            : 4
+evidently      : 4
+breaking       : 4
+Min            : 4
+assist         : 4
+demons         : 4
+Industry       : 4
+Another        : 4
+Mong           : 4
+isthe          : 4
+drum           : 4
+govern         : 4
+apparent       : 4
+wing           : 4
+invitation     : 4
+onwards        : 4
+remove         : 4
+Over           : 4
+seclusion      : 4
+Formerly       : 4
+saidto         : 4
+burning        : 4
+lapis          : 4
+ancients       : 4
+perish         : 4
+playing        : 4
+questioning    : 4
+prime          : 4
+intellect      : 4
+Sang           : 4
+ASCII          : 4
+theyare        : 4
+PIH            : 4
+seriously      : 4
+invade         : 4
+Dakshina       : 4
+yawning        : 4
+employ         : 4
+pride          : 4
+Stands         : 4
+Promote        : 4
+building       : 4
+score          : 4
+despatched     : 4
+posted         : 4
+saint          : 4
+Pao            : 4
+benevolent     : 4
+Return         : 4
+moves          : 4
+boat           : 4
+rob            : 4
+bowed          : 4
+ours           : 4
+warriors       : 4
+benefits       : 4
+absence        : 4
+demon          : 4
+hunters        : 4
+personal       : 4
+bhikshus       : 4
+Immediately    : 4
+avoid          : 4
+glory          : 4
+Nagara         : 4
+express        : 4
+fills          : 4
+Vaisya         : 4
+figure         : 4
+tah            : 4
+tinkling       : 4
+smooth         : 4
+Rama           : 4
+Western        : 4
+daring         : 4
+competent      : 4
+poems          : 4
+Abhayagiri     : 4
+SHI            : 4
+sang           : 4
+incident       : 4
+caught         : 4
+desires        : 4
+eastern        : 4
+Plaint         : 4
+stars          : 4
+measures       : 4
+Respecting     : 4
+unknown        : 4
+format         : 4
+Say            : 4
+thecountry     : 4
+banks          : 4
+birthplace     : 4
+surround       : 4
+inform         : 4
+Tells          : 4
+Suy            : 4
+dense          : 4
+lore           : 4
+wore           : 4
+exists         : 4
+vie            : 4
+Mourns         : 4
+notes          : 4
+sleeping       : 4
+Condition      : 4
+special        : 4
+GUTENBERG      : 4
+shaft          : 4
+wanting        : 4
+narrow         : 4
+shape          : 4
+shame          : 4
+Vaisyas        : 4
+countenance    : 4
+leads          : 4
+severity       : 4
+slanderers     : 4
+double         : 4
+wet            : 4
+Fang           : 4
+withdrew       : 4
+profound       : 4
+skill          : 4
+Sudatta        : 4
+divine         : 4
+plates         : 4
+announce       : 4
+sending        : 4
+tongues        : 4
+seed           : 4
+heed           : 4
+flower         : 4
+PROJECT        : 4
+changes        : 4
+heir           : 4
+ended          : 4
+obliged        : 4
+proud          : 4
+herd           : 4
+entitled       : 4
+resolved       : 4
+lictors        : 4
+Rejoicing      : 4
+Lung           : 4
+loyalty        : 4
+intelligence   : 4
+consequence    : 4
+particularly   : 4
+arms           : 4
+unite          : 4
+sacrifices     : 4
+High           : 4
+quietly        : 4
+crowds         : 4
+arts           : 4
+entirely       : 4
+Keeper         : 4
+yih            : 4
+yin            : 4
+ofthese        : 4
+opportunity    : 4
+Confucian      : 4
+march          : 4
+calls          : 4
+questions      : 4
+exposed        : 4
+outward        : 4
+killed         : 4
+thereis        : 4
+Davids         : 4
+SOUTH          : 4
+acting         : 4
+forget         : 4
+thereby        : 4
+tohave         : 4
+melancholy     : 4
+vital          : 4
+Earl           : 4
+Anxiety        : 4
+firmly         : 4
+choose         : 4
+monarch        : 4
+courage        : 4
+touch          : 4
+completed      : 4
+Greek          : 4
+wrapped        : 4
+phrase         : 4
+erroneous      : 4
+PART           : 4
+servant        : 4
+Miscellaneous  : 4
+bream          : 4
+whenthe        : 4
+equalled       : 4
+break          : 4
+declined       : 4
+willbe         : 4
+traveller      : 4
+Asked          : 4
+site           : 4
+Travels        : 4
+quitted        : 4
+thestate       : 4
+applied        : 4
+downwards      : 4
+successor      : 4
+ceremony       : 4
+pillow         : 4
+geese          : 4
+Nature         : 4
+polish         : 4
+allotted       : 4
+disappeared    : 4
+ease           : 4
+resound        : 4
+Strange        : 4
+articles       : 4
+whereas        : 4
+grudge         : 4
+supplied       : 4
+displaying     : 4
+bears          : 4
+renewed        : 4
+Gridhra        : 4
+naturally      : 4
+voice          : 4
+Buddhaship     : 4
+layers         : 4
+rises          : 4
+Song           : 4
+crossing       : 4
+Exeunt         : 4
+kuta           : 4
+stores         : 4
+rishi          : 4
+ring           : 4
+Lichchhavis    : 4
+slow           : 4
+solemn         : 4
+rocks          : 4
+attainment     : 4
+Better         : 4
+fourteen       : 4
+knife          : 4
+dutiful        : 4
+EDITOR         : 4
+management     : 4
+seemed         : 4
+Ajatasatru     : 4
+brightly       : 4
+excellence     : 4
+oaks           : 4
+Yang           : 4
+date           : 4
+Cave           : 4
+wasthe         : 4
+Filial         : 4
+Ihave          : 4
+vulgar         : 4
+skull          : 4
+department     : 4
+drizzling      : 4
+dispersed      : 4
+facts          : 4
+sandal         : 4
+asking         : 4
+general        : 4
+hurry          : 4
+soft           : 4
+Bhadra         : 4
+scholar        : 4
+owner          : 4
+paragraphs     : 4
+distinctly     : 4
+online         : 4
+tiger          : 4
+deplore        : 4
+anyone         : 4
+event          : 4
+halted         : 4
+published      : 4
+Devadatta      : 4
+younger        : 4
+soldiers       : 4
+usages         : 4
+mighty         : 4
+aim            : 4
+Crossing       : 4
+northwest      : 4
+Many           : 4
+holder         : 4
+Mara           : 4
+neath          : 4
+Bemoans        : 4
+Bride          : 4
+ACT            : 4
+practical      : 4
+uttered        : 4
+hadgone        : 4
+animals        : 4
+likewise       : 4
+instruction    : 4
+posts          : 4
+devalaya       : 4
+box            : 4
+drawn          : 4
+noblest        : 4
+autumn         : 4
+reins          : 4
+lovely         : 4
+humility       : 4
+roam           : 4
+Sometimes      : 4
+flew           : 4
+imperfect      : 3
+energy         : 3
+U              : 3
+c              : 3
+posture        : 3
+creepers       : 3
+u              : 3
+readers        : 3
+faithful       : 3
+pigs           : 3
+Careful        : 3
+besides        : 3
+serious        : 3
+pile           : 3
+flow           : 3
+women          : 3
+protection     : 3
+whenhe         : 3
+surname        : 3
+avail          : 3
+Sovereign      : 3
+ceasing        : 3
+renowned       : 3
+effective      : 3
+pity           : 3
+Analects       : 3
+archery        : 3
+reported       : 3
+stability      : 3
+assume         : 3
+Sentences      : 3
+coats          : 3
+gallery        : 3
+performed      : 3
+dam            : 3
+pierced        : 3
+demands        : 3
+attitude       : 3
+average        : 3
+taught         : 3
+Translated     : 3
+Champa         : 3
+scattered      : 3
+brook          : 3
+bearing        : 3
+commit         : 3
+friendships    : 3
+Mohammedans    : 3
+star           : 3
+treat          : 3
+bare           : 3
+seeds          : 3
+Gotama         : 3
+bodily         : 3
+mats           : 3
+EBook          : 3
+stated         : 3
+solitude       : 3
+reward         : 3
+devour         : 3
+escort         : 3
+visitors       : 3
+eeh            : 3
+enmity         : 3
+exception      : 3
+togive         : 3
+evidence       : 3
+Selections     : 3
+lasting        : 3
+females        : 3
+turns          : 3
+gradually      : 3
+tried          : 3
+Afterwards     : 3
+Person         : 3
+err            : 3
+entrance       : 3
+Li             : 3
+howshould      : 3
+endeavor       : 3
+PG             : 3
+represented    : 3
+shines         : 3
+hues           : 3
+austerities    : 3
+gray           : 3
+nest           : 3
+exacting       : 3
+wealthy        : 3
+arriving       : 3
+huge           : 3
+Pataliputtra   : 3
+Vainly         : 3
+Within         : 3
+taxes          : 3
+fat            : 3
+rested         : 3
+Friend         : 3
+hunt           : 3
+opened         : 3
+hung           : 3
+Until          : 3
+helpmeet       : 3
+Confucianists  : 3
+folk           : 3
+Poor           : 3
+isthat         : 3
+garment        : 3
+Ying           : 3
+feather        : 3
+ho             : 3
+foul           : 3
+majestic       : 3
+le             : 3
+fur            : 3
+hehas          : 3
+City           : 3
+charms         : 3
+dive           : 3
+skilful        : 3
+discipline     : 3
+bathed         : 3
+re             : 3
+oppose         : 3
+Eastern        : 3
+bridge         : 3
+discovered     : 3
+executed       : 3
+ui             : 3
+gay            : 3
+teach          : 3
+brides         : 3
+create         : 3
+station        : 3
+Thine          : 3
+devise         : 3
+god            : 3
+mindful        : 3
+FOR            : 3
+reveres        : 3
+chariot        : 3
+Ere            : 3
+accordingly    : 3
+messenger      : 3
+predecessors   : 3
+charity        : 3
+However        : 3
+couches        : 3
+convey         : 3
+Dharma         : 3
+performing     : 3
+foremost       : 3
+myriads        : 3
+thatthe        : 3
+hae            : 3
+measure        : 3
+impossible     : 3
+dried          : 3
+ends           : 3
+Far            : 3
+observing      : 3
+hew            : 3
+Women          : 3
+reverse        : 3
+repairs        : 3
+Divine         : 3
+sounds         : 3
+Left           : 3
+blame          : 3
+confusion      : 3
+Reciprocity    : 3
+hue            : 3
+bell           : 3
+hwa            : 3
+strike         : 3
+banquet        : 3
+Records        : 3
+Less           : 3
+cities         : 3
+regulation     : 3
+inanother      : 3
+rude           : 3
+household      : 3
+invite         : 3
+Full           : 3
+whohad         : 3
+seize          : 3
+Criminal       : 3
+runs           : 3
+descending     : 3
+liberality     : 3
+value          : 3
+Learned        : 3
+excellent      : 3
+providing      : 3
+Ming           : 3
+arrayed        : 3
+utterances     : 3
+magpie         : 3
+urged          : 3
+Eunuch         : 3
+Bimbisara      : 3
+gently         : 3
+frequently     : 3
+individuals    : 3
+worse          : 3
+catalogue      : 3
+everywhere     : 3
+parties        : 3
+plains         : 3
+stranger       : 3
+omen           : 3
+waist          : 3
+Hih            : 3
+worshipped     : 3
+hwang          : 3
+bones          : 3
+limitation     : 3
+administrator  : 3
+offer          : 3
+Hoo            : 3
+sixth          : 3
+civil          : 3
+founder        : 3
+pillars        : 3
+contact        : 3
+party          : 3
+crowd          : 3
+Hwa            : 3
+Taoism         : 3
+pursuit        : 3
+unnerved       : 3
+level          : 3
+preserve       : 3
+cross          : 3
+scene          : 3
 accomplishments: 3
-remaining: 3
-accept: 3
-Golden: 3
-stopped: 3
-claiming: 3
-theother: 3
-customs: 3
-thiswas: 3
-address: 3
-Tamalipti: 3
-Confucianism: 3
-relatives: 3
-lend: 3
-extravagance: 3
-defective: 3
-comparison: 3
-wound: 3
-toiling: 3
-bereft: 3
-theOdes: 3
-rendered: 3
-punishments: 3
-clad: 3
-clan: 3
-source: 3
-theway: 3
-Joo: 3
-villages: 3
-doth: 3
-milk: 3
-doesnot: 3
-acres: 3
-custom: 3
-Stalwart: 3
-calamities: 3
-marvellous: 3
-ideas: 3
-becomes: 3
-rejoiced: 3
-blend: 3
-physical: 3
-Kia: 3
-Poverty: 3
-paths: 3
-dwells: 3
-Neither: 3
-espy: 3
-Whence: 3
-thesecond: 3
-ages: 3
-lotus: 3
-jade: 3
-perfection: 3
-Kue: 3
-merchant: 3
-insects: 3
-guest: 3
-returns: 3
-enterthe: 3
-Taoists: 3
-referred: 3
-brethren: 3
-darkness: 3
-withstand: 3
-preceding: 3
-eyesight: 3
-Ascending: 3
-manifest: 3
+remaining      : 3
+accept         : 3
+Golden         : 3
+stopped        : 3
+claiming       : 3
+theother       : 3
+customs        : 3
+thiswas        : 3
+address        : 3
+Tamalipti      : 3
+Confucianism   : 3
+relatives      : 3
+lend           : 3
+extravagance   : 3
+defective      : 3
+comparison     : 3
+wound          : 3
+toiling        : 3
+bereft         : 3
+theOdes        : 3
+rendered       : 3
+punishments    : 3
+clad           : 3
+clan           : 3
+source         : 3
+theway         : 3
+Joo            : 3
+villages       : 3
+doth           : 3
+milk           : 3
+doesnot        : 3
+acres          : 3
+custom         : 3
+Stalwart       : 3
+calamities     : 3
+marvellous     : 3
+ideas          : 3
+becomes        : 3
+rejoiced       : 3
+blend          : 3
+physical       : 3
+Kia            : 3
+Poverty        : 3
+paths          : 3
+dwells         : 3
+Neither        : 3
+espy           : 3
+Whence         : 3
+thesecond      : 3
+ages           : 3
+lotus          : 3
+jade           : 3
+perfection     : 3
+Kue            : 3
+merchant       : 3
+insects        : 3
+guest          : 3
+returns        : 3
+enterthe       : 3
+Taoists        : 3
+referred       : 3
+brethren       : 3
+darkness       : 3
+withstand      : 3
+preceding      : 3
+eyesight       : 3
+Ascending      : 3
+manifest       : 3
 electronicworks: 3
-lanes: 3
-permitted: 3
-mournful: 3
-Hwang: 3
-research: 3
-gourd: 3
-ignorance: 3
-modest: 3
-endured: 3
-depends: 3
-Loo: 3
-recites: 3
-Hence: 3
-determined: 3
-burdens: 3
-purity: 3
-districts: 3
-dishes: 3
-Alive: 3
-thetwo: 3
-consideration: 3
-humanity: 3
-theeast: 3
-offlowers: 3
-thunder: 3
-Various: 3
-TANG: 3
-Throughout: 3
-Listening: 3
-strained: 3
-willing: 3
-blessings: 3
-sprang: 3
-profitable: 3
-cool: 3
-Srotapannas: 3
-core: 3
-efforts: 3
-council: 3
-ling: 3
-cost: 3
-allowing: 3
-contributions: 3
-Chingtoo: 3
-lion: 3
-blue: 3
-genial: 3
-thetravellers: 3
-sages: 3
-ridge: 3
-wits: 3
-per: 3
-slowly: 3
-desolation: 3
-pih: 3
-perils: 3
-Fifty: 3
-Approach: 3
-rising: 3
-attending: 3
-vessels: 3
-nobler: 3
-giving: 3
-Chuen: 3
-bravery: 3
-VIII: 3
-cleft: 3
-travel: 3
-listen: 3
-companions: 3
-southward: 3
-induced: 3
-eighth: 3
-craves: 3
-mostly: 3
-loyal: 3
-consisted: 3
-cultivate: 3
-monkish: 3
-talk: 3
-Philanthropy: 3
-winged: 3
-shields: 3
-peculiar: 3
-ordinances: 3
-instance: 3
-consonant: 3
-smile: 3
-whenthey: 3
-abundance: 3
-Patna: 3
-armament: 3
-Old: 3
-denotes: 3
-Learning: 3
-beforehand: 3
-announced: 3
-price: 3
-masterly: 3
-shinest: 3
-ephemeral: 3
-scorn: 3
-sorts: 3
-submissive: 3
-French: 3
-practises: 3
-cypress: 3
-practised: 3
-swine: 3
-sucha: 3
-calling: 3
-swift: 3
-escaped: 3
-trust: 3
-prevent: 3
-message: 3
-lazuli: 3
-glows: 3
-moan: 3
-mode: 3
-amongst: 3
-conducted: 3
-verdant: 3
-guilt: 3
-territories: 3
-offices: 3
-mood: 3
-book: 3
-introduce: 3
-discourse: 3
-ardor: 3
-danapati: 3
-bore: 3
-habits: 3
-labors: 3
-reject: 3
-bhadra: 3
-boys: 3
-compared: 3
-advanced: 3
-President: 3
-bough: 3
-strove: 3
-table: 3
-Itwas: 3
-Virtuous: 3
-chance: 3
-Indra: 3
-requested: 3
-managed: 3
-copper: 3
-amid: 3
-instantly: 3
-fraternal: 3
-Further: 3
-saidhe: 3
-utter: 3
-flattery: 3
-Literature: 3
-willow: 3
-resolve: 3
-passable: 3
-laugh: 3
-Arhatship: 3
-struck: 3
-hath: 3
-whichthey: 3
-ascending: 3
-hadbeen: 3
-owns: 3
-hewing: 3
-theirown: 3
-opposite: 3
-footprints: 3
-warrior: 3
-services: 3
-team: 3
-purple: 3
-fallen: 3
-required: 3
-climb: 3
-Memoirs: 3
-survive: 3
-speedy: 3
-friendly: 3
-flames: 3
-daughters: 3
-celebrated: 3
-Kings: 3
-sixteen: 3
-Sea: 3
-influential: 3
-term: 3
-returning: 3
-Around: 3
-fears: 3
-later: 3
-highway: 3
-grant: 3
-helping: 3
-pitch: 3
-Soo: 3
-esteemed: 3
-waste: 3
-establishment: 3
-Ambapali: 3
-cups: 3
-jujubes: 3
-nuns: 3
-oppressed: 3
-odious: 3
-murderer: 3
-invited: 3
-murdered: 3
-Trayastrimsas: 3
-disorderly: 3
-reciting: 3
-representing: 3
-gates: 3
-andthey: 3
-andthen: 3
-Too: 3
-graves: 3
-links: 3
-Record: 3
-maintain: 3
-theBodhisattva: 3
-dwelt: 3
-intothe: 3
-servants: 3
-Goodness: 3
-wan: 3
-leafy: 3
-attentive: 3
-Seven: 3
-web: 3
-wei: 3
-laughed: 3
-game: 3
-fondness: 3
-VII: 3
-parent: 3
-skins: 3
-doubts: 3
-won: 3
-rate: 3
-Professor: 3
-heat: 3
-seal: 3
-illusion: 3
-whilst: 3
-propitiate: 3
-splendid: 3
-hundreds: 3
-wander: 3
-expire: 3
-Shih: 3
-compressed: 3
-Glossy: 3
-hell: 3
-deeply: 3
-exact: 3
-coffin: 3
-located: 3
-Assembly: 3
-purposes: 3
-vegetation: 3
-observations: 3
-costs: 3
-Therefore: 3
-introduced: 3
-whatsoever: 3
-Everywhere: 3
-hardships: 3
-illustration: 3
-tmelectronic: 3
-formats: 3
-complaint: 3
-didnot: 3
-sustained: 3
-pursue: 3
-burn: 3
-oversight: 3
-reside: 3
-chase: 3
-tragedy: 3
-attend: 3
-preserved: 3
-passages: 3
-thepresent: 3
-Web: 3
-Letthere: 3
-attachment: 3
-atope: 3
-active: 3
-LIMITED: 3
-mirror: 3
-saints: 3
-beginning: 3
-dealings: 3
-subdue: 3
-torch: 3
-belong: 3
-advise: 3
-stern: 3
-lions: 3
-cover: 3
-nevertheless: 3
-Precious: 3
-sandy: 3
-fain: 3
-clearly: 3
-replacement: 3
-advice: 3
-fortune: 3
-stages: 3
-courtyard: 3
-hasten: 3
-Path: 3
-intending: 3
-smallest: 3
-pitaka: 3
-harem: 3
-punish: 3
-jujube: 3
-Seclusion: 3
-shan: 3
-shen: 3
-rear: 3
-rings: 3
-philosophical: 3
-broken: 3
-fitted: 3
-armed: 3
-cloud: 3
-daily: 3
-ATTENDANT: 3
-subsequent: 3
-leaping: 3
-theprecious: 3
-salute: 3
-related: 3
-directed: 3
-corner: 3
-Besides: 3
-payments: 3
-elate: 3
-comfort: 3
-hide: 3
-knees: 3
-skirts: 3
-undress: 3
-directly: 3
-belongs: 3
-attached: 3
-plays: 3
-upper: 3
-supposing: 3
-exert: 3
-available: 3
-extreme: 3
-degree: 3
-especially: 3
-sublime: 3
-nights: 3
-travelled: 3
-conversant: 3
-distressed: 3
-observation: 3
-inhabitant: 3
-leaders: 3
-TheMaster: 3
-preaching: 3
-lutes: 3
-limited: 3
-tortoises: 3
-withdrawn: 3
-designations: 3
-suffice: 3
-characters: 3
-check: 3
-November: 3
-Answers: 3
-cheer: 3
-footprint: 3
-translation: 3
-bringing: 3
-schools: 3
-ponds: 3
-succession: 3
-plead: 3
-similarly: 3
-Mahasanghika: 3
-theright: 3
-polite: 3
-principle: 3
-page: 3
-pair: 3
-kwang: 3
-gravity: 3
-Could: 3
-centre: 3
-silken: 3
-athousand: 3
-wherewith: 3
-locusts: 3
-Sandy: 3
-saidthe: 3
-init: 3
-served: 3
-Gently: 3
-directions: 3
-Behold: 3
-descended: 3
-crane: 3
-patron: 3
-resided: 3
-accosted: 3
-discover: 3
-leading: 3
-urge: 3
-marched: 3
-Takshasila: 3
-selection: 3
-originally: 3
-andin: 3
-perverse: 3
-sailing: 3
-turtles: 3
-release: 3
-torn: 3
-maybe: 3
-risk: 3
-hatred: 3
-theywill: 3
-choicest: 3
-sentences: 3
-tothem: 3
-Sorrow: 3
-visible: 3
-indifferent: 3
-rocky: 3
-shing: 3
-approaches: 3
-user: 3
-withthem: 3
-neglect: 3
-havebeen: 3
-tigers: 3
-Returning: 3
-pursuits: 3
-counted: 3
-burnt: 3
-pools: 3
-Sramaneras: 3
-considerable: 3
-sympathy: 3
-phoenix: 3
-exercised: 3
-amounting: 3
-Tsze: 3
-ofwhich: 3
-slander: 3
-capacity: 3
-According: 3
-confidence: 3
-oath: 3
-humble: 3
-belonging: 3
-blueflies: 3
-treasure: 3
-peak: 3
-theycannot: 3
-Deer: 3
-assumed: 3
-thefirst: 3
-Dynasty: 3
-Drought: 3
-bamboo: 3
-continue: 3
-dominion: 3
-Terror: 3
-fivehundred: 3
-methods: 3
-intoxicating: 3
-grove: 3
-defeated: 3
-replace: 3
-Goes: 3
+lanes          : 3
+permitted      : 3
+mournful       : 3
+Hwang          : 3
+research       : 3
+gourd          : 3
+ignorance      : 3
+modest         : 3
+endured        : 3
+depends        : 3
+Loo            : 3
+recites        : 3
+Hence          : 3
+determined     : 3
+burdens        : 3
+purity         : 3
+districts      : 3
+dishes         : 3
+Alive          : 3
+thetwo         : 3
+consideration  : 3
+humanity       : 3
+theeast        : 3
+offlowers      : 3
+thunder        : 3
+Various        : 3
+TANG           : 3
+Throughout     : 3
+Listening      : 3
+strained       : 3
+willing        : 3
+blessings      : 3
+sprang         : 3
+profitable     : 3
+cool           : 3
+Srotapannas    : 3
+core           : 3
+efforts        : 3
+council        : 3
+ling           : 3
+cost           : 3
+allowing       : 3
+contributions  : 3
+Chingtoo       : 3
+lion           : 3
+blue           : 3
+genial         : 3
+thetravellers  : 3
+sages          : 3
+ridge          : 3
+wits           : 3
+per            : 3
+slowly         : 3
+desolation     : 3
+pih            : 3
+perils         : 3
+Fifty          : 3
+Approach       : 3
+rising         : 3
+attending      : 3
+vessels        : 3
+nobler         : 3
+giving         : 3
+Chuen          : 3
+bravery        : 3
+VIII           : 3
+cleft          : 3
+travel         : 3
+listen         : 3
+companions     : 3
+southward      : 3
+induced        : 3
+eighth         : 3
+craves         : 3
+mostly         : 3
+loyal          : 3
+consisted      : 3
+cultivate      : 3
+monkish        : 3
+talk           : 3
+Philanthropy   : 3
+winged         : 3
+shields        : 3
+peculiar       : 3
+ordinances     : 3
+instance       : 3
+consonant      : 3
+smile          : 3
+whenthey       : 3
+abundance      : 3
+Patna          : 3
+armament       : 3
+Old            : 3
+denotes        : 3
+Learning       : 3
+beforehand     : 3
+announced      : 3
+price          : 3
+masterly       : 3
+shinest        : 3
+ephemeral      : 3
+scorn          : 3
+sorts          : 3
+submissive     : 3
+French         : 3
+practises      : 3
+cypress        : 3
+practised      : 3
+swine          : 3
+sucha          : 3
+calling        : 3
+swift          : 3
+escaped        : 3
+trust          : 3
+prevent        : 3
+message        : 3
+lazuli         : 3
+glows          : 3
+moan           : 3
+mode           : 3
+amongst        : 3
+conducted      : 3
+verdant        : 3
+guilt          : 3
+territories    : 3
+offices        : 3
+mood           : 3
+book           : 3
+introduce      : 3
+discourse      : 3
+ardor          : 3
+danapati       : 3
+bore           : 3
+habits         : 3
+labors         : 3
+reject         : 3
+bhadra         : 3
+boys           : 3
+compared       : 3
+advanced       : 3
+President      : 3
+bough          : 3
+strove         : 3
+table          : 3
+Itwas          : 3
+Virtuous       : 3
+chance         : 3
+Indra          : 3
+requested      : 3
+managed        : 3
+copper         : 3
+amid           : 3
+instantly      : 3
+fraternal      : 3
+Further        : 3
+saidhe         : 3
+utter          : 3
+flattery       : 3
+Literature     : 3
+willow         : 3
+resolve        : 3
+passable       : 3
+laugh          : 3
+Arhatship      : 3
+struck         : 3
+hath           : 3
+whichthey      : 3
+ascending      : 3
+hadbeen        : 3
+owns           : 3
+hewing         : 3
+theirown       : 3
+opposite       : 3
+footprints     : 3
+warrior        : 3
+services       : 3
+team           : 3
+purple         : 3
+fallen         : 3
+required       : 3
+climb          : 3
+Memoirs        : 3
+survive        : 3
+speedy         : 3
+friendly       : 3
+flames         : 3
+daughters      : 3
+celebrated     : 3
+Kings          : 3
+sixteen        : 3
+Sea            : 3
+influential    : 3
+term           : 3
+returning      : 3
+Around         : 3
+fears          : 3
+later          : 3
+highway        : 3
+grant          : 3
+helping        : 3
+pitch          : 3
+Soo            : 3
+esteemed       : 3
+waste          : 3
+establishment  : 3
+Ambapali       : 3
+cups           : 3
+jujubes        : 3
+nuns           : 3
+oppressed      : 3
+odious         : 3
+murderer       : 3
+invited        : 3
+murdered       : 3
+Trayastrimsas  : 3
+disorderly     : 3
+reciting       : 3
+representing   : 3
+gates          : 3
+andthey        : 3
+andthen        : 3
+Too            : 3
+graves         : 3
+links          : 3
+Record         : 3
+maintain       : 3
+theBodhisattva : 3
+dwelt          : 3
+intothe        : 3
+servants       : 3
+Goodness       : 3
+wan            : 3
+leafy          : 3
+attentive      : 3
+Seven          : 3
+web            : 3
+wei            : 3
+laughed        : 3
+game           : 3
+fondness       : 3
+VII            : 3
+parent         : 3
+skins          : 3
+doubts         : 3
+won            : 3
+rate           : 3
+Professor      : 3
+heat           : 3
+seal           : 3
+illusion       : 3
+whilst         : 3
+propitiate     : 3
+splendid       : 3
+hundreds       : 3
+wander         : 3
+expire         : 3
+Shih           : 3
+compressed     : 3
+Glossy         : 3
+hell           : 3
+deeply         : 3
+exact          : 3
+coffin         : 3
+located        : 3
+Assembly       : 3
+purposes       : 3
+vegetation     : 3
+observations   : 3
+costs          : 3
+Therefore      : 3
+introduced     : 3
+whatsoever     : 3
+Everywhere     : 3
+hardships      : 3
+illustration   : 3
+tmelectronic   : 3
+formats        : 3
+complaint      : 3
+didnot         : 3
+sustained      : 3
+pursue         : 3
+burn           : 3
+oversight      : 3
+reside         : 3
+chase          : 3
+tragedy        : 3
+attend         : 3
+preserved      : 3
+passages       : 3
+thepresent     : 3
+Web            : 3
+Letthere       : 3
+attachment     : 3
+atope          : 3
+active         : 3
+LIMITED        : 3
+mirror         : 3
+saints         : 3
+beginning      : 3
+dealings       : 3
+subdue         : 3
+torch          : 3
+belong         : 3
+advise         : 3
+stern          : 3
+lions          : 3
+cover          : 3
+nevertheless   : 3
+Precious       : 3
+sandy          : 3
+fain           : 3
+clearly        : 3
+replacement    : 3
+advice         : 3
+fortune        : 3
+stages         : 3
+courtyard      : 3
+hasten         : 3
+Path           : 3
+intending      : 3
+smallest       : 3
+pitaka         : 3
+harem          : 3
+punish         : 3
+jujube         : 3
+Seclusion      : 3
+shan           : 3
+shen           : 3
+rear           : 3
+rings          : 3
+philosophical  : 3
+broken         : 3
+fitted         : 3
+armed          : 3
+cloud          : 3
+daily          : 3
+ATTENDANT      : 3
+subsequent     : 3
+leaping        : 3
+theprecious    : 3
+salute         : 3
+related        : 3
+directed       : 3
+corner         : 3
+Besides        : 3
+payments       : 3
+elate          : 3
+comfort        : 3
+hide           : 3
+knees          : 3
+skirts         : 3
+undress        : 3
+directly       : 3
+belongs        : 3
+attached       : 3
+plays          : 3
+upper          : 3
+supposing      : 3
+exert          : 3
+available      : 3
+extreme        : 3
+degree         : 3
+especially     : 3
+sublime        : 3
+nights         : 3
+travelled      : 3
+conversant     : 3
+distressed     : 3
+observation    : 3
+inhabitant     : 3
+leaders        : 3
+TheMaster      : 3
+preaching      : 3
+lutes          : 3
+limited        : 3
+tortoises      : 3
+withdrawn      : 3
+designations   : 3
+suffice        : 3
+characters     : 3
+check          : 3
+November       : 3
+Answers        : 3
+cheer          : 3
+footprint      : 3
+translation    : 3
+bringing       : 3
+schools        : 3
+ponds          : 3
+succession     : 3
+plead          : 3
+similarly      : 3
+Mahasanghika   : 3
+theright       : 3
+polite         : 3
+principle      : 3
+page           : 3
+pair           : 3
+kwang          : 3
+gravity        : 3
+Could          : 3
+centre         : 3
+silken         : 3
+athousand      : 3
+wherewith      : 3
+locusts        : 3
+Sandy          : 3
+saidthe        : 3
+init           : 3
+served         : 3
+Gently         : 3
+directions     : 3
+Behold         : 3
+descended      : 3
+crane          : 3
+patron         : 3
+resided        : 3
+accosted       : 3
+discover       : 3
+leading        : 3
+urge           : 3
+marched        : 3
+Takshasila     : 3
+selection      : 3
+originally     : 3
+andin          : 3
+perverse       : 3
+sailing        : 3
+turtles        : 3
+release        : 3
+torn           : 3
+maybe          : 3
+risk           : 3
+hatred         : 3
+theywill       : 3
+choicest       : 3
+sentences      : 3
+tothem         : 3
+Sorrow         : 3
+visible        : 3
+indifferent    : 3
+rocky          : 3
+shing          : 3
+approaches     : 3
+user           : 3
+withthem       : 3
+neglect        : 3
+havebeen       : 3
+tigers         : 3
+Returning      : 3
+pursuits       : 3
+counted        : 3
+burnt          : 3
+pools          : 3
+Sramaneras     : 3
+considerable   : 3
+sympathy       : 3
+phoenix        : 3
+exercised      : 3
+amounting      : 3
+Tsze           : 3
+ofwhich        : 3
+slander        : 3
+capacity       : 3
+According      : 3
+confidence     : 3
+oath           : 3
+humble         : 3
+belonging      : 3
+blueflies      : 3
+treasure       : 3
+peak           : 3
+theycannot     : 3
+Deer           : 3
+assumed        : 3
+thefirst       : 3
+Dynasty        : 3
+Drought        : 3
+bamboo         : 3
+continue       : 3
+dominion       : 3
+Terror         : 3
+fivehundred    : 3
+methods        : 3
+intoxicating   : 3
+grove          : 3
+defeated       : 3
+replace        : 3
+Goes           : 3
 seventymillions: 3
-covetousness: 3
-glib: 3
-seams: 3
-sole: 3
-Lessons: 3
-dragons: 3
-gathered: 3
-seats: 3
-falling: 3
-writer: 3
-Muchilinda: 3
-herdsmen: 3
-handmaid: 3
-reputation: 3
-Whose: 3
-devotees: 3
-Legge: 3
-disliked: 3
-temples: 3
-Night: 3
-space: 3
-statements: 3
-references: 3
-setting: 3
-endure: 3
-unwearied: 3
-Forthwith: 3
-recorded: 3
-smaller: 3
-fishes: 3
-presenting: 3
-theyhave: 3
-applicable: 3
-tsze: 3
-increased: 3
-arm: 3
-tospeak: 3
-stalks: 3
-donate: 3
-caps: 3
-resting: 3
-awe: 3
-yang: 3
-sticks: 3
-seldom: 3
-philanthropic: 3
-talent: 3
-described: 3
-courteous: 3
-scheme: 3
-complain: 3
-lovelier: 3
-zeal: 3
-resumed: 3
-explained: 3
-liking: 3
-await: 3
-Kingdoms: 3
-amidst: 3
-anger: 3
-ANY: 3
-eastward: 3
-societies: 3
-conditions: 3
-buzzing: 3
-goat: 3
-alarmed: 3
-lovers: 3
-destined: 3
-Graceful: 3
-naturedness: 3
-Wherewith: 3
-ramanas: 2
-Grow: 2
-pick: 2
-spreading: 2
-roll: 2
-H: 2
-M: 2
-X: 2
-Food: 2
-h: 2
-empty: 2
-suffered: 2
-copying: 2
-themahayana: 2
-scholars: 2
-rope: 2
-Employment: 2
-umbrella: 2
-Induced: 2
-toConfucius: 2
-goto: 2
-honesty: 2
-ofit: 2
-Folly: 2
-coy: 2
-pigeon: 2
-fatted: 2
-theroads: 2
-thisspot: 2
-rectify: 2
-defined: 2
-creating: 2
-offive: 2
-sweeping: 2
-Art: 2
-Vanilla: 2
-kitchen: 2
-Danta: 2
-paying: 2
-widely: 2
+covetousness   : 3
+glib           : 3
+seams          : 3
+sole           : 3
+Lessons        : 3
+dragons        : 3
+gathered       : 3
+seats          : 3
+falling        : 3
+writer         : 3
+Muchilinda     : 3
+herdsmen       : 3
+handmaid       : 3
+reputation     : 3
+Whose          : 3
+devotees       : 3
+Legge          : 3
+disliked       : 3
+temples        : 3
+Night          : 3
+space          : 3
+statements     : 3
+references     : 3
+setting        : 3
+endure         : 3
+unwearied      : 3
+Forthwith      : 3
+recorded       : 3
+smaller        : 3
+fishes         : 3
+presenting     : 3
+theyhave       : 3
+applicable     : 3
+tsze           : 3
+increased      : 3
+arm            : 3
+tospeak        : 3
+stalks         : 3
+donate         : 3
+caps           : 3
+resting        : 3
+awe            : 3
+yang           : 3
+sticks         : 3
+seldom         : 3
+philanthropic  : 3
+talent         : 3
+described      : 3
+courteous      : 3
+scheme         : 3
+complain       : 3
+lovelier       : 3
+zeal           : 3
+resumed        : 3
+explained      : 3
+liking         : 3
+await          : 3
+Kingdoms       : 3
+amidst         : 3
+anger          : 3
+ANY            : 3
+eastward       : 3
+societies      : 3
+conditions     : 3
+buzzing        : 3
+goat           : 3
+alarmed        : 3
+lovers         : 3
+destined       : 3
+Graceful       : 3
+naturedness    : 3
+Wherewith      : 3
+ramanas        : 2
+Grow           : 2
+pick           : 2
+spreading      : 2
+roll           : 2
+H              : 2
+M              : 2
+X              : 2
+Food           : 2
+h              : 2
+empty          : 2
+suffered       : 2
+copying        : 2
+themahayana    : 2
+scholars       : 2
+rope           : 2
+Employment     : 2
+umbrella       : 2
+Induced        : 2
+toConfucius    : 2
+goto           : 2
+honesty        : 2
+ofit           : 2
+Folly          : 2
+coy            : 2
+pigeon         : 2
+fatted         : 2
+theroads       : 2
+thisspot       : 2
+rectify        : 2
+defined        : 2
+creating       : 2
+offive         : 2
+sweeping       : 2
+Art            : 2
+Vanilla        : 2
+kitchen        : 2
+Danta          : 2
+paying         : 2
+widely         : 2
 exceedinglywicked: 2
-kinged: 2
-inculcation: 2
-regulate: 2
-Jealousy: 2
-Greece: 2
-Udyana: 2
-Stoic: 2
-fetch: 2
-majesty: 2
-statesman: 2
-countless: 2
-byBuddha: 2
-introduction: 2
-heavily: 2
-Skull: 2
-Hears: 2
-viewing: 2
-unlike: 2
-chestnut: 2
-desert: 2
-capitalof: 2
-fragrant: 2
-Anuruddha: 2
-sothat: 2
-forgotten: 2
-evils: 2
-finally: 2
-comeand: 2
-armies: 2
-relic: 2
-thick: 2
-worthies: 2
-contents: 2
-don: 2
-cultivating: 2
-asmall: 2
-ferns: 2
-characterized: 2
-cultivation: 2
-widest: 2
-Sympathy: 2
-main: 2
-revenue: 2
-partof: 2
-homesteads: 2
-messengers: 2
-twas: 2
-Wall: 2
-Prasenajit: 2
-toilsome: 2
-waving: 2
-waking: 2
-devoid: 2
-dearth: 2
-Wang: 2
-Marriage: 2
-singing: 2
-examined: 2
-relationship: 2
-wholly: 2
-broughtforth: 2
-Sramanera: 2
-twig: 2
-unsympathizing: 2
-bhikshunis: 2
-trend: 2
-priceless: 2
-forehead: 2
-Birth: 2
-devotion: 2
+kinged         : 2
+inculcation    : 2
+regulate       : 2
+Jealousy       : 2
+Greece         : 2
+Udyana         : 2
+Stoic          : 2
+fetch          : 2
+majesty        : 2
+statesman      : 2
+countless      : 2
+byBuddha       : 2
+introduction   : 2
+heavily        : 2
+Skull          : 2
+Hears          : 2
+viewing        : 2
+unlike         : 2
+chestnut       : 2
+desert         : 2
+capitalof      : 2
+fragrant       : 2
+Anuruddha      : 2
+sothat         : 2
+forgotten      : 2
+evils          : 2
+finally        : 2
+comeand        : 2
+armies         : 2
+relic          : 2
+thick          : 2
+worthies       : 2
+contents       : 2
+don            : 2
+cultivating    : 2
+asmall         : 2
+ferns          : 2
+characterized  : 2
+cultivation    : 2
+widest         : 2
+Sympathy       : 2
+main           : 2
+revenue        : 2
+partof         : 2
+homesteads     : 2
+messengers     : 2
+twas           : 2
+Wall           : 2
+Prasenajit     : 2
+toilsome       : 2
+waving         : 2
+waking         : 2
+devoid         : 2
+dearth         : 2
+Wang           : 2
+Marriage       : 2
+singing        : 2
+examined       : 2
+relationship   : 2
+wholly         : 2
+broughtforth   : 2
+Sramanera      : 2
+twig           : 2
+unsympathizing : 2
+bhikshunis     : 2
+trend          : 2
+priceless      : 2
+forehead       : 2
+Birth          : 2
+devotion       : 2
 presentofferings: 2
-peopleare: 2
-commence: 2
-Beal: 2
-advantage: 2
-Service: 2
-anguish: 2
-victims: 2
-Hwuh: 2
-peaches: 2
-characterize: 2
-equipments: 2
-Chi: 2
-theman: 2
-EI: 2
-vexed: 2
-cremation: 2
-pulpit: 2
-royalties: 2
-occupation: 2
-Ha: 2
-theirwords: 2
-IX: 2
-Mohammedanism: 2
-amiss: 2
-ere: 2
-Admiration: 2
-Ju: 2
-Ko: 2
-screen: 2
-perception: 2
-undertake: 2
-Lo: 2
-woods: 2
-estate: 2
-driving: 2
-NO: 2
-Ne: 2
-chose: 2
-render: 2
-Royalty: 2
-fortunate: 2
-showers: 2
-whichis: 2
-TO: 2
-foam: 2
-widening: 2
-features: 2
-Years: 2
-Up: 2
-Us: 2
-Beauty: 2
-submit: 2
-occupy: 2
-originator: 2
-conclusion: 2
-XI: 2
-brightness: 2
-XV: 2
-stuck: 2
-EBOOK: 2
-andsilver: 2
-constrainedly: 2
-fed: 2
-section: 2
-produced: 2
-personally: 2
-produces: 2
-perceive: 2
-Lamenting: 2
-founders: 2
-Misgovernment: 2
-butter: 2
-Cries: 2
-extend: 2
-hurt: 2
-fibres: 2
-Distributed: 2
-de: 2
-novices: 2
-criticism: 2
-Festival: 2
-theLaw: 2
-ew: 2
-foo: 2
-plot: 2
-covers: 2
-thence: 2
-Nine: 2
-renew: 2
-welfare: 2
-ii: 2
-likely: 2
-Thisis: 2
-iu: 2
-lively: 2
-customary: 2
-disposition: 2
-Temple: 2
-wooden: 2
-hehad: 2
-contentment: 2
-ma: 2
-plum: 2
-contest: 2
-entry: 2
-na: 2
-Except: 2
-readily: 2
-registered: 2
-downfall: 2
-theprince: 2
-ofall: 2
-allowance: 2
-Juliet: 2
-tolearning: 2
-forit: 2
-adorn: 2
-loaded: 2
-un: 2
-recluse: 2
-purchased: 2
-medicines: 2
-summoned: 2
-destitute: 2
-previous: 2
-reading: 2
-gruel: 2
-ya: 2
-harpsichord: 2
-oaths: 2
-yielding: 2
-ofmetal: 2
-Adam: 2
-havethe: 2
-Processions: 2
-purport: 2
-shrill: 2
-intent: 2
-menof: 2
-Shows: 2
-TRANSLATOR: 2
-Kanishka: 2
-Imperial: 2
-reports: 2
-carving: 2
-ambition: 2
-enlarge: 2
-wouldnot: 2
-revered: 2
-tracing: 2
-ofChow: 2
-FOO: 2
-andits: 2
-sociable: 2
-forlorn: 2
-neglects: 2
-foreigners: 2
-favorable: 2
-Vain: 2
-Bodhisattvas: 2
-sneer: 2
-understand: 2
-appearing: 2
-goldand: 2
-mouthswill: 2
-garments: 2
-disfigure: 2
-wake: 2
-earlier: 2
+peopleare      : 2
+commence       : 2
+Beal           : 2
+advantage      : 2
+Service        : 2
+anguish        : 2
+victims        : 2
+Hwuh           : 2
+peaches        : 2
+characterize   : 2
+equipments     : 2
+Chi            : 2
+theman         : 2
+EI             : 2
+vexed          : 2
+cremation      : 2
+pulpit         : 2
+royalties      : 2
+occupation     : 2
+Ha             : 2
+theirwords     : 2
+IX             : 2
+Mohammedanism  : 2
+amiss          : 2
+ere            : 2
+Admiration     : 2
+Ju             : 2
+Ko             : 2
+screen         : 2
+perception     : 2
+undertake      : 2
+Lo             : 2
+woods          : 2
+estate         : 2
+driving        : 2
+NO             : 2
+Ne             : 2
+chose          : 2
+render         : 2
+Royalty        : 2
+fortunate      : 2
+showers        : 2
+whichis        : 2
+TO             : 2
+foam           : 2
+widening       : 2
+features       : 2
+Years          : 2
+Up             : 2
+Us             : 2
+Beauty         : 2
+submit         : 2
+occupy         : 2
+originator     : 2
+conclusion     : 2
+XI             : 2
+brightness     : 2
+XV             : 2
+stuck          : 2
+EBOOK          : 2
+andsilver      : 2
+constrainedly  : 2
+fed            : 2
+section        : 2
+produced       : 2
+personally     : 2
+produces       : 2
+perceive       : 2
+Lamenting      : 2
+founders       : 2
+Misgovernment  : 2
+butter         : 2
+Cries          : 2
+extend         : 2
+hurt           : 2
+fibres         : 2
+Distributed    : 2
+de             : 2
+novices        : 2
+criticism      : 2
+Festival       : 2
+theLaw         : 2
+ew             : 2
+foo            : 2
+plot           : 2
+covers         : 2
+thence         : 2
+Nine           : 2
+renew          : 2
+welfare        : 2
+ii             : 2
+likely         : 2
+Thisis         : 2
+iu             : 2
+lively         : 2
+customary      : 2
+disposition    : 2
+Temple         : 2
+wooden         : 2
+hehad          : 2
+contentment    : 2
+ma             : 2
+plum           : 2
+contest        : 2
+entry          : 2
+na             : 2
+Except         : 2
+readily        : 2
+registered     : 2
+downfall       : 2
+theprince      : 2
+ofall          : 2
+allowance      : 2
+Juliet         : 2
+tolearning     : 2
+forit          : 2
+adorn          : 2
+loaded         : 2
+un             : 2
+recluse        : 2
+purchased      : 2
+medicines      : 2
+summoned       : 2
+destitute      : 2
+previous       : 2
+reading        : 2
+gruel          : 2
+ya             : 2
+harpsichord    : 2
+oaths          : 2
+yielding       : 2
+ofmetal        : 2
+Adam           : 2
+havethe        : 2
+Processions    : 2
+purport        : 2
+shrill         : 2
+intent         : 2
+menof          : 2
+Shows          : 2
+TRANSLATOR     : 2
+Kanishka       : 2
+Imperial       : 2
+reports        : 2
+carving        : 2
+ambition       : 2
+enlarge        : 2
+wouldnot       : 2
+revered        : 2
+tracing        : 2
+ofChow         : 2
+FOO            : 2
+andits         : 2
+sociable       : 2
+forlorn        : 2
+neglects       : 2
+foreigners     : 2
+favorable      : 2
+Vain           : 2
+Bodhisattvas   : 2
+sneer          : 2
+understand     : 2
+appearing      : 2
+goldand        : 2
+mouthswill     : 2
+garments       : 2
+disfigure      : 2
+wake           : 2
+earlier        : 2
 INTRODUCTIONThe: 2
-theempire: 2
-counting: 2
-ofothers: 2
-dispense: 2
-annul: 2
-extra: 2
-lane: 2
-lamp: 2
-decay: 2
-wang: 2
-Forsaken: 2
-VIIITHE: 2
-contrived: 2
+theempire      : 2
+counting       : 2
+ofothers       : 2
+dispense       : 2
+annul          : 2
+extra          : 2
+lane           : 2
+lamp           : 2
+decay          : 2
+wang           : 2
+Forsaken       : 2
+VIIITHE        : 2
+contrived      : 2
 GutenbergLiterary: 2
-Passes: 2
-reposed: 2
-sighed: 2
-Purushapura: 2
-vegetables: 2
-weapon: 2
-sagacityand: 2
-itthere: 2
-alike: 2
-wheeled: 2
-sickness: 2
-governments: 2
-lesson: 2
-baskets: 2
-confirmed: 2
-vowed: 2
-Lead: 2
-epigrammatic: 2
-Classics: 2
-editor: 2
-hisgovernment: 2
-hit: 2
-Woman: 2
-wagon: 2
-wolves: 2
-Silent: 2
-crowded: 2
-Fit: 2
-attendance: 2
-preference: 2
-hot: 2
-liquor: 2
-vanity: 2
-Plantain: 2
-repel: 2
-advantages: 2
-restored: 2
-passions: 2
-bein: 2
-inborn: 2
-Foo: 2
-blank: 2
-reaches: 2
-dropped: 2
-impression: 2
-Scorning: 2
-designation: 2
-borders: 2
-cobras: 2
-beso: 2
-profess: 2
-Covering: 2
-intention: 2
-rebellion: 2
-Entreaty: 2
-extends: 2
-poet: 2
-professed: 2
-venerable: 2
-Parents: 2
-hisCourt: 2
-Etiquette: 2
-likeyourself: 2
-church: 2
-undergo: 2
-liquid: 2
-graceful: 2
-Hindus: 2
-lustre: 2
-tossed: 2
-deportment: 2
-paper: 2
-ina: 2
-nigh: 2
-Response: 2
-worthless: 2
-creeping: 2
-Premare: 2
-HOO: 2
-adapted: 2
-howshall: 2
-ire: 2
-Piety: 2
-disdain: 2
-isa: 2
-Receptions: 2
-concord: 2
-remedy: 2
-grandeur: 2
-prajapati: 2
-improvement: 2
-steadfast: 2
-incongruous: 2
-Disciples: 2
-Former: 2
-badly: 2
-occasioned: 2
-letter: 2
-likings: 2
-hymn: 2
-thethousand: 2
-lacking: 2
-longed: 2
-purest: 2
-courses: 2
-horned: 2
-amnot: 2
-FULL: 2
-watched: 2
-worst: 2
-somuch: 2
-poured: 2
-waits: 2
-TheBrahmans: 2
-Kanakamuni: 2
-vehicle: 2
-bended: 2
-Him: 2
-withoutthe: 2
-inyour: 2
-parting: 2
-ofIndia: 2
-eaten: 2
-omit: 2
-ING: 2
-differ: 2
-XIII: 2
-equivalent: 2
-Black: 2
-indicate: 2
-MING: 2
-rooms: 2
-Renounced: 2
-flocked: 2
-vigorous: 2
-Kaoute: 2
-wronged: 2
-historic: 2
-wearing: 2
-fragrance: 2
-Disappointed: 2
-farmer: 2
-counsels: 2
-crows: 2
-crown: 2
-impulses: 2
-embarked: 2
-urgent: 2
-thorn: 2
-upreared: 2
-married: 2
-Reverence: 2
-Nothing: 2
-posturers: 2
-Surangama: 2
-shuts: 2
-pursued: 2
-kau: 2
-editions: 2
-somewhere: 2
-ken: 2
-Java: 2
-vast: 2
-declare: 2
-viharas: 2
-quest: 2
-theemperor: 2
-hemay: 2
-woodmen: 2
-carpet: 2
-Action: 2
-collects: 2
-JIN: 2
-andright: 2
-meritorious: 2
-teeth: 2
-laics: 2
-seventeen: 2
-staves: 2
-leak: 2
-lean: 2
-tired: 2
-Manners: 2
-passage: 2
-adequate: 2
-musicians: 2
-studies: 2
-weed: 2
-greatest: 2
-solid: 2
-Keih: 2
-unparalleled: 2
-resigned: 2
-thehighest: 2
-astone: 2
-Skeleton: 2
-spoil: 2
-swords: 2
-handling: 2
-transrotation: 2
-ANALECTS: 2
-averse: 2
-Draw: 2
-walks: 2
-whocould: 2
-translated: 2
-shining: 2
-hastily: 2
-censure: 2
-lining: 2
-equilibrium: 2
-cluster: 2
-attire: 2
-press: 2
-lewd: 2
-thebhikshu: 2
-promote: 2
-perplexed: 2
-Catalogue: 2
-demanded: 2
-acquired: 2
-doin: 2
-Come: 2
-Lift: 2
-IITHE: 2
-Cold: 2
-thevarious: 2
-discoursed: 2
-interests: 2
-Fruitfulness: 2
-Eight: 2
-Lords: 2
-Queen: 2
-moons: 2
-surest: 2
-washed: 2
-headsand: 2
-dost: 2
-ofChina: 2
-Officers: 2
-bathing: 2
-relative: 2
-ming: 2
-foxes: 2
-importance: 2
-watered: 2
-Wish: 2
-Mahakasyapa: 2
-convert: 2
-usually: 2
-plucks: 2
-mention: 2
-leisure: 2
-henot: 2
-mar: 2
-Roman: 2
-failto: 2
-ideal: 2
-comedy: 2
-attains: 2
-recesses: 2
-fences: 2
-Value: 2
-Treated: 2
-Politely: 2
-structure: 2
-wakes: 2
-hismid: 2
-resident: 2
-outer: 2
-Office: 2
-association: 2
-mid: 2
-believe: 2
-butmen: 2
-studying: 2
-Kiu: 2
-befall: 2
-slain: 2
-sceptre: 2
-withalmost: 2
-Rejected: 2
-revolution: 2
-anthology: 2
-tongue: 2
-specified: 2
-believes: 2
-believer: 2
-federal: 2
-include: 2
-altogether: 2
-cutting: 2
-tailed: 2
-failed: 2
-LUH: 2
-Everything: 2
-contains: 2
-Statue: 2
-sleek: 2
-Omitting: 2
-Worth: 2
-cruel: 2
-reverenced: 2
-visited: 2
-aloft: 2
-nan: 2
-betweenthe: 2
-togrow: 2
-byBuddhism: 2
-Official: 2
-thefollowing: 2
-swell: 2
-Living: 2
-theplaces: 2
-comprehending: 2
-Lan: 2
-decorated: 2
-tohis: 2
-tohim: 2
-yoked: 2
-nih: 2
-oneand: 2
-pearl: 2
-MIN: 2
-colts: 2
-Governing: 2
-Lin: 2
-commemorating: 2
-string: 2
-statement: 2
-conquer: 2
-ofinferior: 2
-Lot: 2
-prevail: 2
-enabled: 2
-animportant: 2
-attestation: 2
-hampered: 2
-offspring: 2
-fiveyears: 2
-otherwise: 2
-respite: 2
-basketful: 2
-Nirvana: 2
-contained: 2
-itwas: 2
-promoting: 2
-turning: 2
-extinction: 2
-betoken: 2
-ditch: 2
-loveliness: 2
-burden: 2
-delayed: 2
-afamiliar: 2
-semblance: 2
-library: 2
-strings: 2
-Jews: 2
-sadly: 2
-ofa: 2
-contended: 2
-seriousness: 2
-kingAjatasatru: 2
-ruling: 2
-chosen: 2
-termed: 2
-hisown: 2
-fight: 2
-Remember: 2
-beneglected: 2
-recreation: 2
-starting: 2
-oppress: 2
-blew: 2
-variety: 2
-caution: 2
-Kieh: 2
-details: 2
-Sramanas: 2
-NOT: 2
-theteaching: 2
-drop: 2
-lien: 2
-Duty: 2
-lieu: 2
-Husbandry: 2
-twomillions: 2
-Levee: 2
-theeight: 2
-abandoned: 2
-inability: 2
-Alms: 2
-lift: 2
-German: 2
-orre: 2
-elbows: 2
-Mohammed: 2
-Born: 2
-corn: 2
-Most: 2
-consequences: 2
-visitor: 2
-sagacity: 2
-subordination: 2
-mightbe: 2
-calculate: 2
-baked: 2
-arrives: 2
-airs: 2
-ahead: 2
-undisciplined: 2
-pan: 2
-About: 2
-instrument: 2
-fatal: 2
-Nay: 2
-lustrous: 2
-indicating: 2
-ofSakyamuni: 2
-twain: 2
-tempt: 2
-kindred: 2
-recognize: 2
-Vihara: 2
-CentralIndia: 2
-receipt: 2
-assembled: 2
-writings: 2
-Hsuean: 2
-heritage: 2
-ornament: 2
-Gomati: 2
-lately: 2
-employs: 2
-allotment: 2
-request: 2
-grieves: 2
-Complimenting: 2
-Sage: 2
-beenbuilt: 2
-arenot: 2
-innocent: 2
-diligence: 2
-Picture: 2
-happen: 2
-unwilling: 2
-rouse: 2
-Intestine: 2
-Cherished: 2
-tells: 2
-escorted: 2
-hecannot: 2
-absurd: 2
-Statute: 2
-tsung: 2
-forone: 2
-Rarely: 2
-strictly: 2
-print: 2
-Anam: 2
-Hark: 2
-athing: 2
-aboutthe: 2
-health: 2
-ManSayings: 2
-PIN: 2
-thenorthern: 2
-byimproper: 2
-withhim: 2
-ranked: 2
-Drawbacks: 2
-experienced: 2
-execution: 2
-Upali: 2
-believers: 2
-Congratulation: 2
-procession: 2
-spray: 2
-Traces: 2
-enthusiastic: 2
-funeral: 2
-mastered: 2
-werewithout: 2
-Effort: 2
+Passes         : 2
+reposed        : 2
+sighed         : 2
+Purushapura    : 2
+vegetables     : 2
+weapon         : 2
+sagacityand    : 2
+itthere        : 2
+alike          : 2
+wheeled        : 2
+sickness       : 2
+governments    : 2
+lesson         : 2
+baskets        : 2
+confirmed      : 2
+vowed          : 2
+Lead           : 2
+epigrammatic   : 2
+Classics       : 2
+editor         : 2
+hisgovernment  : 2
+hit            : 2
+Woman          : 2
+wagon          : 2
+wolves         : 2
+Silent         : 2
+crowded        : 2
+Fit            : 2
+attendance     : 2
+preference     : 2
+hot            : 2
+liquor         : 2
+vanity         : 2
+Plantain       : 2
+repel          : 2
+advantages     : 2
+restored       : 2
+passions       : 2
+bein           : 2
+inborn         : 2
+Foo            : 2
+blank          : 2
+reaches        : 2
+dropped        : 2
+impression     : 2
+Scorning       : 2
+designation    : 2
+borders        : 2
+cobras         : 2
+beso           : 2
+profess        : 2
+Covering       : 2
+intention      : 2
+rebellion      : 2
+Entreaty       : 2
+extends        : 2
+poet           : 2
+professed      : 2
+venerable      : 2
+Parents        : 2
+hisCourt       : 2
+Etiquette      : 2
+likeyourself   : 2
+church         : 2
+undergo        : 2
+liquid         : 2
+graceful       : 2
+Hindus         : 2
+lustre         : 2
+tossed         : 2
+deportment     : 2
+paper          : 2
+ina            : 2
+nigh           : 2
+Response       : 2
+worthless      : 2
+creeping       : 2
+Premare        : 2
+HOO            : 2
+adapted        : 2
+howshall       : 2
+ire            : 2
+Piety          : 2
+disdain        : 2
+isa            : 2
+Receptions     : 2
+concord        : 2
+remedy         : 2
+grandeur       : 2
+prajapati      : 2
+improvement    : 2
+steadfast      : 2
+incongruous    : 2
+Disciples      : 2
+Former         : 2
+badly          : 2
+occasioned     : 2
+letter         : 2
+likings        : 2
+hymn           : 2
+thethousand    : 2
+lacking        : 2
+longed         : 2
+purest         : 2
+courses        : 2
+horned         : 2
+amnot          : 2
+FULL           : 2
+watched        : 2
+worst          : 2
+somuch         : 2
+poured         : 2
+waits          : 2
+TheBrahmans    : 2
+Kanakamuni     : 2
+vehicle        : 2
+bended         : 2
+Him            : 2
+withoutthe     : 2
+inyour         : 2
+parting        : 2
+ofIndia        : 2
+eaten          : 2
+omit           : 2
+ING            : 2
+differ         : 2
+XIII           : 2
+equivalent     : 2
+Black          : 2
+indicate       : 2
+MING           : 2
+rooms          : 2
+Renounced      : 2
+flocked        : 2
+vigorous       : 2
+Kaoute         : 2
+wronged        : 2
+historic       : 2
+wearing        : 2
+fragrance      : 2
+Disappointed   : 2
+farmer         : 2
+counsels       : 2
+crows          : 2
+crown          : 2
+impulses       : 2
+embarked       : 2
+urgent         : 2
+thorn          : 2
+upreared       : 2
+married        : 2
+Reverence      : 2
+Nothing        : 2
+posturers      : 2
+Surangama      : 2
+shuts          : 2
+pursued        : 2
+kau            : 2
+editions       : 2
+somewhere      : 2
+ken            : 2
+Java           : 2
+vast           : 2
+declare        : 2
+viharas        : 2
+quest          : 2
+theemperor     : 2
+hemay          : 2
+woodmen        : 2
+carpet         : 2
+Action         : 2
+collects       : 2
+JIN            : 2
+andright       : 2
+meritorious    : 2
+teeth          : 2
+laics          : 2
+seventeen      : 2
+staves         : 2
+leak           : 2
+lean           : 2
+tired          : 2
+Manners        : 2
+passage        : 2
+adequate       : 2
+musicians      : 2
+studies        : 2
+weed           : 2
+greatest       : 2
+solid          : 2
+Keih           : 2
+unparalleled   : 2
+resigned       : 2
+thehighest     : 2
+astone         : 2
+Skeleton       : 2
+spoil          : 2
+swords         : 2
+handling       : 2
+transrotation  : 2
+ANALECTS       : 2
+averse         : 2
+Draw           : 2
+walks          : 2
+whocould       : 2
+translated     : 2
+shining        : 2
+hastily        : 2
+censure        : 2
+lining         : 2
+equilibrium    : 2
+cluster        : 2
+attire         : 2
+press          : 2
+lewd           : 2
+thebhikshu     : 2
+promote        : 2
+perplexed      : 2
+Catalogue      : 2
+demanded       : 2
+acquired       : 2
+doin           : 2
+Come           : 2
+Lift           : 2
+IITHE          : 2
+Cold           : 2
+thevarious     : 2
+discoursed     : 2
+interests      : 2
+Fruitfulness   : 2
+Eight          : 2
+Lords          : 2
+Queen          : 2
+moons          : 2
+surest         : 2
+washed         : 2
+headsand       : 2
+dost           : 2
+ofChina        : 2
+Officers       : 2
+bathing        : 2
+relative       : 2
+ming           : 2
+foxes          : 2
+importance     : 2
+watered        : 2
+Wish           : 2
+Mahakasyapa    : 2
+convert        : 2
+usually        : 2
+plucks         : 2
+mention        : 2
+leisure        : 2
+henot          : 2
+mar            : 2
+Roman          : 2
+failto         : 2
+ideal          : 2
+comedy         : 2
+attains        : 2
+recesses       : 2
+fences         : 2
+Value          : 2
+Treated        : 2
+Politely       : 2
+structure      : 2
+wakes          : 2
+hismid         : 2
+resident       : 2
+outer          : 2
+Office         : 2
+association    : 2
+mid            : 2
+believe        : 2
+butmen         : 2
+studying       : 2
+Kiu            : 2
+befall         : 2
+slain          : 2
+sceptre        : 2
+withalmost     : 2
+Rejected       : 2
+revolution     : 2
+anthology      : 2
+tongue         : 2
+specified      : 2
+believes       : 2
+believer       : 2
+federal        : 2
+include        : 2
+altogether     : 2
+cutting        : 2
+tailed         : 2
+failed         : 2
+LUH            : 2
+Everything     : 2
+contains       : 2
+Statue         : 2
+sleek          : 2
+Omitting       : 2
+Worth          : 2
+cruel          : 2
+reverenced     : 2
+visited        : 2
+aloft          : 2
+nan            : 2
+betweenthe     : 2
+togrow         : 2
+byBuddhism     : 2
+Official       : 2
+thefollowing   : 2
+swell          : 2
+Living         : 2
+theplaces      : 2
+comprehending  : 2
+Lan            : 2
+decorated      : 2
+tohis          : 2
+tohim          : 2
+yoked          : 2
+nih            : 2
+oneand         : 2
+pearl          : 2
+MIN            : 2
+colts          : 2
+Governing      : 2
+Lin            : 2
+commemorating  : 2
+string         : 2
+statement      : 2
+conquer        : 2
+ofinferior     : 2
+Lot            : 2
+prevail        : 2
+enabled        : 2
+animportant    : 2
+attestation    : 2
+hampered       : 2
+offspring      : 2
+fiveyears      : 2
+otherwise      : 2
+respite        : 2
+basketful      : 2
+Nirvana        : 2
+contained      : 2
+itwas          : 2
+promoting      : 2
+turning        : 2
+extinction     : 2
+betoken        : 2
+ditch          : 2
+loveliness     : 2
+burden         : 2
+delayed        : 2
+afamiliar      : 2
+semblance      : 2
+library        : 2
+strings        : 2
+Jews           : 2
+sadly          : 2
+ofa            : 2
+contended      : 2
+seriousness    : 2
+kingAjatasatru : 2
+ruling         : 2
+chosen         : 2
+termed         : 2
+hisown         : 2
+fight          : 2
+Remember       : 2
+beneglected    : 2
+recreation     : 2
+starting       : 2
+oppress        : 2
+blew           : 2
+variety        : 2
+caution        : 2
+Kieh           : 2
+details        : 2
+Sramanas       : 2
+NOT            : 2
+theteaching    : 2
+drop           : 2
+lien           : 2
+Duty           : 2
+lieu           : 2
+Husbandry      : 2
+twomillions    : 2
+Levee          : 2
+theeight       : 2
+abandoned      : 2
+inability      : 2
+Alms           : 2
+lift           : 2
+German         : 2
+orre           : 2
+elbows         : 2
+Mohammed       : 2
+Born           : 2
+corn           : 2
+Most           : 2
+consequences   : 2
+visitor        : 2
+sagacity       : 2
+subordination  : 2
+mightbe        : 2
+calculate      : 2
+baked          : 2
+arrives        : 2
+airs           : 2
+ahead          : 2
+undisciplined  : 2
+pan            : 2
+About          : 2
+instrument     : 2
+fatal          : 2
+Nay            : 2
+lustrous       : 2
+indicating     : 2
+ofSakyamuni    : 2
+twain          : 2
+tempt          : 2
+kindred        : 2
+recognize      : 2
+Vihara         : 2
+CentralIndia   : 2
+receipt        : 2
+assembled      : 2
+writings       : 2
+Hsuean         : 2
+heritage       : 2
+ornament       : 2
+Gomati         : 2
+lately         : 2
+employs        : 2
+allotment      : 2
+request        : 2
+grieves        : 2
+Complimenting  : 2
+Sage           : 2
+beenbuilt      : 2
+arenot         : 2
+innocent       : 2
+diligence      : 2
+Picture        : 2
+happen         : 2
+unwilling      : 2
+rouse          : 2
+Intestine      : 2
+Cherished      : 2
+tells          : 2
+escorted       : 2
+hecannot       : 2
+absurd         : 2
+Statute        : 2
+tsung          : 2
+forone         : 2
+Rarely         : 2
+strictly       : 2
+print          : 2
+Anam           : 2
+Hark           : 2
+athing         : 2
+aboutthe       : 2
+health         : 2
+ManSayings     : 2
+PIN            : 2
+thenorthern    : 2
+byimproper     : 2
+withhim        : 2
+ranked         : 2
+Drawbacks      : 2
+experienced    : 2
+execution      : 2
+Upali          : 2
+believers      : 2
+Congratulation : 2
+procession     : 2
+spray          : 2
+Traces         : 2
+enthusiastic   : 2
+funeral        : 2
+mastered       : 2
+werewithout    : 2
+Effort         : 2
 andrespectfully: 2
-celebrate: 2
-theground: 2
-rough: 2
-assistance: 2
-wherethere: 2
-caldron: 2
-Out: 2
-prolong: 2
-Hospitality: 2
-damages: 2
-causes: 2
-scatter: 2
-established: 2
-monksresiding: 2
-damaged: 2
-bottom: 2
-solicit: 2
-serge: 2
-Whoever: 2
-jealous: 2
-aBodhisattva: 2
-procure: 2
-variouscolors: 2
-Peshawur: 2
-withered: 2
-hurried: 2
-departments: 2
-SANG: 2
-exempt: 2
-untouched: 2
-likelihood: 2
-retain: 2
-aperiod: 2
-reigned: 2
+celebrate      : 2
+theground      : 2
+rough          : 2
+assistance     : 2
+wherethere     : 2
+caldron        : 2
+Out            : 2
+prolong        : 2
+Hospitality    : 2
+damages        : 2
+causes         : 2
+scatter        : 2
+established    : 2
+monksresiding  : 2
+damaged        : 2
+bottom         : 2
+solicit        : 2
+serge          : 2
+Whoever        : 2
+jealous        : 2
+aBodhisattva   : 2
+procure        : 2
+variouscolors  : 2
+Peshawur       : 2
+withered       : 2
+hurried        : 2
+departments    : 2
+SANG           : 2
+exempt         : 2
+untouched      : 2
+likelihood     : 2
+retain         : 2
+aperiod        : 2
+reigned        : 2
 personification: 2
-prayers: 2
-Remarkable: 2
-Hunting: 2
-blossom: 2
-Useless: 2
-filth: 2
-ascends: 2
-honorable: 2
-woollen: 2
-hosts: 2
-males: 2
-calculations: 2
-captive: 2
-aversions: 2
-inlaid: 2
-younot: 2
-dust: 2
-Quinquennial: 2
-crop: 2
-truce: 2
-southwards: 2
-Ifhe: 2
-mong: 2
-target: 2
-keepingfowls: 2
-Samadhi: 2
-Work: 2
-truly: 2
-protect: 2
-vile: 2
-Moral: 2
-theworld: 2
-conductor: 2
-IDECADE: 2
-affection: 2
-Frivolous: 2
-heights: 2
-thetree: 2
-Yuente: 2
-WARRANTY: 2
-oneon: 2
-labored: 2
-Subjects: 2
-sin: 2
-Requite: 2
-Image: 2
-reduce: 2
-conversing: 2
-girdles: 2
-yourarm: 2
-inhis: 2
-themonks: 2
-hisministers: 2
-neighboring: 2
-waitingfor: 2
-depths: 2
-sincerely: 2
-burial: 2
-hadnot: 2
-passion: 2
-greatness: 2
-Pigeon: 2
-ocean: 2
-horns: 2
-andalso: 2
-commonalty: 2
-Nanking: 2
-commencement: 2
-inches: 2
-wrath: 2
-guide: 2
-sympathetic: 2
-takepleasure: 2
-disrespectful: 2
-Complains: 2
-token: 2
-growing: 2
-centuries: 2
-Plenty: 2
-files: 2
-tench: 2
-satisfy: 2
-fault: 2
-hail: 2
-Hymns: 2
-quinquennial: 2
-standards: 2
-hang: 2
-Vulture: 2
-Unresting: 2
-reigns: 2
-salt: 2
-converting: 2
-tie: 2
-sand: 2
-pupils: 2
-hats: 2
-gained: 2
-Contentment: 2
-Locust: 2
-Proper: 2
-Generous: 2
-willnot: 2
-totake: 2
-onehas: 2
-Orphan: 2
-Than: 2
-refrain: 2
-Comes: 2
-Hear: 2
-Heap: 2
-restrained: 2
-untrue: 2
-desired: 2
-attack: 2
-inclination: 2
-Affection: 2
-andthere: 2
-undertook: 2
-reflection: 2
-Heen: 2
-inspected: 2
-SZE: 2
-Seek: 2
-start: 2
-viscount: 2
-truths: 2
-golden: 2
-shores: 2
-bloom: 2
-Diligence: 2
-drinking: 2
-created: 2
-grassy: 2
-creates: 2
-exceedingly: 2
-Opulence: 2
-ofthings: 2
-fellowship: 2
-priests: 2
-finds: 2
-grasp: 2
-Sets: 2
-acquisition: 2
-oxen: 2
-Corean: 2
-Sha: 2
-divisions: 2
-learns: 2
-embraced: 2
-hiang: 2
-load: 2
-priest: 2
-Expedition: 2
-qualified: 2
-histeaching: 2
-TOO: 2
-interval: 2
-Rabbit: 2
-toyour: 2
-Son: 2
-THAT: 2
-liked: 2
-alter: 2
-manes: 2
-Recluse: 2
-Unhappy: 2
-Mountains: 2
-included: 2
-questioner: 2
-hisdeath: 2
-Connected: 2
-Extended: 2
-Suh: 2
-loka: 2
-Sun: 2
-willows: 2
-Bewail: 2
-examine: 2
-Maiden: 2
-attainedto: 2
-womb: 2
-controlled: 2
-andwas: 2
-guardedly: 2
-wool: 2
-admitted: 2
-wong: 2
-Sacrificing: 2
-Sze: 2
-Time: 2
-winning: 2
-loth: 2
-themonkhood: 2
-Ting: 2
-prevailed: 2
-converts: 2
-regulations: 2
-Tam: 2
-threshold: 2
-desolate: 2
-Separation: 2
-Onfast: 2
-dyed: 2
-Ten: 2
-Consoled: 2
-haughtiness: 2
-inspired: 2
-slighted: 2
-agreed: 2
-thework: 2
-peoples: 2
-Doing: 2
-theirfellow: 2
-obtaining: 2
-tokeep: 2
-companion: 2
-finely: 2
-vol: 2
-linen: 2
-START: 2
-towhom: 2
-Neglect: 2
-species: 2
-Try: 2
-ancestors: 2
-shang: 2
-thereader: 2
-farther: 2
-attractions: 2
-waves: 2
-waved: 2
-enemy: 2
-medlars: 2
-anguished: 2
-stillness: 2
-slumber: 2
-penalties: 2
-administration: 2
-sounded: 2
-doubtless: 2
-wax: 2
-quickly: 2
-suicide: 2
-Sundari: 2
-receiving: 2
-fiveacres: 2
-happened: 2
-northward: 2
-precedence: 2
-Rejoicings: 2
-Autumn: 2
-voyage: 2
-gait: 2
-win: 2
-fromthe: 2
-ancestor: 2
-awhite: 2
-yonder: 2
-filialand: 2
-sentient: 2
-admire: 2
-systems: 2
-sudden: 2
-familiar: 2
-cincture: 2
-Arrival: 2
-Fate: 2
-cherishing: 2
-screams: 2
-prophecy: 2
-theborders: 2
-Inferior: 2
-chwang: 2
-aimed: 2
-Arhans: 2
-Whenthey: 2
-Yellow: 2
-Brothers: 2
-Shan: 2
-Eunuchs: 2
-Whenthis: 2
-slackened: 2
-Use: 2
-solitary: 2
-Christians: 2
-immortality: 2
-heal: 2
-cousin: 2
-Sheh: 2
-proclamation: 2
-grouped: 2
-toreceive: 2
-righteous: 2
-necessary: 2
-started: 2
-Ship: 2
-threehundred: 2
-Oriental: 2
-bhikshuni: 2
-ingenious: 2
-seih: 2
-WAN: 2
-hearken: 2
-includedwith: 2
-talents: 2
-Rely: 2
-courts: 2
-BREACH: 2
-Compare: 2
-plucked: 2
-readings: 2
-WEI: 2
-andstudied: 2
-befound: 2
-sell: 2
-sprinkled: 2
-addresses: 2
-hemmed: 2
-Mount: 2
-indignation: 2
-ofvirtue: 2
-addressed: 2
-expenses: 2
-Friendship: 2
-security: 2
-abstinence: 2
-prose: 2
-impermanence: 2
-towhat: 2
-perishing: 2
-Raisonne: 2
-edicts: 2
-chapter: 2
-Numerous: 2
-miseries: 2
-Dragon: 2
-intrusted: 2
-union: 2
-ruined: 2
-buff: 2
-mostpart: 2
-Christ: 2
-hewn: 2
-cleared: 2
-indifference: 2
-Siam: 2
-John: 2
-changing: 2
-write: 2
-musical: 2
-manifested: 2
-Vaidurya: 2
-SHAN: 2
-hazels: 2
-tide: 2
-narakas: 2
-void: 2
-ritual: 2
-libation: 2
-basin: 2
-affected: 2
-pleasures: 2
-muse: 2
-sacrificed: 2
-ties: 2
-busy: 2
-wring: 2
-doubtful: 2
-bury: 2
-styled: 2
-thinks: 2
-events: 2
-abundant: 2
-resign: 2
-Hill: 2
-pilgrims: 2
-currency: 2
-charm: 2
-definite: 2
-ambitiousness: 2
+prayers        : 2
+Remarkable     : 2
+Hunting        : 2
+blossom        : 2
+Useless        : 2
+filth          : 2
+ascends        : 2
+honorable      : 2
+woollen        : 2
+hosts          : 2
+males          : 2
+calculations   : 2
+captive        : 2
+aversions      : 2
+inlaid         : 2
+younot         : 2
+dust           : 2
+Quinquennial   : 2
+crop           : 2
+truce          : 2
+southwards     : 2
+Ifhe           : 2
+mong           : 2
+target         : 2
+keepingfowls   : 2
+Samadhi        : 2
+Work           : 2
+truly          : 2
+protect        : 2
+vile           : 2
+Moral          : 2
+theworld       : 2
+conductor      : 2
+IDECADE        : 2
+affection      : 2
+Frivolous      : 2
+heights        : 2
+thetree        : 2
+Yuente         : 2
+WARRANTY       : 2
+oneon          : 2
+labored        : 2
+Subjects       : 2
+sin            : 2
+Requite        : 2
+Image          : 2
+reduce         : 2
+conversing     : 2
+girdles        : 2
+yourarm        : 2
+inhis          : 2
+themonks       : 2
+hisministers   : 2
+neighboring    : 2
+waitingfor     : 2
+depths         : 2
+sincerely      : 2
+burial         : 2
+hadnot         : 2
+passion        : 2
+greatness      : 2
+Pigeon         : 2
+ocean          : 2
+horns          : 2
+andalso        : 2
+commonalty     : 2
+Nanking        : 2
+commencement   : 2
+inches         : 2
+wrath          : 2
+guide          : 2
+sympathetic    : 2
+takepleasure   : 2
+disrespectful  : 2
+Complains      : 2
+token          : 2
+growing        : 2
+centuries      : 2
+Plenty         : 2
+files          : 2
+tench          : 2
+satisfy        : 2
+fault          : 2
+hail           : 2
+Hymns          : 2
+quinquennial   : 2
+standards      : 2
+hang           : 2
+Vulture        : 2
+Unresting      : 2
+reigns         : 2
+salt           : 2
+converting     : 2
+tie            : 2
+sand           : 2
+pupils         : 2
+hats           : 2
+gained         : 2
+Contentment    : 2
+Locust         : 2
+Proper         : 2
+Generous       : 2
+willnot        : 2
+totake         : 2
+onehas         : 2
+Orphan         : 2
+Than           : 2
+refrain        : 2
+Comes          : 2
+Hear           : 2
+Heap           : 2
+restrained     : 2
+untrue         : 2
+desired        : 2
+attack         : 2
+inclination    : 2
+Affection      : 2
+andthere       : 2
+undertook      : 2
+reflection     : 2
+Heen           : 2
+inspected      : 2
+SZE            : 2
+Seek           : 2
+start          : 2
+viscount       : 2
+truths         : 2
+golden         : 2
+shores         : 2
+bloom          : 2
+Diligence      : 2
+drinking       : 2
+created        : 2
+grassy         : 2
+creates        : 2
+exceedingly    : 2
+Opulence       : 2
+ofthings       : 2
+fellowship     : 2
+priests        : 2
+finds          : 2
+grasp          : 2
+Sets           : 2
+acquisition    : 2
+oxen           : 2
+Corean         : 2
+Sha            : 2
+divisions      : 2
+learns         : 2
+embraced       : 2
+hiang          : 2
+load           : 2
+priest         : 2
+Expedition     : 2
+qualified      : 2
+histeaching    : 2
+TOO            : 2
+interval       : 2
+Rabbit         : 2
+toyour         : 2
+Son            : 2
+THAT           : 2
+liked          : 2
+alter          : 2
+manes          : 2
+Recluse        : 2
+Unhappy        : 2
+Mountains      : 2
+included       : 2
+questioner     : 2
+hisdeath       : 2
+Connected      : 2
+Extended       : 2
+Suh            : 2
+loka           : 2
+Sun            : 2
+willows        : 2
+Bewail         : 2
+examine        : 2
+Maiden         : 2
+attainedto     : 2
+womb           : 2
+controlled     : 2
+andwas         : 2
+guardedly      : 2
+wool           : 2
+admitted       : 2
+wong           : 2
+Sacrificing    : 2
+Sze            : 2
+Time           : 2
+winning        : 2
+loth           : 2
+themonkhood    : 2
+Ting           : 2
+prevailed      : 2
+converts       : 2
+regulations    : 2
+Tam            : 2
+threshold      : 2
+desolate       : 2
+Separation     : 2
+Onfast         : 2
+dyed           : 2
+Ten            : 2
+Consoled       : 2
+haughtiness    : 2
+inspired       : 2
+slighted       : 2
+agreed         : 2
+thework        : 2
+peoples        : 2
+Doing          : 2
+theirfellow    : 2
+obtaining      : 2
+tokeep         : 2
+companion      : 2
+finely         : 2
+vol            : 2
+linen          : 2
+START          : 2
+towhom         : 2
+Neglect        : 2
+species        : 2
+Try            : 2
+ancestors      : 2
+shang          : 2
+thereader      : 2
+farther        : 2
+attractions    : 2
+waves          : 2
+waved          : 2
+enemy          : 2
+medlars        : 2
+anguished      : 2
+stillness      : 2
+slumber        : 2
+penalties      : 2
+administration : 2
+sounded        : 2
+doubtless      : 2
+wax            : 2
+quickly        : 2
+suicide        : 2
+Sundari        : 2
+receiving      : 2
+fiveacres      : 2
+happened       : 2
+northward      : 2
+precedence     : 2
+Rejoicings     : 2
+Autumn         : 2
+voyage         : 2
+gait           : 2
+win            : 2
+fromthe        : 2
+ancestor       : 2
+awhite         : 2
+yonder         : 2
+filialand      : 2
+sentient       : 2
+admire         : 2
+systems        : 2
+sudden         : 2
+familiar       : 2
+cincture       : 2
+Arrival        : 2
+Fate           : 2
+cherishing     : 2
+screams        : 2
+prophecy       : 2
+theborders     : 2
+Inferior       : 2
+chwang         : 2
+aimed          : 2
+Arhans         : 2
+Whenthey       : 2
+Yellow         : 2
+Brothers       : 2
+Shan           : 2
+Eunuchs        : 2
+Whenthis       : 2
+slackened      : 2
+Use            : 2
+solitary       : 2
+Christians     : 2
+immortality    : 2
+heal           : 2
+cousin         : 2
+Sheh           : 2
+proclamation   : 2
+grouped        : 2
+toreceive      : 2
+righteous      : 2
+necessary      : 2
+started        : 2
+Ship           : 2
+threehundred   : 2
+Oriental       : 2
+bhikshuni      : 2
+ingenious      : 2
+seih           : 2
+WAN            : 2
+hearken        : 2
+includedwith   : 2
+talents        : 2
+Rely           : 2
+courts         : 2
+BREACH         : 2
+Compare        : 2
+plucked        : 2
+readings       : 2
+WEI            : 2
+andstudied     : 2
+befound        : 2
+sell           : 2
+sprinkled      : 2
+addresses      : 2
+hemmed         : 2
+Mount          : 2
+indignation    : 2
+ofvirtue       : 2
+addressed      : 2
+expenses       : 2
+Friendship     : 2
+security       : 2
+abstinence     : 2
+prose          : 2
+impermanence   : 2
+towhat         : 2
+perishing      : 2
+Raisonne       : 2
+edicts         : 2
+chapter        : 2
+Numerous       : 2
+miseries       : 2
+Dragon         : 2
+intrusted      : 2
+union          : 2
+ruined         : 2
+buff           : 2
+mostpart       : 2
+Christ         : 2
+hewn           : 2
+cleared        : 2
+indifference   : 2
+Siam           : 2
+John           : 2
+changing       : 2
+write          : 2
+musical        : 2
+manifested     : 2
+Vaidurya       : 2
+SHAN           : 2
+hazels         : 2
+tide           : 2
+narakas        : 2
+void           : 2
+ritual         : 2
+libation       : 2
+basin          : 2
+affected       : 2
+pleasures      : 2
+muse           : 2
+sacrificed     : 2
+ties           : 2
+busy           : 2
+wring          : 2
+doubtful       : 2
+bury           : 2
+styled         : 2
+thinks         : 2
+events         : 2
+abundant       : 2
+resign         : 2
+Hill           : 2
+pilgrims       : 2
+currency       : 2
+charm          : 2
+definite       : 2
+ambitiousness  : 2
 theTrayastrimsas: 2
-carelessly: 2
-War: 2
-effort: 2
-partiality: 2
-yen: 2
-thelatter: 2
-Sirs: 2
-evenly: 2
-philosophy: 2
-Opinion: 2
-merits: 2
-attest: 2
-vows: 2
-chain: 2
-sword: 2
-XII: 2
-XIV: 2
-belonged: 2
-SHAOU: 2
-alternative: 2
-asunder: 2
-dissolute: 2
-lacked: 2
-entreat: 2
-griefs: 2
-thrive: 2
-tmLicense: 2
-promise: 2
-ofthat: 2
-yuh: 2
-Catcher: 2
-Language: 2
-notice: 2
-grants: 2
-grandson: 2
-erred: 2
-afford: 2
-fires: 2
-shield: 2
-Right: 2
-HIEN: 2
-Ancient: 2
-Bhikshus: 2
-Feats: 2
-presentday: 2
-assuredly: 2
-Perilous: 2
-genuine: 2
-Destiny: 2
-fade: 2
-whenever: 2
-falsely: 2
-exaltation: 2
-Ability: 2
-thrice: 2
-thatwhich: 2
-bentforward: 2
-notto: 2
-decrees: 2
-inone: 2
-illusory: 2
-convoked: 2
-arise: 2
-boiled: 2
-steed: 2
-perversity: 2
-likeness: 2
-thedragon: 2
-speaker: 2
-steal: 2
-colored: 2
-listening: 2
-Kapilavastu: 2
-growth: 2
-sinner: 2
-Easy: 2
-husbandman: 2
-Might: 2
-virtually: 2
-chapters: 2
-Topes: 2
-Varanasi: 2
-weeds: 2
-concluding: 2
-Gurupada: 2
-toattain: 2
-peaceful: 2
-miles: 2
-Donations: 2
-White: 2
-pledge: 2
-enjoyed: 2
-feasting: 2
+carelessly     : 2
+War            : 2
+effort         : 2
+partiality     : 2
+yen            : 2
+thelatter      : 2
+Sirs           : 2
+evenly         : 2
+philosophy     : 2
+Opinion        : 2
+merits         : 2
+attest         : 2
+vows           : 2
+chain          : 2
+sword          : 2
+XII            : 2
+XIV            : 2
+belonged       : 2
+SHAOU          : 2
+alternative    : 2
+asunder        : 2
+dissolute      : 2
+lacked         : 2
+entreat        : 2
+griefs         : 2
+thrive         : 2
+tmLicense      : 2
+promise        : 2
+ofthat         : 2
+yuh            : 2
+Catcher        : 2
+Language       : 2
+notice         : 2
+grants         : 2
+grandson       : 2
+erred          : 2
+afford         : 2
+fires          : 2
+shield         : 2
+Right          : 2
+HIEN           : 2
+Ancient        : 2
+Bhikshus       : 2
+Feats          : 2
+presentday     : 2
+assuredly      : 2
+Perilous       : 2
+genuine        : 2
+Destiny        : 2
+fade           : 2
+whenever       : 2
+falsely        : 2
+exaltation     : 2
+Ability        : 2
+thrice         : 2
+thatwhich      : 2
+bentforward    : 2
+notto          : 2
+decrees        : 2
+inone          : 2
+illusory       : 2
+convoked       : 2
+arise          : 2
+boiled         : 2
+steed          : 2
+perversity     : 2
+likeness       : 2
+thedragon      : 2
+speaker        : 2
+steal          : 2
+colored        : 2
+listening      : 2
+Kapilavastu    : 2
+growth         : 2
+sinner         : 2
+Easy           : 2
+husbandman     : 2
+Might          : 2
+virtually      : 2
+chapters       : 2
+Topes          : 2
+Varanasi       : 2
+weeds          : 2
+concluding     : 2
+Gurupada       : 2
+toattain       : 2
+peaceful       : 2
+miles          : 2
+Donations      : 2
+White          : 2
+pledge         : 2
+enjoyed        : 2
+feasting       : 2
 governmentservice: 2
-theywere: 2
-shao: 2
-copied: 2
-reap: 2
-maintained: 2
-prompted: 2
-knowme: 2
-collect: 2
-adherents: 2
-Urging: 2
-oneside: 2
-Desert: 2
-Students: 2
-Empress: 2
-annual: 2
-Asvajit: 2
-reed: 2
-auspice: 2
-predecessor: 2
-moreimportant: 2
-solace: 2
-forwards: 2
-preach: 2
-marquis: 2
-tounderstand: 2
-Yew: 2
-unto: 2
-Hoeyte: 2
-froth: 2
-Manual: 2
-rent: 2
-frost: 2
-Sacrifice: 2
-incline: 2
-asceticism: 2
-bounds: 2
-proprieties: 2
-straightway: 2
-settle: 2
-ditches: 2
-orioles: 2
-Asankhyeya: 2
-ofthis: 2
-Shall: 2
-plans: 2
-Brahmanical: 2
-theprocession: 2
-orally: 2
-fitly: 2
-Hundred: 2
-trained: 2
-signs: 2
-aunt: 2
+theywere       : 2
+shao           : 2
+copied         : 2
+reap           : 2
+maintained     : 2
+prompted       : 2
+knowme         : 2
+collect        : 2
+adherents      : 2
+Urging         : 2
+oneside        : 2
+Desert         : 2
+Students       : 2
+Empress        : 2
+annual         : 2
+Asvajit        : 2
+reed           : 2
+auspice        : 2
+predecessor    : 2
+moreimportant  : 2
+solace         : 2
+forwards       : 2
+preach         : 2
+marquis        : 2
+tounderstand   : 2
+Yew            : 2
+unto           : 2
+Hoeyte         : 2
+froth          : 2
+Manual         : 2
+rent           : 2
+frost          : 2
+Sacrifice      : 2
+incline        : 2
+asceticism     : 2
+bounds         : 2
+proprieties    : 2
+straightway    : 2
+settle         : 2
+ditches        : 2
+orioles        : 2
+Asankhyeya     : 2
+ofthis         : 2
+Shall          : 2
+plans          : 2
+Brahmanical    : 2
+theprocession  : 2
+orally         : 2
+fitly          : 2
+Hundred        : 2
+trained        : 2
+signs          : 2
+aunt           : 2
 andrighteousness: 2
-realm: 2
-sick: 2
-majority: 2
-Onion: 2
-selections: 2
-breeding: 2
-Customs: 2
-century: 2
-thunders: 2
-sign: 2
-levies: 2
-lust: 2
-Europe: 2
-unsown: 2
-Terms: 2
-restrictions: 2
-Before: 2
-consumed: 2
-ablutions: 2
-interesting: 2
-behalf: 2
-transgress: 2
-Never: 2
-stopping: 2
-besaid: 2
-Distinguished: 2
-andyet: 2
-UnitedStates: 2
-Trayastrims: 2
-Ripe: 2
-expend: 2
-curving: 2
-assent: 2
-flapping: 2
-stroked: 2
-overstepping: 2
-Strife: 2
-wayto: 2
-sighs: 2
-unison: 2
-Perceiving: 2
-lawless: 2
-apprehensive: 2
-regent: 2
-Leuhow: 2
-lawlessness: 2
-played: 2
-nowadays: 2
-Freedom: 2
-electronically: 2
-meats: 2
-yourselves: 2
-size: 2
-reserved: 2
-corners: 2
-hasbeen: 2
-consisting: 2
-thank: 2
-accumulated: 2
-Entering: 2
-scholarship: 2
-plenteous: 2
-arranged: 2
-extinguished: 2
-Northward: 2
-rhinoceros: 2
-Bereaved: 2
-contented: 2
-Annals: 2
-Straight: 2
-frontiers: 2
-Hearing: 2
-desirous: 2
-Utpala: 2
-opening: 2
-Srotapanna: 2
-barbarous: 2
-Alluding: 2
-complied: 2
-meads: 2
-haughty: 2
-Morning: 2
-Dignity: 2
-Roasted: 2
-versed: 2
-wiser: 2
-KINGDOMBOOK: 2
-palm: 2
-hereupon: 2
-meals: 2
-saluted: 2
-hereabouts: 2
-habituate: 2
-betters: 2
-inscription: 2
-combination: 2
-Eminent: 2
-seeking: 2
-earl: 2
-smiles: 2
-Pekin: 2
-accepting: 2
-nyagrodha: 2
-provinces: 2
-smiled: 2
-assigned: 2
-Kwoh: 2
-toCh: 2
-Chaou: 2
-varied: 2
-upwards: 2
-Abhidharma: 2
-streamers: 2
-tenths: 2
-withstood: 2
-exhausted: 2
-Already: 2
-letters: 2
-vaibhashika: 2
-therules: 2
-Cruelty: 2
-statutes: 2
-fees: 2
-Kiueh: 2
-breath: 2
-Mueller: 2
-sweeps: 2
-disgraced: 2
-enters: 2
-History: 2
-granted: 2
-scornful: 2
-Discontent: 2
-sincere: 2
-glance: 2
-andnow: 2
-prosper: 2
-texts: 2
-salvation: 2
-abound: 2
-gazed: 2
-effected: 2
-surpassing: 2
-resides: 2
-issufficient: 2
-riches: 2
-towhether: 2
-profits: 2
-Pere: 2
-KWEI: 2
-ourselves: 2
-thepilgrims: 2
-Pahling: 2
-aswell: 2
-counsellor: 2
-otherdisciples: 2
-impetuous: 2
-hungry: 2
-Takee: 2
-toes: 2
-Takes: 2
-Neglected: 2
-slay: 2
-fourteenth: 2
-todo: 2
-togo: 2
-caste: 2
-wrote: 2
-materials: 2
-indignant: 2
-gathas: 2
-selecting: 2
-mistake: 2
-Hardy: 2
-slim: 2
-youare: 2
-judge: 2
-Bridegroom: 2
-Student: 2
-agreeableness: 2
-Inform: 2
-pouring: 2
+realm          : 2
+sick           : 2
+majority       : 2
+Onion          : 2
+selections     : 2
+breeding       : 2
+Customs        : 2
+century        : 2
+thunders       : 2
+sign           : 2
+levies         : 2
+lust           : 2
+Europe         : 2
+unsown         : 2
+Terms          : 2
+restrictions   : 2
+Before         : 2
+consumed       : 2
+ablutions      : 2
+interesting    : 2
+behalf         : 2
+transgress     : 2
+Never          : 2
+stopping       : 2
+besaid         : 2
+Distinguished  : 2
+andyet         : 2
+UnitedStates   : 2
+Trayastrims    : 2
+Ripe           : 2
+expend         : 2
+curving        : 2
+assent         : 2
+flapping       : 2
+stroked        : 2
+overstepping   : 2
+Strife         : 2
+wayto          : 2
+sighs          : 2
+unison         : 2
+Perceiving     : 2
+lawless        : 2
+apprehensive   : 2
+regent         : 2
+Leuhow         : 2
+lawlessness    : 2
+played         : 2
+nowadays       : 2
+Freedom        : 2
+electronically : 2
+meats          : 2
+yourselves     : 2
+size           : 2
+reserved       : 2
+corners        : 2
+hasbeen        : 2
+consisting     : 2
+thank          : 2
+accumulated    : 2
+Entering       : 2
+scholarship    : 2
+plenteous      : 2
+arranged       : 2
+extinguished   : 2
+Northward      : 2
+rhinoceros     : 2
+Bereaved       : 2
+contented      : 2
+Annals         : 2
+Straight       : 2
+frontiers      : 2
+Hearing        : 2
+desirous       : 2
+Utpala         : 2
+opening        : 2
+Srotapanna     : 2
+barbarous      : 2
+Alluding       : 2
+complied       : 2
+meads          : 2
+haughty        : 2
+Morning        : 2
+Dignity        : 2
+Roasted        : 2
+versed         : 2
+wiser          : 2
+KINGDOMBOOK    : 2
+palm           : 2
+hereupon       : 2
+meals          : 2
+saluted        : 2
+hereabouts     : 2
+habituate      : 2
+betters        : 2
+inscription    : 2
+combination    : 2
+Eminent        : 2
+seeking        : 2
+earl           : 2
+smiles         : 2
+Pekin          : 2
+accepting      : 2
+nyagrodha      : 2
+provinces      : 2
+smiled         : 2
+assigned       : 2
+Kwoh           : 2
+toCh           : 2
+Chaou          : 2
+varied         : 2
+upwards        : 2
+Abhidharma     : 2
+streamers      : 2
+tenths         : 2
+withstood      : 2
+exhausted      : 2
+Already        : 2
+letters        : 2
+vaibhashika    : 2
+therules       : 2
+Cruelty        : 2
+statutes       : 2
+fees           : 2
+Kiueh          : 2
+breath         : 2
+Mueller        : 2
+sweeps         : 2
+disgraced      : 2
+enters         : 2
+History        : 2
+granted        : 2
+scornful       : 2
+Discontent     : 2
+sincere        : 2
+glance         : 2
+andnow         : 2
+prosper        : 2
+texts          : 2
+salvation      : 2
+abound         : 2
+gazed          : 2
+effected       : 2
+surpassing     : 2
+resides        : 2
+issufficient   : 2
+riches         : 2
+towhether      : 2
+profits        : 2
+Pere           : 2
+KWEI           : 2
+ourselves      : 2
+thepilgrims    : 2
+Pahling        : 2
+aswell         : 2
+counsellor     : 2
+otherdisciples : 2
+impetuous      : 2
+hungry         : 2
+Takee          : 2
+toes           : 2
+Takes          : 2
+Neglected      : 2
+slay           : 2
+fourteenth     : 2
+todo           : 2
+togo           : 2
+caste          : 2
+wrote          : 2
+materials      : 2
+indignant      : 2
+gathas         : 2
+selecting      : 2
+mistake        : 2
+Hardy          : 2
+slim           : 2
+youare         : 2
+judge          : 2
+Bridegroom     : 2
+Student        : 2
+agreeableness  : 2
+Inform         : 2
+pouring        : 2
 representations: 2
-himat: 2
-tomb: 2
-Completion: 2
-slip: 2
-Sutherland: 2
-stored: 2
-constancy: 2
-Voltaire: 2
-Sermon: 2
-theymay: 2
-Grief: 2
-talented: 2
-engage: 2
-Fine: 2
-cheery: 2
-shoulder: 2
-imminent: 2
-Alienation: 2
-outwards: 2
-absolute: 2
-wounds: 2
-didso: 2
-vested: 2
-tempered: 2
-rite: 2
-breaks: 2
-complexion: 2
-Five: 2
-refer: 2
-andto: 2
-catch: 2
-avihara: 2
-inhabited: 2
-commencing: 2
-nearer: 2
-screamed: 2
-weigh: 2
-tothis: 2
-approached: 2
-IIITHE: 2
-straitened: 2
-disclaimer: 2
-alternate: 2
-warning: 2
-notone: 2
-manhood: 2
-arose: 2
-necessity: 2
-Outside: 2
-landof: 2
-Tsow: 2
-impermanent: 2
-Tsou: 2
-EBooks: 2
-cameto: 2
-transcribe: 2
-bitterness: 2
-Private: 2
-Plain: 2
-ispowerful: 2
-incompetent: 2
-brief: 2
-determine: 2
-settled: 2
-thewest: 2
-Descendants: 2
-crowned: 2
-doves: 2
-trivial: 2
-DAMAGES: 2
-region: 2
-deceive: 2
-Camp: 2
-Nanda: 2
-damp: 2
-fiercely: 2
-Plays: 2
-Beneath: 2
-displays: 2
-seized: 2
-kwei: 2
-athttp: 2
-method: 2
-throughthe: 2
-dart: 2
-Brahmanic: 2
-firmness: 2
-perished: 2
-dashed: 2
-development: 2
-Gatherers: 2
-Favorite: 2
-riding: 2
-conveyed: 2
-refreshment: 2
-assured: 2
-explanation: 2
-dawn: 2
-chirp: 2
-concluded: 2
-Princes: 2
-thespirits: 2
-Berghaus: 2
-foliage: 2
-kwoh: 2
-faces: 2
-Kwang: 2
-folks: 2
-producing: 2
-vermilion: 2
-hopeless: 2
-monuments: 2
-ceased: 2
-Deem: 2
-eech: 2
-loving: 2
-irregular: 2
-Cremation: 2
-betaken: 2
-befit: 2
-members: 2
-rarely: 2
-grievous: 2
-despise: 2
-working: 2
-renamed: 2
-viands: 2
-liberty: 2
-disappointed: 2
-offers: 2
-pronounced: 2
-employees: 2
-hibiscus: 2
-windows: 2
-assassination: 2
-infant: 2
-meets: 2
-hislearning: 2
-awhile: 2
-valuable: 2
-ITHE: 2
-Soldier: 2
-barren: 2
-permanent: 2
-receptacle: 2
-CHINESE: 2
-ofanother: 2
-theking: 2
-meditated: 2
-discern: 2
-trying: 2
-train: 2
-whichmeans: 2
-beneficial: 2
-slanders: 2
-additional: 2
-holy: 2
-hole: 2
-material: 2
-rites: 2
-answers: 2
-royalty: 2
-hook: 2
-husbands: 2
-Human: 2
-atonce: 2
-vacant: 2
-Ceaseless: 2
-theduty: 2
-incidents: 2
-ciphers: 2
-nourish: 2
-Attaining: 2
-breeze: 2
-transforming: 2
-LITERATURE: 2
-glow: 2
-badger: 2
-extraordinary: 2
-hislook: 2
-thebody: 2
-distinguish: 2
-mutilated: 2
-Subtract: 2
-prominent: 2
-pests: 2
-youmake: 2
-consign: 2
-falcons: 2
-sufferings: 2
-gourds: 2
-Referring: 2
-derivative: 2
-unwell: 2
-consist: 2
-reduced: 2
-viharathere: 2
-covered: 2
-trace: 2
-array: 2
-trade: 2
-lighting: 2
-inthis: 2
-onewho: 2
-desiring: 2
-throat: 2
-uncertainty: 2
-pulled: 2
-oppression: 2
-register: 2
-fleet: 2
-ado: 2
-embrace: 2
-ago: 2
-isto: 2
-AGREE: 2
-Shamans: 2
-tsue: 2
-worshipping: 2
-dukes: 2
-strangers: 2
-maintaining: 2
-broidered: 2
-inthem: 2
-abides: 2
-Chandalas: 2
-collapse: 2
-naga: 2
-aou: 2
-anywhere: 2
-resort: 2
-lightning: 2
-Make: 2
-thenorthwest: 2
-Natural: 2
-Heads: 2
-stirred: 2
-Stay: 2
-esteem: 2
-miserly: 2
-inferiors: 2
-calm: 2
-Several: 2
-inhonor: 2
-Predecessors: 2
-engagement: 2
-Icannot: 2
-dares: 2
-camp: 2
-bedone: 2
-dangers: 2
-pledged: 2
-vestibule: 2
-Singhalese: 2
-fulfilled: 2
-dared: 2
-Wives: 2
-saluting: 2
-Produced: 2
-cave: 2
-traces: 2
-tortoise: 2
-Discipline: 2
-hoppers: 2
-adhered: 2
-intoxicated: 2
-ban: 2
-ruining: 2
-bay: 2
-wherethe: 2
-angry: 2
-Chamber: 2
-affect: 2
-drain: 2
-battle: 2
-bed: 2
-beg: 2
-CHAOUKEUN: 2
-discharge: 2
-humane: 2
-Occasion: 2
-kirtle: 2
-improved: 2
-ahundred: 2
-model: 2
-beauties: 2
-exclusively: 2
-begin: 2
-professions: 2
-aright: 2
-AOU: 2
-deferential: 2
-Simplicity: 2
-closest: 2
-counts: 2
-storm: 2
-ofTs: 2
-neverbeen: 2
-shortened: 2
-sorrowful: 2
-throng: 2
-Kaundinya: 2
-SEAOU: 2
-retiring: 2
-hishead: 2
-derive: 2
-flaw: 2
-occupying: 2
-natured: 2
-utterly: 2
-readable: 2
-Proceeding: 2
-favorites: 2
-fled: 2
-aware: 2
-floating: 2
-alarm: 2
+himat          : 2
+tomb           : 2
+Completion     : 2
+slip           : 2
+Sutherland     : 2
+stored         : 2
+constancy      : 2
+Voltaire       : 2
+Sermon         : 2
+theymay        : 2
+Grief          : 2
+talented       : 2
+engage         : 2
+Fine           : 2
+cheery         : 2
+shoulder       : 2
+imminent       : 2
+Alienation     : 2
+outwards       : 2
+absolute       : 2
+wounds         : 2
+didso          : 2
+vested         : 2
+tempered       : 2
+rite           : 2
+breaks         : 2
+complexion     : 2
+Five           : 2
+refer          : 2
+andto          : 2
+catch          : 2
+avihara        : 2
+inhabited      : 2
+commencing     : 2
+nearer         : 2
+screamed       : 2
+weigh          : 2
+tothis         : 2
+approached     : 2
+IIITHE         : 2
+straitened     : 2
+disclaimer     : 2
+alternate      : 2
+warning        : 2
+notone         : 2
+manhood        : 2
+arose          : 2
+necessity      : 2
+Outside        : 2
+landof         : 2
+Tsow           : 2
+impermanent    : 2
+Tsou           : 2
+EBooks         : 2
+cameto         : 2
+transcribe     : 2
+bitterness     : 2
+Private        : 2
+Plain          : 2
+ispowerful     : 2
+incompetent    : 2
+brief          : 2
+determine      : 2
+settled        : 2
+thewest        : 2
+Descendants    : 2
+crowned        : 2
+doves          : 2
+trivial        : 2
+DAMAGES        : 2
+region         : 2
+deceive        : 2
+Camp           : 2
+Nanda          : 2
+damp           : 2
+fiercely       : 2
+Plays          : 2
+Beneath        : 2
+displays       : 2
+seized         : 2
+kwei           : 2
+athttp         : 2
+method         : 2
+throughthe     : 2
+dart           : 2
+Brahmanic      : 2
+firmness       : 2
+perished       : 2
+dashed         : 2
+development    : 2
+Gatherers      : 2
+Favorite       : 2
+riding         : 2
+conveyed       : 2
+refreshment    : 2
+assured        : 2
+explanation    : 2
+dawn           : 2
+chirp          : 2
+concluded      : 2
+Princes        : 2
+thespirits     : 2
+Berghaus       : 2
+foliage        : 2
+kwoh           : 2
+faces          : 2
+Kwang          : 2
+folks          : 2
+producing      : 2
+vermilion      : 2
+hopeless       : 2
+monuments      : 2
+ceased         : 2
+Deem           : 2
+eech           : 2
+loving         : 2
+irregular      : 2
+Cremation      : 2
+betaken        : 2
+befit          : 2
+members        : 2
+rarely         : 2
+grievous       : 2
+despise        : 2
+working        : 2
+renamed        : 2
+viands         : 2
+liberty        : 2
+disappointed   : 2
+offers         : 2
+pronounced     : 2
+employees      : 2
+hibiscus       : 2
+windows        : 2
+assassination  : 2
+infant         : 2
+meets          : 2
+hislearning    : 2
+awhile         : 2
+valuable       : 2
+ITHE           : 2
+Soldier        : 2
+barren         : 2
+permanent      : 2
+receptacle     : 2
+CHINESE        : 2
+ofanother      : 2
+theking        : 2
+meditated      : 2
+discern        : 2
+trying         : 2
+train          : 2
+whichmeans     : 2
+beneficial     : 2
+slanders       : 2
+additional     : 2
+holy           : 2
+hole           : 2
+material       : 2
+rites          : 2
+answers        : 2
+royalty        : 2
+hook           : 2
+husbands       : 2
+Human          : 2
+atonce         : 2
+vacant         : 2
+Ceaseless      : 2
+theduty        : 2
+incidents      : 2
+ciphers        : 2
+nourish        : 2
+Attaining      : 2
+breeze         : 2
+transforming   : 2
+LITERATURE     : 2
+glow           : 2
+badger         : 2
+extraordinary  : 2
+hislook        : 2
+thebody        : 2
+distinguish    : 2
+mutilated      : 2
+Subtract       : 2
+prominent      : 2
+pests          : 2
+youmake        : 2
+consign        : 2
+falcons        : 2
+sufferings     : 2
+gourds         : 2
+Referring      : 2
+derivative     : 2
+unwell         : 2
+consist        : 2
+reduced        : 2
+viharathere    : 2
+covered        : 2
+trace          : 2
+array          : 2
+trade          : 2
+lighting       : 2
+inthis         : 2
+onewho         : 2
+desiring       : 2
+throat         : 2
+uncertainty    : 2
+pulled         : 2
+oppression     : 2
+register       : 2
+fleet          : 2
+ado            : 2
+embrace        : 2
+ago            : 2
+isto           : 2
+AGREE          : 2
+Shamans        : 2
+tsue           : 2
+worshipping    : 2
+dukes          : 2
+strangers      : 2
+maintaining    : 2
+broidered      : 2
+inthem         : 2
+abides         : 2
+Chandalas      : 2
+collapse       : 2
+naga           : 2
+aou            : 2
+anywhere       : 2
+resort         : 2
+lightning      : 2
+Make           : 2
+thenorthwest   : 2
+Natural        : 2
+Heads          : 2
+stirred        : 2
+Stay           : 2
+esteem         : 2
+miserly        : 2
+inferiors      : 2
+calm           : 2
+Several        : 2
+inhonor        : 2
+Predecessors   : 2
+engagement     : 2
+Icannot        : 2
+dares          : 2
+camp           : 2
+bedone         : 2
+dangers        : 2
+pledged        : 2
+vestibule      : 2
+Singhalese     : 2
+fulfilled      : 2
+dared          : 2
+Wives          : 2
+saluting       : 2
+Produced       : 2
+cave           : 2
+traces         : 2
+tortoise       : 2
+Discipline     : 2
+hoppers        : 2
+adhered        : 2
+intoxicated    : 2
+ban            : 2
+ruining        : 2
+bay            : 2
+wherethe       : 2
+angry          : 2
+Chamber        : 2
+affect         : 2
+drain          : 2
+battle         : 2
+bed            : 2
+beg            : 2
+CHAOUKEUN      : 2
+discharge      : 2
+humane         : 2
+Occasion       : 2
+kirtle         : 2
+improved       : 2
+ahundred       : 2
+model          : 2
+beauties       : 2
+exclusively    : 2
+begin          : 2
+professions    : 2
+aright         : 2
+AOU            : 2
+deferential    : 2
+Simplicity     : 2
+closest        : 2
+counts         : 2
+storm          : 2
+ofTs           : 2
+neverbeen      : 2
+shortened      : 2
+sorrowful      : 2
+throng         : 2
+Kaundinya      : 2
+SEAOU          : 2
+retiring       : 2
+hishead        : 2
+derive         : 2
+flaw           : 2
+occupying      : 2
+natured        : 2
+utterly        : 2
+readable       : 2
+Proceeding     : 2
+favorites      : 2
+fled           : 2
+aware          : 2
+floating       : 2
+alarm          : 2

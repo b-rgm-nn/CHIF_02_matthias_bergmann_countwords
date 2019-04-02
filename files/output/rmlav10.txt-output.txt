@@ -1,3789 +1,3789 @@
-the: 1852
-a: 1300
-of: 1135
-and: 1040
-s: 882
-to: 856
-is: 551
-in: 506
-I: 390
-for: 338
-or: 325
-that: 306
-it: 280
-Gypsy: 270
-you: 259
-with: 256
-which: 253
-was: 235
-he: 228
-by: 223
-A: 220
-her: 207
-as: 204
-she: 201
-not: 191
-The: 190
-are: 189
-be: 188
-d: 177
-Sans: 173
-but: 168
-they: 162
-To: 159
-his: 158
-have: 153
-on: 149
-one: 148
-from: 146
-at: 141
-See: 127
-v: 125
-said: 123
-who: 120
-my: 115
-me: 114
-had: 110
-no: 109
-Gypsies: 109
-so: 108
-Wal: 107
-word: 102
-them: 100
-their: 99
-Romany: 97
-Gyp: 96
-all: 96
-has: 93
-there: 91
-name: 90
-English: 84
-little: 82
-much: 81
-about: 81
-your: 80
-old: 78
-been: 77
-were: 76
-will: 76
-And: 75
-some: 74
-him: 73
-may: 73
-Span: 72
-than: 71
-would: 70
-He: 69
-if: 69
-two: 68
-what: 68
-up: 67
-other: 67
-more: 67
-an: 66
-man: 64
-this: 63
-though: 63
-do: 62
-ta: 61
-like: 59
-It: 55
-can: 55
-mande: 54
-pl: 54
-see: 54
-very: 53
-people: 52
-mengro: 51
-They: 50
-go: 50
-engro: 50
-drey: 50
-say: 50
-thing: 49
-when: 49
-tute: 48
-ad: 48
-any: 48
-She: 47
-great: 47
-then: 47
-time: 46
-Greek: 46
-Hun: 46
-part: 46
-woman: 45
-called: 45
-we: 45
-day: 44
-town: 44
-country: 44
-used: 43
-tem: 42
-Hin: 42
-whom: 42
-language: 41
-well: 41
-good: 40
-did: 40
-Gr: 40
-place: 40
-into: 40
-Rus: 39
-being: 39
-words: 39
-down: 39
-Mod: 39
-here: 38
-out: 38
-must: 37
-men: 37
-t: 36
-fellow: 36
-however: 35
-kek: 35
-Lit: 35
-far: 34
-ll: 34
-oprey: 34
-those: 34
-kair: 34
-only: 34
-But: 33
-three: 33
-these: 33
-Project: 33
-after: 32
-This: 32
-made: 32
-In: 32
-am: 32
-know: 32
-sore: 32
-There: 31
-si: 31
-could: 31
-Irish: 31
-horse: 31
-hand: 30
-house: 30
-THE: 30
-make: 30
-shall: 30
-never: 30
-When: 30
-years: 30
-same: 29
-leste: 29
-should: 29
-Pers: 29
-now: 29
-n: 28
-yeck: 28
-te: 28
-money: 28
-call: 28
-O: 27
-If: 27
-London: 27
-se: 27
-small: 27
-its: 27
-What: 27
-brother: 27
-wife: 27
-our: 27
-Persian: 27
-speak: 27
-where: 27
-most: 27
-f: 26
-women: 26
-dick: 26
-etext: 26
-names: 26
-jal: 26
-You: 26
-upon: 26
-pass: 26
-take: 26
-sir: 26
-long: 25
-many: 25
-No: 25
-either: 25
-certain: 25
-mengri: 25
-come: 25
-true: 25
-e: 24
-signifies: 24
-Mi: 24
-way: 24
-perhaps: 24
-gav: 24
-adrey: 24
-For: 24
-divvus: 24
-rather: 24
-generally: 24
-wish: 24
-over: 24
-Can: 23
-such: 23
-England: 23
-lady: 23
-how: 23
-person: 23
-away: 23
-Gaelic: 23
-mother: 23
-fellows: 22
-water: 22
-use: 22
-love: 22
-Gutenberg: 22
-So: 22
-God: 22
-female: 22
-Lat: 22
-manner: 22
-penn: 22
-every: 22
-kind: 22
-Yetholm: 22
-children: 22
-o: 21
-work: 21
-Romano: 21
-We: 21
-seen: 21
-get: 21
-means: 21
-girl: 21
-deya: 21
-tan: 21
-gold: 20
-g: 20
-blood: 20
-OF: 20
-few: 20
-things: 20
-sometimes: 20
-something: 20
-first: 20
-jib: 20
-above: 20
-own: 20
-fire: 20
-An: 19
-ofthe: 19
-black: 19
-bute: 19
-indeed: 19
-nor: 19
-live: 19
-both: 19
-tell: 18
-tent: 18
-year: 18
-My: 18
-Woman: 18
-Spanish: 18
-fortune: 18
-His: 18
-ker: 18
-pron: 18
-connected: 18
-mescro: 18
-cant: 18
-Then: 17
-look: 17
-themselves: 17
-looking: 17
-head: 17
-ye: 17
-found: 17
-last: 17
-having: 17
-present: 17
-Mande: 17
-poor: 17
-left: 17
-Sanscrit: 17
-tongue: 17
-told: 17
-along: 17
-Shuri: 17
-none: 17
-ever: 17
-tree: 17
-within: 17
-find: 17
-telling: 16
-plenty: 16
-At: 16
-tribe: 16
-himself: 16
-Ta: 16
-might: 16
-tu: 16
-us: 16
-thou: 16
-without: 16
-mush: 16
-before: 16
-appearance: 16
-Jack: 16
-How: 16
-went: 16
-lel: 16
-mind: 16
-ground: 16
-pen: 16
-even: 16
-home: 16
-father: 16
-boro: 16
-sar: 16
-also: 16
-half: 15
-order: 15
-That: 15
-Of: 15
-race: 15
-zi: 15
-engri: 15
-face: 15
-side: 15
-once: 15
-prep: 15
-door: 15
-coin: 15
-life: 15
-puro: 15
-Cooper: 15
-tuley: 15
-George: 15
-amongst: 15
-lende: 15
-living: 15
-pukker: 14
-m: 14
-mengreskey: 14
-stealing: 14
-across: 14
-derived: 14
-foky: 14
-remarkable: 14
-queen: 14
-prala: 14
-fortunes: 14
-honour: 14
-After: 14
-covar: 14
-fair: 14
-dressed: 14
-properly: 14
-jaw: 14
-show: 14
-world: 14
-hill: 14
-birandon: 14
-quite: 14
-each: 14
-birandera: 14
-dosta: 14
-Roman: 14
-signifying: 14
-Lee: 14
-give: 14
-drom: 14
-Ryley: 14
-Kirk: 14
-pro: 14
-anything: 14
-put: 14
-writer: 14
-Old: 14
-came: 14
-bori: 14
-dui: 13
-Oh: 13
-Who: 13
-Why: 13
-church: 13
-Myself: 13
-frequently: 13
-taken: 13
-street: 13
-less: 13
-let: 13
-does: 13
-whose: 13
-still: 13
-verb: 13
-speaking: 13
-theGypsies: 13
-dukker: 13
-pers: 13
-Wallachian: 13
-caravans: 13
-One: 13
-age: 13
-care: 13
-enough: 13
-eyes: 13
-dear: 13
-hare: 12
-Birandon: 12
-term: 12
-don: 12
-meaning: 12
-modification: 12
-As: 12
-la: 12
-thee: 12
-young: 12
-wast: 12
-ruin: 12
-nothing: 12
-birrandon: 12
-Heb: 12
-high: 12
-Romanes: 12
-night: 12
-lis: 12
-Come: 12
-Will: 12
-mine: 12
-proper: 12
-Birrandon: 12
-jall: 12
-rawnie: 12
-ring: 12
-ancient: 12
-cost: 12
-child: 12
-Now: 12
-neither: 12
-fine: 12
-Kaulo: 12
-saw: 12
-bit: 12
-cheeros: 12
-i: 11
-thy: 11
-better: 11
-says: 11
-cut: 11
-Rye: 11
-right: 11
-common: 11
-eat: 11
-asked: 11
-another: 11
-de: 11
-form: 11
-hear: 11
-whilst: 11
-seem: 11
-birrandera: 11
-hundred: 11
-whether: 11
-till: 11
-answer: 11
-best: 11
-besh: 11
-abri: 11
-takes: 11
-Gentiles: 11
-Yes: 11
-bread: 11
-chavo: 11
-gentleman: 11
-between: 11
-making: 11
-husband: 11
-mas: 11
-because: 11
-nav: 11
-Man: 11
-off: 11
-dado: 11
-hold: 11
-GYPSY: 11
-talk: 11
-Forest: 11
-public: 11
-Midibble: 11
-through: 11
-son: 11
-tents: 11
-sun: 11
-express: 11
-Y: 10
-tatcho: 10
-times: 10
-probably: 10
-Thou: 10
-stand: 10
-wood: 10
-instead: 10
-Av: 10
-often: 10
-Do: 10
-Is: 10
-hung: 10
-en: 10
-piece: 10
-second: 10
-Welsh: 10
-Gorgios: 10
-komi: 10
-meat: 10
-chiv: 10
-steal: 10
-reason: 10
-rings: 10
-jin: 10
-daughter: 10
-lell: 10
-others: 10
-prey: 10
-full: 10
-low: 10
-particular: 10
-month: 10
-Chals: 10
-open: 10
-voice: 10
-muk: 10
-guero: 10
-family: 10
-Some: 10
-took: 10
-mengre: 10
-Mrs: 10
-dark: 10
-skewers: 10
-belonging: 10
-Hindity: 10
-Not: 10
-account: 10
-soon: 10
-return: 10
-red: 10
-art: 10
-run: 10
-rye: 10
-case: 10
-latter: 10
-kiss: 10
-sit: 10
-several: 10
-stone: 10
-goes: 10
-chi: 9
-kosko: 9
-del: 9
-going: 9
-back: 9
-grand: 9
-near: 9
-By: 9
-Ma: 9
-On: 9
-various: 9
-gave: 9
-Dui: 9
-course: 9
-gry: 9
-almost: 9
-lati: 9
-affix: 9
-genuine: 9
-master: 9
-posh: 9
-real: 9
-tothe: 9
-Petulengro: 9
-Her: 9
-cloth: 9
-false: 9
-brought: 9
-following: 9
-example: 9
-doubt: 9
-luvvu: 9
-exactly: 9
-stick: 9
-received: 9
-whole: 9
-mui: 9
-opre: 9
-choring: 9
-nearly: 9
-occasionally: 9
-evil: 9
-puv: 9
-Lovel: 9
-just: 9
-evening: 9
-since: 9
-heard: 9
-caravan: 9
-five: 9
-again: 9
-always: 9
-odoy: 9
-deal: 9
-misto: 9
-likewise: 9
-boy: 9
-doing: 9
-road: 9
-Etexts: 9
-flung: 9
-ten: 8
-gone: 8
-hard: 8
-All: 8
-became: 8
-shoon: 8
-Here: 8
-Rossar: 8
-business: 8
-bango: 8
-pound: 8
-dur: 8
-observed: 8
-Chal: 8
-seems: 8
-Chi: 8
-running: 8
-OR: 8
-why: 8
-sure: 8
-dialects: 8
-lescro: 8
-Gentile: 8
-follow: 8
-got: 8
-queer: 8
-walk: 8
-Faa: 8
-Gav: 8
-rukh: 8
-number: 8
-saying: 8
-Green: 8
-Lundra: 8
-neighbourhood: 8
-century: 8
-Master: 8
-Etext: 8
-inthe: 8
-tinker: 8
-rendered: 8
-miro: 8
-brothers: 8
-twenty: 8
-feet: 8
-tinkering: 8
-booty: 8
-dirty: 8
-middle: 8
-churi: 8
-Indian: 8
-against: 8
-origin: 8
-gypsy: 8
-Christian: 8
-days: 8
-pay: 8
-New: 8
-Desh: 8
-during: 8
-truth: 8
-ago: 8
-aley: 8
-book: 8
-discourse: 8
-mouth: 8
-covars: 8
-bad: 8
-dead: 8
-Scotland: 8
-six: 8
-behind: 8
-Nokkum: 8
-engreskey: 8
-P: 7
-S: 7
-tin: 7
-rarde: 7
-savo: 7
-Their: 7
-These: 7
-dad: 7
-Sar: 7
-under: 7
-lying: 7
-bythe: 7
-dog: 7
-Koshto: 7
-knows: 7
-stay: 7
-lost: 7
-least: 7
-neck: 7
-end: 7
-GUTENBERG: 7
-Go: 7
-France: 7
-mangue: 7
-white: 7
-green: 7
-play: 7
-av: 7
-diviou: 7
-PROJECT: 7
-yo: 7
-pocket: 7
-wafu: 7
-gun: 7
-land: 7
-want: 7
-goods: 7
-hev: 7
-chair: 7
-mean: 7
-lesti: 7
-hot: 7
-friends: 7
-Wesh: 7
-free: 7
-fall: 7
-Nokkums: 7
-seemingly: 7
-value: 7
-YOU: 7
-Mike: 7
-close: 7
-poss: 7
-respect: 7
-miles: 7
-silver: 7
-acoi: 7
-shan: 7
-chiriclo: 7
-Stanley: 7
-goldsmith: 7
-Black: 7
-Rawnie: 7
-composed: 7
-sing: 7
-rabbit: 7
-Small: 7
-dukkering: 7
-pani: 7
-seated: 7
-With: 7
-myself: 7
-Yocky: 7
-gueri: 7
-wives: 7
-Lil: 7
-lived: 7
-wrong: 7
-keep: 7
-fight: 7
-pure: 7
-nose: 7
-kettle: 7
-sister: 7
-Pauno: 7
-began: 7
-ajaw: 7
-meero: 7
-light: 7
-Purrum: 7
-iron: 7
-Good: 7
-heart: 7
-hour: 7
-coming: 7
-merripen: 7
-morro: 7
-trade: 7
-French: 7
-duck: 7
-morrow: 7
-Beshaley: 7
-yourself: 7
-cart: 7
-cast: 7
-born: 7
-nash: 7
-set: 7
-beg: 7
-highly: 7
-makes: 7
-maker: 7
-buy: 7
-sake: 6
-root: 6
-too: 6
-thousand: 6
-cry: 6
-cup: 6
-speech: 6
-thine: 6
-Ava: 6
-built: 6
-latch: 6
-quarter: 6
-die: 6
-University: 6
-known: 6
-Yorkshire: 6
-Spain: 6
-seven: 6
-lord: 6
-apple: 6
-mare: 6
-Smith: 6
-jins: 6
-Tan: 6
-Since: 6
-hands: 6
-leave: 6
-females: 6
-Fr: 6
-figurative: 6
-forms: 6
-farther: 6
-pounds: 6
-TO: 6
-Ty: 6
-rendering: 6
-From: 6
-matters: 6
-yonder: 6
-formed: 6
-knau: 6
-Don: 6
-places: 6
-families: 6
-singular: 6
-email: 6
-terms: 6
-onion: 6
-sound: 6
-Mount: 6
-namely: 6
-adopted: 6
-Wandsworth: 6
-FOR: 6
-considered: 6
-entirely: 6
-yesterday: 6
-early: 6
-chel: 6
-Scotch: 6
-chin: 6
-affixed: 6
-Latin: 6
-wafor: 6
-death: 6
-inn: 6
-Gorgio: 6
-Bosvils: 6
-read: 6
-Yag: 6
-devil: 6
-somewhat: 6
-crown: 6
-married: 6
-earth: 6
-vast: 6
-especially: 6
-donkey: 6
-teero: 6
-lay: 6
-coins: 6
-pres: 6
-fashion: 6
-principally: 6
-dialect: 6
-Engro: 6
-articles: 6
-etexts: 6
-terrible: 6
-jibbing: 6
-met: 6
-Kek: 6
-believe: 6
-Camlo: 6
-particle: 6
-doesn: 6
-swear: 6
-harlot: 6
-region: 6
-cold: 6
-pootch: 6
-note: 6
-strange: 6
-intended: 6
-dicking: 6
-cooper: 6
-juva: 6
-Hungarian: 6
-Hebrew: 6
-Our: 6
-cannot: 6
-round: 6
-horses: 6
-Per: 6
-groats: 6
-Arabic: 6
-ale: 6
-already: 6
-poverty: 6
-Sleep: 6
-ask: 6
-Mary: 6
-sorlo: 6
-broad: 6
-dibble: 6
-bore: 6
-king: 6
-mentioned: 6
-amande: 6
-Yeck: 6
-deep: 6
-sig: 6
-big: 6
-large: 6
-bor: 6
-Along: 6
-buried: 6
-stood: 6
-morning: 6
-bewitch: 6
-written: 6
-acquainted: 6
-tea: 5
-turn: 5
-h: 5
-information: 5
-laugh: 5
-tis: 5
-Meero: 5
-hart: 5
-taking: 5
-fountain: 5
-save: 5
-com: 5
-try: 5
-beautiful: 5
-think: 5
-languages: 5
-Aljenicato: 5
-grasni: 5
-priests: 5
-grass: 5
-transported: 5
-brown: 5
-brat: 5
-Lady: 5
-length: 5
-curse: 5
-Print: 5
-male: 5
-Kora: 5
-gentlewoman: 5
-jargon: 5
-Lavo: 5
-ear: 5
-soldier: 5
-cauring: 5
-winter: 5
-Tem: 5
-innar: 5
-Where: 5
-collico: 5
-Wafodu: 5
-below: 5
-Mr: 5
-countries: 5
-eye: 5
-Te: 5
-lubbeny: 5
-next: 5
-chingaripen: 5
-window: 5
-Dad: 5
-sides: 5
-fem: 5
-Del: 5
-Father: 5
-Though: 5
-el: 5
-Malbrun: 5
-Artaros: 5
-four: 5
-gorgio: 5
-knew: 5
-bridge: 5
-un: 5
-ve: 5
-pawdle: 5
-Gaelach: 5
-held: 5
-shilling: 5
-sell: 5
-help: 5
-sent: 5
-numerous: 5
-Brother: 5
-Eng: 5
-basin: 5
-dukkers: 5
-Lura: 5
-difference: 5
-engre: 5
-yag: 5
-Plastra: 5
-hal: 5
-hat: 5
-Kaun: 5
-yet: 5
-House: 5
-hid: 5
-bear: 5
-grandfather: 5
-Only: 5
-sollohaul: 5
-Weel: 5
-Tatto: 5
-Well: 5
-able: 5
-guineas: 5
-beti: 5
-nouns: 5
-certainly: 5
-pieces: 5
-please: 5
-Chorodies: 5
-theGypsy: 5
-Does: 5
-tatchipen: 5
-Avali: 5
-Giv: 5
-according: 5
-poov: 5
-rokrapen: 5
-Russian: 5
-pots: 5
-Gry: 5
-fiddle: 5
-shin: 5
-using: 5
-suddenly: 5
-rest: 5
-original: 5
-metropolis: 5
-related: 5
-Which: 5
-drink: 5
-Dictionary: 5
-Ring: 5
-Give: 5
-gentlemen: 5
-plain: 5
-leek: 5
-Mellon: 5
-characters: 5
-bebee: 5
-lels: 5
-kairing: 5
-capital: 5
-lav: 5
-les: 5
-thirty: 5
-ruslo: 5
-lie: 5
-lil: 5
-churchyard: 5
-Fortune: 5
-vardo: 5
-denote: 5
-Kekkeno: 5
-principal: 5
-abode: 5
-whereas: 5
-jalling: 5
-koskipen: 5
-height: 5
-holes: 5
-ryor: 5
-books: 5
-burreder: 5
-sleep: 5
-copyright: 5
-new: 5
-battles: 5
-juggal: 5
-bring: 5
-girls: 5
-knife: 5
-counter: 5
-odd: 5
-wandering: 5
-considerable: 5
-pretty: 5
-Duke: 5
-Bosvil: 5
-Name: 5
-suppose: 5
-Camo: 5
-puri: 5
-wafodupen: 5
-More: 5
-copy: 5
-puts: 5
-King: 5
-blow: 5
-Mul: 5
-wild: 5
-noun: 5
-riddo: 5
-Elizabeth: 5
-verbs: 5
-buttons: 5
-groat: 5
-standing: 5
-sixpence: 5
-wafodu: 5
-robbery: 5
-tall: 5
-holy: 5
-song: 5
-summer: 5
-together: 5
-Gypsyry: 5
-convenient: 5
-que: 5
-Pen: 5
-ain: 5
-abroad: 5
-thought: 5
-resort: 5
-cried: 5
-Female: 5
-Christmas: 5
-labour: 5
-seldom: 5
-kill: 5
-simple: 5
-kisi: 5
-strong: 5
-beauty: 5
-thewhole: 5
-squire: 5
-AND: 5
-friend: 5
-drawn: 5
-Such: 5
-Pukker: 5
-hedge: 5
-cap: 5
-Rama: 4
-drunk: 4
-disguised: 4
-nuevas: 4
-harm: 4
-provided: 4
-thieves: 4
-top: 4
-ando: 4
-gown: 4
-pardon: 4
-tud: 4
-distribute: 4
-Run: 4
-short: 4
-Aye: 4
-celebrated: 4
-Sau: 4
-exceedingly: 4
-Boswell: 4
-Arab: 4
-palal: 4
-shoes: 4
-journey: 4
-loaf: 4
-Hearne: 4
-thick: 4
-Wafo: 4
-text: 4
-subject: 4
-expressing: 4
-barn: 4
-dropping: 4
-bodily: 4
-Cam: 4
-grave: 4
-Romani: 4
-Ah: 4
-neuter: 4
-En: 4
-linen: 4
-lines: 4
-andthe: 4
-turns: 4
-tried: 4
-La: 4
-Wardo: 4
-races: 4
-Perhaps: 4
-rokra: 4
-Si: 4
-St: 4
-features: 4
-termination: 4
-news: 4
-war: 4
-grey: 4
-Uncle: 4
-nokkum: 4
-bitcheno: 4
-fever: 4
-receiving: 4
-Anglo: 4
-looks: 4
-rain: 4
-died: 4
-Atch: 4
-honest: 4
-fool: 4
-foot: 4
-Poor: 4
-sites: 4
-er: 4
-tears: 4
-rate: 4
-fork: 4
-grye: 4
-pawdel: 4
-appeared: 4
-Dog: 4
-become: 4
-le: 4
-Ratzie: 4
-ma: 4
-possessed: 4
-ne: 4
-heat: 4
-luxury: 4
-Dibble: 4
-seek: 4
-su: 4
-single: 4
-tm: 4
-Misto: 4
-changed: 4
-north: 4
-dress: 4
-curious: 4
-purpose: 4
-thus: 4
-returned: 4
-gro: 4
-mulo: 4
-wafo: 4
-heaven: 4
-million: 4
-fakement: 4
-livelihood: 4
-kanau: 4
-late: 4
-Heaven: 4
-lasa: 4
-wars: 4
-impossible: 4
-filching: 4
-laws: 4
-tiro: 4
-ways: 4
-chal: 4
-Siva: 4
-hit: 4
-beat: 4
-Brono: 4
-Leek: 4
-Lees: 4
-chik: 4
-basket: 4
-thereis: 4
-Pontius: 4
-chor: 4
-eight: 4
-trusted: 4
-compound: 4
-runner: 4
-fact: 4
-respectable: 4
-Teague: 4
-ratti: 4
-Ger: 4
-nice: 4
-ill: 4
-Pani: 4
-imp: 4
-Koring: 4
-objects: 4
-pony: 4
-Caumlo: 4
-nine: 4
-property: 4
-city: 4
-Roumany: 4
-looked: 4
-ship: 4
-broken: 4
-pudding: 4
-leaving: 4
-rokkring: 4
-distance: 4
-description: 4
-tribes: 4
-luck: 4
-sheep: 4
-clout: 4
-equivalent: 4
-servant: 4
-sixty: 4
-llevaron: 4
-parts: 4
-Dovvel: 4
-aunt: 4
-Shoshoi: 4
-plastra: 4
-break: 4
-hide: 4
-Europe: 4
-David: 4
-Before: 4
-kaun: 4
-cloak: 4
-Girl: 4
-cabanar: 4
-hukni: 4
-travelled: 4
-seeing: 4
-leaf: 4
-spoke: 4
-beshing: 4
-scanty: 4
-nodding: 4
-fashiono: 4
-distant: 4
-matter: 4
-lover: 4
-witch: 4
-wesh: 4
-Drey: 4
-Jaw: 4
-pret: 4
-Court: 4
-Coin: 4
-chest: 4
-district: 4
-equal: 4
-paid: 4
-Life: 4
-merely: 4
-None: 4
-disappeared: 4
-done: 4
-Coro: 4
-ears: 4
-rmlav: 4
-mile: 4
-milk: 4
-mill: 4
-inch: 4
-legal: 4
-title: 4
-cappi: 4
-Ever: 4
-sense: 4
-Tabernacle: 4
-serves: 4
-bavol: 4
-BorrowThe: 4
-bonnek: 4
-handsome: 4
-breast: 4
-fingers: 4
-among: 4
-Amongst: 4
-prepared: 4
-Oprey: 4
-Stanleys: 4
-apopli: 4
-sweet: 4
-Little: 4
-ride: 4
-Holy: 4
-release: 4
-similar: 4
-potato: 4
-rigg: 4
-Sore: 4
-net: 4
-toon: 4
-kaulo: 4
-Sunday: 4
-Let: 4
-koshto: 4
-houses: 4
-pawni: 4
-statement: 4
-lives: 4
-travellers: 4
-shirt: 4
-alone: 4
-havebeen: 4
-fourteen: 4
-carry: 4
-lower: 4
-turned: 4
-May: 4
-ENGLISH: 4
-cock: 4
-Levinor: 4
-minri: 4
-minro: 4
-Thomas: 4
-Cama: 4
-Another: 4
-smiling: 4
-Battersea: 4
-ora: 4
-date: 4
-Plato: 4
-prison: 4
-cour: 4
-faced: 4
-blue: 4
-folks: 4
-service: 4
-Among: 4
-Lithuanian: 4
-Potteries: 4
-pin: 4
-Three: 4
-cause: 4
-followed: 4
-reality: 4
-pens: 4
-pot: 4
-pov: 4
-gives: 4
-given: 4
-desire: 4
-gillie: 4
-induced: 4
-glad: 4
-trin: 4
-knowledge: 4
-donkeys: 4
-tells: 4
-arches: 4
-Rome: 4
-peculiar: 4
-hope: 4
-sacrista: 4
-levinor: 4
-file: 4
-health: 4
-instance: 4
-serve: 4
-pleasant: 4
-Hokta: 4
-fino: 4
-unless: 4
-leaves: 4
-Ora: 4
-agree: 4
-railroad: 4
-caused: 4
-Louis: 4
-Tatchey: 4
-aspect: 4
-signify: 4
-Pal: 4
-Carnegie: 4
-trust: 4
-Pes: 4
-rig: 4
-body: 4
-applicable: 4
-expense: 4
-tolerably: 4
-palace: 4
-cams: 4
-spaces: 4
-edition: 4
-dute: 4
-Work: 4
-truly: 4
-greater: 4
-Lord: 4
-moon: 4
-sticks: 4
-feminine: 4
-wuddur: 4
-heels: 4
-described: 4
-profit: 4
-bed: 4
-pobox: 4
-Bucca: 4
-dozens: 4
-fighting: 4
-horseshoe: 4
-Gael: 4
-streets: 4
-sikker: 4
-Mescro: 4
-dozen: 4
-towards: 4
-files: 4
-herself: 4
-village: 4
-carried: 4
-really: 4
-Ram: 4
-pick: 3
-temnopen: 3
-G: 3
-salt: 3
-Red: 3
-Cauna: 3
-readers: 3
-faithful: 3
-besides: 3
-flitch: 3
-rope: 3
-Knau: 3
-tatchi: 3
-room: 3
-Rig: 3
-chauvo: 3
-withthe: 3
-protection: 3
-question: 3
-Rom: 3
-whence: 3
-Are: 3
-shout: 3
-Italian: 3
-ninety: 3
-Tuley: 3
-destroy: 3
-Porra: 3
-manro: 3
-naflipen: 3
-blown: 3
-hanging: 3
-das: 3
-drinking: 3
-entertained: 3
-Bar: 3
-Bas: 3
-Fairlop: 3
-dem: 3
-dey: 3
-virtues: 3
-Wongar: 3
-possible: 3
-returning: 3
-parcel: 3
-Sig: 3
-Six: 3
-company: 3
-kairs: 3
-dov: 3
-nurse: 3
-Morro: 3
-dearie: 3
-credit: 3
-maid: 3
-Box: 3
-Bow: 3
-Price: 3
-Clean: 3
-Information: 3
-rinkeny: 3
-constable: 3
-trees: 3
-Bush: 3
-Bui: 3
-expression: 3
-thatof: 3
-Ygul: 3
-mang: 3
-Waro: 3
-Mutra: 3
-smiths: 3
-knock: 3
-blankets: 3
-Child: 3
-worn: 3
-wore: 3
-thathe: 3
-disagreeable: 3
-opinion: 3
-Chingabar: 3
-Chies: 3
-Romans: 3
-neat: 3
-stop: 3
-Chin: 3
-Chiv: 3
-Az: 3
-chumba: 3
-Tis: 3
-need: 3
-friary: 3
-Cheese: 3
-During: 3
-Asha: 3
-Larry: 3
-andthen: 3
-slightly: 3
-Chok: 3
-springs: 3
-IF: 3
-seventy: 3
-IS: 3
-forth: 3
-cocoro: 3
-Ja: 3
-ere: 3
-etc: 3
-choom: 3
-shalt: 3
-trick: 3
-Mero: 3
-Besh: 3
-chore: 3
-Cup: 3
-Se: 3
-presently: 3
-huge: 3
-Tu: 3
-suit: 3
-wee: 3
-Fair: 3
-Day: 3
-Poggra: 3
-gajo: 3
-gurush: 3
-Dey: 3
-extent: 3
-Turkish: 3
-former: 3
-bellies: 3
-Did: 3
-Poov: 3
-fly: 3
-partner: 3
-Guyi: 3
-Pikers: 3
-hokking: 3
-ha: 3
-feather: 3
-placed: 3
-else: 3
-accusative: 3
-Dov: 3
-ke: 3
-sullen: 3
-lantern: 3
-fowl: 3
-wooden: 3
-fun: 3
-hehas: 3
-mi: 3
-na: 3
-noble: 3
-Gillie: 3
-mixed: 3
-Dur: 3
-sitting: 3
-scarlet: 3
-clever: 3
-rd: 3
-obtained: 3
-FORTUNE: 3
-st: 3
-necessary: 3
-changes: 3
-postpositions: 3
-beyond: 3
-yi: 3
-force: 3
-precious: 3
-coffin: 3
-Horse: 3
-addressed: 3
-resemble: 3
-GUTINDEX: 3
-cuttor: 3
-camov: 3
-committed: 3
-beshengro: 3
-lace: 3
-vowel: 3
-penelan: 3
-named: 3
-John: 3
-write: 3
-Truffeni: 3
-Kair: 3
-bull: 3
-Kosko: 3
-magnificent: 3
-Malbrouk: 3
-particularly: 3
-stricken: 3
-laki: 3
-koosho: 3
-convey: 3
-tied: 3
-wall: 3
-arts: 3
-chals: 3
-kora: 3
-lass: 3
-weight: 3
-victuals: 3
-plural: 3
-yer: 3
-eaters: 3
-colour: 3
-tiny: 3
-Broth: 3
-chaw: 3
-corauni: 3
-handfuls: 3
-history: 3
-Huwie: 3
-Basket: 3
-Virgin: 3
-Diviou: 3
-beds: 3
-hog: 3
-hok: 3
-calls: 3
-questions: 3
-count: 3
-postposition: 3
-opral: 3
-killed: 3
-Broken: 3
-Tatti: 3
-generality: 3
-Pivley: 3
-beng: 3
-Pudding: 3
-Northern: 3
-United: 3
-Lollo: 3
-trins: 3
-Dooriya: 3
-Fighting: 3
-genitive: 3
-tohave: 3
-Hearnes: 3
-knitting: 3
-Potato: 3
-whenever: 3
-falsely: 3
-Border: 3
-Timothy: 3
-Wallachia: 3
-Shoob: 3
-doors: 3
-Klism: 3
-Shoon: 3
-breakfast: 3
-refund: 3
-foreign: 3
-boiler: 3
-fisherman: 3
-runs: 3
-quantity: 3
-ashamed: 3
-oblige: 3
-vangust: 3
-remedy: 3
-choose: 3
-avocations: 3
-Rumni: 3
-Cheros: 3
-copies: 3
-letter: 3
-wafoduder: 3
-Great: 3
-Hat: 3
-worse: 3
-difficulty: 3
-selling: 3
-shoe: 3
-fancy: 3
-bounds: 3
-daily: 3
-Opre: 3
-sheet: 3
-afterwards: 3
-Hop: 3
-contain: 3
-Merripen: 3
-party: 3
-sentence: 3
-yeckly: 3
-works: 3
-Abrahamites: 3
-thinking: 3
-Constable: 3
-skewer: 3
-kokkodus: 3
-Choredo: 3
-expressed: 3
-different: 3
-belongs: 3
-parents: 3
-kai: 3
-cross: 3
-kekomi: 3
-upper: 3
-exhibit: 3
-Metropolitan: 3
-Modern: 3
-ones: 3
-thewriter: 3
-reach: 3
-Moreover: 3
-sight: 3
-seventeen: 3
-halfpence: 3
-leap: 3
-tired: 3
-theSpanish: 3
-justice: 3
-avel: 3
-mansar: 3
-week: 3
-Keir: 3
-Michael: 3
-electronically: 3
-hasbeen: 3
-throw: 3
-thank: 3
-Prala: 3
-applied: 3
-Borrow: 3
-translation: 3
-Transylvanian: 3
-Pude: 3
-Gypsyblood: 3
-loves: 3
-produce: 3
-Drab: 3
-lad: 3
-employed: 3
-Coal: 3
-rokkar: 3
-Jal: 3
-spoken: 3
-Tasarla: 3
-lit: 3
-Suttur: 3
-pain: 3
-Jib: 3
-suspicion: 3
-purchase: 3
-Puro: 3
-Beshley: 3
-Drom: 3
-pans: 3
-lot: 3
-Mumli: 3
-pawnugo: 3
-rokkra: 3
-Jol: 3
-Second: 3
-doth: 3
-romady: 3
-Daya: 3
-Your: 3
-bird: 3
-dovo: 3
-miry: 3
-poetry: 3
-blessed: 3
-coachey: 3
-patrin: 3
-skin: 3
-mad: 3
-cartwright: 3
-morethan: 3
-Evil: 3
-ideas: 3
-numerals: 3
-Sclavonian: 3
-Bugnior: 3
-Clergyman: 3
-physical: 3
-masculine: 3
-Ajaw: 3
-quality: 3
-Pilato: 3
-Ken: 3
-Ker: 3
-Pilate: 3
-LIL: 3
-transportation: 3
-Tyburnia: 3
-bears: 3
-Kin: 3
-allow: 3
-atthe: 3
-sarla: 3
-shillings: 3
-knowing: 3
-forthe: 3
-altogether: 3
-olive: 3
-coarse: 3
-Kanau: 3
-sounding: 3
-mud: 3
-gorgies: 3
-Street: 3
-moving: 3
-farthing: 3
-Celtic: 3
-mushi: 3
-mushe: 3
-slay: 3
-Take: 3
-sailing: 3
-vagrant: 3
-chiefly: 3
-rakli: 3
-appellation: 3
-hedgehog: 3
-rigs: 3
-Las: 3
-Lav: 3
-True: 3
-Ireland: 3
-dovor: 3
-engris: 3
-Ley: 3
-Sove: 3
-lanes: 3
-mattress: 3
-poison: 3
-understood: 3
-nok: 3
-Poncio: 3
-risk: 3
-counsel: 3
-inhabited: 3
-bastard: 3
-enabled: 3
-modern: 3
-songs: 3
-widow: 3
-pawnee: 3
-borne: 3
-Earth: 3
-bedra: 3
-shine: 3
-wafudo: 3
-waggon: 3
-itwas: 3
-theEnglish: 3
-Devil: 3
-scarcely: 3
-Better: 3
-image: 3
-Devel: 3
-Gyptian: 3
-trouble: 3
-class: 3
-keri: 3
-eventually: 3
-Moar: 3
-ofa: 3
-months: 3
-Men: 3
-evidently: 3
-States: 3
-breaking: 3
-Nashimescro: 3
-NOT: 3
-support: 3
-honey: 3
-lies: 3
-cases: 3
-org: 3
-isthe: 3
-Fashono: 3
-Book: 3
-connection: 3
-ote: 3
-leather: 3
-Hukni: 3
-eskey: 3
-Mook: 3
-puvo: 3
-Nash: 3
-Mother: 3
-Boro: 3
-Bori: 3
-soskey: 3
-Choveno: 3
-talking: 3
-Dirty: 3
-Booty: 3
-speaks: 3
-governs: 3
-Dukker: 3
-wise: 3
-pan: 3
-vocabularies: 3
-Flour: 3
-Deav: 3
-medium: 3
-Chute: 3
-china: 3
-per: 3
-proceed: 3
-Churi: 3
-Vardo: 3
-pegs: 3
-Coaches: 3
-pox: 3
-Drunkard: 3
-ROMANY: 3
-ROMANO: 3
-Arthur: 3
-asking: 3
-BOOK: 3
-mirrors: 3
-Deva: 3
-Country: 3
-valuable: 3
-Witch: 3
-Gaulic: 3
-Road: 3
+the            : 1852
+a              : 1300
+of             : 1135
+and            : 1040
+s              : 882
+to             : 856
+is             : 551
+in             : 506
+I              : 390
+for            : 338
+or             : 325
+that           : 306
+it             : 280
+Gypsy          : 270
+you            : 259
+with           : 256
+which          : 253
+was            : 235
+he             : 228
+by             : 223
+A              : 220
+her            : 207
+as             : 204
+she            : 201
+not            : 191
+The            : 190
+are            : 189
+be             : 188
+d              : 177
+Sans           : 173
+but            : 168
+they           : 162
+To             : 159
+his            : 158
+have           : 153
+on             : 149
+one            : 148
+from           : 146
+at             : 141
+See            : 127
+v              : 125
+said           : 123
+who            : 120
+my             : 115
+me             : 114
+had            : 110
+no             : 109
+Gypsies        : 109
+so             : 108
+Wal            : 107
+word           : 102
+them           : 100
+their          : 99
+Romany         : 97
+Gyp            : 96
+all            : 96
+has            : 93
+there          : 91
+name           : 90
+English        : 84
+little         : 82
+much           : 81
+about          : 81
+your           : 80
+old            : 78
+been           : 77
+were           : 76
+will           : 76
+And            : 75
+some           : 74
+him            : 73
+may            : 73
+Span           : 72
+than           : 71
+would          : 70
+He             : 69
+if             : 69
+two            : 68
+what           : 68
+up             : 67
+other          : 67
+more           : 67
+an             : 66
+man            : 64
+this           : 63
+though         : 63
+do             : 62
+ta             : 61
+like           : 59
+It             : 55
+can            : 55
+mande          : 54
+pl             : 54
+see            : 54
+very           : 53
+people         : 52
+mengro         : 51
+They           : 50
+go             : 50
+engro          : 50
+drey           : 50
+say            : 50
+thing          : 49
+when           : 49
+tute           : 48
+ad             : 48
+any            : 48
+She            : 47
+great          : 47
+then           : 47
+time           : 46
+Greek          : 46
+Hun            : 46
+part           : 46
+woman          : 45
+called         : 45
+we             : 45
+day            : 44
+town           : 44
+country        : 44
+used           : 43
+tem            : 42
+Hin            : 42
+whom           : 42
+language       : 41
+well           : 41
+good           : 40
+did            : 40
+Gr             : 40
+place          : 40
+into           : 40
+Rus            : 39
+being          : 39
+words          : 39
+down           : 39
+Mod            : 39
+here           : 38
+out            : 38
+must           : 37
+men            : 37
+t              : 36
+fellow         : 36
+however        : 35
+kek            : 35
+Lit            : 35
+far            : 34
+ll             : 34
+oprey          : 34
+those          : 34
+kair           : 34
+only           : 34
+But            : 33
+three          : 33
+these          : 33
+Project        : 33
+after          : 32
+This           : 32
+made           : 32
+In             : 32
+am             : 32
+know           : 32
+sore           : 32
+There          : 31
+si             : 31
+could          : 31
+Irish          : 31
+horse          : 31
+hand           : 30
+house          : 30
+THE            : 30
+make           : 30
+shall          : 30
+never          : 30
+When           : 30
+years          : 30
+same           : 29
+leste          : 29
+should         : 29
+Pers           : 29
+now            : 29
+n              : 28
+yeck           : 28
+te             : 28
+money          : 28
+call           : 28
+O              : 27
+If             : 27
+London         : 27
+se             : 27
+small          : 27
+its            : 27
+What           : 27
+brother        : 27
+wife           : 27
+our            : 27
+Persian        : 27
+speak          : 27
+where          : 27
+most           : 27
+f              : 26
+women          : 26
+dick           : 26
+etext          : 26
+names          : 26
+jal            : 26
+You            : 26
+upon           : 26
+pass           : 26
+take           : 26
+sir            : 26
+long           : 25
+many           : 25
+No             : 25
+either         : 25
+certain        : 25
+mengri         : 25
+come           : 25
+true           : 25
+e              : 24
+signifies      : 24
+Mi             : 24
+way            : 24
+perhaps        : 24
+gav            : 24
+adrey          : 24
+For            : 24
+divvus         : 24
+rather         : 24
+generally      : 24
+wish           : 24
+over           : 24
+Can            : 23
+such           : 23
+England        : 23
+lady           : 23
+how            : 23
+person         : 23
+away           : 23
+Gaelic         : 23
+mother         : 23
+fellows        : 22
+water          : 22
+use            : 22
+love           : 22
+Gutenberg      : 22
+So             : 22
+God            : 22
+female         : 22
+Lat            : 22
+manner         : 22
+penn           : 22
+every          : 22
+kind           : 22
+Yetholm        : 22
+children       : 22
+o              : 21
+work           : 21
+Romano         : 21
+We             : 21
+seen           : 21
+get            : 21
+means          : 21
+girl           : 21
+deya           : 21
+tan            : 21
+gold           : 20
+g              : 20
+blood          : 20
+OF             : 20
+few            : 20
+things         : 20
+sometimes      : 20
+something      : 20
+first          : 20
+jib            : 20
+above          : 20
+own            : 20
+fire           : 20
+An             : 19
+ofthe          : 19
+black          : 19
+bute           : 19
+indeed         : 19
+nor            : 19
+live           : 19
+both           : 19
+tell           : 18
+tent           : 18
+year           : 18
+My             : 18
+Woman          : 18
+Spanish        : 18
+fortune        : 18
+His            : 18
+ker            : 18
+pron           : 18
+connected      : 18
+mescro         : 18
+cant           : 18
+Then           : 17
+look           : 17
+themselves     : 17
+looking        : 17
+head           : 17
+ye             : 17
+found          : 17
+last           : 17
+having         : 17
+present        : 17
+Mande          : 17
+poor           : 17
+left           : 17
+Sanscrit       : 17
+tongue         : 17
+told           : 17
+along          : 17
+Shuri          : 17
+none           : 17
+ever           : 17
+tree           : 17
+within         : 17
+find           : 17
+telling        : 16
+plenty         : 16
+At             : 16
+tribe          : 16
+himself        : 16
+Ta             : 16
+might          : 16
+tu             : 16
+us             : 16
+thou           : 16
+without        : 16
+mush           : 16
+before         : 16
+appearance     : 16
+Jack           : 16
+How            : 16
+went           : 16
+lel            : 16
+mind           : 16
+ground         : 16
+pen            : 16
+even           : 16
+home           : 16
+father         : 16
+boro           : 16
+sar            : 16
+also           : 16
+half           : 15
+order          : 15
+That           : 15
+Of             : 15
+race           : 15
+zi             : 15
+engri          : 15
+face           : 15
+side           : 15
+once           : 15
+prep           : 15
+door           : 15
+coin           : 15
+life           : 15
+puro           : 15
+Cooper         : 15
+tuley          : 15
+George         : 15
+amongst        : 15
+lende          : 15
+living         : 15
+pukker         : 14
+m              : 14
+mengreskey     : 14
+stealing       : 14
+across         : 14
+derived        : 14
+foky           : 14
+remarkable     : 14
+queen          : 14
+prala          : 14
+fortunes       : 14
+honour         : 14
+After          : 14
+covar          : 14
+fair           : 14
+dressed        : 14
+properly       : 14
+jaw            : 14
+show           : 14
+world          : 14
+hill           : 14
+birandon       : 14
+quite          : 14
+each           : 14
+birandera      : 14
+dosta          : 14
+Roman          : 14
+signifying     : 14
+Lee            : 14
+give           : 14
+drom           : 14
+Ryley          : 14
+Kirk           : 14
+pro            : 14
+anything       : 14
+put            : 14
+writer         : 14
+Old            : 14
+came           : 14
+bori           : 14
+dui            : 13
+Oh             : 13
+Who            : 13
+Why            : 13
+church         : 13
+Myself         : 13
+frequently     : 13
+taken          : 13
+street         : 13
+less           : 13
+let            : 13
+does           : 13
+whose          : 13
+still          : 13
+verb           : 13
+speaking       : 13
+theGypsies     : 13
+dukker         : 13
+pers           : 13
+Wallachian     : 13
+caravans       : 13
+One            : 13
+age            : 13
+care           : 13
+enough         : 13
+eyes           : 13
+dear           : 13
+hare           : 12
+Birandon       : 12
+term           : 12
+don            : 12
+meaning        : 12
+modification   : 12
+As             : 12
+la             : 12
+thee           : 12
+young          : 12
+wast           : 12
+ruin           : 12
+nothing        : 12
+birrandon      : 12
+Heb            : 12
+high           : 12
+Romanes        : 12
+night          : 12
+lis            : 12
+Come           : 12
+Will           : 12
+mine           : 12
+proper         : 12
+Birrandon      : 12
+jall           : 12
+rawnie         : 12
+ring           : 12
+ancient        : 12
+cost           : 12
+child          : 12
+Now            : 12
+neither        : 12
+fine           : 12
+Kaulo          : 12
+saw            : 12
+bit            : 12
+cheeros        : 12
+i              : 11
+thy            : 11
+better         : 11
+says           : 11
+cut            : 11
+Rye            : 11
+right          : 11
+common         : 11
+eat            : 11
+asked          : 11
+another        : 11
+de             : 11
+form           : 11
+hear           : 11
+whilst         : 11
+seem           : 11
+birrandera     : 11
+hundred        : 11
+whether        : 11
+till           : 11
+answer         : 11
+best           : 11
+besh           : 11
+abri           : 11
+takes          : 11
+Gentiles       : 11
+Yes            : 11
+bread          : 11
+chavo          : 11
+gentleman      : 11
+between        : 11
+making         : 11
+husband        : 11
+mas            : 11
+because        : 11
+nav            : 11
+Man            : 11
+off            : 11
+dado           : 11
+hold           : 11
+GYPSY          : 11
+talk           : 11
+Forest         : 11
+public         : 11
+Midibble       : 11
+through        : 11
+son            : 11
+tents          : 11
+sun            : 11
+express        : 11
+Y              : 10
+tatcho         : 10
+times          : 10
+probably       : 10
+Thou           : 10
+stand          : 10
+wood           : 10
+instead        : 10
+Av             : 10
+often          : 10
+Do             : 10
+Is             : 10
+hung           : 10
+en             : 10
+piece          : 10
+second         : 10
+Welsh          : 10
+Gorgios        : 10
+komi           : 10
+meat           : 10
+chiv           : 10
+steal          : 10
+reason         : 10
+rings          : 10
+jin            : 10
+daughter       : 10
+lell           : 10
+others         : 10
+prey           : 10
+full           : 10
+low            : 10
+particular     : 10
+month          : 10
+Chals          : 10
+open           : 10
+voice          : 10
+muk            : 10
+guero          : 10
+family         : 10
+Some           : 10
+took           : 10
+mengre         : 10
+Mrs            : 10
+dark           : 10
+skewers        : 10
+belonging      : 10
+Hindity        : 10
+Not            : 10
+account        : 10
+soon           : 10
+return         : 10
+red            : 10
+art            : 10
+run            : 10
+rye            : 10
+case           : 10
+latter         : 10
+kiss           : 10
+sit            : 10
+several        : 10
+stone          : 10
+goes           : 10
+chi            : 9
+kosko          : 9
+del            : 9
+going          : 9
+back           : 9
+grand          : 9
+near           : 9
+By             : 9
+Ma             : 9
+On             : 9
+various        : 9
+gave           : 9
+Dui            : 9
+course         : 9
+gry            : 9
+almost         : 9
+lati           : 9
+affix          : 9
+genuine        : 9
+master         : 9
+posh           : 9
+real           : 9
+tothe          : 9
+Petulengro     : 9
+Her            : 9
+cloth          : 9
+false          : 9
+brought        : 9
+following      : 9
+example        : 9
+doubt          : 9
+luvvu          : 9
+exactly        : 9
+stick          : 9
+received       : 9
+whole          : 9
+mui            : 9
+opre           : 9
+choring        : 9
+nearly         : 9
+occasionally   : 9
+evil           : 9
+puv            : 9
+Lovel          : 9
+just           : 9
+evening        : 9
+since          : 9
+heard          : 9
+caravan        : 9
+five           : 9
+again          : 9
+always         : 9
+odoy           : 9
+deal           : 9
+misto          : 9
+likewise       : 9
+boy            : 9
+doing          : 9
+road           : 9
+Etexts         : 9
+flung          : 9
+ten            : 8
+gone           : 8
+hard           : 8
+All            : 8
+became         : 8
+shoon          : 8
+Here           : 8
+Rossar         : 8
+business       : 8
+bango          : 8
+pound          : 8
+dur            : 8
+observed       : 8
+Chal           : 8
+seems          : 8
+Chi            : 8
+running        : 8
+OR             : 8
+why            : 8
+sure           : 8
+dialects       : 8
+lescro         : 8
+Gentile        : 8
+follow         : 8
+got            : 8
+queer          : 8
+walk           : 8
+Faa            : 8
+Gav            : 8
+rukh           : 8
+number         : 8
+saying         : 8
+Green          : 8
+Lundra         : 8
+neighbourhood  : 8
+century        : 8
+Master         : 8
+Etext          : 8
+inthe          : 8
+tinker         : 8
+rendered       : 8
+miro           : 8
+brothers       : 8
+twenty         : 8
+feet           : 8
+tinkering      : 8
+booty          : 8
+dirty          : 8
+middle         : 8
+churi          : 8
+Indian         : 8
+against        : 8
+origin         : 8
+gypsy          : 8
+Christian      : 8
+days           : 8
+pay            : 8
+New            : 8
+Desh           : 8
+during         : 8
+truth          : 8
+ago            : 8
+aley           : 8
+book           : 8
+discourse      : 8
+mouth          : 8
+covars         : 8
+bad            : 8
+dead           : 8
+Scotland       : 8
+six            : 8
+behind         : 8
+Nokkum         : 8
+engreskey      : 8
+P              : 7
+S              : 7
+tin            : 7
+rarde          : 7
+savo           : 7
+Their          : 7
+These          : 7
+dad            : 7
+Sar            : 7
+under          : 7
+lying          : 7
+bythe          : 7
+dog            : 7
+Koshto         : 7
+knows          : 7
+stay           : 7
+lost           : 7
+least          : 7
+neck           : 7
+end            : 7
+GUTENBERG      : 7
+Go             : 7
+France         : 7
+mangue         : 7
+white          : 7
+green          : 7
+play           : 7
+av             : 7
+diviou         : 7
+PROJECT        : 7
+yo             : 7
+pocket         : 7
+wafu           : 7
+gun            : 7
+land           : 7
+want           : 7
+goods          : 7
+hev            : 7
+chair          : 7
+mean           : 7
+lesti          : 7
+hot            : 7
+friends        : 7
+Wesh           : 7
+free           : 7
+fall           : 7
+Nokkums        : 7
+seemingly      : 7
+value          : 7
+YOU            : 7
+Mike           : 7
+close          : 7
+poss           : 7
+respect        : 7
+miles          : 7
+silver         : 7
+acoi           : 7
+shan           : 7
+chiriclo       : 7
+Stanley        : 7
+goldsmith      : 7
+Black          : 7
+Rawnie         : 7
+composed       : 7
+sing           : 7
+rabbit         : 7
+Small          : 7
+dukkering      : 7
+pani           : 7
+seated         : 7
+With           : 7
+myself         : 7
+Yocky          : 7
+gueri          : 7
+wives          : 7
+Lil            : 7
+lived          : 7
+wrong          : 7
+keep           : 7
+fight          : 7
+pure           : 7
+nose           : 7
+kettle         : 7
+sister         : 7
+Pauno          : 7
+began          : 7
+ajaw           : 7
+meero          : 7
+light          : 7
+Purrum         : 7
+iron           : 7
+Good           : 7
+heart          : 7
+hour           : 7
+coming         : 7
+merripen       : 7
+morro          : 7
+trade          : 7
+French         : 7
+duck           : 7
+morrow         : 7
+Beshaley       : 7
+yourself       : 7
+cart           : 7
+cast           : 7
+born           : 7
+nash           : 7
+set            : 7
+beg            : 7
+highly         : 7
+makes          : 7
+maker          : 7
+buy            : 7
+sake           : 6
+root           : 6
+too            : 6
+thousand       : 6
+cry            : 6
+cup            : 6
+speech         : 6
+thine          : 6
+Ava            : 6
+built          : 6
+latch          : 6
+quarter        : 6
+die            : 6
+University     : 6
+known          : 6
+Yorkshire      : 6
+Spain          : 6
+seven          : 6
+lord           : 6
+apple          : 6
+mare           : 6
+Smith          : 6
+jins           : 6
+Tan            : 6
+Since          : 6
+hands          : 6
+leave          : 6
+females        : 6
+Fr             : 6
+figurative     : 6
+forms          : 6
+farther        : 6
+pounds         : 6
+TO             : 6
+Ty             : 6
+rendering      : 6
+From           : 6
+matters        : 6
+yonder         : 6
+formed         : 6
+knau           : 6
+Don            : 6
+places         : 6
+families       : 6
+singular       : 6
+email          : 6
+terms          : 6
+onion          : 6
+sound          : 6
+Mount          : 6
+namely         : 6
+adopted        : 6
+Wandsworth     : 6
+FOR            : 6
+considered     : 6
+entirely       : 6
+yesterday      : 6
+early          : 6
+chel           : 6
+Scotch         : 6
+chin           : 6
+affixed        : 6
+Latin          : 6
+wafor          : 6
+death          : 6
+inn            : 6
+Gorgio         : 6
+Bosvils        : 6
+read           : 6
+Yag            : 6
+devil          : 6
+somewhat       : 6
+crown          : 6
+married        : 6
+earth          : 6
+vast           : 6
+especially     : 6
+donkey         : 6
+teero          : 6
+lay            : 6
+coins          : 6
+pres           : 6
+fashion        : 6
+principally    : 6
+dialect        : 6
+Engro          : 6
+articles       : 6
+etexts         : 6
+terrible       : 6
+jibbing        : 6
+met            : 6
+Kek            : 6
+believe        : 6
+Camlo          : 6
+particle       : 6
+doesn          : 6
+swear          : 6
+harlot         : 6
+region         : 6
+cold           : 6
+pootch         : 6
+note           : 6
+strange        : 6
+intended       : 6
+dicking        : 6
+cooper         : 6
+juva           : 6
+Hungarian      : 6
+Hebrew         : 6
+Our            : 6
+cannot         : 6
+round          : 6
+horses         : 6
+Per            : 6
+groats         : 6
+Arabic         : 6
+ale            : 6
+already        : 6
+poverty        : 6
+Sleep          : 6
+ask            : 6
+Mary           : 6
+sorlo          : 6
+broad          : 6
+dibble         : 6
+bore           : 6
+king           : 6
+mentioned      : 6
+amande         : 6
+Yeck           : 6
+deep           : 6
+sig            : 6
+big            : 6
+large          : 6
+bor            : 6
+Along          : 6
+buried         : 6
+stood          : 6
+morning        : 6
+bewitch        : 6
+written        : 6
+acquainted     : 6
+tea            : 5
+turn           : 5
+h              : 5
+information    : 5
+laugh          : 5
+tis            : 5
+Meero          : 5
+hart           : 5
+taking         : 5
+fountain       : 5
+save           : 5
+com            : 5
+try            : 5
+beautiful      : 5
+think          : 5
+languages      : 5
+Aljenicato     : 5
+grasni         : 5
+priests        : 5
+grass          : 5
+transported    : 5
+brown          : 5
+brat           : 5
+Lady           : 5
+length         : 5
+curse          : 5
+Print          : 5
+male           : 5
+Kora           : 5
+gentlewoman    : 5
+jargon         : 5
+Lavo           : 5
+ear            : 5
+soldier        : 5
+cauring        : 5
+winter         : 5
+Tem            : 5
+innar          : 5
+Where          : 5
+collico        : 5
+Wafodu         : 5
+below          : 5
+Mr             : 5
+countries      : 5
+eye            : 5
+Te             : 5
+lubbeny        : 5
+next           : 5
+chingaripen    : 5
+window         : 5
+Dad            : 5
+sides          : 5
+fem            : 5
+Del            : 5
+Father         : 5
+Though         : 5
+el             : 5
+Malbrun        : 5
+Artaros        : 5
+four           : 5
+gorgio         : 5
+knew           : 5
+bridge         : 5
+un             : 5
+ve             : 5
+pawdle         : 5
+Gaelach        : 5
+held           : 5
+shilling       : 5
+sell           : 5
+help           : 5
+sent           : 5
+numerous       : 5
+Brother        : 5
+Eng            : 5
+basin          : 5
+dukkers        : 5
+Lura           : 5
+difference     : 5
+engre          : 5
+yag            : 5
+Plastra        : 5
+hal            : 5
+hat            : 5
+Kaun           : 5
+yet            : 5
+House          : 5
+hid            : 5
+bear           : 5
+grandfather    : 5
+Only           : 5
+sollohaul      : 5
+Weel           : 5
+Tatto          : 5
+Well           : 5
+able           : 5
+guineas        : 5
+beti           : 5
+nouns          : 5
+certainly      : 5
+pieces         : 5
+please         : 5
+Chorodies      : 5
+theGypsy       : 5
+Does           : 5
+tatchipen      : 5
+Avali          : 5
+Giv            : 5
+according      : 5
+poov           : 5
+rokrapen       : 5
+Russian        : 5
+pots           : 5
+Gry            : 5
+fiddle         : 5
+shin           : 5
+using          : 5
+suddenly       : 5
+rest           : 5
+original       : 5
+metropolis     : 5
+related        : 5
+Which          : 5
+drink          : 5
+Dictionary     : 5
+Ring           : 5
+Give           : 5
+gentlemen      : 5
+plain          : 5
+leek           : 5
+Mellon         : 5
+characters     : 5
+bebee          : 5
+lels           : 5
+kairing        : 5
+capital        : 5
+lav            : 5
+les            : 5
+thirty         : 5
+ruslo          : 5
+lie            : 5
+lil            : 5
+churchyard     : 5
+Fortune        : 5
+vardo          : 5
+denote         : 5
+Kekkeno        : 5
+principal      : 5
+abode          : 5
+whereas        : 5
+jalling        : 5
+koskipen       : 5
+height         : 5
+holes          : 5
+ryor           : 5
+books          : 5
+burreder       : 5
+sleep          : 5
+copyright      : 5
+new            : 5
+battles        : 5
+juggal         : 5
+bring          : 5
+girls          : 5
+knife          : 5
+counter        : 5
+odd            : 5
+wandering      : 5
+considerable   : 5
+pretty         : 5
+Duke           : 5
+Bosvil         : 5
+Name           : 5
+suppose        : 5
+Camo           : 5
+puri           : 5
+wafodupen      : 5
+More           : 5
+copy           : 5
+puts           : 5
+King           : 5
+blow           : 5
+Mul            : 5
+wild           : 5
+noun           : 5
+riddo          : 5
+Elizabeth      : 5
+verbs          : 5
+buttons        : 5
+groat          : 5
+standing       : 5
+sixpence       : 5
+wafodu         : 5
+robbery        : 5
+tall           : 5
+holy           : 5
+song           : 5
+summer         : 5
+together       : 5
+Gypsyry        : 5
+convenient     : 5
+que            : 5
+Pen            : 5
+ain            : 5
+abroad         : 5
+thought        : 5
+resort         : 5
+cried          : 5
+Female         : 5
+Christmas      : 5
+labour         : 5
+seldom         : 5
+kill           : 5
+simple         : 5
+kisi           : 5
+strong         : 5
+beauty         : 5
+thewhole       : 5
+squire         : 5
+AND            : 5
+friend         : 5
+drawn          : 5
+Such           : 5
+Pukker         : 5
+hedge          : 5
+cap            : 5
+Rama           : 4
+drunk          : 4
+disguised      : 4
+nuevas         : 4
+harm           : 4
+provided       : 4
+thieves        : 4
+top            : 4
+ando           : 4
+gown           : 4
+pardon         : 4
+tud            : 4
+distribute     : 4
+Run            : 4
+short          : 4
+Aye            : 4
+celebrated     : 4
+Sau            : 4
+exceedingly    : 4
+Boswell        : 4
+Arab           : 4
+palal          : 4
+shoes          : 4
+journey        : 4
+loaf           : 4
+Hearne         : 4
+thick          : 4
+Wafo           : 4
+text           : 4
+subject        : 4
+expressing     : 4
+barn           : 4
+dropping       : 4
+bodily         : 4
+Cam            : 4
+grave          : 4
+Romani         : 4
+Ah             : 4
+neuter         : 4
+En             : 4
+linen          : 4
+lines          : 4
+andthe         : 4
+turns          : 4
+tried          : 4
+La             : 4
+Wardo          : 4
+races          : 4
+Perhaps        : 4
+rokra          : 4
+Si             : 4
+St             : 4
+features       : 4
+termination    : 4
+news           : 4
+war            : 4
+grey           : 4
+Uncle          : 4
+nokkum         : 4
+bitcheno       : 4
+fever          : 4
+receiving      : 4
+Anglo          : 4
+looks          : 4
+rain           : 4
+died           : 4
+Atch           : 4
+honest         : 4
+fool           : 4
+foot           : 4
+Poor           : 4
+sites          : 4
+er             : 4
+tears          : 4
+rate           : 4
+fork           : 4
+grye           : 4
+pawdel         : 4
+appeared       : 4
+Dog            : 4
+become         : 4
+le             : 4
+Ratzie         : 4
+ma             : 4
+possessed      : 4
+ne             : 4
+heat           : 4
+luxury         : 4
+Dibble         : 4
+seek           : 4
+su             : 4
+single         : 4
+tm             : 4
+Misto          : 4
+changed        : 4
+north          : 4
+dress          : 4
+curious        : 4
+purpose        : 4
+thus           : 4
+returned       : 4
+gro            : 4
+mulo           : 4
+wafo           : 4
+heaven         : 4
+million        : 4
+fakement       : 4
+livelihood     : 4
+kanau          : 4
+late           : 4
+Heaven         : 4
+lasa           : 4
+wars           : 4
+impossible     : 4
+filching       : 4
+laws           : 4
+tiro           : 4
+ways           : 4
+chal           : 4
+Siva           : 4
+hit            : 4
+beat           : 4
+Brono          : 4
+Leek           : 4
+Lees           : 4
+chik           : 4
+basket         : 4
+thereis        : 4
+Pontius        : 4
+chor           : 4
+eight          : 4
+trusted        : 4
+compound       : 4
+runner         : 4
+fact           : 4
+respectable    : 4
+Teague         : 4
+ratti          : 4
+Ger            : 4
+nice           : 4
+ill            : 4
+Pani           : 4
+imp            : 4
+Koring         : 4
+objects        : 4
+pony           : 4
+Caumlo         : 4
+nine           : 4
+property       : 4
+city           : 4
+Roumany        : 4
+looked         : 4
+ship           : 4
+broken         : 4
+pudding        : 4
+leaving        : 4
+rokkring       : 4
+distance       : 4
+description    : 4
+tribes         : 4
+luck           : 4
+sheep          : 4
+clout          : 4
+equivalent     : 4
+servant        : 4
+sixty          : 4
+llevaron       : 4
+parts          : 4
+Dovvel         : 4
+aunt           : 4
+Shoshoi        : 4
+plastra        : 4
+break          : 4
+hide           : 4
+Europe         : 4
+David          : 4
+Before         : 4
+kaun           : 4
+cloak          : 4
+Girl           : 4
+cabanar        : 4
+hukni          : 4
+travelled      : 4
+seeing         : 4
+leaf           : 4
+spoke          : 4
+beshing        : 4
+scanty         : 4
+nodding        : 4
+fashiono       : 4
+distant        : 4
+matter         : 4
+lover          : 4
+witch          : 4
+wesh           : 4
+Drey           : 4
+Jaw            : 4
+pret           : 4
+Court          : 4
+Coin           : 4
+chest          : 4
+district       : 4
+equal          : 4
+paid           : 4
+Life           : 4
+merely         : 4
+None           : 4
+disappeared    : 4
+done           : 4
+Coro           : 4
+ears           : 4
+rmlav          : 4
+mile           : 4
+milk           : 4
+mill           : 4
+inch           : 4
+legal          : 4
+title          : 4
+cappi          : 4
+Ever           : 4
+sense          : 4
+Tabernacle     : 4
+serves         : 4
+bavol          : 4
+BorrowThe      : 4
+bonnek         : 4
+handsome       : 4
+breast         : 4
+fingers        : 4
+among          : 4
+Amongst        : 4
+prepared       : 4
+Oprey          : 4
+Stanleys       : 4
+apopli         : 4
+sweet          : 4
+Little         : 4
+ride           : 4
+Holy           : 4
+release        : 4
+similar        : 4
+potato         : 4
+rigg           : 4
+Sore           : 4
+net            : 4
+toon           : 4
+kaulo          : 4
+Sunday         : 4
+Let            : 4
+koshto         : 4
+houses         : 4
+pawni          : 4
+statement      : 4
+lives          : 4
+travellers     : 4
+shirt          : 4
+alone          : 4
+havebeen       : 4
+fourteen       : 4
+carry          : 4
+lower          : 4
+turned         : 4
+May            : 4
+ENGLISH        : 4
+cock           : 4
+Levinor        : 4
+minri          : 4
+minro          : 4
+Thomas         : 4
+Cama           : 4
+Another        : 4
+smiling        : 4
+Battersea      : 4
+ora            : 4
+date           : 4
+Plato          : 4
+prison         : 4
+cour           : 4
+faced          : 4
+blue           : 4
+folks          : 4
+service        : 4
+Among          : 4
+Lithuanian     : 4
+Potteries      : 4
+pin            : 4
+Three          : 4
+cause          : 4
+followed       : 4
+reality        : 4
+pens           : 4
+pot            : 4
+pov            : 4
+gives          : 4
+given          : 4
+desire         : 4
+gillie         : 4
+induced        : 4
+glad           : 4
+trin           : 4
+knowledge      : 4
+donkeys        : 4
+tells          : 4
+arches         : 4
+Rome           : 4
+peculiar       : 4
+hope           : 4
+sacrista       : 4
+levinor        : 4
+file           : 4
+health         : 4
+instance       : 4
+serve          : 4
+pleasant       : 4
+Hokta          : 4
+fino           : 4
+unless         : 4
+leaves         : 4
+Ora            : 4
+agree          : 4
+railroad       : 4
+caused         : 4
+Louis          : 4
+Tatchey        : 4
+aspect         : 4
+signify        : 4
+Pal            : 4
+Carnegie       : 4
+trust          : 4
+Pes            : 4
+rig            : 4
+body           : 4
+applicable     : 4
+expense        : 4
+tolerably      : 4
+palace         : 4
+cams           : 4
+spaces         : 4
+edition        : 4
+dute           : 4
+Work           : 4
+truly          : 4
+greater        : 4
+Lord           : 4
+moon           : 4
+sticks         : 4
+feminine       : 4
+wuddur         : 4
+heels          : 4
+described      : 4
+profit         : 4
+bed            : 4
+pobox          : 4
+Bucca          : 4
+dozens         : 4
+fighting       : 4
+horseshoe      : 4
+Gael           : 4
+streets        : 4
+sikker         : 4
+Mescro         : 4
+dozen          : 4
+towards        : 4
+files          : 4
+herself        : 4
+village        : 4
+carried        : 4
+really         : 4
+Ram            : 4
+pick           : 3
+temnopen       : 3
+G              : 3
+salt           : 3
+Red            : 3
+Cauna          : 3
+readers        : 3
+faithful       : 3
+besides        : 3
+flitch         : 3
+rope           : 3
+Knau           : 3
+tatchi         : 3
+room           : 3
+Rig            : 3
+chauvo         : 3
+withthe        : 3
+protection     : 3
+question       : 3
+Rom            : 3
+whence         : 3
+Are            : 3
+shout          : 3
+Italian        : 3
+ninety         : 3
+Tuley          : 3
+destroy        : 3
+Porra          : 3
+manro          : 3
+naflipen       : 3
+blown          : 3
+hanging        : 3
+das            : 3
+drinking       : 3
+entertained    : 3
+Bar            : 3
+Bas            : 3
+Fairlop        : 3
+dem            : 3
+dey            : 3
+virtues        : 3
+Wongar         : 3
+possible       : 3
+returning      : 3
+parcel         : 3
+Sig            : 3
+Six            : 3
+company        : 3
+kairs          : 3
+dov            : 3
+nurse          : 3
+Morro          : 3
+dearie         : 3
+credit         : 3
+maid           : 3
+Box            : 3
+Bow            : 3
+Price          : 3
+Clean          : 3
+Information    : 3
+rinkeny        : 3
+constable      : 3
+trees          : 3
+Bush           : 3
+Bui            : 3
+expression     : 3
+thatof         : 3
+Ygul           : 3
+mang           : 3
+Waro           : 3
+Mutra          : 3
+smiths         : 3
+knock          : 3
+blankets       : 3
+Child          : 3
+worn           : 3
+wore           : 3
+thathe         : 3
+disagreeable   : 3
+opinion        : 3
+Chingabar      : 3
+Chies          : 3
+Romans         : 3
+neat           : 3
+stop           : 3
+Chin           : 3
+Chiv           : 3
+Az             : 3
+chumba         : 3
+Tis            : 3
+need           : 3
+friary         : 3
+Cheese         : 3
+During         : 3
+Asha           : 3
+Larry          : 3
+andthen        : 3
+slightly       : 3
+Chok           : 3
+springs        : 3
+IF             : 3
+seventy        : 3
+IS             : 3
+forth          : 3
+cocoro         : 3
+Ja             : 3
+ere            : 3
+etc            : 3
+choom          : 3
+shalt          : 3
+trick          : 3
+Mero           : 3
+Besh           : 3
+chore          : 3
+Cup            : 3
+Se             : 3
+presently      : 3
+huge           : 3
+Tu             : 3
+suit           : 3
+wee            : 3
+Fair           : 3
+Day            : 3
+Poggra         : 3
+gajo           : 3
+gurush         : 3
+Dey            : 3
+extent         : 3
+Turkish        : 3
+former         : 3
+bellies        : 3
+Did            : 3
+Poov           : 3
+fly            : 3
+partner        : 3
+Guyi           : 3
+Pikers         : 3
+hokking        : 3
+ha             : 3
+feather        : 3
+placed         : 3
+else           : 3
+accusative     : 3
+Dov            : 3
+ke             : 3
+sullen         : 3
+lantern        : 3
+fowl           : 3
+wooden         : 3
+fun            : 3
+hehas          : 3
+mi             : 3
+na             : 3
+noble          : 3
+Gillie         : 3
+mixed          : 3
+Dur            : 3
+sitting        : 3
+scarlet        : 3
+clever         : 3
+rd             : 3
+obtained       : 3
+FORTUNE        : 3
+st             : 3
+necessary      : 3
+changes        : 3
+postpositions  : 3
+beyond         : 3
+yi             : 3
+force          : 3
+precious       : 3
+coffin         : 3
+Horse          : 3
+addressed      : 3
+resemble       : 3
+GUTINDEX       : 3
+cuttor         : 3
+camov          : 3
+committed      : 3
+beshengro      : 3
+lace           : 3
+vowel          : 3
+penelan        : 3
+named          : 3
+John           : 3
+write          : 3
+Truffeni       : 3
+Kair           : 3
+bull           : 3
+Kosko          : 3
+magnificent    : 3
+Malbrouk       : 3
+particularly   : 3
+stricken       : 3
+laki           : 3
+koosho         : 3
+convey         : 3
+tied           : 3
+wall           : 3
+arts           : 3
+chals          : 3
+kora           : 3
+lass           : 3
+weight         : 3
+victuals       : 3
+plural         : 3
+yer            : 3
+eaters         : 3
+colour         : 3
+tiny           : 3
+Broth          : 3
+chaw           : 3
+corauni        : 3
+handfuls       : 3
+history        : 3
+Huwie          : 3
+Basket         : 3
+Virgin         : 3
+Diviou         : 3
+beds           : 3
+hog            : 3
+hok            : 3
+calls          : 3
+questions      : 3
+count          : 3
+postposition   : 3
+opral          : 3
+killed         : 3
+Broken         : 3
+Tatti          : 3
+generality     : 3
+Pivley         : 3
+beng           : 3
+Pudding        : 3
+Northern       : 3
+United         : 3
+Lollo          : 3
+trins          : 3
+Dooriya        : 3
+Fighting       : 3
+genitive       : 3
+tohave         : 3
+Hearnes        : 3
+knitting       : 3
+Potato         : 3
+whenever       : 3
+falsely        : 3
+Border         : 3
+Timothy        : 3
+Wallachia      : 3
+Shoob          : 3
+doors          : 3
+Klism          : 3
+Shoon          : 3
+breakfast      : 3
+refund         : 3
+foreign        : 3
+boiler         : 3
+fisherman      : 3
+runs           : 3
+quantity       : 3
+ashamed        : 3
+oblige         : 3
+vangust        : 3
+remedy         : 3
+choose         : 3
+avocations     : 3
+Rumni          : 3
+Cheros         : 3
+copies         : 3
+letter         : 3
+wafoduder      : 3
+Great          : 3
+Hat            : 3
+worse          : 3
+difficulty     : 3
+selling        : 3
+shoe           : 3
+fancy          : 3
+bounds         : 3
+daily          : 3
+Opre           : 3
+sheet          : 3
+afterwards     : 3
+Hop            : 3
+contain        : 3
+Merripen       : 3
+party          : 3
+sentence       : 3
+yeckly         : 3
+works          : 3
+Abrahamites    : 3
+thinking       : 3
+Constable      : 3
+skewer         : 3
+kokkodus       : 3
+Choredo        : 3
+expressed      : 3
+different      : 3
+belongs        : 3
+parents        : 3
+kai            : 3
+cross          : 3
+kekomi         : 3
+upper          : 3
+exhibit        : 3
+Metropolitan   : 3
+Modern         : 3
+ones           : 3
+thewriter      : 3
+reach          : 3
+Moreover       : 3
+sight          : 3
+seventeen      : 3
+halfpence      : 3
+leap           : 3
+tired          : 3
+theSpanish     : 3
+justice        : 3
+avel           : 3
+mansar         : 3
+week           : 3
+Keir           : 3
+Michael        : 3
+electronically : 3
+hasbeen        : 3
+throw          : 3
+thank          : 3
+Prala          : 3
+applied        : 3
+Borrow         : 3
+translation    : 3
+Transylvanian  : 3
+Pude           : 3
+Gypsyblood     : 3
+loves          : 3
+produce        : 3
+Drab           : 3
+lad            : 3
+employed       : 3
+Coal           : 3
+rokkar         : 3
+Jal            : 3
+spoken         : 3
+Tasarla        : 3
+lit            : 3
+Suttur         : 3
+pain           : 3
+Jib            : 3
+suspicion      : 3
+purchase       : 3
+Puro           : 3
+Beshley        : 3
+Drom           : 3
+pans           : 3
+lot            : 3
+Mumli          : 3
+pawnugo        : 3
+rokkra         : 3
+Jol            : 3
+Second         : 3
+doth           : 3
+romady         : 3
+Daya           : 3
+Your           : 3
+bird           : 3
+dovo           : 3
+miry           : 3
+poetry         : 3
+blessed        : 3
+coachey        : 3
+patrin         : 3
+skin           : 3
+mad            : 3
+cartwright     : 3
+morethan       : 3
+Evil           : 3
+ideas          : 3
+numerals       : 3
+Sclavonian     : 3
+Bugnior        : 3
+Clergyman      : 3
+physical       : 3
+masculine      : 3
+Ajaw           : 3
+quality        : 3
+Pilato         : 3
+Ken            : 3
+Ker            : 3
+Pilate         : 3
+LIL            : 3
+transportation : 3
+Tyburnia       : 3
+bears          : 3
+Kin            : 3
+allow          : 3
+atthe          : 3
+sarla          : 3
+shillings      : 3
+knowing        : 3
+forthe         : 3
+altogether     : 3
+olive          : 3
+coarse         : 3
+Kanau          : 3
+sounding       : 3
+mud            : 3
+gorgies        : 3
+Street         : 3
+moving         : 3
+farthing       : 3
+Celtic         : 3
+mushi          : 3
+mushe          : 3
+slay           : 3
+Take           : 3
+sailing        : 3
+vagrant        : 3
+chiefly        : 3
+rakli          : 3
+appellation    : 3
+hedgehog       : 3
+rigs           : 3
+Las            : 3
+Lav            : 3
+True           : 3
+Ireland        : 3
+dovor          : 3
+engris         : 3
+Ley            : 3
+Sove           : 3
+lanes          : 3
+mattress       : 3
+poison         : 3
+understood     : 3
+nok            : 3
+Poncio         : 3
+risk           : 3
+counsel        : 3
+inhabited      : 3
+bastard        : 3
+enabled        : 3
+modern         : 3
+songs          : 3
+widow          : 3
+pawnee         : 3
+borne          : 3
+Earth          : 3
+bedra          : 3
+shine          : 3
+wafudo         : 3
+waggon         : 3
+itwas          : 3
+theEnglish     : 3
+Devil          : 3
+scarcely       : 3
+Better         : 3
+image          : 3
+Devel          : 3
+Gyptian        : 3
+trouble        : 3
+class          : 3
+keri           : 3
+eventually     : 3
+Moar           : 3
+ofa            : 3
+months         : 3
+Men            : 3
+evidently      : 3
+States         : 3
+breaking       : 3
+Nashimescro    : 3
+NOT            : 3
+support        : 3
+honey          : 3
+lies           : 3
+cases          : 3
+org            : 3
+isthe          : 3
+Fashono        : 3
+Book           : 3
+connection     : 3
+ote            : 3
+leather        : 3
+Hukni          : 3
+eskey          : 3
+Mook           : 3
+puvo           : 3
+Nash           : 3
+Mother         : 3
+Boro           : 3
+Bori           : 3
+soskey         : 3
+Choveno        : 3
+talking        : 3
+Dirty          : 3
+Booty          : 3
+speaks         : 3
+governs        : 3
+Dukker         : 3
+wise           : 3
+pan            : 3
+vocabularies   : 3
+Flour          : 3
+Deav           : 3
+medium         : 3
+Chute          : 3
+china          : 3
+per            : 3
+proceed        : 3
+Churi          : 3
+Vardo          : 3
+pegs           : 3
+Coaches        : 3
+pox            : 3
+Drunkard       : 3
+ROMANY         : 3
+ROMANO         : 3
+Arthur         : 3
+asking         : 3
+BOOK           : 3
+mirrors        : 3
+Deva           : 3
+Country        : 3
+valuable       : 3
+Witch          : 3
+Gaulic         : 3
+Road           : 3
 theneighbourhood: 3
-theSanscrit: 3
-consider: 3
-jawing: 3
-deserted: 3
-request: 3
-Bavol: 3
-hunting: 3
-asarlus: 3
-comes: 3
-Half: 3
-onthe: 3
-purse: 3
-Gypsyism: 3
-kekkeno: 3
-Money: 3
-passed: 3
-respects: 3
-Purana: 3
-hole: 3
-themost: 3
-Hart: 3
-aboutthe: 3
-Pins: 3
-Pire: 3
-funeral: 3
-wonderfully: 3
-denotes: 3
-hecould: 3
-fish: 3
-inside: 3
-begging: 3
-Russia: 3
-wonder: 3
-Grecian: 3
-Luvvo: 3
-crest: 3
-donations: 3
-moreover: 3
-invariably: 3
-laughs: 3
-holding: 3
-trades: 3
-chiricles: 3
-Tell: 3
-rat: 3
-endure: 3
-Skammen: 3
-couple: 3
-Liver: 3
-swift: 3
-Pea: 3
-Saster: 3
-Songs: 3
-spot: 3
-retain: 3
-sacred: 3
-wench: 3
-tolerable: 3
-insect: 3
-Yule: 3
-Bald: 3
-cake: 3
-Por: 3
-Poggado: 3
-Pov: 3
-camm: 3
-Stay: 3
-travelling: 3
-Bring: 3
-chived: 3
-cana: 3
-Clara: 3
-absence: 3
-kicking: 3
-jinney: 3
-Word: 3
-aye: 3
-flesh: 3
-bosh: 3
-beings: 3
-Genesis: 3
-bar: 3
-baw: 3
-river: 3
-bee: 3
-forgive: 3
-bis: 3
-foolish: 3
-thenominative: 3
-Sinfye: 3
-mental: 3
-box: 3
-frightful: 3
-squalid: 3
-county: 3
-Saturday: 3
-pleasure: 3
-Gran: 3
-Needle: 3
-desh: 3
-ratfelo: 3
-tarpe: 3
-Nevi: 3
-commencement: 3
-Sometimes: 3
-Hung: 3
-ranior: 3
-rods: 3
-putsi: 3
-cam: 3
-hair: 3
-clothes: 3
-Groby: 2
-andreceived: 2
-hall: 2
-salary: 2
-tee: 2
-ccx: 2
-tel: 2
-oldGypsy: 2
-hang: 2
-L: 2
-inmany: 2
-eating: 2
-entering: 2
-q: 2
-sale: 2
-x: 2
-Again: 2
-Gare: 2
-romi: 2
-gared: 2
-sara: 2
-ropa: 2
-gheum: 2
-dleste: 2
-roof: 2
-gool: 2
-sasa: 2
-hast: 2
-gore: 2
-saro: 2
-shutting: 2
-trusty: 2
-hypertext: 2
-famous: 2
-spirit: 2
-Guveni: 2
-patrins: 2
-cutterfor: 2
-including: 2
-itmay: 2
-pios: 2
-anew: 2
-Rardiskey: 2
-Gentlemanly: 2
-chongor: 2
-pire: 2
-inspector: 2
-Fellow: 2
-stable: 2
-caught: 2
-mescroes: 2
-tun: 2
-state: 2
-worker: 2
-Dickimengro: 2
-SPANISH: 2
-Jalno: 2
-offering: 2
-nastis: 2
-Asa: 2
-Defects: 2
-BUT: 2
-Ass: 2
-Chungra: 2
-watch: 2
-shook: 2
-blows: 2
-donation: 2
-enlisted: 2
-moripen: 2
-dinnelo: 2
-Norwich: 2
-panior: 2
-fallen: 2
-golden: 2
-enter: 2
-Muktar: 2
-Gypsydialects: 2
-Seis: 2
-requires: 2
-unknown: 2
-fetch: 2
-Hell: 2
-shows: 2
-dat: 2
-Saxon: 2
-Patrin: 2
-Butsi: 2
-corps: 2
-savour: 2
-Sad: 2
-Sap: 2
-Sas: 2
-elsewhere: 2
-wendror: 2
-rukie: 2
-Bad: 2
-diamond: 2
-build: 2
-avava: 2
-Baw: 2
-shouted: 2
-finds: 2
-Heviskey: 2
-shock: 2
-stadj: 2
-Sea: 2
-equivalents: 2
-Cupid: 2
-Beg: 2
-Heta: 2
-staff: 2
-partly: 2
-Sho: 2
-highway: 2
-lollo: 2
-straw: 2
-Sir: 2
-occasion: 2
-Vardomescro: 2
-Big: 2
-Bis: 2
-Skewers: 2
-lacho: 2
-December: 2
-fools: 2
-CMU: 2
-Evermore: 2
-Rawniskie: 2
-coacheyMande: 2
-threes: 2
-Peter: 2
-mail: 2
-stinging: 2
-jibb: 2
-Bob: 2
-alter: 2
-Duito: 2
-bearing: 2
-included: 2
-rinkeni: 2
-gentry: 2
-rapidly: 2
-Aukko: 2
-traishes: 2
-Komi: 2
-drawing: 2
-guapos: 2
-singing: 2
-Lane: 2
-Lang: 2
-pishen: 2
-allied: 2
-coventry: 2
-highest: 2
-Mush: 2
-seizure: 2
-Zingaro: 2
-ochavo: 2
-puttogether: 2
-dinneles: 2
-remember: 2
-abillar: 2
-andwas: 2
-stan: 2
-Charlotte: 2
-militia: 2
-numbers: 2
-Kore: 2
-bark: 2
-THIS: 2
-Time: 2
-tatti: 2
-nummer: 2
-China: 2
-KirkYetholm: 2
-apply: 2
-bars: 2
-Kosa: 2
-step: 2
-mark: 2
-Tardra: 2
-jinn: 2
-lose: 2
-Petul: 2
-camova: 2
-exists: 2
-DAY: 2
-Jacinta: 2
-issomething: 2
-habben: 2
-Cas: 2
-Shello: 2
-Shoreditch: 2
-Walter: 2
-advantage: 2
-spent: 2
-Groat: 2
-Tea: 2
-stolen: 2
-Ten: 2
-Miduveleskoe: 2
-themen: 2
-victims: 2
-stor: 2
-stow: 2
-Dukkering: 2
-Al: 2
-Thy: 2
-Belonging: 2
-Trusted: 2
-tairie: 2
-official: 2
-fling: 2
-spring: 2
-theman: 2
-Da: 2
-Chavali: 2
-Doing: 2
-users: 2
-obtaining: 2
-Dr: 2
-kindly: 2
-http: 2
-hardly: 2
-private: 2
-El: 2
-vol: 2
-forty: 2
-contempt: 2
-START: 2
-happens: 2
-Chor: 2
-Whatever: 2
-IN: 2
-Duvvel: 2
-IT: 2
-Beng: 2
-Iv: 2
-kalya: 2
-Sarshin: 2
-Cow: 2
-lethim: 2
-Enough: 2
-finest: 2
-Le: 2
-entrance: 2
-brass: 2
-MY: 2
-driving: 2
-substituted: 2
-Sorlo: 2
-NO: 2
-Bitch: 2
-Na: 2
-render: 2
-ON: 2
-needle: 2
-Bero: 2
-companies: 2
-shoots: 2
-remain: 2
-Two: 2
-alternatively: 2
-gran: 2
-nest: 2
-Faas: 2
-fortunate: 2
-Artav: 2
-recovered: 2
-describe: 2
-countenance: 2
-Scott: 2
-dwelt: 2
-Su: 2
-sterling: 2
-Years: 2
-Up: 2
-fields: 2
-Randall: 2
-import: 2
-LAVO: 2
-Goodness: 2
-durable: 2
-trademark: 2
-Oliver: 2
-collections: 2
-stuck: 2
-plan: 2
-Rukh: 2
-horrid: 2
-Seven: 2
-Haddington: 2
-lowest: 2
-Sinaba: 2
-Grasnakkur: 2
-portion: 2
-gain: 2
-Thames: 2
-Lasho: 2
-older: 2
-wel: 2
-dovels: 2
-dadeskoe: 2
-stuff: 2
-fee: 2
-dica: 2
-Nick: 2
-winded: 2
-baulor: 2
-sugar: 2
-game: 2
-remark: 2
-linguist: 2
-Stanniwix: 2
-stanzas: 2
-visit: 2
-tatchie: 2
-Bordeaux: 2
-gaol: 2
-Wuddur: 2
-losing: 2
-fond: 2
-fromthe: 2
-ac: 2
-locality: 2
-Sixpence: 2
-az: 2
-Stinking: 2
-hurt: 2
-prove: 2
-Curlo: 2
-sudden: 2
-Defect: 2
-Die: 2
-tawny: 2
-food: 2
-tawno: 2
-observe: 2
-Posh: 2
-Friday: 2
-Congri: 2
-END: 2
-gare: 2
-apretty: 2
-EnglishGypsies: 2
-fox: 2
-Jezebel: 2
-knaw: 2
-genos: 2
-gate: 2
-divine: 2
-id: 2
-Putsi: 2
-buklipen: 2
-pimples: 2
-io: 2
-dinn: 2
-Dou: 2
-Shan: 2
-ftp: 2
-knee: 2
-fur: 2
-Beluni: 2
-sufficient: 2
-Ream: 2
-Doovel: 2
-Tener: 2
-author: 2
-dirt: 2
-City: 2
-artapen: 2
-disk: 2
-nd: 2
-Sher: 2
-oh: 2
-oy: 2
-pa: 2
-pg: 2
-pi: 2
-kissi: 2
-pr: 2
-falsehood: 2
-endof: 2
-poggring: 2
-Eastern: 2
-Wheat: 2
-thefortune: 2
-belly: 2
-betwixt: 2
-apart: 2
-flower: 2
-Shin: 2
-wormwood: 2
-Develehi: 2
-uk: 2
-Aranya: 2
-Please: 2
-Gypsyqueen: 2
-frightened: 2
-Vauros: 2
-gad: 2
-chomany: 2
-disposed: 2
-slight: 2
-Wendror: 2
-ScottishGaelic: 2
-courts: 2
-Shok: 2
-exact: 2
-promo: 2
-andthat: 2
-resembling: 2
-power: 2
-lescri: 2
-Wangar: 2
-Smallpox: 2
-proud: 2
-creatures: 2
-send: 2
-smirks: 2
-snake: 2
-gin: 2
-thesame: 2
-Ryeskoe: 2
-Luck: 2
-harmless: 2
-Water: 2
-Thing: 2
-audience: 2
-Things: 2
-entitled: 2
-weshAre: 2
-veins: 2
-illustration: 2
-god: 2
-reader: 2
-Kralyissa: 2
-avery: 2
-Manro: 2
-Epping: 2
-Adje: 2
-murder: 2
-departed: 2
-People: 2
-complaint: 2
-lads: 2
-ETEXT: 2
-Prisoner: 2
-tosay: 2
-changing: 2
-musical: 2
-understand: 2
-strongly: 2
-appearing: 2
-FTP: 2
-Pandlo: 2
-American: 2
-baribu: 2
-native: 2
-nashing: 2
-Mansa: 2
-raven: 2
-tide: 2
-Third: 2
-vilest: 2
-shoshoi: 2
-void: 2
-liability: 2
-Public: 2
-arms: 2
-buss: 2
-lane: 2
-burn: 2
-dexterity: 2
-Kara: 2
-marry: 2
-Married: 2
-welcome: 2
-circle: 2
-Vast: 2
-praio: 2
-whichsignifies: 2
-Trillion: 2
-wangust: 2
-wiseman: 2
-Vocabulary: 2
-Once: 2
-Agamemnon: 2
-school: 2
-Vava: 2
-Latimer: 2
-loveliest: 2
-warm: 2
-Hind: 2
-Brown: 2
-Feter: 2
-communicative: 2
-alike: 2
-Far: 2
-Fat: 2
-Twere: 2
-trutera: 2
-Sollibari: 2
-Egyptians: 2
-Imight: 2
-palaces: 2
-GET: 2
-Wel: 2
-baskets: 2
-flinging: 2
-smart: 2
-personage: 2
-Bowle: 2
-garden: 2
-Karman: 2
-Iuziou: 2
-square: 2
-wishest: 2
-shepherd: 2
-mushes: 2
-point: 2
-slomm: 2
-Gitano: 2
-Fig: 2
-crowded: 2
-burroder: 2
-blacksmith: 2
-yoi: 2
-Develeskey: 2
-delighted: 2
-court: 2
-LIMITED: 2
-MAKING: 2
-natives: 2
-bulky: 2
-Week: 2
-atraish: 2
-uncouth: 2
-Tikno: 2
-Woe: 2
-ablative: 2
-thrive: 2
-reckoning: 2
-Fox: 2
-carrying: 2
-Sutta: 2
-notice: 2
-chinning: 2
-ransom: 2
-dropper: 2
-artifice: 2
-whereupon: 2
-Matcheneskoe: 2
-delante: 2
-putches: 2
-inducing: 2
-citizen: 2
-sooner: 2
-beconsidered: 2
-borders: 2
-Avata: 2
-welling: 2
-bero: 2
-Upon: 2
-Each: 2
-Lolli: 2
-EBCDIC: 2
-rude: 2
-thereby: 2
-durril: 2
-shower: 2
-orobar: 2
-Hindustani: 2
-desch: 2
-thorough: 2
-Speaking: 2
-Hindoo: 2
-Prey: 2
-afraid: 2
-Latch: 2
-dingy: 2
-Full: 2
-Gypsytribe: 2
-zee: 2
-plastani: 2
-gulo: 2
-expired: 2
-thedifferent: 2
-volunteered: 2
-derivedfrom: 2
-Stiggur: 2
-havewords: 2
-Aritche: 2
-zip: 2
-Pedloer: 2
-profession: 2
-steep: 2
-steed: 2
-affectionate: 2
-Pali: 2
-jawbone: 2
-Wisdom: 2
-Gypsyries: 2
-spits: 2
-Pand: 2
-dinar: 2
-paper: 2
-Earl: 2
-Pottery: 2
-atch: 2
-Pata: 2
-Milk: 2
-Chong: 2
-Britannia: 2
-rokkrapen: 2
-East: 2
-shortly: 2
-guyi: 2
-SMALL: 2
-vocabulary: 2
-mistos: 2
-Belly: 2
-Caumli: 2
-Pansch: 2
-Paub: 2
-chinga: 2
-Welling: 2
-youwill: 2
-production: 2
-Bird: 2
-Miro: 2
-abouttwenty: 2
-White: 2
-Birk: 2
-artisans: 2
-haran: 2
-Brahe: 2
-shel: 2
-baulo: 2
-clock: 2
-fifteen: 2
-Chinoro: 2
-mille: 2
-innkeeper: 2
-Follow: 2
-Empress: 2
-goodness: 2
-prairienet: 2
-containing: 2
-demand: 2
-handed: 2
-worth: 2
-Association: 2
-Leary: 2
-Has: 2
-parriken: 2
-pazorrus: 2
-Plakta: 2
-herring: 2
-Mistos: 2
-shop: 2
-Scripture: 2
-Yet: 2
-Leave: 2
-learned: 2
-sastris: 2
-stranger: 2
-penny: 2
-delicate: 2
-runners: 2
-style: 2
-Paracrow: 2
-guard: 2
-Shohaury: 2
-comrade: 2
-sheis: 2
-Turnip: 2
-Almighty: 2
-Tugnis: 2
-important: 2
-Continental: 2
-largest: 2
-adjective: 2
-kingdom: 2
-countenances: 2
-achuri: 2
-canna: 2
-Hok: 2
-Snail: 2
-Bowels: 2
-Norfolk: 2
-wusts: 2
-civil: 2
-indicate: 2
-entered: 2
-Nails: 2
-petulengring: 2
-widowed: 2
-Instead: 2
-poggra: 2
-farmer: 2
-worms: 2
-totaller: 2
-SpanishGypsies: 2
-corner: 2
-vain: 2
-thetime: 2
-ordure: 2
-dikkipen: 2
-everything: 2
-countryman: 2
-comfort: 2
-bacon: 2
-Church: 2
-knees: 2
-Nothing: 2
-lust: 2
-Choomande: 2
-directly: 2
-preserve: 2
-proclaim: 2
-Trollopr: 2
-shehas: 2
-total: 2
-pursued: 2
-yeckto: 2
-loses: 2
-interesting: 2
-Christianity: 2
-shehad: 2
-Buklo: 2
-improperly: 2
-hinder: 2
-lighted: 2
-otherthings: 2
-kara: 2
-ken: 2
-dusta: 2
-key: 2
-Java: 2
-Delante: 2
-callarda: 2
-andhad: 2
-degree: 2
-carpet: 2
-Roumain: 2
-kin: 2
-bounces: 2
-speedily: 2
-Manush: 2
-theother: 2
-moles: 2
-whichare: 2
-teeth: 2
-ustilar: 2
-dusky: 2
-saidthat: 2
-regular: 2
-objection: 2
-site: 2
-kor: 2
-inquiring: 2
-Below: 2
-Spinyor: 2
-weep: 2
-Chore: 2
-played: 2
-prepare: 2
-chinnimengro: 2
-legs: 2
-Shubbo: 2
-kerrimus: 2
-size: 2
-object: 2
-shillipen: 2
-Mullo: 2
-quiet: 2
-iscalled: 2
-stature: 2
-wheels: 2
-Whoy: 2
-supposed: 2
-themeaning: 2
-beshor: 2
-disclaimers: 2
-wels: 2
-Young: 2
-Kent: 2
-cheek: 2
-cheer: 2
-Bokht: 2
-whetherthe: 2
-Drav: 2
-tringurushis: 2
-conjunction: 2
-noise: 2
-walks: 2
-beshel: 2
-translated: 2
-pray: 2
-identical: 2
-Zimmen: 2
-west: 2
-raise: 2
-Porrum: 2
-hatch: 2
-pitched: 2
-Sinfaya: 2
-Hearing: 2
-Death: 2
-Dado: 2
-chabori: 2
-Hekta: 2
-len: 2
-shello: 2
-Mickie: 2
-regretted: 2
-dollars: 2
-descendants: 2
-pluck: 2
-smell: 2
-unable: 2
-feathers: 2
-ardela: 2
-ballad: 2
-burda: 2
-converted: 2
-lefther: 2
-pail: 2
-Blani: 2
-Partly: 2
-cabbage: 2
-pala: 2
-remembered: 2
-Chorody: 2
-season: 2
-Cold: 2
-Tatcho: 2
-Dand: 2
-provide: 2
-formation: 2
-computer: 2
-chichi: 2
-funding: 2
-dook: 2
-Like: 2
-Joe: 2
-Queen: 2
-amiable: 2
-gorgikonaes: 2
-Dark: 2
-Cost: 2
-Chauvo: 2
-east: 2
-Povengreskoe: 2
-Gordon: 2
-persuaded: 2
-seeking: 2
-Wine: 2
-Wind: 2
-romadi: 2
-dost: 2
-smiles: 2
-romado: 2
-dosh: 2
-breeches: 2
-bind: 2
-past: 2
-mourning: 2
-Durro: 2
-dori: 2
-pikko: 2
-easy: 2
-domain: 2
-dour: 2
-existed: 2
-Strange: 2
-added: 2
-thewomen: 2
-Engri: 2
-choveno: 2
-wretched: 2
-habit: 2
-brings: 2
-acres: 2
-worthy: 2
-bite: 2
-alarge: 2
-Thereupon: 2
-decidedly: 2
-ofEngland: 2
-blanket: 2
-usually: 2
-letters: 2
-fear: 2
-Chalo: 2
-Trihool: 2
-coaches: 2
-field: 2
-opens: 2
-Chair: 2
-tailor: 2
-legally: 2
-Mailla: 2
-brisheneskey: 2
-fees: 2
-Snow: 2
-coccori: 2
-residence: 2
-wascalled: 2
-syllable: 2
-chauves: 2
-Lesti: 2
-feed: 2
-Leste: 2
-bonnet: 2
-whittle: 2
-mer: 2
-wicked: 2
-winked: 2
-barley: 2
-miller: 2
-animal: 2
-Adrey: 2
-fell: 2
-Bashadi: 2
-attentively: 2
-vagrants: 2
-berry: 2
-wenches: 2
-owing: 2
-Kil: 2
-Penn: 2
-flying: 2
-slain: 2
-Branch: 2
-resided: 2
-relation: 2
-profits: 2
-errajai: 2
-resemblance: 2
-beano: 2
-Bridle: 2
-haste: 2
-hasto: 2
-cutting: 2
-butcher: 2
-kettaney: 2
-Bokra: 2
-Soba: 2
-expecting: 2
-Cushnee: 2
-capture: 2
-esta: 2
-Kri: 2
-Oxford: 2
-desperate: 2
-leading: 2
-Jinney: 2
-July: 2
-Dusta: 2
-inGypsy: 2
-June: 2
-beware: 2
-forest: 2
-hungry: 2
-Cyder: 2
-crumb: 2
-Trin: 2
-chiros: 2
-Taken: 2
-rawnee: 2
-curapen: 2
-Sohr: 2
-casts: 2
-materials: 2
-respecting: 2
-andis: 2
-Candle: 2
-Hold: 2
-gift: 2
-jallan: 2
-Song: 2
-nae: 2
-brethren: 2
-sexton: 2
-Just: 2
-koshko: 2
-Sullivan: 2
-EVEN: 2
-tone: 2
-gorgios: 2
-grandmother: 2
-Yeckorus: 2
-hawkers: 2
-Mulleno: 2
-engres: 2
-Soro: 2
-catching: 2
-Mestipen: 2
-around: 2
-Traish: 2
-dative: 2
-gorgiko: 2
-employment: 2
-Lel: 2
-shift: 2
-shoulder: 2
-dance: 2
-maybe: 2
-Zingarrijib: 2
-mournful: 2
-Madge: 2
-silly: 2
-Fire: 2
-Tawnie: 2
-rokkaring: 2
-whatever: 2
-yards: 2
-pooro: 2
-youhave: 2
-CAPPI: 2
-complexion: 2
-Five: 2
-frying: 2
-probability: 2
-Blowing: 2
-Lon: 2
-Lou: 2
-PUBLIC: 2
-villainy: 2
-sentences: 2
-commons: 2
-sentenced: 2
-theologian: 2
-whip: 2
-marked: 2
-Marshall: 2
-imprisonment: 2
-Chavo: 2
-handful: 2
-Wizard: 2
-Vinegar: 2
-Across: 2
-keir: 2
+theSanscrit    : 3
+consider       : 3
+jawing         : 3
+deserted       : 3
+request        : 3
+Bavol          : 3
+hunting        : 3
+asarlus        : 3
+comes          : 3
+Half           : 3
+onthe          : 3
+purse          : 3
+Gypsyism       : 3
+kekkeno        : 3
+Money          : 3
+passed         : 3
+respects       : 3
+Purana         : 3
+hole           : 3
+themost        : 3
+Hart           : 3
+aboutthe       : 3
+Pins           : 3
+Pire           : 3
+funeral        : 3
+wonderfully    : 3
+denotes        : 3
+hecould        : 3
+fish           : 3
+inside         : 3
+begging        : 3
+Russia         : 3
+wonder         : 3
+Grecian        : 3
+Luvvo          : 3
+crest          : 3
+donations      : 3
+moreover       : 3
+invariably     : 3
+laughs         : 3
+holding        : 3
+trades         : 3
+chiricles      : 3
+Tell           : 3
+rat            : 3
+endure         : 3
+Skammen        : 3
+couple         : 3
+Liver          : 3
+swift          : 3
+Pea            : 3
+Saster         : 3
+Songs          : 3
+spot           : 3
+retain         : 3
+sacred         : 3
+wench          : 3
+tolerable      : 3
+insect         : 3
+Yule           : 3
+Bald           : 3
+cake           : 3
+Por            : 3
+Poggado        : 3
+Pov            : 3
+camm           : 3
+Stay           : 3
+travelling     : 3
+Bring          : 3
+chived         : 3
+cana           : 3
+Clara          : 3
+absence        : 3
+kicking        : 3
+jinney         : 3
+Word           : 3
+aye            : 3
+flesh          : 3
+bosh           : 3
+beings         : 3
+Genesis        : 3
+bar            : 3
+baw            : 3
+river          : 3
+bee            : 3
+forgive        : 3
+bis            : 3
+foolish        : 3
+thenominative  : 3
+Sinfye         : 3
+mental         : 3
+box            : 3
+frightful      : 3
+squalid        : 3
+county         : 3
+Saturday       : 3
+pleasure       : 3
+Gran           : 3
+Needle         : 3
+desh           : 3
+ratfelo        : 3
+tarpe          : 3
+Nevi           : 3
+commencement   : 3
+Sometimes      : 3
+Hung           : 3
+ranior         : 3
+rods           : 3
+putsi          : 3
+cam            : 3
+hair           : 3
+clothes        : 3
+Groby          : 2
+andreceived    : 2
+hall           : 2
+salary         : 2
+tee            : 2
+ccx            : 2
+tel            : 2
+oldGypsy       : 2
+hang           : 2
+L              : 2
+inmany         : 2
+eating         : 2
+entering       : 2
+q              : 2
+sale           : 2
+x              : 2
+Again          : 2
+Gare           : 2
+romi           : 2
+gared          : 2
+sara           : 2
+ropa           : 2
+gheum          : 2
+dleste         : 2
+roof           : 2
+gool           : 2
+sasa           : 2
+hast           : 2
+gore           : 2
+saro           : 2
+shutting       : 2
+trusty         : 2
+hypertext      : 2
+famous         : 2
+spirit         : 2
+Guveni         : 2
+patrins        : 2
+cutterfor      : 2
+including      : 2
+itmay          : 2
+pios           : 2
+anew           : 2
+Rardiskey      : 2
+Gentlemanly    : 2
+chongor        : 2
+pire           : 2
+inspector      : 2
+Fellow         : 2
+stable         : 2
+caught         : 2
+mescroes       : 2
+tun            : 2
+state          : 2
+worker         : 2
+Dickimengro    : 2
+SPANISH        : 2
+Jalno          : 2
+offering       : 2
+nastis         : 2
+Asa            : 2
+Defects        : 2
+BUT            : 2
+Ass            : 2
+Chungra        : 2
+watch          : 2
+shook          : 2
+blows          : 2
+donation       : 2
+enlisted       : 2
+moripen        : 2
+dinnelo        : 2
+Norwich        : 2
+panior         : 2
+fallen         : 2
+golden         : 2
+enter          : 2
+Muktar         : 2
+Gypsydialects  : 2
+Seis           : 2
+requires       : 2
+unknown        : 2
+fetch          : 2
+Hell           : 2
+shows          : 2
+dat            : 2
+Saxon          : 2
+Patrin         : 2
+Butsi          : 2
+corps          : 2
+savour         : 2
+Sad            : 2
+Sap            : 2
+Sas            : 2
+elsewhere      : 2
+wendror        : 2
+rukie          : 2
+Bad            : 2
+diamond        : 2
+build          : 2
+avava          : 2
+Baw            : 2
+shouted        : 2
+finds          : 2
+Heviskey       : 2
+shock          : 2
+stadj          : 2
+Sea            : 2
+equivalents    : 2
+Cupid          : 2
+Beg            : 2
+Heta           : 2
+staff          : 2
+partly         : 2
+Sho            : 2
+highway        : 2
+lollo          : 2
+straw          : 2
+Sir            : 2
+occasion       : 2
+Vardomescro    : 2
+Big            : 2
+Bis            : 2
+Skewers        : 2
+lacho          : 2
+December       : 2
+fools          : 2
+CMU            : 2
+Evermore       : 2
+Rawniskie      : 2
+coacheyMande   : 2
+threes         : 2
+Peter          : 2
+mail           : 2
+stinging       : 2
+jibb           : 2
+Bob            : 2
+alter          : 2
+Duito          : 2
+bearing        : 2
+included       : 2
+rinkeni        : 2
+gentry         : 2
+rapidly        : 2
+Aukko          : 2
+traishes       : 2
+Komi           : 2
+drawing        : 2
+guapos         : 2
+singing        : 2
+Lane           : 2
+Lang           : 2
+pishen         : 2
+allied         : 2
+coventry       : 2
+highest        : 2
+Mush           : 2
+seizure        : 2
+Zingaro        : 2
+ochavo         : 2
+puttogether    : 2
+dinneles       : 2
+remember       : 2
+abillar        : 2
+andwas         : 2
+stan           : 2
+Charlotte      : 2
+militia        : 2
+numbers        : 2
+Kore           : 2
+bark           : 2
+THIS           : 2
+Time           : 2
+tatti          : 2
+nummer         : 2
+China          : 2
+KirkYetholm    : 2
+apply          : 2
+bars           : 2
+Kosa           : 2
+step           : 2
+mark           : 2
+Tardra         : 2
+jinn           : 2
+lose           : 2
+Petul          : 2
+camova         : 2
+exists         : 2
+DAY            : 2
+Jacinta        : 2
+issomething    : 2
+habben         : 2
+Cas            : 2
+Shello         : 2
+Shoreditch     : 2
+Walter         : 2
+advantage      : 2
+spent          : 2
+Groat          : 2
+Tea            : 2
+stolen         : 2
+Ten            : 2
+Miduveleskoe   : 2
+themen         : 2
+victims        : 2
+stor           : 2
+stow           : 2
+Dukkering      : 2
+Al             : 2
+Thy            : 2
+Belonging      : 2
+Trusted        : 2
+tairie         : 2
+official       : 2
+fling          : 2
+spring         : 2
+theman         : 2
+Da             : 2
+Chavali        : 2
+Doing          : 2
+users          : 2
+obtaining      : 2
+Dr             : 2
+kindly         : 2
+http           : 2
+hardly         : 2
+private        : 2
+El             : 2
+vol            : 2
+forty          : 2
+contempt       : 2
+START          : 2
+happens        : 2
+Chor           : 2
+Whatever       : 2
+IN             : 2
+Duvvel         : 2
+IT             : 2
+Beng           : 2
+Iv             : 2
+kalya          : 2
+Sarshin        : 2
+Cow            : 2
+lethim         : 2
+Enough         : 2
+finest         : 2
+Le             : 2
+entrance       : 2
+brass          : 2
+MY             : 2
+driving        : 2
+substituted    : 2
+Sorlo          : 2
+NO             : 2
+Bitch          : 2
+Na             : 2
+render         : 2
+ON             : 2
+needle         : 2
+Bero           : 2
+companies      : 2
+shoots         : 2
+remain         : 2
+Two            : 2
+alternatively  : 2
+gran           : 2
+nest           : 2
+Faas           : 2
+fortunate      : 2
+Artav          : 2
+recovered      : 2
+describe       : 2
+countenance    : 2
+Scott          : 2
+dwelt          : 2
+Su             : 2
+sterling       : 2
+Years          : 2
+Up             : 2
+fields         : 2
+Randall        : 2
+import         : 2
+LAVO           : 2
+Goodness       : 2
+durable        : 2
+trademark      : 2
+Oliver         : 2
+collections    : 2
+stuck          : 2
+plan           : 2
+Rukh           : 2
+horrid         : 2
+Seven          : 2
+Haddington     : 2
+lowest         : 2
+Sinaba         : 2
+Grasnakkur     : 2
+portion        : 2
+gain           : 2
+Thames         : 2
+Lasho          : 2
+older          : 2
+wel            : 2
+dovels         : 2
+dadeskoe       : 2
+stuff          : 2
+fee            : 2
+dica           : 2
+Nick           : 2
+winded         : 2
+baulor         : 2
+sugar          : 2
+game           : 2
+remark         : 2
+linguist       : 2
+Stanniwix      : 2
+stanzas        : 2
+visit          : 2
+tatchie        : 2
+Bordeaux       : 2
+gaol           : 2
+Wuddur         : 2
+losing         : 2
+fond           : 2
+fromthe        : 2
+ac             : 2
+locality       : 2
+Sixpence       : 2
+az             : 2
+Stinking       : 2
+hurt           : 2
+prove          : 2
+Curlo          : 2
+sudden         : 2
+Defect         : 2
+Die            : 2
+tawny          : 2
+food           : 2
+tawno          : 2
+observe        : 2
+Posh           : 2
+Friday         : 2
+Congri         : 2
+END            : 2
+gare           : 2
+apretty        : 2
+EnglishGypsies : 2
+fox            : 2
+Jezebel        : 2
+knaw           : 2
+genos          : 2
+gate           : 2
+divine         : 2
+id             : 2
+Putsi          : 2
+buklipen       : 2
+pimples        : 2
+io             : 2
+dinn           : 2
+Dou            : 2
+Shan           : 2
+ftp            : 2
+knee           : 2
+fur            : 2
+Beluni         : 2
+sufficient     : 2
+Ream           : 2
+Doovel         : 2
+Tener          : 2
+author         : 2
+dirt           : 2
+City           : 2
+artapen        : 2
+disk           : 2
+nd             : 2
+Sher           : 2
+oh             : 2
+oy             : 2
+pa             : 2
+pg             : 2
+pi             : 2
+kissi          : 2
+pr             : 2
+falsehood      : 2
+endof          : 2
+poggring       : 2
+Eastern        : 2
+Wheat          : 2
+thefortune     : 2
+belly          : 2
+betwixt        : 2
+apart          : 2
+flower         : 2
+Shin           : 2
+wormwood       : 2
+Develehi       : 2
+uk             : 2
+Aranya         : 2
+Please         : 2
+Gypsyqueen     : 2
+frightened     : 2
+Vauros         : 2
+gad            : 2
+chomany        : 2
+disposed       : 2
+slight         : 2
+Wendror        : 2
+ScottishGaelic : 2
+courts         : 2
+Shok           : 2
+exact          : 2
+promo          : 2
+andthat        : 2
+resembling     : 2
+power          : 2
+lescri         : 2
+Wangar         : 2
+Smallpox       : 2
+proud          : 2
+creatures      : 2
+send           : 2
+smirks         : 2
+snake          : 2
+gin            : 2
+thesame        : 2
+Ryeskoe        : 2
+Luck           : 2
+harmless       : 2
+Water          : 2
+Thing          : 2
+audience       : 2
+Things         : 2
+entitled       : 2
+weshAre        : 2
+veins          : 2
+illustration   : 2
+god            : 2
+reader         : 2
+Kralyissa      : 2
+avery          : 2
+Manro          : 2
+Epping         : 2
+Adje           : 2
+murder         : 2
+departed       : 2
+People         : 2
+complaint      : 2
+lads           : 2
+ETEXT          : 2
+Prisoner       : 2
+tosay          : 2
+changing       : 2
+musical        : 2
+understand     : 2
+strongly       : 2
+appearing      : 2
+FTP            : 2
+Pandlo         : 2
+American       : 2
+baribu         : 2
+native         : 2
+nashing        : 2
+Mansa          : 2
+raven          : 2
+tide           : 2
+Third          : 2
+vilest         : 2
+shoshoi        : 2
+void           : 2
+liability      : 2
+Public         : 2
+arms           : 2
+buss           : 2
+lane           : 2
+burn           : 2
+dexterity      : 2
+Kara           : 2
+marry          : 2
+Married        : 2
+welcome        : 2
+circle         : 2
+Vast           : 2
+praio          : 2
+whichsignifies : 2
+Trillion       : 2
+wangust        : 2
+wiseman        : 2
+Vocabulary     : 2
+Once           : 2
+Agamemnon      : 2
+school         : 2
+Vava           : 2
+Latimer        : 2
+loveliest      : 2
+warm           : 2
+Hind           : 2
+Brown          : 2
+Feter          : 2
+communicative  : 2
+alike          : 2
+Far            : 2
+Fat            : 2
+Twere          : 2
+trutera        : 2
+Sollibari      : 2
+Egyptians      : 2
+Imight         : 2
+palaces        : 2
+GET            : 2
+Wel            : 2
+baskets        : 2
+flinging       : 2
+smart          : 2
+personage      : 2
+Bowle          : 2
+garden         : 2
+Karman         : 2
+Iuziou         : 2
+square         : 2
+wishest        : 2
+shepherd       : 2
+mushes         : 2
+point          : 2
+slomm          : 2
+Gitano         : 2
+Fig            : 2
+crowded        : 2
+burroder       : 2
+blacksmith     : 2
+yoi            : 2
+Develeskey     : 2
+delighted      : 2
+court          : 2
+LIMITED        : 2
+MAKING         : 2
+natives        : 2
+bulky          : 2
+Week           : 2
+atraish        : 2
+uncouth        : 2
+Tikno          : 2
+Woe            : 2
+ablative       : 2
+thrive         : 2
+reckoning      : 2
+Fox            : 2
+carrying       : 2
+Sutta          : 2
+notice         : 2
+chinning       : 2
+ransom         : 2
+dropper        : 2
+artifice       : 2
+whereupon      : 2
+Matcheneskoe   : 2
+delante        : 2
+putches        : 2
+inducing       : 2
+citizen        : 2
+sooner         : 2
+beconsidered   : 2
+borders        : 2
+Avata          : 2
+welling        : 2
+bero           : 2
+Upon           : 2
+Each           : 2
+Lolli          : 2
+EBCDIC         : 2
+rude           : 2
+thereby        : 2
+durril         : 2
+shower         : 2
+orobar         : 2
+Hindustani     : 2
+desch          : 2
+thorough       : 2
+Speaking       : 2
+Hindoo         : 2
+Prey           : 2
+afraid         : 2
+Latch          : 2
+dingy          : 2
+Full           : 2
+Gypsytribe     : 2
+zee            : 2
+plastani       : 2
+gulo           : 2
+expired        : 2
+thedifferent   : 2
+volunteered    : 2
+derivedfrom    : 2
+Stiggur        : 2
+havewords      : 2
+Aritche        : 2
+zip            : 2
+Pedloer        : 2
+profession     : 2
+steep          : 2
+steed          : 2
+affectionate   : 2
+Pali           : 2
+jawbone        : 2
+Wisdom         : 2
+Gypsyries      : 2
+spits          : 2
+Pand           : 2
+dinar          : 2
+paper          : 2
+Earl           : 2
+Pottery        : 2
+atch           : 2
+Pata           : 2
+Milk           : 2
+Chong          : 2
+Britannia      : 2
+rokkrapen      : 2
+East           : 2
+shortly        : 2
+guyi           : 2
+SMALL          : 2
+vocabulary     : 2
+mistos         : 2
+Belly          : 2
+Caumli         : 2
+Pansch         : 2
+Paub           : 2
+chinga         : 2
+Welling        : 2
+youwill        : 2
+production     : 2
+Bird           : 2
+Miro           : 2
+abouttwenty    : 2
+White          : 2
+Birk           : 2
+artisans       : 2
+haran          : 2
+Brahe          : 2
+shel           : 2
+baulo          : 2
+clock          : 2
+fifteen        : 2
+Chinoro        : 2
+mille          : 2
+innkeeper      : 2
+Follow         : 2
+Empress        : 2
+goodness       : 2
+prairienet     : 2
+containing     : 2
+demand         : 2
+handed         : 2
+worth          : 2
+Association    : 2
+Leary          : 2
+Has            : 2
+parriken       : 2
+pazorrus       : 2
+Plakta         : 2
+herring        : 2
+Mistos         : 2
+shop           : 2
+Scripture      : 2
+Yet            : 2
+Leave          : 2
+learned        : 2
+sastris        : 2
+stranger       : 2
+penny          : 2
+delicate       : 2
+runners        : 2
+style          : 2
+Paracrow       : 2
+guard          : 2
+Shohaury       : 2
+comrade        : 2
+sheis          : 2
+Turnip         : 2
+Almighty       : 2
+Tugnis         : 2
+important      : 2
+Continental    : 2
+largest        : 2
+adjective      : 2
+kingdom        : 2
+countenances   : 2
+achuri         : 2
+canna          : 2
+Hok            : 2
+Snail          : 2
+Bowels         : 2
+Norfolk        : 2
+wusts          : 2
+civil          : 2
+indicate       : 2
+entered        : 2
+Nails          : 2
+petulengring   : 2
+widowed        : 2
+Instead        : 2
+poggra         : 2
+farmer         : 2
+worms          : 2
+totaller       : 2
+SpanishGypsies : 2
+corner         : 2
+vain           : 2
+thetime        : 2
+ordure         : 2
+dikkipen       : 2
+everything     : 2
+countryman     : 2
+comfort        : 2
+bacon          : 2
+Church         : 2
+knees          : 2
+Nothing        : 2
+lust           : 2
+Choomande      : 2
+directly       : 2
+preserve       : 2
+proclaim       : 2
+Trollopr       : 2
+shehas         : 2
+total          : 2
+pursued        : 2
+yeckto         : 2
+loses          : 2
+interesting    : 2
+Christianity   : 2
+shehad         : 2
+Buklo          : 2
+improperly     : 2
+hinder         : 2
+lighted        : 2
+otherthings    : 2
+kara           : 2
+ken            : 2
+dusta          : 2
+key            : 2
+Java           : 2
+Delante        : 2
+callarda       : 2
+andhad         : 2
+degree         : 2
+carpet         : 2
+Roumain        : 2
+kin            : 2
+bounces        : 2
+speedily       : 2
+Manush         : 2
+theother       : 2
+moles          : 2
+whichare       : 2
+teeth          : 2
+ustilar        : 2
+dusky          : 2
+saidthat       : 2
+regular        : 2
+objection      : 2
+site           : 2
+kor            : 2
+inquiring      : 2
+Below          : 2
+Spinyor        : 2
+weep           : 2
+Chore          : 2
+played         : 2
+prepare        : 2
+chinnimengro   : 2
+legs           : 2
+Shubbo         : 2
+kerrimus       : 2
+size           : 2
+object         : 2
+shillipen      : 2
+Mullo          : 2
+quiet          : 2
+iscalled       : 2
+stature        : 2
+wheels         : 2
+Whoy           : 2
+supposed       : 2
+themeaning     : 2
+beshor         : 2
+disclaimers    : 2
+wels           : 2
+Young          : 2
+Kent           : 2
+cheek          : 2
+cheer          : 2
+Bokht          : 2
+whetherthe     : 2
+Drav           : 2
+tringurushis   : 2
+conjunction    : 2
+noise          : 2
+walks          : 2
+beshel         : 2
+translated     : 2
+pray           : 2
+identical      : 2
+Zimmen         : 2
+west           : 2
+raise          : 2
+Porrum         : 2
+hatch          : 2
+pitched        : 2
+Sinfaya        : 2
+Hearing        : 2
+Death          : 2
+Dado           : 2
+chabori        : 2
+Hekta          : 2
+len            : 2
+shello         : 2
+Mickie         : 2
+regretted      : 2
+dollars        : 2
+descendants    : 2
+pluck          : 2
+smell          : 2
+unable         : 2
+feathers       : 2
+ardela         : 2
+ballad         : 2
+burda          : 2
+converted      : 2
+lefther        : 2
+pail           : 2
+Blani          : 2
+Partly         : 2
+cabbage        : 2
+pala           : 2
+remembered     : 2
+Chorody        : 2
+season         : 2
+Cold           : 2
+Tatcho         : 2
+Dand           : 2
+provide        : 2
+formation      : 2
+computer       : 2
+chichi         : 2
+funding        : 2
+dook           : 2
+Like           : 2
+Joe            : 2
+Queen          : 2
+amiable        : 2
+gorgikonaes    : 2
+Dark           : 2
+Cost           : 2
+Chauvo         : 2
+east           : 2
+Povengreskoe   : 2
+Gordon         : 2
+persuaded      : 2
+seeking        : 2
+Wine           : 2
+Wind           : 2
+romadi         : 2
+dost           : 2
+smiles         : 2
+romado         : 2
+dosh           : 2
+breeches       : 2
+bind           : 2
+past           : 2
+mourning       : 2
+Durro          : 2
+dori           : 2
+pikko          : 2
+easy           : 2
+domain         : 2
+dour           : 2
+existed        : 2
+Strange        : 2
+added          : 2
+thewomen       : 2
+Engri          : 2
+choveno        : 2
+wretched       : 2
+habit          : 2
+brings         : 2
+acres          : 2
+worthy         : 2
+bite           : 2
+alarge         : 2
+Thereupon      : 2
+decidedly      : 2
+ofEngland      : 2
+blanket        : 2
+usually        : 2
+letters        : 2
+fear           : 2
+Chalo          : 2
+Trihool        : 2
+coaches        : 2
+field          : 2
+opens          : 2
+Chair          : 2
+tailor         : 2
+legally        : 2
+Mailla         : 2
+brisheneskey   : 2
+fees           : 2
+Snow           : 2
+coccori        : 2
+residence      : 2
+wascalled      : 2
+syllable       : 2
+chauves        : 2
+Lesti          : 2
+feed           : 2
+Leste          : 2
+bonnet         : 2
+whittle        : 2
+mer            : 2
+wicked         : 2
+winked         : 2
+barley         : 2
+miller         : 2
+animal         : 2
+Adrey          : 2
+fell           : 2
+Bashadi        : 2
+attentively    : 2
+vagrants       : 2
+berry          : 2
+wenches        : 2
+owing          : 2
+Kil            : 2
+Penn           : 2
+flying         : 2
+slain          : 2
+Branch         : 2
+resided        : 2
+relation       : 2
+profits        : 2
+errajai        : 2
+resemblance    : 2
+beano          : 2
+Bridle         : 2
+haste          : 2
+hasto          : 2
+cutting        : 2
+butcher        : 2
+kettaney       : 2
+Bokra          : 2
+Soba           : 2
+expecting      : 2
+Cushnee        : 2
+capture        : 2
+esta           : 2
+Kri            : 2
+Oxford         : 2
+desperate      : 2
+leading        : 2
+Jinney         : 2
+July           : 2
+Dusta          : 2
+inGypsy        : 2
+June           : 2
+beware         : 2
+forest         : 2
+hungry         : 2
+Cyder          : 2
+crumb          : 2
+Trin           : 2
+chiros         : 2
+Taken          : 2
+rawnee         : 2
+curapen        : 2
+Sohr           : 2
+casts          : 2
+materials      : 2
+respecting     : 2
+andis          : 2
+Candle         : 2
+Hold           : 2
+gift           : 2
+jallan         : 2
+Song           : 2
+nae            : 2
+brethren       : 2
+sexton         : 2
+Just           : 2
+koshko         : 2
+Sullivan       : 2
+EVEN           : 2
+tone           : 2
+gorgios        : 2
+grandmother    : 2
+Yeckorus       : 2
+hawkers        : 2
+Mulleno        : 2
+engres         : 2
+Soro           : 2
+catching       : 2
+Mestipen       : 2
+around         : 2
+Traish         : 2
+dative         : 2
+gorgiko        : 2
+employment     : 2
+Lel            : 2
+shift          : 2
+shoulder       : 2
+dance          : 2
+maybe          : 2
+Zingarrijib    : 2
+mournful       : 2
+Madge          : 2
+silly          : 2
+Fire           : 2
+Tawnie         : 2
+rokkaring      : 2
+whatever       : 2
+yards          : 2
+pooro          : 2
+youhave        : 2
+CAPPI          : 2
+complexion     : 2
+Five           : 2
+frying         : 2
+probability    : 2
+Blowing        : 2
+Lon            : 2
+Lou            : 2
+PUBLIC         : 2
+villainy       : 2
+sentences      : 2
+commons        : 2
+sentenced      : 2
+theologian     : 2
+whip           : 2
+marked         : 2
+Marshall       : 2
+imprisonment   : 2
+Chavo          : 2
+handful        : 2
+Wizard         : 2
+Vinegar        : 2
+Across         : 2
+keir           : 2
 theyoccasionally: 2
-turning: 2
-peace: 2
-consequently: 2
-renderings: 2
-furnished: 2
-Tattra: 2
-uncivil: 2
-hadno: 2
-mounted: 2
-Christina: 2
-thunder: 2
-Bonor: 2
-chairs: 2
-Talking: 2
-Silver: 2
-Ducos: 2
-burden: 2
-Dude: 2
-caumes: 2
-Garden: 2
-kept: 2
-Duck: 2
-drab: 2
-practice: 2
-False: 2
-burno: 2
-burnt: 2
-literally: 2
-metal: 2
-Mad: 2
-Mam: 2
-Mas: 2
-Ducks: 2
-Belville: 2
-roamed: 2
-Pangushi: 2
-Mea: 2
-follows: 2
-coat: 2
-Mek: 2
-eldest: 2
-Mushipen: 2
-Kitchema: 2
-hammer: 2
-temeskoe: 2
-sympathy: 2
-spiritual: 2
-Paris: 2
-amounting: 2
-Cloth: 2
-settled: 2
-complexions: 2
-squirrel: 2
-Alec: 2
-ofwhich: 2
-grammatical: 2
-cabin: 2
-nogo: 2
-conjunct: 2
-liar: 2
-pull: 2
-crowned: 2
-dealer: 2
-buying: 2
-attained: 2
-Cuesni: 2
-Apasavello: 2
-DAMAGES: 2
-Cana: 2
-saucer: 2
-colt: 2
-Wangustri: 2
-wide: 2
-coke: 2
-pansch: 2
-software: 2
-Kekko: 2
-conj: 2
-devils: 2
-asleep: 2
-Manricley: 2
-method: 2
-makers: 2
-comb: 2
-exist: 2
-puve: 2
-Mri: 2
-ghost: 2
-According: 2
-Cart: 2
-cook: 2
-Thread: 2
-Yarb: 2
-Born: 2
-coro: 2
-Most: 2
-World: 2
-Muskerro: 2
-Kinnipen: 2
-Itis: 2
-Bosh: 2
-Muk: 2
-makehimself: 2
-dass: 2
-hills: 2
-Both: 2
-Matto: 2
-dicks: 2
-lima: 2
-Also: 2
-assured: 2
-Hatch: 2
-begins: 2
-chior: 2
-analysis: 2
-herhair: 2
-wine: 2
-wind: 2
-DOMAIN: 2
-carriage: 2
-yellow: 2
-afflicted: 2
-arrived: 2
-Daridra: 2
-listing: 2
-lips: 2
-plashta: 2
-Kisi: 2
-disguise: 2
-frute: 2
-deadly: 2
-pal: 2
-Dead: 2
-paz: 2
-list: 2
-European: 2
-inquired: 2
-salutation: 2
-creature: 2
-chinn: 2
-divided: 2
-remove: 2
-Paddy: 2
-Nai: 2
-harbouring: 2
-pea: 2
-pee: 2
-Egyptian: 2
-pek: 2
-Lally: 2
-pes: 2
-period: 2
-Halfpenny: 2
-slowly: 2
-Rinkeno: 2
-engaged: 2
-kinds: 2
-Beano: 2
-Constance: 2
-thefirst: 2
-Lousy: 2
-pig: 2
-kettles: 2
-Stanya: 2
-oblong: 2
-ETEXTS: 2
-burning: 2
-garridan: 2
-ply: 2
-credited: 2
-LELLING: 2
-Sikker: 2
-displayed: 2
-wickedness: 2
-receive: 2
-Dosta: 2
-smith: 2
-BETIE: 2
-develeskey: 2
-continue: 2
-offers: 2
-Pauvi: 2
-Nok: 2
-majaro: 2
+turning        : 2
+peace          : 2
+consequently   : 2
+renderings     : 2
+furnished      : 2
+Tattra         : 2
+uncivil        : 2
+hadno          : 2
+mounted        : 2
+Christina      : 2
+thunder        : 2
+Bonor          : 2
+chairs         : 2
+Talking        : 2
+Silver         : 2
+Ducos          : 2
+burden         : 2
+Dude           : 2
+caumes         : 2
+Garden         : 2
+kept           : 2
+Duck           : 2
+drab           : 2
+practice       : 2
+False          : 2
+burno          : 2
+burnt          : 2
+literally      : 2
+metal          : 2
+Mad            : 2
+Mam            : 2
+Mas            : 2
+Ducks          : 2
+Belville       : 2
+roamed         : 2
+Pangushi       : 2
+Mea            : 2
+follows        : 2
+coat           : 2
+Mek            : 2
+eldest         : 2
+Mushipen       : 2
+Kitchema       : 2
+hammer         : 2
+temeskoe       : 2
+sympathy       : 2
+spiritual      : 2
+Paris          : 2
+amounting      : 2
+Cloth          : 2
+settled        : 2
+complexions    : 2
+squirrel       : 2
+Alec           : 2
+ofwhich        : 2
+grammatical    : 2
+cabin          : 2
+nogo           : 2
+conjunct       : 2
+liar           : 2
+pull           : 2
+crowned        : 2
+dealer         : 2
+buying         : 2
+attained       : 2
+Cuesni         : 2
+Apasavello     : 2
+DAMAGES        : 2
+Cana           : 2
+saucer         : 2
+colt           : 2
+Wangustri      : 2
+wide           : 2
+coke           : 2
+pansch         : 2
+software       : 2
+Kekko          : 2
+conj           : 2
+devils         : 2
+asleep         : 2
+Manricley      : 2
+method         : 2
+makers         : 2
+comb           : 2
+exist          : 2
+puve           : 2
+Mri            : 2
+ghost          : 2
+According      : 2
+Cart           : 2
+cook           : 2
+Thread         : 2
+Yarb           : 2
+Born           : 2
+coro           : 2
+Most           : 2
+World          : 2
+Muskerro       : 2
+Kinnipen       : 2
+Itis           : 2
+Bosh           : 2
+Muk            : 2
+makehimself    : 2
+dass           : 2
+hills          : 2
+Both           : 2
+Matto          : 2
+dicks          : 2
+lima           : 2
+Also           : 2
+assured        : 2
+Hatch          : 2
+begins         : 2
+chior          : 2
+analysis       : 2
+herhair        : 2
+wine           : 2
+wind           : 2
+DOMAIN         : 2
+carriage       : 2
+yellow         : 2
+afflicted      : 2
+arrived        : 2
+Daridra        : 2
+listing        : 2
+lips           : 2
+plashta        : 2
+Kisi           : 2
+disguise       : 2
+frute          : 2
+deadly         : 2
+pal            : 2
+Dead           : 2
+paz            : 2
+list           : 2
+European       : 2
+inquired       : 2
+salutation     : 2
+creature       : 2
+chinn          : 2
+divided        : 2
+remove         : 2
+Paddy          : 2
+Nai            : 2
+harbouring     : 2
+pea            : 2
+pee            : 2
+Egyptian       : 2
+pek            : 2
+Lally          : 2
+pes            : 2
+period         : 2
+Halfpenny      : 2
+slowly         : 2
+Rinkeno        : 2
+engaged        : 2
+kinds          : 2
+Beano          : 2
+Constance      : 2
+thefirst       : 2
+Lousy          : 2
+pig            : 2
+kettles        : 2
+Stanya         : 2
+oblong         : 2
+ETEXTS         : 2
+burning        : 2
+garridan       : 2
+ply            : 2
+credited       : 2
+LELLING        : 2
+Sikker         : 2
+displayed      : 2
+wickedness     : 2
+receive        : 2
+Dosta          : 2
+smith          : 2
+BETIE          : 2
+develeskey     : 2
+continue       : 2
+offers         : 2
+Pauvi          : 2
+Nok            : 2
+majaro         : 2
 notwithstanding: 2
-meeri: 2
-Cappi: 2
-Danish: 2
-meery: 2
-Minge: 2
-forming: 2
-program: 2
-chingarar: 2
-Special: 2
-meets: 2
-LITTLE: 2
-lapse: 2
-apparently: 2
-develeskie: 2
-rokkerelan: 2
-Purrun: 2
-choice: 2
-travel: 2
-shillo: 2
-eighty: 2
-proofread: 2
-archive: 2
-soba: 2
-saythat: 2
-mistook: 2
-general: 2
-glas: 2
-hurry: 2
-mostly: 2
-arenot: 2
-tramp: 2
-scoundrel: 2
-Said: 2
-trying: 2
-soil: 2
-Kelso: 2
-represent: 2
-ASCII: 2
-Chukni: 2
-Nevertheless: 2
-Hand: 2
-wagram: 2
-theyare: 2
-additional: 2
-kekkeni: 2
-trow: 2
-yococoro: 2
-quitting: 2
-sold: 2
-Tute: 2
-royalty: 2
-butsi: 2
-rogues: 2
-tables: 2
-fokey: 2
-heavy: 2
-athing: 2
-Rope: 2
-painted: 2
-hori: 2
-Sweetheart: 2
-sherro: 2
-Crafni: 2
-positive: 2
-machine: 2
-observable: 2
-smile: 2
-ayear: 2
-selected: 2
-pizzaripenes: 2
-Have: 2
-fill: 2
-soro: 2
-soup: 2
-toils: 2
-tramper: 2
-mescri: 2
-Temeskoe: 2
-thyself: 2
-Artavello: 2
-purer: 2
-fashioned: 2
-dissatisfied: 2
-ingeneral: 2
-Piro: 2
-sweti: 2
-except: 2
-goest: 2
-Mengro: 2
-fist: 2
-Haste: 2
-Shilling: 2
-soving: 2
-beforehand: 2
-Amande: 2
-hunger: 2
-youthful: 2
-slept: 2
-creminor: 2
-multiplied: 2
-wants: 2
-yokki: 2
-consist: 2
-dances: 2
-staripen: 2
-deplore: 2
-dancer: 2
-anyone: 2
-pride: 2
-damages: 2
-Jesus: 2
-event: 2
-finger: 2
-established: 2
-opreylen: 2
-bottom: 2
-maila: 2
-covered: 2
-frequent: 2
-Grovena: 2
-saster: 2
-track: 2
-Peava: 2
-Juggal: 2
-dilapidated: 2
-meklis: 2
-younger: 2
-inthis: 2
-artful: 2
-Pawni: 2
-pulled: 2
-pukkeravava: 2
-practised: 2
-swine: 2
-swing: 2
-calling: 2
-Pat: 2
-Pas: 2
-saddle: 2
-Pay: 2
-reg: 2
-oldtime: 2
-Hoffeno: 2
-thingbeaten: 2
-adv: 2
-exchange: 2
-Baba: 2
-Maas: 2
-hokano: 2
-Epsom: 2
-pastesas: 2
-Luripen: 2
-strangely: 2
-HAVE: 2
-air: 2
-GYPSYRIES: 2
-theyhave: 2
-Manushi: 2
-tender: 2
-future: 2
-kusko: 2
-royal: 2
-Jobis: 2
-Bengeskoe: 2
-rod: 2
-rom: 2
-ant: 2
-consists: 2
-parson: 2
-Bala: 2
-allalong: 2
-boil: 2
-broke: 2
-Twas: 2
-Pot: 2
-Mang: 2
-Murray: 2
-Scottish: 2
-fruits: 2
-pockets: 2
-Many: 2
-arm: 2
-wardoes: 2
-noticed: 2
-relations: 2
-ass: 2
-Nuts: 2
-rum: 2
-Chiriclo: 2
-view: 2
-bold: 2
-Chovahani: 2
-Chovahano: 2
-crow: 2
-Judge: 2
-Godli: 2
-Bark: 2
-curepenada: 2
-weilgorus: 2
-thesigns: 2
-Pur: 2
-editing: 2
-Pus: 2
-jinnen: 2
-leader: 2
-highwaymen: 2
-yard: 2
-toexpress: 2
-lavior: 2
-Bata: 2
-mops: 2
-Baul: 2
-matches: 2
-Masi: 2
-miraculous: 2
-card: 2
-Herne: 2
-caur: 2
-caum: 2
-cooking: 2
-Simen: 2
-moro: 2
-ahorse: 2
-thespeech: 2
-INCLUDING: 2
-Monish: 2
-Love: 2
-apasavello: 2
-Burno: 2
-cavo: 2
-sad: 2
-Soving: 2
-sal: 2
-sat: 2
-guests: 2
-intoxicated: 2
-Theyprobably: 2
-Figis: 2
-awake: 2
-Beval: 2
-wherethe: 2
-youmay: 2
-angry: 2
-hesitation: 2
-romadie: 2
-Devilish: 2
-beA: 2
-nodded: 2
-turret: 2
-WARRANTY: 2
-fighter: 2
-sho: 2
-debt: 2
-Astis: 2
-sin: 2
-sis: 2
-Pizarris: 2
-bound: 2
-retained: 2
-Gudlo: 2
-improved: 2
-striking: 2
-postpos: 2
-Moomli: 2
-Germany: 2
-anglo: 2
-convicted: 2
-table: 2
-amidst: 2
-change: 2
-ALL: 2
-theirs: 2
-Saulohaul: 2
-scourged: 2
-northern: 2
-proceeds: 2
-sov: 2
-Something: 2
-Kettle: 2
-tense: 2
-pralor: 2
-ifthey: 2
-ANY: 2
-Hungry: 2
-Sicovar: 2
-Alone: 2
-PRINT: 2
-dancing: 2
-whittling: 2
-horrible: 2
-Britain: 2
-glory: 2
-autumn: 2
-filched: 2
-serving: 2
-bus: 2
-wishes: 2
-Que: 2
-Coorapen: 2
-stole: 2
-bending: 2
-higher: 2
-idea: 2
-Knife: 2
-poggado: 2
-proprietary: 2
-LORD: 2
-lovely: 2
-mailla: 2
-farthings: 2
-passing: 2
-sack: 2
-inches: 2
-nobody: 2
-beggar: 2
-fromhim: 2
-motto: 2
-racing: 2
-derive: 2
-gueros: 2
-TheEnglish: 2
-utter: 2
-Summer: 2
-utterly: 2
-readable: 2
-Hungary: 2
-tas: 2
-Tibetian: 2
-Romaneskoenaes: 2
-departure: 2
-auntie: 2
-cad: 2
-stout: 2
-distinct: 2
-Escunyes: 2
-cas: 2
-filthy: 2
-cat: 2
-stove: 2
-filch: 2
-illustrious: 2
-Dica: 2
-Dick: 2
-kinyo: 2
-theShepherd: 2
+meeri          : 2
+Cappi          : 2
+Danish         : 2
+meery          : 2
+Minge          : 2
+forming        : 2
+program        : 2
+chingarar      : 2
+Special        : 2
+meets          : 2
+LITTLE         : 2
+lapse          : 2
+apparently     : 2
+develeskie     : 2
+rokkerelan     : 2
+Purrun         : 2
+choice         : 2
+travel         : 2
+shillo         : 2
+eighty         : 2
+proofread      : 2
+archive        : 2
+soba           : 2
+saythat        : 2
+mistook        : 2
+general        : 2
+glas           : 2
+hurry          : 2
+mostly         : 2
+arenot         : 2
+tramp          : 2
+scoundrel      : 2
+Said           : 2
+trying         : 2
+soil           : 2
+Kelso          : 2
+represent      : 2
+ASCII          : 2
+Chukni         : 2
+Nevertheless   : 2
+Hand           : 2
+wagram         : 2
+theyare        : 2
+additional     : 2
+kekkeni        : 2
+trow           : 2
+yococoro       : 2
+quitting       : 2
+sold           : 2
+Tute           : 2
+royalty        : 2
+butsi          : 2
+rogues         : 2
+tables         : 2
+fokey          : 2
+heavy          : 2
+athing         : 2
+Rope           : 2
+painted        : 2
+hori           : 2
+Sweetheart     : 2
+sherro         : 2
+Crafni         : 2
+positive       : 2
+machine        : 2
+observable     : 2
+smile          : 2
+ayear          : 2
+selected       : 2
+pizzaripenes   : 2
+Have           : 2
+fill           : 2
+soro           : 2
+soup           : 2
+toils          : 2
+tramper        : 2
+mescri         : 2
+Temeskoe       : 2
+thyself        : 2
+Artavello      : 2
+purer          : 2
+fashioned      : 2
+dissatisfied   : 2
+ingeneral      : 2
+Piro           : 2
+sweti          : 2
+except         : 2
+goest          : 2
+Mengro         : 2
+fist           : 2
+Haste          : 2
+Shilling       : 2
+soving         : 2
+beforehand     : 2
+Amande         : 2
+hunger         : 2
+youthful       : 2
+slept          : 2
+creminor       : 2
+multiplied     : 2
+wants          : 2
+yokki          : 2
+consist        : 2
+dances         : 2
+staripen       : 2
+deplore        : 2
+dancer         : 2
+anyone         : 2
+pride          : 2
+damages        : 2
+Jesus          : 2
+event          : 2
+finger         : 2
+established    : 2
+opreylen       : 2
+bottom         : 2
+maila          : 2
+covered        : 2
+frequent       : 2
+Grovena        : 2
+saster         : 2
+track          : 2
+Peava          : 2
+Juggal         : 2
+dilapidated    : 2
+meklis         : 2
+younger        : 2
+inthis         : 2
+artful         : 2
+Pawni          : 2
+pulled         : 2
+pukkeravava    : 2
+practised      : 2
+swine          : 2
+swing          : 2
+calling        : 2
+Pat            : 2
+Pas            : 2
+saddle         : 2
+Pay            : 2
+reg            : 2
+oldtime        : 2
+Hoffeno        : 2
+thingbeaten    : 2
+adv            : 2
+exchange       : 2
+Baba           : 2
+Maas           : 2
+hokano         : 2
+Epsom          : 2
+pastesas       : 2
+Luripen        : 2
+strangely      : 2
+HAVE           : 2
+air            : 2
+GYPSYRIES      : 2
+theyhave       : 2
+Manushi        : 2
+tender         : 2
+future         : 2
+kusko          : 2
+royal          : 2
+Jobis          : 2
+Bengeskoe      : 2
+rod            : 2
+rom            : 2
+ant            : 2
+consists       : 2
+parson         : 2
+Bala           : 2
+allalong       : 2
+boil           : 2
+broke          : 2
+Twas           : 2
+Pot            : 2
+Mang           : 2
+Murray         : 2
+Scottish       : 2
+fruits         : 2
+pockets        : 2
+Many           : 2
+arm            : 2
+wardoes        : 2
+noticed        : 2
+relations      : 2
+ass            : 2
+Nuts           : 2
+rum            : 2
+Chiriclo       : 2
+view           : 2
+bold           : 2
+Chovahani      : 2
+Chovahano      : 2
+crow           : 2
+Judge          : 2
+Godli          : 2
+Bark           : 2
+curepenada     : 2
+weilgorus      : 2
+thesigns       : 2
+Pur            : 2
+editing        : 2
+Pus            : 2
+jinnen         : 2
+leader         : 2
+highwaymen     : 2
+yard           : 2
+toexpress      : 2
+lavior         : 2
+Bata           : 2
+mops           : 2
+Baul           : 2
+matches        : 2
+Masi           : 2
+miraculous     : 2
+card           : 2
+Herne          : 2
+caur           : 2
+caum           : 2
+cooking        : 2
+Simen          : 2
+moro           : 2
+ahorse         : 2
+thespeech      : 2
+INCLUDING      : 2
+Monish         : 2
+Love           : 2
+apasavello     : 2
+Burno          : 2
+cavo           : 2
+sad            : 2
+Soving         : 2
+sal            : 2
+sat            : 2
+guests         : 2
+intoxicated    : 2
+Theyprobably   : 2
+Figis          : 2
+awake          : 2
+Beval          : 2
+wherethe       : 2
+youmay         : 2
+angry          : 2
+hesitation     : 2
+romadie        : 2
+Devilish       : 2
+beA            : 2
+nodded         : 2
+turret         : 2
+WARRANTY       : 2
+fighter        : 2
+sho            : 2
+debt           : 2
+Astis          : 2
+sin            : 2
+sis            : 2
+Pizarris       : 2
+bound          : 2
+retained       : 2
+Gudlo          : 2
+improved       : 2
+striking       : 2
+postpos        : 2
+Moomli         : 2
+Germany        : 2
+anglo          : 2
+convicted      : 2
+table          : 2
+amidst         : 2
+change         : 2
+ALL            : 2
+theirs         : 2
+Saulohaul      : 2
+scourged       : 2
+northern       : 2
+proceeds       : 2
+sov            : 2
+Something      : 2
+Kettle         : 2
+tense          : 2
+pralor         : 2
+ifthey         : 2
+ANY            : 2
+Hungry         : 2
+Sicovar        : 2
+Alone          : 2
+PRINT          : 2
+dancing        : 2
+whittling      : 2
+horrible       : 2
+Britain        : 2
+glory          : 2
+autumn         : 2
+filched        : 2
+serving        : 2
+bus            : 2
+wishes         : 2
+Que            : 2
+Coorapen       : 2
+stole          : 2
+bending        : 2
+higher         : 2
+idea           : 2
+Knife          : 2
+poggado        : 2
+proprietary    : 2
+LORD           : 2
+lovely         : 2
+mailla         : 2
+farthings      : 2
+passing        : 2
+sack           : 2
+inches         : 2
+nobody         : 2
+beggar         : 2
+fromhim        : 2
+motto          : 2
+racing         : 2
+derive         : 2
+gueros         : 2
+TheEnglish     : 2
+utter          : 2
+Summer         : 2
+utterly        : 2
+readable       : 2
+Hungary        : 2
+tas            : 2
+Tibetian       : 2
+Romaneskoenaes : 2
+departure      : 2
+auntie         : 2
+cad            : 2
+stout          : 2
+distinct       : 2
+Escunyes       : 2
+cas            : 2
+filthy         : 2
+cat            : 2
+stove          : 2
+filch          : 2
+illustrious    : 2
+Dica           : 2
+Dick           : 2
+kinyo          : 2
+theShepherd    : 2

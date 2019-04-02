@@ -1,4404 +1,4404 @@
-the: 3040
-of: 1606
-and: 1480
-to: 1382
-a: 1363
-I: 1095
-in: 1042
-And: 864
-is: 730
-s: 603
-he: 586
-was: 572
-The: 566
-his: 545
-that: 463
-my: 458
-be: 447
-it: 438
-you: 418
-with: 401
-for: 392
-her: 345
-by: 315
-THE: 306
-me: 305
-as: 295
-have: 291
-not: 269
-all: 269
-this: 264
-she: 264
-they: 259
-at: 250
-on: 241
-ll: 236
-which: 229
-him: 229
-He: 227
-did: 217
-so: 213
-will: 212
-are: 212
-we: 210
-For: 205
-from: 199
-old: 196
-A: 191
-but: 176
-But: 173
-O: 172
-or: 172
-had: 170
-your: 167
-one: 166
-an: 164
-song: 159
-been: 157
-man: 154
-no: 153
-To: 149
-when: 145
-In: 140
-may: 139
-there: 136
-has: 134
-do: 133
-were: 133
-their: 132
-Then: 130
-well: 130
-thy: 123
-good: 118
-With: 116
-It: 112
-who: 111
-what: 111
-can: 109
-love: 108
-them: 108
-day: 107
-then: 107
-out: 105
-now: 102
-very: 102
-see: 102
-some: 101
-shall: 100
-OF: 100
-our: 99
-never: 97
-came: 97
-Ballad: 95
-My: 94
-young: 94
-thee: 93
-would: 92
-They: 91
-thou: 90
-down: 90
-She: 89
-if: 89
-AND: 89
-c: 88
-here: 88
-said: 88
-three: 87
-That: 86
-lady: 86
-up: 85
-We: 84
-every: 84
-S: 81
-must: 81
-go: 80
-more: 79
-give: 77
-make: 76
-ballad: 76
-come: 75
-fair: 74
-d: 73
-away: 73
-like: 73
-made: 72
-If: 72
-such: 72
-heart: 72
-This: 71
-poor: 71
-father: 71
-When: 70
-many: 69
-take: 69
-any: 68
-er: 67
-says: 66
-great: 66
-first: 66
-life: 66
-As: 65
-So: 65
-time: 65
-went: 65
-upon: 65
-There: 64
-men: 64
-other: 64
-wife: 63
-say: 62
-home: 61
-t: 60
-Now: 60
-two: 59
-called: 59
-Who: 59
-could: 59
-us: 58
-found: 57
-England: 56
-those: 56
-merry: 56
-where: 56
-name: 56
-version: 55
-am: 55
-night: 55
-pretty: 55
-should: 54
-following: 53
-let: 52
-both: 52
-most: 52
-tell: 51
-Here: 51
-long: 51
-being: 50
-THIS: 50
-Mr: 50
-health: 50
-true: 50
-than: 49
-Which: 49
-King: 49
-Arthur: 49
-still: 48
-copy: 48
-gold: 47
-m: 47
-Bessee: 47
-What: 47
-into: 47
-country: 47
-hand: 46
-without: 46
-ever: 46
-find: 46
-IN: 45
-tune: 45
-till: 44
-sing: 44
-only: 44
-too: 43
-unto: 43
-mother: 43
-dear: 43
-son: 43
-after: 42
-sung: 42
-before: 42
-His: 42
-drink: 42
-these: 42
-TO: 41
-popular: 41
-Yet: 41
-full: 41
-about: 41
-Lord: 41
-die: 40
-known: 40
-hunter: 40
-last: 40
-You: 40
-printed: 40
-own: 40
-At: 39
-ye: 39
-daughter: 39
-part: 39
-mow: 39
-sweet: 39
-off: 39
-boys: 39
-Oh: 38
-gave: 38
-got: 38
-its: 38
-SONG: 38
-think: 37
-gay: 37
-much: 37
-Bradley: 37
-each: 37
-again: 37
-same: 36
-o: 36
-brave: 36
-No: 36
-hear: 36
-thus: 36
-live: 36
-years: 36
-house: 35
-Sir: 35
-ancient: 35
-soon: 35
-fine: 35
-ale: 35
-through: 35
-care: 35
-little: 35
-horse: 35
-OR: 34
-ne: 34
-taken: 34
-plain: 34
-pray: 34
-new: 34
-over: 34
-morning: 34
-thing: 33
-Till: 33
-Though: 33
-ve: 33
-present: 33
-tree: 33
-Thou: 32
-another: 32
-might: 32
-know: 32
-best: 32
-farmer: 32
-While: 32
-doth: 32
-Let: 32
-CHO: 31
-Tis: 31
-seen: 31
-lay: 31
-though: 31
-cannot: 31
-sea: 31
-bed: 31
-right: 30
-Where: 30
-delight: 30
-late: 30
-God: 30
-place: 30
-jovial: 30
-songs: 30
-May: 30
-bride: 30
-given: 30
-Nor: 30
-heard: 30
-round: 30
-always: 30
-sir: 30
-verse: 30
-land: 29
-world: 29
-does: 29
-barley: 29
-rich: 29
-took: 29
-wish: 29
-pleasure: 29
-beggar: 29
-back: 28
-sorrow: 28
-year: 28
-near: 28
-Of: 28
-next: 28
-re: 28
-how: 28
-brought: 28
-high: 28
-appear: 28
-nor: 28
-POPULAR: 28
-none: 28
-art: 28
-kind: 28
-From: 27
-meet: 27
-modern: 27
-MUSIC: 27
-published: 27
-cried: 27
-squire: 27
-common: 26
-Or: 26
-green: 26
-head: 26
-John: 26
-DEATH: 26
-Her: 26
-joy: 26
-words: 26
-side: 26
-door: 26
-fear: 26
-met: 26
-merrily: 26
-put: 26
-call: 26
-i: 25
-tis: 25
-gone: 25
-servingman: 25
-By: 25
-sent: 25
-knight: 25
-grief: 25
-married: 25
-keep: 25
-saw: 25
-maid: 24
-work: 24
-jolly: 24
-copies: 24
-done: 24
-ride: 24
-whom: 24
-days: 24
-soul: 24
-run: 24
-beauty: 24
-half: 23
-better: 23
-All: 23
-Thus: 23
-under: 23
-stand: 23
-seven: 23
-far: 23
-while: 23
-things: 23
-church: 23
-left: 23
-MAN: 23
-dance: 23
-town: 23
-bring: 23
-horn: 23
-set: 23
-e: 22
-hast: 22
-Yorkshire: 22
-leave: 22
-few: 22
-sword: 22
-small: 22
-honour: 22
-death: 22
-parents: 22
-milk: 22
-mind: 22
-told: 22
-quoth: 22
-also: 22
-ten: 21
-Thy: 21
-pounds: 21
-white: 21
-fool: 21
-rare: 21
-Pray: 21
-husbandman: 21
-original: 21
-harvest: 21
-blind: 21
-used: 21
-cold: 21
-ground: 21
-reign: 21
-bold: 21
-Scho: 21
-village: 21
-times: 20
-play: 20
-st: 20
-hay: 20
-Why: 20
-master: 20
-Wind: 20
-ditty: 20
-date: 20
-pleasant: 20
-children: 20
-woman: 19
-Their: 19
-cut: 19
-bright: 19
-subject: 19
-Tom: 19
-died: 19
-prove: 19
-laid: 19
-bear: 19
-friends: 19
-free: 19
-HIS: 19
-PART: 19
-rest: 19
-once: 19
-lad: 19
-Catskin: 19
-money: 19
-whole: 19
-Hood: 19
-Some: 19
-along: 19
-plough: 19
-brother: 19
-fire: 19
-thought: 19
-king: 19
-valleys: 19
-p: 18
-thousand: 18
-probably: 18
-See: 18
-dog: 18
-don: 18
-lord: 18
-speed: 18
-word: 18
-II: 18
-asked: 18
-below: 18
-black: 18
-won: 18
-tears: 18
-noble: 18
-send: 18
-smoke: 18
-yet: 18
-gallant: 18
-broadside: 18
-poem: 18
-show: 18
-century: 18
-gentleman: 18
-wear: 18
-lie: 18
-tobacco: 18
-kept: 18
-wine: 18
-English: 18
-clear: 18
-people: 18
-sad: 18
-eyes: 18
-Robin: 18
-several: 18
-written: 18
-beautiful: 17
-milking: 17
-WE: 17
-SERVINGMAN: 17
-plow: 17
-th: 17
-beer: 17
-Tommy: 17
-Society: 17
-fall: 17
-fast: 17
-Jack: 17
-however: 17
-Come: 17
-above: 17
-dealing: 17
-praise: 17
-OLD: 17
-hope: 17
-favourite: 17
-appears: 17
-One: 17
-therefore: 17
-dead: 17
-sin: 17
-friend: 17
-makes: 17
-store: 17
-Percy: 17
-pipe: 16
-try: 16
-These: 16
-look: 16
-BY: 16
-often: 16
-LADY: 16
-way: 16
-why: 16
-ha: 16
-HUSBANDMAN: 16
-get: 16
-Joan: 16
-happy: 16
-having: 16
-Full: 16
-longer: 16
-How: 16
-others: 16
-verses: 16
-wealth: 16
-wild: 16
-Old: 16
-Our: 16
-red: 16
-amongst: 16
-edition: 16
-bowl: 16
-grave: 15
-AS: 15
-An: 15
-Be: 15
-Go: 15
-MS: 15
-himself: 15
-honest: 15
-form: 15
-gate: 15
-ho: 15
-la: 15
-London: 15
-sewe: 15
-almost: 15
-marry: 15
-Was: 15
-hee: 15
-chap: 15
-garden: 15
-degree: 15
-Death: 15
-means: 15
-Queen: 15
-mine: 15
-tailor: 15
-riches: 15
-against: 15
-thayme: 15
-wyth: 15
-began: 15
-light: 15
-comes: 15
-wedding: 15
-air: 15
-favour: 15
-crow: 15
-labour: 15
-sit: 15
-sow: 15
-boy: 15
-rode: 15
-hard: 14
-singing: 14
-spent: 14
-hands: 14
-AN: 14
-end: 14
-Is: 14
-On: 14
-Poem: 14
-pleased: 14
-Until: 14
-de: 14
-content: 14
-pleasures: 14
-walk: 14
-welcome: 14
-preserved: 14
-Ich: 14
-peasantry: 14
-thirty: 14
-music: 14
-alone: 14
-line: 14
-hold: 14
-sons: 14
-summer: 14
-within: 14
-sort: 14
-maids: 14
-collection: 14
-truth: 14
-Mary: 14
-D: 13
-carrion: 13
-pint: 13
-rose: 13
-dying: 13
-eat: 13
-woods: 13
-dwell: 13
-grey: 13
-sure: 13
-Ruth: 13
-author: 13
-seek: 13
-wi: 13
-held: 13
-beyond: 13
-minstrel: 13
-hundred: 13
-Charles: 13
-although: 13
-face: 13
-close: 13
-rural: 13
-nothing: 13
-yield: 13
-North: 13
-parts: 13
-different: 13
-pail: 13
-inserted: 13
-myself: 13
-pedlar: 13
-volume: 13
-ring: 13
-turned: 13
-sister: 13
-loving: 13
-Good: 13
-sings: 13
-since: 13
-begging: 13
-age: 13
-boar: 13
-George: 13
-dull: 13
-THERE: 13
-born: 13
-behind: 13
-stood: 13
-hath: 12
-state: 12
-third: 12
-length: 12
-ball: 12
-Chappell: 12
-lost: 12
-scho: 12
-HERE: 12
-charming: 12
-shalt: 12
-curious: 12
-replied: 12
-cuckold: 12
-lass: 12
-early: 12
-able: 12
-read: 12
-bonny: 12
-auld: 12
-bread: 12
-ready: 12
-supposed: 12
-lover: 12
-west: 12
-fellow: 12
-experience: 12
-pass: 12
-whose: 12
-title: 12
-believe: 12
-Jockey: 12
-girl: 12
-lived: 12
-Both: 12
-period: 12
-cause: 12
-KING: 12
-account: 12
-just: 12
-five: 12
-Sweet: 12
-view: 12
-Christmas: 12
-sat: 12
-strong: 12
-bid: 12
-likewise: 12
-county: 12
-story: 12
-herself: 12
-clothes: 12
-turn: 11
-TRADITIONAL: 11
-wolde: 11
-water: 11
-grant: 11
-dum: 11
-stay: 11
-recitation: 11
-seems: 11
-least: 11
-excellen: 11
-estate: 11
-Two: 11
-older: 11
-wer: 11
-popularity: 11
-Poor: 11
-fly: 11
-freely: 11
-woe: 11
-Whitaker: 11
-flower: 11
-un: 11
-Devonshire: 11
-proud: 11
-want: 11
-Hill: 11
-worldTo: 11
-allusion: 11
-mean: 11
-hys: 11
-ballads: 11
-West: 11
-Brand: 11
-pudding: 11
-BALLADS: 11
-vain: 11
-between: 11
-lead: 11
-doubt: 11
-Your: 11
-custom: 11
-feet: 11
-wonderful: 11
-open: 11
-family: 11
-lives: 11
-dialogue: 11
-carry: 11
-origin: 11
-NEW: 11
-lands: 11
-Saying: 11
-corn: 11
-blow: 11
-wilt: 11
-nobles: 11
-neither: 11
-DANCE: 11
-agree: 11
-pride: 11
-royal: 11
-vintner: 11
-bound: 11
-wheel: 11
-Such: 11
-sun: 11
-lovely: 11
-Next: 11
-cam: 11
-marriage: 11
-W: 10
-save: 10
-plenty: 10
-mistress: 10
-fetch: 10
-dee: 10
-Collection: 10
-VERSE: 10
-Ralph: 10
-observed: 10
-mark: 10
-spring: 10
-IT: 10
-ere: 10
-news: 10
-gain: 10
-fee: 10
-grow: 10
-ENGLAND: 10
-knew: 10
-ful: 10
-north: 10
-numerous: 10
-understand: 10
-hat: 10
-editor: 10
-sometimes: 10
-Well: 10
-hym: 10
-dressed: 10
-fame: 10
-fortune: 10
-SWORD: 10
-looked: 10
-Hee: 10
-Green: 10
-daily: 10
-sick: 10
-Richmond: 10
-Bateman: 10
-Young: 10
-quite: 10
-led: 10
-pack: 10
-Will: 10
-Likewise: 10
-June: 10
-Harry: 10
-rise: 10
-catch: 10
-ladies: 10
-mounted: 10
-follows: 10
-fight: 10
-drew: 10
-chorus: 10
-oath: 10
-Craven: 10
-manner: 10
-members: 10
-pot: 10
-hunting: 10
-return: 10
-jest: 10
-broke: 10
-book: 10
-bag: 10
-delay: 10
-river: 10
-hounds: 10
-clerk: 10
-flew: 10
-hall: 9
-sake: 9
-Owdham: 9
-H: 9
-SIR: 9
-Richard: 9
-glass: 9
-hours: 9
-performed: 9
-possession: 9
-CLERK: 9
-feast: 9
-company: 9
-Spain: 9
-Peter: 9
-farewell: 9
-sweetest: 9
-BE: 9
-De: 9
-private: 9
-forth: 9
-nightingale: 9
-Dixon: 9
-Scott: 9
-Roxburgh: 9
-fields: 9
-transcribed: 9
-win: 9
-former: 9
-em: 9
-second: 9
-ta: 9
-reading: 9
-help: 9
-follow: 9
-Therefore: 9
-entitled: 9
-correct: 9
-lads: 9
-heaven: 9
-wait: 9
-arms: 9
-swore: 9
-history: 9
-court: 9
-Bolton: 9
-please: 9
-indeed: 9
-Dost: 9
-silver: 9
-reason: 9
-letter: 9
-Had: 9
-worse: 9
-street: 9
-straightway: 9
-Mollee: 9
-dairy: 9
-founded: 9
-crown: 9
-gentlemen: 9
-nobleman: 9
-matter: 9
-doctor: 9
-jewels: 9
-low: 9
-Like: 9
-character: 9
-fell: 9
-forced: 9
-swear: 9
-wives: 9
-houses: 9
-peace: 9
-Although: 9
-traditional: 9
-Gilbert: 9
-dales: 9
-hearty: 9
-folly: 9
-blue: 9
-child: 9
-Not: 9
-Erskine: 9
-Highgate: 9
-antiquity: 9
-bottle: 9
-inclined: 9
-print: 9
-peculiar: 9
-together: 9
-sore: 9
-hour: 9
-fiddler: 9
-trade: 9
-calling: 9
-crew: 9
-until: 9
-parson: 9
-Twas: 9
-bower: 9
-case: 9
-morn: 9
-traced: 9
-kiss: 9
-buy: 9
-road: 9
-straight: 8
-faithful: 8
-laugh: 8
-walked: 8
-taking: 8
-flow: 8
-top: 8
-spirit: 8
-cow: 8
-cry: 8
-stable: 8
-anker: 8
-CHORUS: 8
-composition: 8
-term: 8
-brown: 8
-pound: 8
-stall: 8
-stream: 8
-THEY: 8
-ear: 8
-winter: 8
-AT: 8
-IS: 8
+the            : 3040
+of             : 1606
+and            : 1480
+to             : 1382
+a              : 1363
+I              : 1095
+in             : 1042
+And            : 864
+is             : 730
+s              : 603
+he             : 586
+was            : 572
+The            : 566
+his            : 545
+that           : 463
+my             : 458
+be             : 447
+it             : 438
+you            : 418
+with           : 401
+for            : 392
+her            : 345
+by             : 315
+THE            : 306
+me             : 305
+as             : 295
+have           : 291
+not            : 269
+all            : 269
+this           : 264
+she            : 264
+they           : 259
+at             : 250
+on             : 241
+ll             : 236
+which          : 229
+him            : 229
+He             : 227
+did            : 217
+so             : 213
+will           : 212
+are            : 212
+we             : 210
+For            : 205
+from           : 199
+old            : 196
+A              : 191
+but            : 176
+But            : 173
+O              : 172
+or             : 172
+had            : 170
+your           : 167
+one            : 166
+an             : 164
+song           : 159
+been           : 157
+man            : 154
+no             : 153
+To             : 149
+when           : 145
+In             : 140
+may            : 139
+there          : 136
+has            : 134
+do             : 133
+were           : 133
+their          : 132
+Then           : 130
+well           : 130
+thy            : 123
+good           : 118
+With           : 116
+It             : 112
+who            : 111
+what           : 111
+can            : 109
+love           : 108
+them           : 108
+day            : 107
+then           : 107
+out            : 105
+now            : 102
+very           : 102
+see            : 102
+some           : 101
+shall          : 100
+OF             : 100
+our            : 99
+never          : 97
+came           : 97
+Ballad         : 95
+My             : 94
+young          : 94
+thee           : 93
+would          : 92
+They           : 91
+thou           : 90
+down           : 90
+She            : 89
+if             : 89
+AND            : 89
+c              : 88
+here           : 88
+said           : 88
+three          : 87
+That           : 86
+lady           : 86
+up             : 85
+We             : 84
+every          : 84
+S              : 81
+must           : 81
+go             : 80
+more           : 79
+give           : 77
+make           : 76
+ballad         : 76
+come           : 75
+fair           : 74
+d              : 73
+away           : 73
+like           : 73
+made           : 72
+If             : 72
+such           : 72
+heart          : 72
+This           : 71
+poor           : 71
+father         : 71
+When           : 70
+many           : 69
+take           : 69
+any            : 68
+er             : 67
+says           : 66
+great          : 66
+first          : 66
+life           : 66
+As             : 65
+So             : 65
+time           : 65
+went           : 65
+upon           : 65
+There          : 64
+men            : 64
+other          : 64
+wife           : 63
+say            : 62
+home           : 61
+t              : 60
+Now            : 60
+two            : 59
+called         : 59
+Who            : 59
+could          : 59
+us             : 58
+found          : 57
+England        : 56
+those          : 56
+merry          : 56
+where          : 56
+name           : 56
+version        : 55
+am             : 55
+night          : 55
+pretty         : 55
+should         : 54
+following      : 53
+let            : 52
+both           : 52
+most           : 52
+tell           : 51
+Here           : 51
+long           : 51
+being          : 50
+THIS           : 50
+Mr             : 50
+health         : 50
+true           : 50
+than           : 49
+Which          : 49
+King           : 49
+Arthur         : 49
+still          : 48
+copy           : 48
+gold           : 47
+m              : 47
+Bessee         : 47
+What           : 47
+into           : 47
+country        : 47
+hand           : 46
+without        : 46
+ever           : 46
+find           : 46
+IN             : 45
+tune           : 45
+till           : 44
+sing           : 44
+only           : 44
+too            : 43
+unto           : 43
+mother         : 43
+dear           : 43
+son            : 43
+after          : 42
+sung           : 42
+before         : 42
+His            : 42
+drink          : 42
+these          : 42
+TO             : 41
+popular        : 41
+Yet            : 41
+full           : 41
+about          : 41
+Lord           : 41
+die            : 40
+known          : 40
+hunter         : 40
+last           : 40
+You            : 40
+printed        : 40
+own            : 40
+At             : 39
+ye             : 39
+daughter       : 39
+part           : 39
+mow            : 39
+sweet          : 39
+off            : 39
+boys           : 39
+Oh             : 38
+gave           : 38
+got            : 38
+its            : 38
+SONG           : 38
+think          : 37
+gay            : 37
+much           : 37
+Bradley        : 37
+each           : 37
+again          : 37
+same           : 36
+o              : 36
+brave          : 36
+No             : 36
+hear           : 36
+thus           : 36
+live           : 36
+years          : 36
+house          : 35
+Sir            : 35
+ancient        : 35
+soon           : 35
+fine           : 35
+ale            : 35
+through        : 35
+care           : 35
+little         : 35
+horse          : 35
+OR             : 34
+ne             : 34
+taken          : 34
+plain          : 34
+pray           : 34
+new            : 34
+over           : 34
+morning        : 34
+thing          : 33
+Till           : 33
+Though         : 33
+ve             : 33
+present        : 33
+tree           : 33
+Thou           : 32
+another        : 32
+might          : 32
+know           : 32
+best           : 32
+farmer         : 32
+While          : 32
+doth           : 32
+Let            : 32
+CHO            : 31
+Tis            : 31
+seen           : 31
+lay            : 31
+though         : 31
+cannot         : 31
+sea            : 31
+bed            : 31
+right          : 30
+Where          : 30
+delight        : 30
+late           : 30
+God            : 30
+place          : 30
+jovial         : 30
+songs          : 30
+May            : 30
+bride          : 30
+given          : 30
+Nor            : 30
+heard          : 30
+round          : 30
+always         : 30
+sir            : 30
+verse          : 30
+land           : 29
+world          : 29
+does           : 29
+barley         : 29
+rich           : 29
+took           : 29
+wish           : 29
+pleasure       : 29
+beggar         : 29
+back           : 28
+sorrow         : 28
+year           : 28
+near           : 28
+Of             : 28
+next           : 28
+re             : 28
+how            : 28
+brought        : 28
+high           : 28
+appear         : 28
+nor            : 28
+POPULAR        : 28
+none           : 28
+art            : 28
+kind           : 28
+From           : 27
+meet           : 27
+modern         : 27
+MUSIC          : 27
+published      : 27
+cried          : 27
+squire         : 27
+common         : 26
+Or             : 26
+green          : 26
+head           : 26
+John           : 26
+DEATH          : 26
+Her            : 26
+joy            : 26
+words          : 26
+side           : 26
+door           : 26
+fear           : 26
+met            : 26
+merrily        : 26
+put            : 26
+call           : 26
+i              : 25
+tis            : 25
+gone           : 25
+servingman     : 25
+By             : 25
+sent           : 25
+knight         : 25
+grief          : 25
+married        : 25
+keep           : 25
+saw            : 25
+maid           : 24
+work           : 24
+jolly          : 24
+copies         : 24
+done           : 24
+ride           : 24
+whom           : 24
+days           : 24
+soul           : 24
+run            : 24
+beauty         : 24
+half           : 23
+better         : 23
+All            : 23
+Thus           : 23
+under          : 23
+stand          : 23
+seven          : 23
+far            : 23
+while          : 23
+things         : 23
+church         : 23
+left           : 23
+MAN            : 23
+dance          : 23
+town           : 23
+bring          : 23
+horn           : 23
+set            : 23
+e              : 22
+hast           : 22
+Yorkshire      : 22
+leave          : 22
+few            : 22
+sword          : 22
+small          : 22
+honour         : 22
+death          : 22
+parents        : 22
+milk           : 22
+mind           : 22
+told           : 22
+quoth          : 22
+also           : 22
+ten            : 21
+Thy            : 21
+pounds         : 21
+white          : 21
+fool           : 21
+rare           : 21
+Pray           : 21
+husbandman     : 21
+original       : 21
+harvest        : 21
+blind          : 21
+used           : 21
+cold           : 21
+ground         : 21
+reign          : 21
+bold           : 21
+Scho           : 21
+village        : 21
+times          : 20
+play           : 20
+st             : 20
+hay            : 20
+Why            : 20
+master         : 20
+Wind           : 20
+ditty          : 20
+date           : 20
+pleasant       : 20
+children       : 20
+woman          : 19
+Their          : 19
+cut            : 19
+bright         : 19
+subject        : 19
+Tom            : 19
+died           : 19
+prove          : 19
+laid           : 19
+bear           : 19
+friends        : 19
+free           : 19
+HIS            : 19
+PART           : 19
+rest           : 19
+once           : 19
+lad            : 19
+Catskin        : 19
+money          : 19
+whole          : 19
+Hood           : 19
+Some           : 19
+along          : 19
+plough         : 19
+brother        : 19
+fire           : 19
+thought        : 19
+king           : 19
+valleys        : 19
+p              : 18
+thousand       : 18
+probably       : 18
+See            : 18
+dog            : 18
+don            : 18
+lord           : 18
+speed          : 18
+word           : 18
+II             : 18
+asked          : 18
+below          : 18
+black          : 18
+won            : 18
+tears          : 18
+noble          : 18
+send           : 18
+smoke          : 18
+yet            : 18
+gallant        : 18
+broadside      : 18
+poem           : 18
+show           : 18
+century        : 18
+gentleman      : 18
+wear           : 18
+lie            : 18
+tobacco        : 18
+kept           : 18
+wine           : 18
+English        : 18
+clear          : 18
+people         : 18
+sad            : 18
+eyes           : 18
+Robin          : 18
+several        : 18
+written        : 18
+beautiful      : 17
+milking        : 17
+WE             : 17
+SERVINGMAN     : 17
+plow           : 17
+th             : 17
+beer           : 17
+Tommy          : 17
+Society        : 17
+fall           : 17
+fast           : 17
+Jack           : 17
+however        : 17
+Come           : 17
+above          : 17
+dealing        : 17
+praise         : 17
+OLD            : 17
+hope           : 17
+favourite      : 17
+appears        : 17
+One            : 17
+therefore      : 17
+dead           : 17
+sin            : 17
+friend         : 17
+makes          : 17
+store          : 17
+Percy          : 17
+pipe           : 16
+try            : 16
+These          : 16
+look           : 16
+BY             : 16
+often          : 16
+LADY           : 16
+way            : 16
+why            : 16
+ha             : 16
+HUSBANDMAN     : 16
+get            : 16
+Joan           : 16
+happy          : 16
+having         : 16
+Full           : 16
+longer         : 16
+How            : 16
+others         : 16
+verses         : 16
+wealth         : 16
+wild           : 16
+Old            : 16
+Our            : 16
+red            : 16
+amongst        : 16
+edition        : 16
+bowl           : 16
+grave          : 15
+AS             : 15
+An             : 15
+Be             : 15
+Go             : 15
+MS             : 15
+himself        : 15
+honest         : 15
+form           : 15
+gate           : 15
+ho             : 15
+la             : 15
+London         : 15
+sewe           : 15
+almost         : 15
+marry          : 15
+Was            : 15
+hee            : 15
+chap           : 15
+garden         : 15
+degree         : 15
+Death          : 15
+means          : 15
+Queen          : 15
+mine           : 15
+tailor         : 15
+riches         : 15
+against        : 15
+thayme         : 15
+wyth           : 15
+began          : 15
+light          : 15
+comes          : 15
+wedding        : 15
+air            : 15
+favour         : 15
+crow           : 15
+labour         : 15
+sit            : 15
+sow            : 15
+boy            : 15
+rode           : 15
+hard           : 14
+singing        : 14
+spent          : 14
+hands          : 14
+AN             : 14
+end            : 14
+Is             : 14
+On             : 14
+Poem           : 14
+pleased        : 14
+Until          : 14
+de             : 14
+content        : 14
+pleasures      : 14
+walk           : 14
+welcome        : 14
+preserved      : 14
+Ich            : 14
+peasantry      : 14
+thirty         : 14
+music          : 14
+alone          : 14
+line           : 14
+hold           : 14
+sons           : 14
+summer         : 14
+within         : 14
+sort           : 14
+maids          : 14
+collection     : 14
+truth          : 14
+Mary           : 14
+D              : 13
+carrion        : 13
+pint           : 13
+rose           : 13
+dying          : 13
+eat            : 13
+woods          : 13
+dwell          : 13
+grey           : 13
+sure           : 13
+Ruth           : 13
+author         : 13
+seek           : 13
+wi             : 13
+held           : 13
+beyond         : 13
+minstrel       : 13
+hundred        : 13
+Charles        : 13
+although       : 13
+face           : 13
+close          : 13
+rural          : 13
+nothing        : 13
+yield          : 13
+North          : 13
+parts          : 13
+different      : 13
+pail           : 13
+inserted       : 13
+myself         : 13
+pedlar         : 13
+volume         : 13
+ring           : 13
+turned         : 13
+sister         : 13
+loving         : 13
+Good           : 13
+sings          : 13
+since          : 13
+begging        : 13
+age            : 13
+boar           : 13
+George         : 13
+dull           : 13
+THERE          : 13
+born           : 13
+behind         : 13
+stood          : 13
+hath           : 12
+state          : 12
+third          : 12
+length         : 12
+ball           : 12
+Chappell       : 12
+lost           : 12
+scho           : 12
+HERE           : 12
+charming       : 12
+shalt          : 12
+curious        : 12
+replied        : 12
+cuckold        : 12
+lass           : 12
+early          : 12
+able           : 12
+read           : 12
+bonny          : 12
+auld           : 12
+bread          : 12
+ready          : 12
+supposed       : 12
+lover          : 12
+west           : 12
+fellow         : 12
+experience     : 12
+pass           : 12
+whose          : 12
+title          : 12
+believe        : 12
+Jockey         : 12
+girl           : 12
+lived          : 12
+Both           : 12
+period         : 12
+cause          : 12
+KING           : 12
+account        : 12
+just           : 12
+five           : 12
+Sweet          : 12
+view           : 12
+Christmas      : 12
+sat            : 12
+strong         : 12
+bid            : 12
+likewise       : 12
+county         : 12
+story          : 12
+herself        : 12
+clothes        : 12
+turn           : 11
+TRADITIONAL    : 11
+wolde          : 11
+water          : 11
+grant          : 11
+dum            : 11
+stay           : 11
+recitation     : 11
+seems          : 11
+least          : 11
+excellen       : 11
+estate         : 11
+Two            : 11
+older          : 11
+wer            : 11
+popularity     : 11
+Poor           : 11
+fly            : 11
+freely         : 11
+woe            : 11
+Whitaker       : 11
+flower         : 11
+un             : 11
+Devonshire     : 11
+proud          : 11
+want           : 11
+Hill           : 11
+worldTo        : 11
+allusion       : 11
+mean           : 11
+hys            : 11
+ballads        : 11
+West           : 11
+Brand          : 11
+pudding        : 11
+BALLADS        : 11
+vain           : 11
+between        : 11
+lead           : 11
+doubt          : 11
+Your           : 11
+custom         : 11
+feet           : 11
+wonderful      : 11
+open           : 11
+family         : 11
+lives          : 11
+dialogue       : 11
+carry          : 11
+origin         : 11
+NEW            : 11
+lands          : 11
+Saying         : 11
+corn           : 11
+blow           : 11
+wilt           : 11
+nobles         : 11
+neither        : 11
+DANCE          : 11
+agree          : 11
+pride          : 11
+royal          : 11
+vintner        : 11
+bound          : 11
+wheel          : 11
+Such           : 11
+sun            : 11
+lovely         : 11
+Next           : 11
+cam            : 11
+marriage       : 11
+W              : 10
+save           : 10
+plenty         : 10
+mistress       : 10
+fetch          : 10
+dee            : 10
+Collection     : 10
+VERSE          : 10
+Ralph          : 10
+observed       : 10
+mark           : 10
+spring         : 10
+IT             : 10
+ere            : 10
+news           : 10
+gain           : 10
+fee            : 10
+grow           : 10
+ENGLAND        : 10
+knew           : 10
+ful            : 10
+north          : 10
+numerous       : 10
+understand     : 10
+hat            : 10
+editor         : 10
+sometimes      : 10
+Well           : 10
+hym            : 10
+dressed        : 10
+fame           : 10
+fortune        : 10
+SWORD          : 10
+looked         : 10
+Hee            : 10
+Green          : 10
+daily          : 10
+sick           : 10
+Richmond       : 10
+Bateman        : 10
+Young          : 10
+quite          : 10
+led            : 10
+pack           : 10
+Will           : 10
+Likewise       : 10
+June           : 10
+Harry          : 10
+rise           : 10
+catch          : 10
+ladies         : 10
+mounted        : 10
+follows        : 10
+fight          : 10
+drew           : 10
+chorus         : 10
+oath           : 10
+Craven         : 10
+manner         : 10
+members        : 10
+pot            : 10
+hunting        : 10
+return         : 10
+jest           : 10
+broke          : 10
+book           : 10
+bag            : 10
+delay          : 10
+river          : 10
+hounds         : 10
+clerk          : 10
+flew           : 10
+hall           : 9
+sake           : 9
+Owdham         : 9
+H              : 9
+SIR            : 9
+Richard        : 9
+glass          : 9
+hours          : 9
+performed      : 9
+possession     : 9
+CLERK          : 9
+feast          : 9
+company        : 9
+Spain          : 9
+Peter          : 9
+farewell       : 9
+sweetest       : 9
+BE             : 9
+De             : 9
+private        : 9
+forth          : 9
+nightingale    : 9
+Dixon          : 9
+Scott          : 9
+Roxburgh       : 9
+fields         : 9
+transcribed    : 9
+win            : 9
+former         : 9
+em             : 9
+second         : 9
+ta             : 9
+reading        : 9
+help           : 9
+follow         : 9
+Therefore      : 9
+entitled       : 9
+correct        : 9
+lads           : 9
+heaven         : 9
+wait           : 9
+arms           : 9
+swore          : 9
+history        : 9
+court          : 9
+Bolton         : 9
+please         : 9
+indeed         : 9
+Dost           : 9
+silver         : 9
+reason         : 9
+letter         : 9
+Had            : 9
+worse          : 9
+street         : 9
+straightway    : 9
+Mollee         : 9
+dairy          : 9
+founded        : 9
+crown          : 9
+gentlemen      : 9
+nobleman       : 9
+matter         : 9
+doctor         : 9
+jewels         : 9
+low            : 9
+Like           : 9
+character      : 9
+fell           : 9
+forced         : 9
+swear          : 9
+wives          : 9
+houses         : 9
+peace          : 9
+Although       : 9
+traditional    : 9
+Gilbert        : 9
+dales          : 9
+hearty         : 9
+folly          : 9
+blue           : 9
+child          : 9
+Not            : 9
+Erskine        : 9
+Highgate       : 9
+antiquity      : 9
+bottle         : 9
+inclined       : 9
+print          : 9
+peculiar       : 9
+together       : 9
+sore           : 9
+hour           : 9
+fiddler        : 9
+trade          : 9
+calling        : 9
+crew           : 9
+until          : 9
+parson         : 9
+Twas           : 9
+bower          : 9
+case           : 9
+morn           : 9
+traced         : 9
+kiss           : 9
+buy            : 9
+road           : 9
+straight       : 8
+faithful       : 8
+laugh          : 8
+walked         : 8
+taking         : 8
+flow           : 8
+top            : 8
+spirit         : 8
+cow            : 8
+cry            : 8
+stable         : 8
+anker          : 8
+CHORUS         : 8
+composition    : 8
+term           : 8
+brown          : 8
+pound          : 8
+stall          : 8
+stream         : 8
+THEY           : 8
+ear            : 8
+winter         : 8
+AT             : 8
+IS             : 8
 Gloucestershire: 8
-spied: 8
-eye: 8
-St: 8
-window: 8
-quickly: 8
-behold: 8
-game: 8
-Bowes: 8
-CAPTAIN: 8
-perhaps: 8
-foul: 8
-appeared: 8
-else: 8
-James: 8
-obtained: 8
-power: 8
-sell: 8
-sound: 8
-Adam: 8
-introduced: 8
-wager: 8
-yow: 8
-answer: 8
-dropped: 8
-WHICH: 8
-belong: 8
-afraid: 8
-rhyme: 8
-winds: 8
-Earl: 8
-YOU: 8
-choose: 8
-courage: 8
-either: 8
-goose: 8
-break: 8
-comfort: 8
-hide: 8
-sign: 8
-Before: 8
-lords: 8
-hill: 8
-courted: 8
-declare: 8
-spoke: 8
-tinkler: 8
-making: 8
-noise: 8
-less: 8
-season: 8
-past: 8
-mill: 8
-dialect: 8
-occasions: 8
-printer: 8
-breath: 8
-First: 8
-proper: 8
-LIFE: 8
-books: 8
-WILL: 8
-because: 8
-sleep: 8
-Little: 8
-WITH: 8
-hogshead: 8
-THREE: 8
-around: 8
-Ryalas: 8
-silly: 8
-collated: 8
-generally: 8
-HORN: 8
-coat: 8
-pull: 8
-pay: 8
-Dear: 8
-Among: 8
-gives: 8
-rustic: 8
-Bednall: 8
-Said: 8
-Henry: 8
-creel: 8
-Says: 8
-during: 8
-space: 8
-ran: 8
-French: 8
-morrow: 8
-ago: 8
-Dicky: 8
-Mare: 8
-aye: 8
-kill: 8
-Robert: 8
-enough: 8
-bad: 8
-Sure: 7
-J: 7
-blood: 7
-aside: 7
-room: 7
-broadsides: 7
-whence: 7
-flowers: 7
-Freer: 7
-grass: 7
-use: 7
-cries: 7
-wood: 7
-bare: 7
-themselves: 7
-instead: 7
-viz: 7
-learn: 7
-severe: 7
-cottage: 7
-LL: 7
-trick: 7
-ON: 7
-Myddeltone: 7
-derived: 7
-war: 7
-fought: 7
-Ye: 7
-wed: 7
-BEING: 7
-looks: 7
-yonder: 7
-food: 7
-woo: 7
-skill: 7
-four: 7
-oh: 7
-rt: 7
-FAIR: 7
-dress: 7
-Wichet: 7
-Think: 7
-particularly: 7
-names: 7
-lang: 7
-JOVIAL: 7
-cheerful: 7
-NOTES: 7
-meat: 7
-notice: 7
-LANDLORD: 7
-bell: 7
-conscience: 7
-steps: 7
-fact: 7
-steed: 7
-boldly: 7
-ill: 7
-advice: 7
-farm: 7
-persons: 7
-Barleycorn: 7
-reap: 7
-ANCIENT: 7
-penny: 7
-kingdom: 7
-party: 7
-peasant: 7
-Delaware: 7
-alive: 7
-Church: 7
-belongs: 7
-editions: 7
-earth: 7
-sight: 7
-seeing: 7
-weel: 7
-throw: 7
-cheer: 7
-RICH: 7
-sport: 7
-painful: 7
-supper: 7
-pair: 7
-Dale: 7
-pale: 7
-rather: 7
-worthy: 7
-bless: 7
-mercy: 7
-middle: 7
-descended: 7
-COME: 7
-MARRIED: 7
-command: 7
-contains: 7
-referred: 7
-toll: 7
-nay: 7
-noo: 7
-pleasing: 7
-strive: 7
-warning: 7
-beheld: 7
-BESSY: 7
-burnt: 7
-Rokeby: 7
-complete: 7
-considerable: 7
-brief: 7
-evidently: 7
-promised: 7
-ony: 7
-willing: 7
-presence: 7
-note: 7
-creature: 7
-treasure: 7
-Nay: 7
-even: 7
-SONGS: 7
-mirth: 7
-New: 7
-followed: 7
-formerly: 7
-Would: 7
-QUERIES: 7
-BOOK: 7
-grows: 7
-apparently: 7
-general: 7
-clean: 7
-prime: 7
-festival: 7
-spare: 7
-tale: 7
-tall: 7
-passed: 7
-Ods: 7
-cream: 7
-versions: 7
-birds: 7
-chamber: 7
-horses: 7
-scorn: 7
-consent: 7
-Sandys: 7
-strangers: 7
-ask: 7
-cast: 7
-mentioned: 7
-latter: 7
-ARTHUR: 7
-confined: 7
-living: 7
-six: 7
-bin: 7
-angel: 7
-ROUND: 7
-Heigho: 7
-nature: 7
-ARE: 7
-LORD: 7
-sack: 7
-roar: 7
-stout: 7
-hang: 6
-C: 6
-hare: 6
-toe: 6
-famous: 6
-question: 6
-EXCISEMAN: 6
-incident: 6
-owre: 6
-BRADLEY: 6
-humour: 6
-kitchen: 6
-thine: 6
-fellows: 6
-short: 6
-shows: 6
-going: 6
-text: 6
-bags: 6
-sober: 6
-sealed: 6
-Whether: 6
-Can: 6
-Since: 6
-AD: 6
-agreed: 6
-SEWE: 6
-shade: 6
-Abey: 6
-vol: 6
-MY: 6
-Ne: 6
-clothing: 6
-grew: 6
-fat: 6
-suit: 6
-portion: 6
-opened: 6
-butter: 6
-stanzas: 6
-fond: 6
-cuckoo: 6
-Did: 6
-ee: 6
-en: 6
-dine: 6
-fra: 6
-knee: 6
-places: 6
-charms: 6
-careful: 6
-bells: 6
-seem: 6
-neighbours: 6
-WAS: 6
-conclude: 6
-continued: 6
-ended: 6
-hero: 6
-possess: 6
-adopted: 6
-Nelson: 6
-dapple: 6
-garments: 6
-beneath: 6
-decay: 6
-thinks: 6
-Sing: 6
-House: 6
-vowed: 6
-ways: 6
-BARLEYCORN: 6
-sweetly: 6
-liquor: 6
-accompanied: 6
-eight: 6
-Dolly: 6
-allusions: 6
-genuine: 6
-certainly: 6
-Each: 6
-nevertheless: 6
-pieces: 6
-wears: 6
-After: 6
-Thornehagh: 6
-excel: 6
-value: 6
-fairly: 6
-nine: 6
-production: 6
-Down: 6
-number: 6
-touch: 6
-ship: 6
-deeds: 6
-learned: 6
-fancy: 6
-Jenny: 6
-QUEEN: 6
-sheep: 6
-drive: 6
-servant: 6
-subsequent: 6
-jug: 6
-parish: 6
-pence: 6
-MELANCHOLY: 6
-scene: 6
-dismal: 6
-sins: 6
-famed: 6
-person: 6
-customs: 6
-Kent: 6
-wele: 6
-wound: 6
-dogs: 6
-district: 6
-equal: 6
-ears: 6
-dost: 6
-mourning: 6
-lodgings: 6
-Because: 6
-poetry: 6
-blessed: 6
-served: 6
-CLOWN: 6
-Behold: 6
-wakes: 6
-slain: 6
-bitter: 6
-resemblance: 6
-churn: 6
-aged: 6
-amain: 6
-merchant: 6
-Take: 6
-historical: 6
-thousands: 6
-Hone: 6
-MAY: 6
-DIALOGUE: 6
-bestowed: 6
-cheese: 6
-MOW: 6
-contained: 6
-oak: 6
-class: 6
-SONS: 6
-Mal: 6
-HOOD: 6
-draw: 6
-oft: 6
-Thomas: 6
-suppose: 6
-wide: 6
-Lancashire: 6
-robes: 6
-confess: 6
-Urfey: 6
-Harvest: 6
-brisk: 6
-govern: 6
-prison: 6
-wind: 6
-yellow: 6
-strange: 6
-Three: 6
-FELON: 6
-withal: 6
-lasses: 6
-sold: 6
-ROBIN: 6
-heavy: 6
-bottel: 6
-evening: 6
-sought: 6
-coming: 6
-jewel: 6
-Whose: 6
-tavern: 6
-youthful: 6
-Anon: 6
-covered: 6
-TUNE: 6
-maskers: 6
-speak: 6
-bobs: 6
-alas: 6
-communicated: 6
-Many: 6
-greater: 6
-simple: 6
-mown: 6
-drowned: 6
-deer: 6
-large: 6
-parrot: 6
-alluded: 6
-constant: 6
-dancing: 6
-stone: 6
-scarce: 6
-hair: 6
-Dick: 6
-YEAR: 5
-willow: 5
-salt: 5
-weeping: 5
-struck: 5
-order: 5
-coach: 5
-initials: 5
-pity: 5
-Are: 5
-earliest: 5
-dochter: 5
-Aye: 5
-golden: 5
-HARVEST: 5
-nimble: 5
-built: 5
-den: 5
-CED: 5
-business: 5
-stage: 5
-quarter: 5
-leathern: 5
-Six: 5
-FOLLOWS: 5
-nurse: 5
-knows: 5
-Reading: 5
-cure: 5
-meaning: 5
-remember: 5
-nought: 5
-expression: 5
-tread: 5
-mare: 5
-base: 5
-DAY: 5
-walking: 5
-Ten: 5
-stop: 5
-immediately: 5
-eke: 5
-need: 5
-Dr: 5
-useful: 5
-GO: 5
-newly: 5
-Bell: 5
-singer: 5
-sharp: 5
-eve: 5
-forms: 5
-triumph: 5
-presently: 5
-Un: 5
-Up: 5
-wad: 5
-VAN: 5
-collections: 5
-Tread: 5
-cuckooUpon: 5
-happened: 5
-rage: 5
-strake: 5
-faith: 5
-lawyer: 5
-visit: 5
-fig: 5
-familiar: 5
-Father: 5
-fox: 5
-easily: 5
-Don: 5
-rave: 5
-plaintive: 5
-wur: 5
-reprint: 5
-os: 5
-ther: 5
-seas: 5
-seed: 5
-betwixt: 5
-Unto: 5
-Roger: 5
-thro: 5
-FROM: 5
-buck: 5
-returned: 5
-god: 5
-reader: 5
-FOR: 5
-fairest: 5
-considered: 5
-write: 5
-costly: 5
-consequence: 5
-wall: 5
-Jone: 5
-HISTORY: 5
-measure: 5
-Fal: 5
-laws: 5
-JOAN: 5
-Scotch: 5
-corpse: 5
-hot: 5
-blast: 5
-Fol: 5
-killed: 5
-altered: 5
-ditties: 5
-strike: 5
-Whitley: 5
-Upon: 5
-mere: 5
-something: 5
-Somersetshire: 5
-oldest: 5
-worldly: 5
-vicar: 5
-HER: 5
-doors: 5
-fail: 5
-foreign: 5
-endeavour: 5
-deary: 5
-fare: 5
-HOW: 5
-Part: 5
-FARMER: 5
-previously: 5
-YOUNG: 5
-Ballads: 5
-local: 5
-filled: 5
-copied: 5
-border: 5
-real: 5
-clock: 5
-thowt: 5
-rings: 5
-frequently: 5
-broken: 5
-III: 5
-seaman: 5
-luck: 5
-dainty: 5
-somewhat: 5
-false: 5
-Besides: 5
-sike: 5
-key: 5
-cloak: 5
-nights: 5
-travelled: 5
-dreadful: 5
-tired: 5
-Lyle: 5
-reads: 5
-towed: 5
-swords: 5
-loved: 5
-Broomfield: 5
-roast: 5
-produce: 5
-raise: 5
-law: 5
-ceremony: 5
-floor: 5
-lambs: 5
-gotten: 5
-supply: 5
-pace: 5
-strains: 5
-clay: 5
-pain: 5
-Twill: 5
-MISCELLANY: 5
-WHEN: 5
-Suppose: 5
-silken: 5
-Cornish: 5
-obtain: 5
-east: 5
-Wherefore: 5
-mile: 5
-capon: 5
-habit: 5
-comely: 5
-month: 5
-varies: 5
-sense: 5
-field: 5
-skin: 5
-Mistress: 5
-Alice: 5
-feed: 5
-breast: 5
-prosper: 5
-taleOf: 5
-William: 5
-gardener: 5
-Amongst: 5
-tongue: 5
-guest: 5
-cruel: 5
-originally: 5
-holiday: 5
-preceding: 5
-MERRY: 5
-silks: 5
-mournful: 5
-oftentimes: 5
-understood: 5
-Martha: 5
-whatever: 5
-thoughts: 5
-districts: 5
-certain: 5
-board: 5
-Grinfilt: 5
-armour: 5
-trouble: 5
-Henrie: 5
-HOME: 5
-practice: 5
-Man: 5
-SHOWING: 5
-Alas: 5
-Duke: 5
-ond: 5
-NOW: 5
-pure: 5
-lies: 5
-dame: 5
-parlour: 5
-dark: 5
-hearts: 5
-lily: 5
-humble: 5
-countrie: 5
-service: 5
-Nan: 5
-birth: 5
-Elizabeth: 5
-rapped: 5
-kings: 5
-intended: 5
-bravely: 5
-ONE: 5
-excuse: 5
-freer: 5
-pastime: 5
-Satan: 5
-meete: 5
-awhile: 5
-desire: 5
-grieved: 5
-innocent: 5
-KISS: 5
-hearing: 5
-introductory: 5
-incidents: 5
-serve: 5
-smile: 5
-adieu: 5
-fish: 5
-Anne: 5
-employ: 5
-Cuckoo: 5
-hopes: 5
-trace: 5
-ral: 5
-act: 5
-craw: 5
-Cornwall: 5
-Catholic: 5
-body: 5
-rol: 5
-dust: 5
-ANTE: 5
-rudely: 5
-sae: 5
-spread: 5
-proved: 5
-Year: 5
-bee: 5
-sky: 5
-crystal: 5
-ALL: 5
-stands: 5
-DOCTOR: 5
-dell: 5
-alack: 5
-stool: 5
-buried: 5
-glory: 5
-passion: 5
-ocean: 5
-passing: 5
-commencement: 5
-SINGS: 5
-clothed: 5
-goes: 5
-chanced: 5
-afraidTo: 4
-G: 4
-R: 4
-n: 4
-Thackeray: 4
-harm: 4
-rope: 4
-sare: 4
-vather: 4
-pardon: 4
-hawk: 4
-Ann: 4
-Than: 4
-productions: 4
-occurred: 4
-budget: 4
-sorrows: 4
-shown: 4
-drinking: 4
-created: 4
-COURTSHIP: 4
-SUNG: 4
-Fairlop: 4
-dearest: 4
-dew: 4
-Cupid: 4
-fears: 4
-midst: 4
-straw: 4
-Lady: 4
-kindness: 4
-brew: 4
-contents: 4
-brim: 4
-THAT: 4
-thatte: 4
-dry: 4
-twas: 4
-Pride: 4
-trees: 4
-oppressed: 4
-Sue: 4
-highest: 4
-Warden: 4
-wold: 4
-interest: 4
-mask: 4
-gallants: 4
-relate: 4
-mate: 4
-secret: 4
-loud: 4
-opinion: 4
-spend: 4
-hande: 4
-slighted: 4
-neck: 4
-DE: 4
-notes: 4
-dancers: 4
-knave: 4
-Do: 4
-hardly: 4
-companion: 4
-gates: 4
-lines: 4
-wanting: 4
-occurs: 4
-Whatever: 4
-IV: 4
-seventh: 4
-share: 4
-BARLEY: 4
-brass: 4
-substituted: 4
-meadows: 4
-joyful: 4
-remain: 4
-Royal: 4
-Saint: 4
-fetched: 4
-servants: 4
-submit: 4
-thrash: 4
-race: 4
-TIME: 4
-issued: 4
-youngest: 4
-wanton: 4
-indebted: 4
-fie: 4
-fit: 4
-rank: 4
-locality: 4
-HUNTER: 4
-rape: 4
-charge: 4
-da: 4
-language: 4
-Friday: 4
-piece: 4
-stared: 4
-feather: 4
-ENTER: 4
-porter: 4
-possessed: 4
-flowing: 4
-dish: 4
-legacy: 4
-kisses: 4
-nation: 4
-Northumberland: 4
-scarlet: 4
-wander: 4
-adore: 4
-adorn: 4
-gav: 4
-teach: 4
-yt: 4
-shilling: 4
-force: 4
-course: 4
-precious: 4
-obliged: 4
-Printed: 4
-WHO: 4
-gin: 4
-quart: 4
-Ridler: 4
-intent: 4
-intend: 4
-CORNISH: 4
-youth: 4
-Methinks: 4
-Having: 4
-resolved: 4
-Worcestershire: 4
-pocket: 4
-despair: 4
-gun: 4
-queen: 4
-writ: 4
-tide: 4
-suits: 4
-earlier: 4
-PLOUGH: 4
-charity: 4
-Eve: 4
-lane: 4
-lame: 4
-resign: 4
-gilded: 4
-attend: 4
-school: 4
-Heaven: 4
-Poems: 4
-yes: 4
-plowing: 4
-smart: 4
-Being: 4
-personage: 4
-Whilst: 4
-lays: 4
-hie: 4
-twice: 4
-belonged: 4
-meal: 4
-Raphe: 4
-yon: 4
-Suffolk: 4
-GOD: 4
-dumble: 4
-reply: 4
-count: 4
-beginning: 4
-huntsman: 4
-JOHN: 4
-deliver: 4
-bent: 4
-forget: 4
-feete: 4
-christian: 4
-weary: 4
-fain: 4
-Captain: 4
-HIM: 4
-VERSION: 4
-Spanish: 4
-according: 4
-inn: 4
-post: 4
-concluding: 4
-seventeenth: 4
-respect: 4
-feasts: 4
-Miss: 4
-city: 4
-shan: 4
-minute: 4
-gentle: 4
-mortals: 4
-worth: 4
-takes: 4
-castle: 4
-Into: 4
-everywhere: 4
-planted: 4
-Yes: 4
-shot: 4
-frown: 4
-Sharp: 4
-jig: 4
-rent: 4
-CHRISTMAS: 4
-ridden: 4
-neighbourhood: 4
-sailor: 4
-Instead: 4
-dinner: 4
-join: 4
-thinking: 4
-everything: 4
-thorn: 4
-sigh: 4
-durst: 4
-interesting: 4
-blades: 4
-silk: 4
-silent: 4
-stones: 4
-vast: 4
-counties: 4
-virtue: 4
-British: 4
-Ecod: 4
-dispute: 4
-canst: 4
-greatest: 4
-played: 4
-gibbet: 4
-SINGING: 4
-crave: 4
-adventure: 4
-doat: 4
-wounded: 4
-booze: 4
-attire: 4
-lee: 4
-leg: 4
-mountain: 4
-press: 4
-rendered: 4
-page: 4
-Aldermary: 4
-purchase: 4
-merely: 4
-None: 4
-husband: 4
-relief: 4
-breeches: 4
-Lion: 4
-grotesque: 4
-Providence: 4
-easy: 4
-added: 4
-renown: 4
-supplied: 4
-Roman: 4
-terrible: 4
-handsome: 4
-meh: 4
-wicked: 4
-granted: 4
-received: 4
-heavenly: 4
-CRAVEN: 4
-locks: 4
-beard: 4
-bears: 4
-ranged: 4
-KNIGHT: 4
-heiress: 4
-fingers: 4
-mon: 4
-relation: 4
-among: 4
-haste: 4
-sends: 4
-prepared: 4
-dainties: 4
-leading: 4
-July: 4
-sonne: 4
-sweat: 4
-Hold: 4
-similar: 4
-MAD: 4
-tomb: 4
-DANCERS: 4
-bushel: 4
-Soon: 4
-pages: 4
-frolicsome: 4
-Sunday: 4
-didst: 4
-PILLS: 4
-Jean: 4
-Francis: 4
-WALKS: 4
-dishes: 4
-wrong: 4
-festivals: 4
-colde: 4
-prattle: 4
-shiny: 4
-hearted: 4
-search: 4
-Berkshire: 4
-fourteen: 4
-knife: 4
-correspondent: 4
-Farewell: 4
-seemed: 4
-wandering: 4
-oral: 4
-eldest: 4
-considerably: 4
-wrought: 4
-remarks: 4
-twelve: 4
-Dutch: 4
-Lincolnshire: 4
-Moor: 4
-Carl: 4
-noon: 4
-dare: 4
-Kind: 4
-felon: 4
-remote: 4
-cows: 4
-Dean: 4
-fatal: 4
-ribbons: 4
-earthly: 4
-pig: 4
-judgment: 4
-obey: 4
-groat: 4
-meeting: 4
-prize: 4
-fainting: 4
-POACHER: 4
-GEORGE: 4
-stanza: 4
-BEGGAR: 4
-grown: 4
-disgrace: 4
-drunkenness: 4
-happen: 4
-tail: 4
-purse: 4
-landlord: 4
-OVEN: 4
-gathered: 4
-hose: 4
-Have: 4
-fill: 4
-Rumford: 4
-laughter: 4
-writers: 4
-evident: 4
-RIDLER: 4
-knocked: 4
-ought: 4
-artificial: 4
-pottle: 4
-makings: 4
-betrayed: 4
-span: 4
-public: 4
-beest: 4
-favoured: 4
-pulled: 4
-prithee: 4
-Pan: 4
-nipperkin: 4
-trust: 4
-courtship: 4
-mighty: 4
-tender: 4
-glove: 4
-already: 4
-poverty: 4
-corruption: 4
-fruits: 4
-ark: 4
-kick: 4
-rue: 4
-strength: 4
-ours: 4
-yourself: 4
-RELIQUES: 4
-discourse: 4
-mouth: 4
-leader: 4
-yard: 4
-moor: 4
-flesh: 4
-seldom: 4
-bore: 4
-parted: 4
-moneyless: 4
-Love: 4
-Burns: 4
-ACTORS: 4
-profit: 4
-Near: 4
-oven: 4
-frowns: 4
-bit: 4
-thanks: 4
-beside: 4
-defy: 4
-table: 4
-quarrel: 4
-drawn: 4
-knights: 4
-bud: 4
-gallon: 4
-wished: 4
-sorrowful: 4
-horns: 4
-throng: 4
-mortal: 4
-damsel: 4
-Hannah: 4
-nobody: 4
-drank: 4
-bespoke: 4
-sayde: 4
-acquainted: 4
-courtier: 4
-ploughman: 4
-begun: 4
-lovers: 4
-flee: 4
-looral: 4
-lillie: 4
-Pedlar: 3
-drunk: 3
-poems: 3
-B: 3
-M: 3
-V: 3
-hame: 3
-readers: 3
-Rev: 3
-COUNTRY: 3
-romance: 3
-Mallet: 3
-women: 3
-pink: 3
-TINKLER: 3
-tow: 3
-com: 3
-coy: 3
-gown: 3
-rove: 3
-gout: 3
-printers: 3
-caught: 3
-Grose: 3
-refrain: 3
-Taunton: 3
-reported: 3
-team: 3
-speech: 3
-amends: 3
-shook: 3
-stare: 3
-stars: 3
-sessions: 3
-destroy: 3
-deemed: 3
-unknown: 3
-manners: 3
-dan: 3
-Saxon: 3
-celebrated: 3
-entertain: 3
-specimen: 3
-friar: 3
-introduction: 3
-BOWES: 3
-carefully: 3
-Parker: 3
-ashes: 3
-finer: 3
-Ben: 3
-shoes: 3
-taught: 3
-Hagmena: 3
-sumptuous: 3
-remained: 3
-occasion: 3
-bred: 3
-priest: 3
-dearly: 3
-glittering: 3
-TOM: 3
-Son: 3
-main: 3
-grain: 3
-likes: 3
-broom: 3
-hither: 3
-cups: 3
-fulfil: 3
-due: 3
-Must: 3
-observes: 3
-band: 3
-THEN: 3
-male: 3
-Abraham: 3
-dye: 3
-treat: 3
-starving: 3
-Last: 3
-barn: 3
-seeds: 3
-invited: 3
-CIRCLE: 3
-grounds: 3
-knock: 3
-HEIR: 3
-loth: 3
-TABLE: 3
-loss: 3
-Midsummer: 3
-across: 3
-Doctor: 3
-soldier: 3
-THOU: 3
-twor: 3
-HORSE: 3
-branch: 3
-brandy: 3
-faint: 3
-loose: 3
-forty: 3
-vow: 3
-HE: 3
-education: 3
-heigh: 3
-tried: 3
-Monford: 3
-amiss: 3
-petticoat: 3
-ME: 3
-woode: 3
-MR: 3
-France: 3
-maintain: 3
-wonne: 3
-nere: 3
-gray: 3
-drunken: 3
-SO: 3
-fielde: 3
-LAST: 3
-greet: 3
-Quoth: 3
-Ceres: 3
-YE: 3
-Yt: 3
-study: 3
-wee: 3
-quaint: 3
-diddle: 3
-wet: 3
-strain: 3
-hunt: 3
-effect: 3
-hung: 3
-matters: 3
-various: 3
-denied: 3
-Hagman: 3
-sudden: 3
-foot: 3
-di: 3
-needs: 3
-fa: 3
-fol: 3
-harlots: 3
-knaw: 3
-flourish: 3
-zing: 3
-ii: 3
-fro: 3
-freers: 3
-lively: 3
-alteration: 3
-become: 3
-customary: 3
-fowl: 3
-troublesome: 3
-wooden: 3
-political: 3
-Kentish: 3
-families: 3
-sitting: 3
-seat: 3
-thanked: 3
-righteous: 3
-started: 3
-te: 3
-parodies: 3
-rules: 3
-fifteenth: 3
-valiant: 3
-wa: 3
-POUND: 3
-slight: 3
-tyll: 3
-hell: 3
-swearing: 3
-souse: 3
-plucked: 3
-brags: 3
-Redding: 3
-readings: 3
-exact: 3
-surrounded: 3
-abide: 3
-brain: 3
-collation: 3
-POLE: 3
-creatures: 3
-Helstone: 3
-POOR: 3
-virgin: 3
-defence: 3
-sworn: 3
-lace: 3
-toast: 3
-thys: 3
-complaint: 3
-named: 3
-Lincolnsheer: 3
-Railton: 3
-Esq: 3
-whether: 3
-swan: 3
-bush: 3
-combat: 3
-pursue: 3
-tied: 3
-cowslips: 3
-Bromsgrove: 3
-grieve: 3
-Diddle: 3
-Bagford: 3
-edited: 3
-accident: 3
-tragedy: 3
-preface: 3
-Once: 3
-goods: 3
-hav: 3
-wash: 3
-Collins: 3
-warm: 3
-waxed: 3
-chant: 3
-ends: 3
-sickness: 3
-hen: 3
-hey: 3
-Wee: 3
-BATEMAN: 3
-hid: 3
-LINNE: 3
-shepherd: 3
-Only: 3
-chaff: 3
-beef: 3
-LILLI: 3
-publications: 3
-promise: 3
-swerde: 3
-vapour: 3
-Grant: 3
-Davies: 3
-afford: 3
-impression: 3
-Ancient: 3
-Were: 3
-blade: 3
-guineas: 3
-sooner: 3
-difficult: 3
-Trembaa: 3
-strife: 3
-favourites: 3
-quoted: 3
-Rokebye: 3
-miners: 3
-rude: 3
-thereby: 3
-religious: 3
-particulars: 3
-melancholy: 3
-Border: 3
-Away: 3
-nick: 3
-nice: 3
-perfect: 3
-yeoman: 3
-spinning: 3
-Durham: 3
-forsake: 3
-paper: 3
-zow: 3
-CAROLS: 3
-sweetheart: 3
-properly: 3
-excellent: 3
-shortly: 3
-fate: 3
-shouther: 3
-disdain: 3
-arrayed: 3
-monarch: 3
-miles: 3
-authorship: 3
-blessing: 3
-Preston: 3
-removed: 3
-points: 3
-fifteen: 3
-gently: 3
-hymn: 3
-soundings: 3
-deead: 3
-FULL: 3
-difficulty: 3
-COURT: 3
-Leave: 3
-mantle: 3
-substance: 3
-Hey: 3
-delicate: 3
-whistling: 3
-frost: 3
-violet: 3
-bottles: 3
-phrase: 3
-bones: 3
-Shall: 3
-clout: 3
-EARL: 3
-afterwards: 3
-canna: 3
-plant: 3
-ascribed: 3
-entered: 3
-humorous: 3
-Knight: 3
-wronged: 3
-tyrant: 3
-crowd: 3
-maiden: 3
-faithfully: 3
-ordinary: 3
-countryman: 3
-South: 3
-Jane: 3
-bacon: 3
-traditionally: 3
-report: 3
-lament: 3
-knees: 3
-sailed: 3
-publication: 3
-preserve: 3
-enjoys: 3
-countrymen: 3
-informs: 3
-overthrow: 3
-VIOLIN: 3
-lusty: 3
-vara: 3
-fancies: 3
-SPIRITUALIZED: 3
-fourth: 3
-records: 3
-throughout: 3
-corrupt: 3
-Clapham: 3
-joys: 3
-damsels: 3
-distressed: 3
-inhabitant: 3
-passage: 3
-begone: 3
-justice: 3
-weep: 3
-GARLAND: 3
-weed: 3
-JACK: 3
-surgeon: 3
-warrant: 3
-example: 3
-quiet: 3
-conjectural: 3
-lent: 3
-tinker: 3
-CANDIDATE: 3
-JANE: 3
-daylight: 3
-thauy: 3
-minor: 3
-employed: 3
-identical: 3
-lan: 3
-NOBLEMAN: 3
-spoken: 3
-lea: 3
-wherein: 3
-imps: 3
-ardent: 3
-Pull: 3
-entertainment: 3
-refused: 3
-Phoebus: 3
-prayer: 3
-HARRY: 3
-orthography: 3
-Wrightson: 3
-paid: 3
-Fortune: 3
-whoever: 3
-threw: 3
-battel: 3
-Could: 3
-glasses: 3
-meant: 3
-August: 3
-ease: 3
-earn: 3
-record: 3
-assigned: 3
-Hitchin: 3
-dove: 3
-wretched: 3
-brings: 3
-acres: 3
-mention: 3
-blest: 3
-LAL: 3
-feel: 3
-Giles: 3
-enters: 3
-danger: 3
-stick: 3
-tales: 3
-height: 3
-miller: 3
-shared: 3
-March: 3
-boots: 3
-gazed: 3
-owing: 3
-dwells: 3
-swain: 3
-constitute: 3
-literary: 3
-enjoy: 3
-writing: 3
-greenwood: 3
-voice: 3
-egging: 3
-BLOW: 3
-LIKE: 3
-counsellor: 3
-beware: 3
-forest: 3
-occupations: 3
-materials: 3
-bonfire: 3
-Sussex: 3
-ABOUT: 3
-moral: 3
-Madam: 3
-crossed: 3
-Ballyman: 3
-outlandish: 3
-tore: 3
-Begone: 3
-sweit: 3
-BETWEEN: 3
-butler: 3
-shoulder: 3
-ensuing: 3
-amaze: 3
-forgetting: 3
-threescore: 3
-Jerry: 3
-Easter: 3
-nearly: 3
-conquer: 3
-refer: 3
-innocence: 3
-modest: 3
-counsel: 3
-probability: 3
-lofty: 3
-Hence: 3
-CLERGYMAN: 3
-lyfe: 3
-occasionally: 3
-Drink: 3
-recital: 3
-market: 3
-solemn: 3
-wyll: 3
-fyght: 3
-shine: 3
-feight: 3
-consequently: 3
-PRAISE: 3
-scarcely: 3
-Skipton: 3
-proverb: 3
-issue: 3
-wassail: 3
-BURLERO: 3
-prodigal: 3
-claim: 3
-hadde: 3
-SORT: 3
-wholesome: 3
-MUSICAL: 3
-variety: 3
-stormy: 3
-crowned: 3
-dale: 3
-Ritson: 3
-Another: 3
-NOT: 3
-extract: 3
-obscure: 3
-support: 3
-deceive: 3
-drop: 3
-Billy: 3
-Moll: 3
-superior: 3
-practise: 3
-asleep: 3
-interlude: 3
-coom: 3
-cook: 3
-amazed: 3
-treacle: 3
-nose: 3
-garred: 3
-kettle: 3
-harbour: 3
-carriage: 3
-faced: 3
-nowt: 3
-combined: 3
-undone: 3
-wise: 3
-Unless: 3
-especial: 3
-About: 3
-chink: 3
-Over: 3
-heroes: 3
-afore: 3
-wight: 3
-meetings: 3
-engaged: 3
-twain: 3
-pin: 3
-snow: 3
-rising: 3
-despise: 3
-theyr: 3
-Through: 3
-buttons: 3
-kicked: 3
-despite: 3
-velvet: 3
-liberty: 3
-repentance: 3
-receive: 3
-SWEET: 3
-standing: 3
-MOLL: 3
-playing: 3
-poacher: 3
-prudent: 3
+spied          : 8
+eye            : 8
+St             : 8
+window         : 8
+quickly        : 8
+behold         : 8
+game           : 8
+Bowes          : 8
+CAPTAIN        : 8
+perhaps        : 8
+foul           : 8
+appeared       : 8
+else           : 8
+James          : 8
+obtained       : 8
+power          : 8
+sell           : 8
+sound          : 8
+Adam           : 8
+introduced     : 8
+wager          : 8
+yow            : 8
+answer         : 8
+dropped        : 8
+WHICH          : 8
+belong         : 8
+afraid         : 8
+rhyme          : 8
+winds          : 8
+Earl           : 8
+YOU            : 8
+choose         : 8
+courage        : 8
+either         : 8
+goose          : 8
+break          : 8
+comfort        : 8
+hide           : 8
+sign           : 8
+Before         : 8
+lords          : 8
+hill           : 8
+courted        : 8
+declare        : 8
+spoke          : 8
+tinkler        : 8
+making         : 8
+noise          : 8
+less           : 8
+season         : 8
+past           : 8
+mill           : 8
+dialect        : 8
+occasions      : 8
+printer        : 8
+breath         : 8
+First          : 8
+proper         : 8
+LIFE           : 8
+books          : 8
+WILL           : 8
+because        : 8
+sleep          : 8
+Little         : 8
+WITH           : 8
+hogshead       : 8
+THREE          : 8
+around         : 8
+Ryalas         : 8
+silly          : 8
+collated       : 8
+generally      : 8
+HORN           : 8
+coat           : 8
+pull           : 8
+pay            : 8
+Dear           : 8
+Among          : 8
+gives          : 8
+rustic         : 8
+Bednall        : 8
+Said           : 8
+Henry          : 8
+creel          : 8
+Says           : 8
+during         : 8
+space          : 8
+ran            : 8
+French         : 8
+morrow         : 8
+ago            : 8
+Dicky          : 8
+Mare           : 8
+aye            : 8
+kill           : 8
+Robert         : 8
+enough         : 8
+bad            : 8
+Sure           : 7
+J              : 7
+blood          : 7
+aside          : 7
+room           : 7
+broadsides     : 7
+whence         : 7
+flowers        : 7
+Freer          : 7
+grass          : 7
+use            : 7
+cries          : 7
+wood           : 7
+bare           : 7
+themselves     : 7
+instead        : 7
+viz            : 7
+learn          : 7
+severe         : 7
+cottage        : 7
+LL             : 7
+trick          : 7
+ON             : 7
+Myddeltone     : 7
+derived        : 7
+war            : 7
+fought         : 7
+Ye             : 7
+wed            : 7
+BEING          : 7
+looks          : 7
+yonder         : 7
+food           : 7
+woo            : 7
+skill          : 7
+four           : 7
+oh             : 7
+rt             : 7
+FAIR           : 7
+dress          : 7
+Wichet         : 7
+Think          : 7
+particularly   : 7
+names          : 7
+lang           : 7
+JOVIAL         : 7
+cheerful       : 7
+NOTES          : 7
+meat           : 7
+notice         : 7
+LANDLORD       : 7
+bell           : 7
+conscience     : 7
+steps          : 7
+fact           : 7
+steed          : 7
+boldly         : 7
+ill            : 7
+advice         : 7
+farm           : 7
+persons        : 7
+Barleycorn     : 7
+reap           : 7
+ANCIENT        : 7
+penny          : 7
+kingdom        : 7
+party          : 7
+peasant        : 7
+Delaware       : 7
+alive          : 7
+Church         : 7
+belongs        : 7
+editions       : 7
+earth          : 7
+sight          : 7
+seeing         : 7
+weel           : 7
+throw          : 7
+cheer          : 7
+RICH           : 7
+sport          : 7
+painful        : 7
+supper         : 7
+pair           : 7
+Dale           : 7
+pale           : 7
+rather         : 7
+worthy         : 7
+bless          : 7
+mercy          : 7
+middle         : 7
+descended      : 7
+COME           : 7
+MARRIED        : 7
+command        : 7
+contains       : 7
+referred       : 7
+toll           : 7
+nay            : 7
+noo            : 7
+pleasing       : 7
+strive         : 7
+warning        : 7
+beheld         : 7
+BESSY          : 7
+burnt          : 7
+Rokeby         : 7
+complete       : 7
+considerable   : 7
+brief          : 7
+evidently      : 7
+promised       : 7
+ony            : 7
+willing        : 7
+presence       : 7
+note           : 7
+creature       : 7
+treasure       : 7
+Nay            : 7
+even           : 7
+SONGS          : 7
+mirth          : 7
+New            : 7
+followed       : 7
+formerly       : 7
+Would          : 7
+QUERIES        : 7
+BOOK           : 7
+grows          : 7
+apparently     : 7
+general        : 7
+clean          : 7
+prime          : 7
+festival       : 7
+spare          : 7
+tale           : 7
+tall           : 7
+passed         : 7
+Ods            : 7
+cream          : 7
+versions       : 7
+birds          : 7
+chamber        : 7
+horses         : 7
+scorn          : 7
+consent        : 7
+Sandys         : 7
+strangers      : 7
+ask            : 7
+cast           : 7
+mentioned      : 7
+latter         : 7
+ARTHUR         : 7
+confined       : 7
+living         : 7
+six            : 7
+bin            : 7
+angel          : 7
+ROUND          : 7
+Heigho         : 7
+nature         : 7
+ARE            : 7
+LORD           : 7
+sack           : 7
+roar           : 7
+stout          : 7
+hang           : 6
+C              : 6
+hare           : 6
+toe            : 6
+famous         : 6
+question       : 6
+EXCISEMAN      : 6
+incident       : 6
+owre           : 6
+BRADLEY        : 6
+humour         : 6
+kitchen        : 6
+thine          : 6
+fellows        : 6
+short          : 6
+shows          : 6
+going          : 6
+text           : 6
+bags           : 6
+sober          : 6
+sealed         : 6
+Whether        : 6
+Can            : 6
+Since          : 6
+AD             : 6
+agreed         : 6
+SEWE           : 6
+shade          : 6
+Abey           : 6
+vol            : 6
+MY             : 6
+Ne             : 6
+clothing       : 6
+grew           : 6
+fat            : 6
+suit           : 6
+portion        : 6
+opened         : 6
+butter         : 6
+stanzas        : 6
+fond           : 6
+cuckoo         : 6
+Did            : 6
+ee             : 6
+en             : 6
+dine           : 6
+fra            : 6
+knee           : 6
+places         : 6
+charms         : 6
+careful        : 6
+bells          : 6
+seem           : 6
+neighbours     : 6
+WAS            : 6
+conclude       : 6
+continued      : 6
+ended          : 6
+hero           : 6
+possess        : 6
+adopted        : 6
+Nelson         : 6
+dapple         : 6
+garments       : 6
+beneath        : 6
+decay          : 6
+thinks         : 6
+Sing           : 6
+House          : 6
+vowed          : 6
+ways           : 6
+BARLEYCORN     : 6
+sweetly        : 6
+liquor         : 6
+accompanied    : 6
+eight          : 6
+Dolly          : 6
+allusions      : 6
+genuine        : 6
+certainly      : 6
+Each           : 6
+nevertheless   : 6
+pieces         : 6
+wears          : 6
+After          : 6
+Thornehagh     : 6
+excel          : 6
+value          : 6
+fairly         : 6
+nine           : 6
+production     : 6
+Down           : 6
+number         : 6
+touch          : 6
+ship           : 6
+deeds          : 6
+learned        : 6
+fancy          : 6
+Jenny          : 6
+QUEEN          : 6
+sheep          : 6
+drive          : 6
+servant        : 6
+subsequent     : 6
+jug            : 6
+parish         : 6
+pence          : 6
+MELANCHOLY     : 6
+scene          : 6
+dismal         : 6
+sins           : 6
+famed          : 6
+person         : 6
+customs        : 6
+Kent           : 6
+wele           : 6
+wound          : 6
+dogs           : 6
+district       : 6
+equal          : 6
+ears           : 6
+dost           : 6
+mourning       : 6
+lodgings       : 6
+Because        : 6
+poetry         : 6
+blessed        : 6
+served         : 6
+CLOWN          : 6
+Behold         : 6
+wakes          : 6
+slain          : 6
+bitter         : 6
+resemblance    : 6
+churn          : 6
+aged           : 6
+amain          : 6
+merchant       : 6
+Take           : 6
+historical     : 6
+thousands      : 6
+Hone           : 6
+MAY            : 6
+DIALOGUE       : 6
+bestowed       : 6
+cheese         : 6
+MOW            : 6
+contained      : 6
+oak            : 6
+class          : 6
+SONS           : 6
+Mal            : 6
+HOOD           : 6
+draw           : 6
+oft            : 6
+Thomas         : 6
+suppose        : 6
+wide           : 6
+Lancashire     : 6
+robes          : 6
+confess        : 6
+Urfey          : 6
+Harvest        : 6
+brisk          : 6
+govern         : 6
+prison         : 6
+wind           : 6
+yellow         : 6
+strange        : 6
+Three          : 6
+FELON          : 6
+withal         : 6
+lasses         : 6
+sold           : 6
+ROBIN          : 6
+heavy          : 6
+bottel         : 6
+evening        : 6
+sought         : 6
+coming         : 6
+jewel          : 6
+Whose          : 6
+tavern         : 6
+youthful       : 6
+Anon           : 6
+covered        : 6
+TUNE           : 6
+maskers        : 6
+speak          : 6
+bobs           : 6
+alas           : 6
+communicated   : 6
+Many           : 6
+greater        : 6
+simple         : 6
+mown           : 6
+drowned        : 6
+deer           : 6
+large          : 6
+parrot         : 6
+alluded        : 6
+constant       : 6
+dancing        : 6
+stone          : 6
+scarce         : 6
+hair           : 6
+Dick           : 6
+YEAR           : 5
+willow         : 5
+salt           : 5
+weeping        : 5
+struck         : 5
+order          : 5
+coach          : 5
+initials       : 5
+pity           : 5
+Are            : 5
+earliest       : 5
+dochter        : 5
+Aye            : 5
+golden         : 5
+HARVEST        : 5
+nimble         : 5
+built          : 5
+den            : 5
+CED            : 5
+business       : 5
+stage          : 5
+quarter        : 5
+leathern       : 5
+Six            : 5
+FOLLOWS        : 5
+nurse          : 5
+knows          : 5
+Reading        : 5
+cure           : 5
+meaning        : 5
+remember       : 5
+nought         : 5
+expression     : 5
+tread          : 5
+mare           : 5
+base           : 5
+DAY            : 5
+walking        : 5
+Ten            : 5
+stop           : 5
+immediately    : 5
+eke            : 5
+need           : 5
+Dr             : 5
+useful         : 5
+GO             : 5
+newly          : 5
+Bell           : 5
+singer         : 5
+sharp          : 5
+eve            : 5
+forms          : 5
+triumph        : 5
+presently      : 5
+Un             : 5
+Up             : 5
+wad            : 5
+VAN            : 5
+collections    : 5
+Tread          : 5
+cuckooUpon     : 5
+happened       : 5
+rage           : 5
+strake         : 5
+faith          : 5
+lawyer         : 5
+visit          : 5
+fig            : 5
+familiar       : 5
+Father         : 5
+fox            : 5
+easily         : 5
+Don            : 5
+rave           : 5
+plaintive      : 5
+wur            : 5
+reprint        : 5
+os             : 5
+ther           : 5
+seas           : 5
+seed           : 5
+betwixt        : 5
+Unto           : 5
+Roger          : 5
+thro           : 5
+FROM           : 5
+buck           : 5
+returned       : 5
+god            : 5
+reader         : 5
+FOR            : 5
+fairest        : 5
+considered     : 5
+write          : 5
+costly         : 5
+consequence    : 5
+wall           : 5
+Jone           : 5
+HISTORY        : 5
+measure        : 5
+Fal            : 5
+laws           : 5
+JOAN           : 5
+Scotch         : 5
+corpse         : 5
+hot            : 5
+blast          : 5
+Fol            : 5
+killed         : 5
+altered        : 5
+ditties        : 5
+strike         : 5
+Whitley        : 5
+Upon           : 5
+mere           : 5
+something      : 5
+Somersetshire  : 5
+oldest         : 5
+worldly        : 5
+vicar          : 5
+HER            : 5
+doors          : 5
+fail           : 5
+foreign        : 5
+endeavour      : 5
+deary          : 5
+fare           : 5
+HOW            : 5
+Part           : 5
+FARMER         : 5
+previously     : 5
+YOUNG          : 5
+Ballads        : 5
+local          : 5
+filled         : 5
+copied         : 5
+border         : 5
+real           : 5
+clock          : 5
+thowt          : 5
+rings          : 5
+frequently     : 5
+broken         : 5
+III            : 5
+seaman         : 5
+luck           : 5
+dainty         : 5
+somewhat       : 5
+false          : 5
+Besides        : 5
+sike           : 5
+key            : 5
+cloak          : 5
+nights         : 5
+travelled      : 5
+dreadful       : 5
+tired          : 5
+Lyle           : 5
+reads          : 5
+towed          : 5
+swords         : 5
+loved          : 5
+Broomfield     : 5
+roast          : 5
+produce        : 5
+raise          : 5
+law            : 5
+ceremony       : 5
+floor          : 5
+lambs          : 5
+gotten         : 5
+supply         : 5
+pace           : 5
+strains        : 5
+clay           : 5
+pain           : 5
+Twill          : 5
+MISCELLANY     : 5
+WHEN           : 5
+Suppose        : 5
+silken         : 5
+Cornish        : 5
+obtain         : 5
+east           : 5
+Wherefore      : 5
+mile           : 5
+capon          : 5
+habit          : 5
+comely         : 5
+month          : 5
+varies         : 5
+sense          : 5
+field          : 5
+skin           : 5
+Mistress       : 5
+Alice          : 5
+feed           : 5
+breast         : 5
+prosper        : 5
+taleOf         : 5
+William        : 5
+gardener       : 5
+Amongst        : 5
+tongue         : 5
+guest          : 5
+cruel          : 5
+originally     : 5
+holiday        : 5
+preceding      : 5
+MERRY          : 5
+silks          : 5
+mournful       : 5
+oftentimes     : 5
+understood     : 5
+Martha         : 5
+whatever       : 5
+thoughts       : 5
+districts      : 5
+certain        : 5
+board          : 5
+Grinfilt       : 5
+armour         : 5
+trouble        : 5
+Henrie         : 5
+HOME           : 5
+practice       : 5
+Man            : 5
+SHOWING        : 5
+Alas           : 5
+Duke           : 5
+ond            : 5
+NOW            : 5
+pure           : 5
+lies           : 5
+dame           : 5
+parlour        : 5
+dark           : 5
+hearts         : 5
+lily           : 5
+humble         : 5
+countrie       : 5
+service        : 5
+Nan            : 5
+birth          : 5
+Elizabeth      : 5
+rapped         : 5
+kings          : 5
+intended       : 5
+bravely        : 5
+ONE            : 5
+excuse         : 5
+freer          : 5
+pastime        : 5
+Satan          : 5
+meete          : 5
+awhile         : 5
+desire         : 5
+grieved        : 5
+innocent       : 5
+KISS           : 5
+hearing        : 5
+introductory   : 5
+incidents      : 5
+serve          : 5
+smile          : 5
+adieu          : 5
+fish           : 5
+Anne           : 5
+employ         : 5
+Cuckoo         : 5
+hopes          : 5
+trace          : 5
+ral            : 5
+act            : 5
+craw           : 5
+Cornwall       : 5
+Catholic       : 5
+body           : 5
+rol            : 5
+dust           : 5
+ANTE           : 5
+rudely         : 5
+sae            : 5
+spread         : 5
+proved         : 5
+Year           : 5
+bee            : 5
+sky            : 5
+crystal        : 5
+ALL            : 5
+stands         : 5
+DOCTOR         : 5
+dell           : 5
+alack          : 5
+stool          : 5
+buried         : 5
+glory          : 5
+passion        : 5
+ocean          : 5
+passing        : 5
+commencement   : 5
+SINGS          : 5
+clothed        : 5
+goes           : 5
+chanced        : 5
+afraidTo       : 4
+G              : 4
+R              : 4
+n              : 4
+Thackeray      : 4
+harm           : 4
+rope           : 4
+sare           : 4
+vather         : 4
+pardon         : 4
+hawk           : 4
+Ann            : 4
+Than           : 4
+productions    : 4
+occurred       : 4
+budget         : 4
+sorrows        : 4
+shown          : 4
+drinking       : 4
+created        : 4
+COURTSHIP      : 4
+SUNG           : 4
+Fairlop        : 4
+dearest        : 4
+dew            : 4
+Cupid          : 4
+fears          : 4
+midst          : 4
+straw          : 4
+Lady           : 4
+kindness       : 4
+brew           : 4
+contents       : 4
+brim           : 4
+THAT           : 4
+thatte         : 4
+dry            : 4
+twas           : 4
+Pride          : 4
+trees          : 4
+oppressed      : 4
+Sue            : 4
+highest        : 4
+Warden         : 4
+wold           : 4
+interest       : 4
+mask           : 4
+gallants       : 4
+relate         : 4
+mate           : 4
+secret         : 4
+loud           : 4
+opinion        : 4
+spend          : 4
+hande          : 4
+slighted       : 4
+neck           : 4
+DE             : 4
+notes          : 4
+dancers        : 4
+knave          : 4
+Do             : 4
+hardly         : 4
+companion      : 4
+gates          : 4
+lines          : 4
+wanting        : 4
+occurs         : 4
+Whatever       : 4
+IV             : 4
+seventh        : 4
+share          : 4
+BARLEY         : 4
+brass          : 4
+substituted    : 4
+meadows        : 4
+joyful         : 4
+remain         : 4
+Royal          : 4
+Saint          : 4
+fetched        : 4
+servants       : 4
+submit         : 4
+thrash         : 4
+race           : 4
+TIME           : 4
+issued         : 4
+youngest       : 4
+wanton         : 4
+indebted       : 4
+fie            : 4
+fit            : 4
+rank           : 4
+locality       : 4
+HUNTER         : 4
+rape           : 4
+charge         : 4
+da             : 4
+language       : 4
+Friday         : 4
+piece          : 4
+stared         : 4
+feather        : 4
+ENTER          : 4
+porter         : 4
+possessed      : 4
+flowing        : 4
+dish           : 4
+legacy         : 4
+kisses         : 4
+nation         : 4
+Northumberland : 4
+scarlet        : 4
+wander         : 4
+adore          : 4
+adorn          : 4
+gav            : 4
+teach          : 4
+yt             : 4
+shilling       : 4
+force          : 4
+course         : 4
+precious       : 4
+obliged        : 4
+Printed        : 4
+WHO            : 4
+gin            : 4
+quart          : 4
+Ridler         : 4
+intent         : 4
+intend         : 4
+CORNISH        : 4
+youth          : 4
+Methinks       : 4
+Having         : 4
+resolved       : 4
+Worcestershire : 4
+pocket         : 4
+despair        : 4
+gun            : 4
+queen          : 4
+writ           : 4
+tide           : 4
+suits          : 4
+earlier        : 4
+PLOUGH         : 4
+charity        : 4
+Eve            : 4
+lane           : 4
+lame           : 4
+resign         : 4
+gilded         : 4
+attend         : 4
+school         : 4
+Heaven         : 4
+Poems          : 4
+yes            : 4
+plowing        : 4
+smart          : 4
+Being          : 4
+personage      : 4
+Whilst         : 4
+lays           : 4
+hie            : 4
+twice          : 4
+belonged       : 4
+meal           : 4
+Raphe          : 4
+yon            : 4
+Suffolk        : 4
+GOD            : 4
+dumble         : 4
+reply          : 4
+count          : 4
+beginning      : 4
+huntsman       : 4
+JOHN           : 4
+deliver        : 4
+bent           : 4
+forget         : 4
+feete          : 4
+christian      : 4
+weary          : 4
+fain           : 4
+Captain        : 4
+HIM            : 4
+VERSION        : 4
+Spanish        : 4
+according      : 4
+inn            : 4
+post           : 4
+concluding     : 4
+seventeenth    : 4
+respect        : 4
+feasts         : 4
+Miss           : 4
+city           : 4
+shan           : 4
+minute         : 4
+gentle         : 4
+mortals        : 4
+worth          : 4
+takes          : 4
+castle         : 4
+Into           : 4
+everywhere     : 4
+planted        : 4
+Yes            : 4
+shot           : 4
+frown          : 4
+Sharp          : 4
+jig            : 4
+rent           : 4
+CHRISTMAS      : 4
+ridden         : 4
+neighbourhood  : 4
+sailor         : 4
+Instead        : 4
+dinner         : 4
+join           : 4
+thinking       : 4
+everything     : 4
+thorn          : 4
+sigh           : 4
+durst          : 4
+interesting    : 4
+blades         : 4
+silk           : 4
+silent         : 4
+stones         : 4
+vast           : 4
+counties       : 4
+virtue         : 4
+British        : 4
+Ecod           : 4
+dispute        : 4
+canst          : 4
+greatest       : 4
+played         : 4
+gibbet         : 4
+SINGING        : 4
+crave          : 4
+adventure      : 4
+doat           : 4
+wounded        : 4
+booze          : 4
+attire         : 4
+lee            : 4
+leg            : 4
+mountain       : 4
+press          : 4
+rendered       : 4
+page           : 4
+Aldermary      : 4
+purchase       : 4
+merely         : 4
+None           : 4
+husband        : 4
+relief         : 4
+breeches       : 4
+Lion           : 4
+grotesque      : 4
+Providence     : 4
+easy           : 4
+added          : 4
+renown         : 4
+supplied       : 4
+Roman          : 4
+terrible       : 4
+handsome       : 4
+meh            : 4
+wicked         : 4
+granted        : 4
+received       : 4
+heavenly       : 4
+CRAVEN         : 4
+locks          : 4
+beard          : 4
+bears          : 4
+ranged         : 4
+KNIGHT         : 4
+heiress        : 4
+fingers        : 4
+mon            : 4
+relation       : 4
+among          : 4
+haste          : 4
+sends          : 4
+prepared       : 4
+dainties       : 4
+leading        : 4
+July           : 4
+sonne          : 4
+sweat          : 4
+Hold           : 4
+similar        : 4
+MAD            : 4
+tomb           : 4
+DANCERS        : 4
+bushel         : 4
+Soon           : 4
+pages          : 4
+frolicsome     : 4
+Sunday         : 4
+didst          : 4
+PILLS          : 4
+Jean           : 4
+Francis        : 4
+WALKS          : 4
+dishes         : 4
+wrong          : 4
+festivals      : 4
+colde          : 4
+prattle        : 4
+shiny          : 4
+hearted        : 4
+search         : 4
+Berkshire      : 4
+fourteen       : 4
+knife          : 4
+correspondent  : 4
+Farewell       : 4
+seemed         : 4
+wandering      : 4
+oral           : 4
+eldest         : 4
+considerably   : 4
+wrought        : 4
+remarks        : 4
+twelve         : 4
+Dutch          : 4
+Lincolnshire   : 4
+Moor           : 4
+Carl           : 4
+noon           : 4
+dare           : 4
+Kind           : 4
+felon          : 4
+remote         : 4
+cows           : 4
+Dean           : 4
+fatal          : 4
+ribbons        : 4
+earthly        : 4
+pig            : 4
+judgment       : 4
+obey           : 4
+groat          : 4
+meeting        : 4
+prize          : 4
+fainting       : 4
+POACHER        : 4
+GEORGE         : 4
+stanza         : 4
+BEGGAR         : 4
+grown          : 4
+disgrace       : 4
+drunkenness    : 4
+happen         : 4
+tail           : 4
+purse          : 4
+landlord       : 4
+OVEN           : 4
+gathered       : 4
+hose           : 4
+Have           : 4
+fill           : 4
+Rumford        : 4
+laughter       : 4
+writers        : 4
+evident        : 4
+RIDLER         : 4
+knocked        : 4
+ought          : 4
+artificial     : 4
+pottle         : 4
+makings        : 4
+betrayed       : 4
+span           : 4
+public         : 4
+beest          : 4
+favoured       : 4
+pulled         : 4
+prithee        : 4
+Pan            : 4
+nipperkin      : 4
+trust          : 4
+courtship      : 4
+mighty         : 4
+tender         : 4
+glove          : 4
+already        : 4
+poverty        : 4
+corruption     : 4
+fruits         : 4
+ark            : 4
+kick           : 4
+rue            : 4
+strength       : 4
+ours           : 4
+yourself       : 4
+RELIQUES       : 4
+discourse      : 4
+mouth          : 4
+leader         : 4
+yard           : 4
+moor           : 4
+flesh          : 4
+seldom         : 4
+bore           : 4
+parted         : 4
+moneyless      : 4
+Love           : 4
+Burns          : 4
+ACTORS         : 4
+profit         : 4
+Near           : 4
+oven           : 4
+frowns         : 4
+bit            : 4
+thanks         : 4
+beside         : 4
+defy           : 4
+table          : 4
+quarrel        : 4
+drawn          : 4
+knights        : 4
+bud            : 4
+gallon         : 4
+wished         : 4
+sorrowful      : 4
+horns          : 4
+throng         : 4
+mortal         : 4
+damsel         : 4
+Hannah         : 4
+nobody         : 4
+drank          : 4
+bespoke        : 4
+sayde          : 4
+acquainted     : 4
+courtier       : 4
+ploughman      : 4
+begun          : 4
+lovers         : 4
+flee           : 4
+looral         : 4
+lillie         : 4
+Pedlar         : 3
+drunk          : 3
+poems          : 3
+B              : 3
+M              : 3
+V              : 3
+hame           : 3
+readers        : 3
+Rev            : 3
+COUNTRY        : 3
+romance        : 3
+Mallet         : 3
+women          : 3
+pink           : 3
+TINKLER        : 3
+tow            : 3
+com            : 3
+coy            : 3
+gown           : 3
+rove           : 3
+gout           : 3
+printers       : 3
+caught         : 3
+Grose          : 3
+refrain        : 3
+Taunton        : 3
+reported       : 3
+team           : 3
+speech         : 3
+amends         : 3
+shook          : 3
+stare          : 3
+stars          : 3
+sessions       : 3
+destroy        : 3
+deemed         : 3
+unknown        : 3
+manners        : 3
+dan            : 3
+Saxon          : 3
+celebrated     : 3
+entertain      : 3
+specimen       : 3
+friar          : 3
+introduction   : 3
+BOWES          : 3
+carefully      : 3
+Parker         : 3
+ashes          : 3
+finer          : 3
+Ben            : 3
+shoes          : 3
+taught         : 3
+Hagmena        : 3
+sumptuous      : 3
+remained       : 3
+occasion       : 3
+bred           : 3
+priest         : 3
+dearly         : 3
+glittering     : 3
+TOM            : 3
+Son            : 3
+main           : 3
+grain          : 3
+likes          : 3
+broom          : 3
+hither         : 3
+cups           : 3
+fulfil         : 3
+due            : 3
+Must           : 3
+observes       : 3
+band           : 3
+THEN           : 3
+male           : 3
+Abraham        : 3
+dye            : 3
+treat          : 3
+starving       : 3
+Last           : 3
+barn           : 3
+seeds          : 3
+invited        : 3
+CIRCLE         : 3
+grounds        : 3
+knock          : 3
+HEIR           : 3
+loth           : 3
+TABLE          : 3
+loss           : 3
+Midsummer      : 3
+across         : 3
+Doctor         : 3
+soldier        : 3
+THOU           : 3
+twor           : 3
+HORSE          : 3
+branch         : 3
+brandy         : 3
+faint          : 3
+loose          : 3
+forty          : 3
+vow            : 3
+HE             : 3
+education      : 3
+heigh          : 3
+tried          : 3
+Monford        : 3
+amiss          : 3
+petticoat      : 3
+ME             : 3
+woode          : 3
+MR             : 3
+France         : 3
+maintain       : 3
+wonne          : 3
+nere           : 3
+gray           : 3
+drunken        : 3
+SO             : 3
+fielde         : 3
+LAST           : 3
+greet          : 3
+Quoth          : 3
+Ceres          : 3
+YE             : 3
+Yt             : 3
+study          : 3
+wee            : 3
+quaint         : 3
+diddle         : 3
+wet            : 3
+strain         : 3
+hunt           : 3
+effect         : 3
+hung           : 3
+matters        : 3
+various        : 3
+denied         : 3
+Hagman         : 3
+sudden         : 3
+foot           : 3
+di             : 3
+needs          : 3
+fa             : 3
+fol            : 3
+harlots        : 3
+knaw           : 3
+flourish       : 3
+zing           : 3
+ii             : 3
+fro            : 3
+freers         : 3
+lively         : 3
+alteration     : 3
+become         : 3
+customary      : 3
+fowl           : 3
+troublesome    : 3
+wooden         : 3
+political      : 3
+Kentish        : 3
+families       : 3
+sitting        : 3
+seat           : 3
+thanked        : 3
+righteous      : 3
+started        : 3
+te             : 3
+parodies       : 3
+rules          : 3
+fifteenth      : 3
+valiant        : 3
+wa             : 3
+POUND          : 3
+slight         : 3
+tyll           : 3
+hell           : 3
+swearing       : 3
+souse          : 3
+plucked        : 3
+brags          : 3
+Redding        : 3
+readings       : 3
+exact          : 3
+surrounded     : 3
+abide          : 3
+brain          : 3
+collation      : 3
+POLE           : 3
+creatures      : 3
+Helstone       : 3
+POOR           : 3
+virgin         : 3
+defence        : 3
+sworn          : 3
+lace           : 3
+toast          : 3
+thys           : 3
+complaint      : 3
+named          : 3
+Lincolnsheer   : 3
+Railton        : 3
+Esq            : 3
+whether        : 3
+swan           : 3
+bush           : 3
+combat         : 3
+pursue         : 3
+tied           : 3
+cowslips       : 3
+Bromsgrove     : 3
+grieve         : 3
+Diddle         : 3
+Bagford        : 3
+edited         : 3
+accident       : 3
+tragedy        : 3
+preface        : 3
+Once           : 3
+goods          : 3
+hav            : 3
+wash           : 3
+Collins        : 3
+warm           : 3
+waxed          : 3
+chant          : 3
+ends           : 3
+sickness       : 3
+hen            : 3
+hey            : 3
+Wee            : 3
+BATEMAN        : 3
+hid            : 3
+LINNE          : 3
+shepherd       : 3
+Only           : 3
+chaff          : 3
+beef           : 3
+LILLI          : 3
+publications   : 3
+promise        : 3
+swerde         : 3
+vapour         : 3
+Grant          : 3
+Davies         : 3
+afford         : 3
+impression     : 3
+Ancient        : 3
+Were           : 3
+blade          : 3
+guineas        : 3
+sooner         : 3
+difficult      : 3
+Trembaa        : 3
+strife         : 3
+favourites     : 3
+quoted         : 3
+Rokebye        : 3
+miners         : 3
+rude           : 3
+thereby        : 3
+religious      : 3
+particulars    : 3
+melancholy     : 3
+Border         : 3
+Away           : 3
+nick           : 3
+nice           : 3
+perfect        : 3
+yeoman         : 3
+spinning       : 3
+Durham         : 3
+forsake        : 3
+paper          : 3
+zow            : 3
+CAROLS         : 3
+sweetheart     : 3
+properly       : 3
+excellent      : 3
+shortly        : 3
+fate           : 3
+shouther       : 3
+disdain        : 3
+arrayed        : 3
+monarch        : 3
+miles          : 3
+authorship     : 3
+blessing       : 3
+Preston        : 3
+removed        : 3
+points         : 3
+fifteen        : 3
+gently         : 3
+hymn           : 3
+soundings      : 3
+deead          : 3
+FULL           : 3
+difficulty     : 3
+COURT          : 3
+Leave          : 3
+mantle         : 3
+substance      : 3
+Hey            : 3
+delicate       : 3
+whistling      : 3
+frost          : 3
+violet         : 3
+bottles        : 3
+phrase         : 3
+bones          : 3
+Shall          : 3
+clout          : 3
+EARL           : 3
+afterwards     : 3
+canna          : 3
+plant          : 3
+ascribed       : 3
+entered        : 3
+humorous       : 3
+Knight         : 3
+wronged        : 3
+tyrant         : 3
+crowd          : 3
+maiden         : 3
+faithfully     : 3
+ordinary       : 3
+countryman     : 3
+South          : 3
+Jane           : 3
+bacon          : 3
+traditionally  : 3
+report         : 3
+lament         : 3
+knees          : 3
+sailed         : 3
+publication    : 3
+preserve       : 3
+enjoys         : 3
+countrymen     : 3
+informs        : 3
+overthrow      : 3
+VIOLIN         : 3
+lusty          : 3
+vara           : 3
+fancies        : 3
+SPIRITUALIZED  : 3
+fourth         : 3
+records        : 3
+throughout     : 3
+corrupt        : 3
+Clapham        : 3
+joys           : 3
+damsels        : 3
+distressed     : 3
+inhabitant     : 3
+passage        : 3
+begone         : 3
+justice        : 3
+weep           : 3
+GARLAND        : 3
+weed           : 3
+JACK           : 3
+surgeon        : 3
+warrant        : 3
+example        : 3
+quiet          : 3
+conjectural    : 3
+lent           : 3
+tinker         : 3
+CANDIDATE      : 3
+JANE           : 3
+daylight       : 3
+thauy          : 3
+minor          : 3
+employed       : 3
+identical      : 3
+lan            : 3
+NOBLEMAN       : 3
+spoken         : 3
+lea            : 3
+wherein        : 3
+imps           : 3
+ardent         : 3
+Pull           : 3
+entertainment  : 3
+refused        : 3
+Phoebus        : 3
+prayer         : 3
+HARRY          : 3
+orthography    : 3
+Wrightson      : 3
+paid           : 3
+Fortune        : 3
+whoever        : 3
+threw          : 3
+battel         : 3
+Could          : 3
+glasses        : 3
+meant          : 3
+August         : 3
+ease           : 3
+earn           : 3
+record         : 3
+assigned       : 3
+Hitchin        : 3
+dove           : 3
+wretched       : 3
+brings         : 3
+acres          : 3
+mention        : 3
+blest          : 3
+LAL            : 3
+feel           : 3
+Giles          : 3
+enters         : 3
+danger         : 3
+stick          : 3
+tales          : 3
+height         : 3
+miller         : 3
+shared         : 3
+March          : 3
+boots          : 3
+gazed          : 3
+owing          : 3
+dwells         : 3
+swain          : 3
+constitute     : 3
+literary       : 3
+enjoy          : 3
+writing        : 3
+greenwood      : 3
+voice          : 3
+egging         : 3
+BLOW           : 3
+LIKE           : 3
+counsellor     : 3
+beware         : 3
+forest         : 3
+occupations    : 3
+materials      : 3
+bonfire        : 3
+Sussex         : 3
+ABOUT          : 3
+moral          : 3
+Madam          : 3
+crossed        : 3
+Ballyman       : 3
+outlandish     : 3
+tore           : 3
+Begone         : 3
+sweit          : 3
+BETWEEN        : 3
+butler         : 3
+shoulder       : 3
+ensuing        : 3
+amaze          : 3
+forgetting     : 3
+threescore     : 3
+Jerry          : 3
+Easter         : 3
+nearly         : 3
+conquer        : 3
+refer          : 3
+innocence      : 3
+modest         : 3
+counsel        : 3
+probability    : 3
+lofty          : 3
+Hence          : 3
+CLERGYMAN      : 3
+lyfe           : 3
+occasionally   : 3
+Drink          : 3
+recital        : 3
+market         : 3
+solemn         : 3
+wyll           : 3
+fyght          : 3
+shine          : 3
+feight         : 3
+consequently   : 3
+PRAISE         : 3
+scarcely       : 3
+Skipton        : 3
+proverb        : 3
+issue          : 3
+wassail        : 3
+BURLERO        : 3
+prodigal       : 3
+claim          : 3
+hadde          : 3
+SORT           : 3
+wholesome      : 3
+MUSICAL        : 3
+variety        : 3
+stormy         : 3
+crowned        : 3
+dale           : 3
+Ritson         : 3
+Another        : 3
+NOT            : 3
+extract        : 3
+obscure        : 3
+support        : 3
+deceive        : 3
+drop           : 3
+Billy          : 3
+Moll           : 3
+superior       : 3
+practise       : 3
+asleep         : 3
+interlude      : 3
+coom           : 3
+cook           : 3
+amazed         : 3
+treacle        : 3
+nose           : 3
+garred         : 3
+kettle         : 3
+harbour        : 3
+carriage       : 3
+faced          : 3
+nowt           : 3
+combined       : 3
+undone         : 3
+wise           : 3
+Unless         : 3
+especial       : 3
+About          : 3
+chink          : 3
+Over           : 3
+heroes         : 3
+afore          : 3
+wight          : 3
+meetings       : 3
+engaged        : 3
+twain          : 3
+pin            : 3
+snow           : 3
+rising         : 3
+despise        : 3
+theyr          : 3
+Through        : 3
+buttons        : 3
+kicked         : 3
+despite        : 3
+velvet         : 3
+liberty        : 3
+repentance     : 3
+receive        : 3
+SWEET          : 3
+standing       : 3
+MOLL           : 3
+playing        : 3
+poacher        : 3
+prudent        : 3
 notwithstanding: 3
-Cromwell: 3
-theaw: 3
-grove: 3
-listen: 3
-companions: 3
-consider: 3
-whither: 3
-request: 3
-minstrels: 3
-listed: 3
-trip: 3
-fictitious: 3
-beene: 3
-venture: 3
-Tune: 3
-consisted: 3
-glee: 3
-commonly: 3
-Taylor: 3
-Prepare: 3
-respects: 3
-pious: 3
-Hard: 3
-painted: 3
-Still: 3
-corrected: 3
-sherry: 3
-traro: 3
-hove: 3
-AMEN: 3
-heaps: 3
-thyself: 3
-writer: 3
-leaves: 3
-celebrate: 3
-admirable: 3
-Merrily: 3
-slept: 3
-reasons: 3
-quo: 3
-TRAGEDY: 3
-answered: 3
-kilne: 3
-Out: 3
-nursery: 3
-distress: 3
-caused: 3
-Evans: 3
-reference: 3
-knowThe: 3
-bottom: 3
-blooming: 3
-Peasantry: 3
-comic: 3
-sorts: 3
-Habergham: 3
-HAND: 3
-spin: 3
-couple: 3
-offended: 3
-sorry: 3
-sholde: 3
-embrace: 3
-Crying: 3
-Songs: 3
-whistle: 3
-defects: 3
-duke: 3
-prayers: 3
-lamented: 3
-SAYS: 3
-rot: 3
-row: 3
-suggested: 3
-ninth: 3
-accurate: 3
-taste: 3
-grace: 3
-arm: 3
-Several: 3
-Sophia: 3
-palace: 3
-goddess: 3
-LINCOLNSHIRE: 3
-Long: 3
-boon: 3
-Clare: 3
-Step: 3
-boot: 3
-bone: 3
-WEDDING: 3
-Put: 3
-duty: 3
-usage: 3
-cart: 3
-broad: 3
-WOOING: 3
-truly: 3
-generation: 3
-moon: 3
-abridgment: 3
-garlands: 3
-Gamble: 3
-moss: 3
-courteous: 3
-ascertain: 3
-PURGE: 3
-deal: 3
-honoured: 3
-DAUGHTER: 3
-wheat: 3
-speedilie: 3
-sew: 3
-courting: 3
-beg: 3
-Northumbrian: 3
-complain: 3
-SMOKING: 3
-fresh: 3
-posset: 3
-modes: 3
-striking: 3
-alludes: 3
-begin: 3
-Germany: 3
-change: 3
-discovery: 3
-ALE: 3
-improvements: 3
-office: 3
-MAID: 3
-Nell: 3
-spy: 3
-shades: 3
-box: 3
-suitors: 3
-hedges: 3
-fighting: 3
-preferred: 3
-loblolly: 3
-express: 3
-wooing: 3
-stole: 3
-idea: 3
-figure: 3
-weather: 3
-range: 3
-lovingly: 3
-gode: 3
-token: 3
-Sometimes: 3
-sail: 3
-drama: 3
-carried: 3
-distracted: 3
-blithe: 3
-really: 3
-fragment: 3
-poetical: 3
-daring: 2
-require: 2
-WHERE: 2
-P: 2
-T: 2
-connect: 2
-garland: 2
-Red: 2
-halt: 2
-sale: 2
-r: 2
-tho: 2
-information: 2
-waggoner: 2
-Again: 2
-mickle: 2
-SHE: 2
-pigs: 2
-THOUSAND: 2
-besides: 2
-sang: 2
-ascend: 2
-possessive: 2
-Halliwell: 2
-Gave: 2
-hats: 2
-gained: 2
-burlesque: 2
-Sabbath: 2
-hate: 2
-poets: 2
-dinners: 2
-cordials: 2
-skimmer: 2
-ensue: 2
-outwitted: 2
-trusty: 2
-ladle: 2
-ARGUMENT: 2
-additions: 2
-Four: 2
-SON: 2
-scullion: 2
-captives: 2
-minstrelsy: 2
-thether: 2
-con: 2
-cot: 2
-BOY: 2
-rarity: 2
-became: 2
-quaar: 2
-sayd: 2
-PLAYED: 2
-concert: 2
-vanities: 2
-cup: 2
-starve: 2
-twould: 2
-mettle: 2
-masquerading: 2
-Ther: 2
-forsworn: 2
-paying: 2
-shoon: 2
-actual: 2
-widely: 2
-memory: 2
-WASSAILERS: 2
-disaster: 2
-anon: 2
-furth: 2
-shore: 2
-aboveThe: 2
-attain: 2
-enter: 2
-coast: 2
-DECORATED: 2
-deluging: 2
-consult: 2
-gracious: 2
-hosses: 2
-hound: 2
-reaping: 2
-suitor: 2
-prevalent: 2
-satins: 2
-daughters: 2
-Prince: 2
-keeps: 2
-harrow: 2
-pamby: 2
-Protestant: 2
-pierced: 2
-exceedingly: 2
-tend: 2
-Bad: 2
-further: 2
-finds: 2
-Angel: 2
-flocks: 2
-Began: 2
-compare: 2
-shrinker: 2
-virtues: 2
-waited: 2
-oxen: 2
-forbear: 2
-staff: 2
-stealing: 2
-TIS: 2
-Muggins: 2
-impudent: 2
-later: 2
-forgotten: 2
-highway: 2
-journey: 2
-deserving: 2
-PLOW: 2
-originals: 2
-FORM: 2
-babe: 2
-grand: 2
-zeemes: 2
-knots: 2
-ludicrous: 2
-relic: 2
-FOUR: 2
-Nolly: 2
-attempt: 2
-JAMES: 2
-Tainhall: 2
-bade: 2
-curse: 2
-doe: 2
-dol: 2
-thief: 2
-bowls: 2
-Soa: 2
-shone: 2
-darts: 2
-mair: 2
-strip: 2
-LOVING: 2
-waste: 2
-brook: 2
-Arms: 2
-Round: 2
-Edinburgh: 2
-reprinted: 2
-LEATHERN: 2
-wilfully: 2
-flourished: 2
-brow: 2
-drawing: 2
-bane: 2
-broo: 2
-unique: 2
-Debateable: 2
-thyme: 2
-cuts: 2
-star: 2
-wolf: 2
-wassailing: 2
-inspire: 2
-wholly: 2
-expressing: 2
-Tother: 2
-INTERLUDE: 2
-bard: 2
-admitted: 2
-surprise: 2
-BEDNALL: 2
-carnal: 2
-Time: 2
-threadbare: 2
-Every: 2
-Tilt: 2
-comrades: 2
-Child: 2
-worn: 2
-lose: 2
-SOLEMN: 2
-Hymen: 2
-Moses: 2
-JUMPING: 2
-wore: 2
-stated: 2
-prevailed: 2
-juice: 2
-existence: 2
-manWho: 2
-Chaney: 2
-mining: 2
-thrush: 2
-GLORY: 2
-heartily: 2
-ploughboy: 2
-BEFORE: 2
-wakened: 2
-egg: 2
-handy: 2
-fairy: 2
-Worcester: 2
-consented: 2
-appropriate: 2
-interprets: 2
-Played: 2
-variations: 2
-musician: 2
-representing: 2
-lease: 2
-evidence: 2
-EMPTIES: 2
-faine: 2
-signifies: 2
-serpent: 2
-MIDSUMMER: 2
-Ed: 2
-sleeping: 2
-linen: 2
-packed: 2
-strang: 2
-fails: 2
-bathos: 2
-pageant: 2
-wouldst: 2
-jokes: 2
-turns: 2
-deepest: 2
-Ha: 2
-IF: 2
-Too: 2
-Swift: 2
-lamentations: 2
-Io: 2
-era: 2
-rights: 2
-elegant: 2
-Royalists: 2
-Beggar: 2
-tribe: 2
-amusement: 2
-chose: 2
-DUM: 2
-Jonson: 2
-Perhaps: 2
-drawed: 2
-Byrne: 2
-represented: 2
-remorse: 2
-Cut: 2
-countries: 2
-bowstrings: 2
-wanted: 2
-treble: 2
-MILLER: 2
-WHISTLERS: 2
-BERWICK: 2
-wealthy: 2
-features: 2
-clothe: 2
-seeming: 2
-termination: 2
-yett: 2
-cousins: 2
-POEMS: 2
-Beauty: 2
-classes: 2
-conclusion: 2
-JaneShe: 2
-heralds: 2
-SYMPHONY: 2
-wan: 2
-FURRY: 2
+Cromwell       : 3
+theaw          : 3
+grove          : 3
+listen         : 3
+companions     : 3
+consider       : 3
+whither        : 3
+request        : 3
+minstrels      : 3
+listed         : 3
+trip           : 3
+fictitious     : 3
+beene          : 3
+venture        : 3
+Tune           : 3
+consisted      : 3
+glee           : 3
+commonly       : 3
+Taylor         : 3
+Prepare        : 3
+respects       : 3
+pious          : 3
+Hard           : 3
+painted        : 3
+Still          : 3
+corrected      : 3
+sherry         : 3
+traro          : 3
+hove           : 3
+AMEN           : 3
+heaps          : 3
+thyself        : 3
+writer         : 3
+leaves         : 3
+celebrate      : 3
+admirable      : 3
+Merrily        : 3
+slept          : 3
+reasons        : 3
+quo            : 3
+TRAGEDY        : 3
+answered       : 3
+kilne          : 3
+Out            : 3
+nursery        : 3
+distress       : 3
+caused         : 3
+Evans          : 3
+reference      : 3
+knowThe        : 3
+bottom         : 3
+blooming       : 3
+Peasantry      : 3
+comic          : 3
+sorts          : 3
+Habergham      : 3
+HAND           : 3
+spin           : 3
+couple         : 3
+offended       : 3
+sorry          : 3
+sholde         : 3
+embrace        : 3
+Crying         : 3
+Songs          : 3
+whistle        : 3
+defects        : 3
+duke           : 3
+prayers        : 3
+lamented       : 3
+SAYS           : 3
+rot            : 3
+row            : 3
+suggested      : 3
+ninth          : 3
+accurate       : 3
+taste          : 3
+grace          : 3
+arm            : 3
+Several        : 3
+Sophia         : 3
+palace         : 3
+goddess        : 3
+LINCOLNSHIRE   : 3
+Long           : 3
+boon           : 3
+Clare          : 3
+Step           : 3
+boot           : 3
+bone           : 3
+WEDDING        : 3
+Put            : 3
+duty           : 3
+usage          : 3
+cart           : 3
+broad          : 3
+WOOING         : 3
+truly          : 3
+generation     : 3
+moon           : 3
+abridgment     : 3
+garlands       : 3
+Gamble         : 3
+moss           : 3
+courteous      : 3
+ascertain      : 3
+PURGE          : 3
+deal           : 3
+honoured       : 3
+DAUGHTER       : 3
+wheat          : 3
+speedilie      : 3
+sew            : 3
+courting       : 3
+beg            : 3
+Northumbrian   : 3
+complain       : 3
+SMOKING        : 3
+fresh          : 3
+posset         : 3
+modes          : 3
+striking       : 3
+alludes        : 3
+begin          : 3
+Germany        : 3
+change         : 3
+discovery      : 3
+ALE            : 3
+improvements   : 3
+office         : 3
+MAID           : 3
+Nell           : 3
+spy            : 3
+shades         : 3
+box            : 3
+suitors        : 3
+hedges         : 3
+fighting       : 3
+preferred      : 3
+loblolly       : 3
+express        : 3
+wooing         : 3
+stole          : 3
+idea           : 3
+figure         : 3
+weather        : 3
+range          : 3
+lovingly       : 3
+gode           : 3
+token          : 3
+Sometimes      : 3
+sail           : 3
+drama          : 3
+carried        : 3
+distracted     : 3
+blithe         : 3
+really         : 3
+fragment       : 3
+poetical       : 3
+daring         : 2
+require        : 2
+WHERE          : 2
+P              : 2
+T              : 2
+connect        : 2
+garland        : 2
+Red            : 2
+halt           : 2
+sale           : 2
+r              : 2
+tho            : 2
+information    : 2
+waggoner       : 2
+Again          : 2
+mickle         : 2
+SHE            : 2
+pigs           : 2
+THOUSAND       : 2
+besides        : 2
+sang           : 2
+ascend         : 2
+possessive     : 2
+Halliwell      : 2
+Gave           : 2
+hats           : 2
+gained         : 2
+burlesque      : 2
+Sabbath        : 2
+hate           : 2
+poets          : 2
+dinners        : 2
+cordials       : 2
+skimmer        : 2
+ensue          : 2
+outwitted      : 2
+trusty         : 2
+ladle          : 2
+ARGUMENT       : 2
+additions      : 2
+Four           : 2
+SON            : 2
+scullion       : 2
+captives       : 2
+minstrelsy     : 2
+thether        : 2
+con            : 2
+cot            : 2
+BOY            : 2
+rarity         : 2
+became         : 2
+quaar          : 2
+sayd           : 2
+PLAYED         : 2
+concert        : 2
+vanities       : 2
+cup            : 2
+starve         : 2
+twould         : 2
+mettle         : 2
+masquerading   : 2
+Ther           : 2
+forsworn       : 2
+paying         : 2
+shoon          : 2
+actual         : 2
+widely         : 2
+memory         : 2
+WASSAILERS     : 2
+disaster       : 2
+anon           : 2
+furth          : 2
+shore          : 2
+aboveThe       : 2
+attain         : 2
+enter          : 2
+coast          : 2
+DECORATED      : 2
+deluging       : 2
+consult        : 2
+gracious       : 2
+hosses         : 2
+hound          : 2
+reaping        : 2
+suitor         : 2
+prevalent      : 2
+satins         : 2
+daughters      : 2
+Prince         : 2
+keeps          : 2
+harrow         : 2
+pamby          : 2
+Protestant     : 2
+pierced        : 2
+exceedingly    : 2
+tend           : 2
+Bad            : 2
+further        : 2
+finds          : 2
+Angel          : 2
+flocks         : 2
+Began          : 2
+compare        : 2
+shrinker       : 2
+virtues        : 2
+waited         : 2
+oxen           : 2
+forbear        : 2
+staff          : 2
+stealing       : 2
+TIS            : 2
+Muggins        : 2
+impudent       : 2
+later          : 2
+forgotten      : 2
+highway        : 2
+journey        : 2
+deserving      : 2
+PLOW           : 2
+originals      : 2
+FORM           : 2
+babe           : 2
+grand          : 2
+zeemes         : 2
+knots          : 2
+ludicrous      : 2
+relic          : 2
+FOUR           : 2
+Nolly          : 2
+attempt        : 2
+JAMES          : 2
+Tainhall       : 2
+bade           : 2
+curse          : 2
+doe            : 2
+dol            : 2
+thief          : 2
+bowls          : 2
+Soa            : 2
+shone          : 2
+darts          : 2
+mair           : 2
+strip          : 2
+LOVING         : 2
+waste          : 2
+brook          : 2
+Arms           : 2
+Round          : 2
+Edinburgh      : 2
+reprinted      : 2
+LEATHERN       : 2
+wilfully       : 2
+flourished     : 2
+brow           : 2
+drawing        : 2
+bane           : 2
+broo           : 2
+unique         : 2
+Debateable     : 2
+thyme          : 2
+cuts           : 2
+star           : 2
+wolf           : 2
+wassailing     : 2
+inspire        : 2
+wholly         : 2
+expressing     : 2
+Tother         : 2
+INTERLUDE      : 2
+bard           : 2
+admitted       : 2
+surprise       : 2
+BEDNALL        : 2
+carnal         : 2
+Time           : 2
+threadbare     : 2
+Every          : 2
+Tilt           : 2
+comrades       : 2
+Child          : 2
+worn           : 2
+lose           : 2
+SOLEMN         : 2
+Hymen          : 2
+Moses          : 2
+JUMPING        : 2
+wore           : 2
+stated         : 2
+prevailed      : 2
+juice          : 2
+existence      : 2
+manWho         : 2
+Chaney         : 2
+mining         : 2
+thrush         : 2
+GLORY          : 2
+heartily       : 2
+ploughboy      : 2
+BEFORE         : 2
+wakened        : 2
+egg            : 2
+handy          : 2
+fairy          : 2
+Worcester      : 2
+consented      : 2
+appropriate    : 2
+interprets     : 2
+Played         : 2
+variations     : 2
+musician       : 2
+representing   : 2
+lease          : 2
+evidence       : 2
+EMPTIES        : 2
+faine          : 2
+signifies      : 2
+serpent        : 2
+MIDSUMMER      : 2
+Ed             : 2
+sleeping       : 2
+linen          : 2
+packed         : 2
+strang         : 2
+fails          : 2
+bathos         : 2
+pageant        : 2
+wouldst        : 2
+jokes          : 2
+turns          : 2
+deepest        : 2
+Ha             : 2
+IF             : 2
+Too            : 2
+Swift          : 2
+lamentations   : 2
+Io             : 2
+era            : 2
+rights         : 2
+elegant        : 2
+Royalists      : 2
+Beggar         : 2
+tribe          : 2
+amusement      : 2
+chose          : 2
+DUM            : 2
+Jonson         : 2
+Perhaps        : 2
+drawed         : 2
+Byrne          : 2
+represented    : 2
+remorse        : 2
+Cut            : 2
+countries      : 2
+bowstrings     : 2
+wanted         : 2
+treble         : 2
+MILLER         : 2
+WHISTLERS      : 2
+BERWICK        : 2
+wealthy        : 2
+features       : 2
+clothe         : 2
+seeming        : 2
+termination    : 2
+yett           : 2
+cousins        : 2
+POEMS          : 2
+Beauty         : 2
+classes        : 2
+conclusion     : 2
+JaneShe        : 2
+heralds        : 2
+SYMPHONY       : 2
+wan            : 2
+FURRY          : 2
 Nottinghamshire: 2
-foes: 2
-SONNETS: 2
-fan: 2
-stuck: 2
-Westmoreland: 2
-BROOMFIELD: 2
-suppers: 2
-olden: 2
-Fair: 2
-rags: 2
-sides: 2
-Day: 2
-wondered: 2
-goAlong: 2
-Englond: 2
-licence: 2
-rain: 2
-heirs: 2
-rail: 2
-laughed: 2
-produced: 2
-sugar: 2
-Marienberg: 2
-Melancholy: 2
-zick: 2
-Sandwich: 2
-VII: 2
-attention: 2
-rake: 2
-extent: 2
-rant: 2
-venison: 2
-fix: 2
-addition: 2
-doubts: 2
-al: 2
-grog: 2
-formed: 2
-SWORDS: 2
-fore: 2
-observe: 2
-snare: 2
-wor: 2
-nosed: 2
-gaun: 2
-renew: 2
-placed: 2
-dialects: 2
-likely: 2
-DRUNKARD: 2
-crafty: 2
-lawful: 2
-dire: 2
-slender: 2
-fun: 2
-lo: 2
-SWEARING: 2
-lt: 2
-swagger: 2
-contentment: 2
-HIATUS: 2
-picked: 2
-sufficient: 2
-communication: 2
-possesses: 2
-essay: 2
-heat: 2
-seal: 2
-mixed: 2
-wyl: 2
-elapsed: 2
-Jamie: 2
-companie: 2
-Canister: 2
-Wilson: 2
-whilst: 2
-BEST: 2
-readily: 2
-AFTER: 2
-hundreds: 2
-recent: 2
-Bridget: 2
-executed: 2
-quaff: 2
-heel: 2
-pierce: 2
-dumpling: 2
-necessary: 2
-souls: 2
-heed: 2
-single: 2
-closed: 2
-Restoration: 2
-usual: 2
-purchased: 2
-frightened: 2
-ingenious: 2
-imprint: 2
-gan: 2
-similarity: 2
-wo: 2
-gar: 2
-gat: 2
-Welsh: 2
-tyme: 2
-FAL: 2
-choir: 2
-smock: 2
-courts: 2
-terms: 2
-nails: 2
-ornaments: 2
-misfortune: 2
-ze: 2
-assail: 2
-WED: 2
-praying: 2
-confounded: 2
-south: 2
-tools: 2
-continues: 2
-beginTo: 2
-industrious: 2
-suspect: 2
-prong: 2
-gasping: 2
-hanged: 2
-TOBACCO: 2
-purpose: 2
-stating: 2
-spacious: 2
-Shows: 2
-Middlesex: 2
-Surrey: 2
-languished: 2
-heathen: 2
-antiquarian: 2
-Somerset: 2
-union: 2
-yours: 2
-OLDEN: 2
-institution: 2
-BRAND: 2
-lack: 2
-FOLLOWED: 2
-State: 2
-authority: 2
-namby: 2
-huzza: 2
-channel: 2
-approach: 2
-careWill: 2
-Treloar: 2
-strongly: 2
-Ere: 2
-chitterlings: 2
-chimley: 2
-SPECTATORS: 2
-hitherto: 2
-messenger: 2
-steward: 2
-carouse: 2
-equally: 2
-mayest: 2
-sway: 2
-basin: 2
-affected: 2
-reconcile: 2
-twist: 2
-raptures: 2
-FOLLOWING: 2
-sorely: 2
-poaching: 2
-doubtful: 2
-bareheaded: 2
-bury: 2
-events: 2
-ladyThat: 2
-Kate: 2
-reside: 2
-drunkard: 2
-chase: 2
-honours: 2
-secure: 2
-LINES: 2
-hap: 2
-sighed: 2
-weight: 2
-bowers: 2
-loathe: 2
-GREEN: 2
-alike: 2
-colour: 2
-disobedience: 2
-Mayers: 2
-Far: 2
-Furry: 2
-illustrative: 2
-hev: 2
-molested: 2
-swoon: 2
-lesson: 2
-nicht: 2
-Wed: 2
-stubborn: 2
-vows: 2
-swop: 2
-THORNEHAGH: 2
-Few: 2
-mead: 2
-Ellis: 2
-hit: 2
-beat: 2
-beau: 2
-Collier: 2
-hostess: 2
-WOODS: 2
-seeHis: 2
-point: 2
-trudged: 2
-BEGONE: 2
-skimming: 2
-active: 2
-cheaters: 2
-secluded: 2
-SOMERSETSHIRE: 2
-doone: 2
-subjects: 2
-griefs: 2
-sirname: 2
-calls: 2
-wizard: 2
-thrive: 2
-passions: 2
-Fox: 2
-blame: 2
-confusion: 2
-myght: 2
-carrying: 2
-BETWIXT: 2
-outward: 2
-bloody: 2
-rambling: 2
-Lancaster: 2
-therein: 2
-melt: 2
-fired: 2
-PEASANTRY: 2
-procuring: 2
-fires: 2
-beggars: 2
-Right: 2
-Ful: 2
-marks: 2
-mend: 2
-Lest: 2
-Friars: 2
-designation: 2
-WHISTLING: 2
-soger: 2
-profess: 2
-feared: 2
-quotes: 2
-thereat: 2
-adventures: 2
-pointed: 2
-fray: 2
-FISHING: 2
-Under: 2
-HILL: 2
-velvetFrom: 2
-showed: 2
-invite: 2
-Quarles: 2
-verbatim: 2
-ruin: 2
-keeper: 2
-Does: 2
-jumped: 2
-inferior: 2
-dramatic: 2
-Castle: 2
-comparatively: 2
-rung: 2
-dresses: 2
-mantuas: 2
-SEAMAN: 2
-Doll: 2
-steer: 2
-appearance: 2
-runs: 2
-pole: 2
-spite: 2
-resolves: 2
-dagger: 2
-spits: 2
-NOBLE: 2
-Content: 2
-remitted: 2
-bestow: 2
-BELOW: 2
-concealed: 2
-quantity: 2
-nigh: 2
-measter: 2
-invented: 2
-adapted: 2
-Park: 2
-feign: 2
-charged: 2
-retire: 2
-Mine: 2
-gayTo: 2
-blush: 2
-knowen: 2
-port: 2
-Saviour: 2
-grandeur: 2
-lyrics: 2
-reigning: 2
-WELL: 2
-improvement: 2
-pledge: 2
-REMEMBER: 2
-property: 2
-sporting: 2
-clogs: 2
-fairer: 2
-OUTLANDISH: 2
-syde: 2
-saddled: 2
-FIRST: 2
-shed: 2
-presume: 2
-UPON: 2
-April: 2
-BONFIRE: 2
-DEARY: 2
-hypothesis: 2
-annual: 2
-bargin: 2
-parkin: 2
-letten: 2
-brayded: 2
-Denham: 2
-sheaf: 2
-fertile: 2
-Wordsworth: 2
-Has: 2
-MESSENGER: 2
-repeated: 2
-treacherous: 2
-preach: 2
-jet: 2
-primrose: 2
-leaving: 2
-distance: 2
-description: 2
-hence: 2
-PAIL: 2
-grind: 2
-stranger: 2
-grossness: 2
-hollow: 2
-bounde: 2
-PROCEEDS: 2
-style: 2
-purely: 2
-ditches: 2
-madam: 2
-freedom: 2
-onIs: 2
-questionable: 2
-influence: 2
-corrupted: 2
-important: 2
-omit: 2
-CHURCH: 2
-clown: 2
-Release: 2
-gets: 2
-twelvemonth: 2
-Yon: 2
-Assist: 2
-adequately: 2
-MILK: 2
-luik: 2
-NORTHERN: 2
-vace: 2
-DOWN: 2
-getten: 2
-EARLY: 2
-western: 2
-duties: 2
-Stocker: 2
-sources: 2
-Devonport: 2
-STINGO: 2
-homeward: 2
-related: 2
-lump: 2
+foes           : 2
+SONNETS        : 2
+fan            : 2
+stuck          : 2
+Westmoreland   : 2
+BROOMFIELD     : 2
+suppers        : 2
+olden          : 2
+Fair           : 2
+rags           : 2
+sides          : 2
+Day            : 2
+wondered       : 2
+goAlong        : 2
+Englond        : 2
+licence        : 2
+rain           : 2
+heirs          : 2
+rail           : 2
+laughed        : 2
+produced       : 2
+sugar          : 2
+Marienberg     : 2
+Melancholy     : 2
+zick           : 2
+Sandwich       : 2
+VII            : 2
+attention      : 2
+rake           : 2
+extent         : 2
+rant           : 2
+venison        : 2
+fix            : 2
+addition       : 2
+doubts         : 2
+al             : 2
+grog           : 2
+formed         : 2
+SWORDS         : 2
+fore           : 2
+observe        : 2
+snare          : 2
+wor            : 2
+nosed          : 2
+gaun           : 2
+renew          : 2
+placed         : 2
+dialects       : 2
+likely         : 2
+DRUNKARD       : 2
+crafty         : 2
+lawful         : 2
+dire           : 2
+slender        : 2
+fun            : 2
+lo             : 2
+SWEARING       : 2
+lt             : 2
+swagger        : 2
+contentment    : 2
+HIATUS         : 2
+picked         : 2
+sufficient     : 2
+communication  : 2
+possesses      : 2
+essay          : 2
+heat           : 2
+seal           : 2
+mixed          : 2
+wyl            : 2
+elapsed        : 2
+Jamie          : 2
+companie       : 2
+Canister       : 2
+Wilson         : 2
+whilst         : 2
+BEST           : 2
+readily        : 2
+AFTER          : 2
+hundreds       : 2
+recent         : 2
+Bridget        : 2
+executed       : 2
+quaff          : 2
+heel           : 2
+pierce         : 2
+dumpling       : 2
+necessary      : 2
+souls          : 2
+heed           : 2
+single         : 2
+closed         : 2
+Restoration    : 2
+usual          : 2
+purchased      : 2
+frightened     : 2
+ingenious      : 2
+imprint        : 2
+gan            : 2
+similarity     : 2
+wo             : 2
+gar            : 2
+gat            : 2
+Welsh          : 2
+tyme           : 2
+FAL            : 2
+choir          : 2
+smock          : 2
+courts         : 2
+terms          : 2
+nails          : 2
+ornaments      : 2
+misfortune     : 2
+ze             : 2
+assail         : 2
+WED            : 2
+praying        : 2
+confounded     : 2
+south          : 2
+tools          : 2
+continues      : 2
+beginTo        : 2
+industrious    : 2
+suspect        : 2
+prong          : 2
+gasping        : 2
+hanged         : 2
+TOBACCO        : 2
+purpose        : 2
+stating        : 2
+spacious       : 2
+Shows          : 2
+Middlesex      : 2
+Surrey         : 2
+languished     : 2
+heathen        : 2
+antiquarian    : 2
+Somerset       : 2
+union          : 2
+yours          : 2
+OLDEN          : 2
+institution    : 2
+BRAND          : 2
+lack           : 2
+FOLLOWED       : 2
+State          : 2
+authority      : 2
+namby          : 2
+huzza          : 2
+channel        : 2
+approach       : 2
+careWill       : 2
+Treloar        : 2
+strongly       : 2
+Ere            : 2
+chitterlings   : 2
+chimley        : 2
+SPECTATORS     : 2
+hitherto       : 2
+messenger      : 2
+steward        : 2
+carouse        : 2
+equally        : 2
+mayest         : 2
+sway           : 2
+basin          : 2
+affected       : 2
+reconcile      : 2
+twist          : 2
+raptures       : 2
+FOLLOWING      : 2
+sorely         : 2
+poaching       : 2
+doubtful       : 2
+bareheaded     : 2
+bury           : 2
+events         : 2
+ladyThat       : 2
+Kate           : 2
+reside         : 2
+drunkard       : 2
+chase          : 2
+honours        : 2
+secure         : 2
+LINES          : 2
+hap            : 2
+sighed         : 2
+weight         : 2
+bowers         : 2
+loathe         : 2
+GREEN          : 2
+alike          : 2
+colour         : 2
+disobedience   : 2
+Mayers         : 2
+Far            : 2
+Furry          : 2
+illustrative   : 2
+hev            : 2
+molested       : 2
+swoon          : 2
+lesson         : 2
+nicht          : 2
+Wed            : 2
+stubborn       : 2
+vows           : 2
+swop           : 2
+THORNEHAGH     : 2
+Few            : 2
+mead           : 2
+Ellis          : 2
+hit            : 2
+beat           : 2
+beau           : 2
+Collier        : 2
+hostess        : 2
+WOODS          : 2
+seeHis         : 2
+point          : 2
+trudged        : 2
+BEGONE         : 2
+skimming       : 2
+active         : 2
+cheaters       : 2
+secluded       : 2
+SOMERSETSHIRE  : 2
+doone          : 2
+subjects       : 2
+griefs         : 2
+sirname        : 2
+calls          : 2
+wizard         : 2
+thrive         : 2
+passions       : 2
+Fox            : 2
+blame          : 2
+confusion      : 2
+myght          : 2
+carrying       : 2
+BETWIXT        : 2
+outward        : 2
+bloody         : 2
+rambling       : 2
+Lancaster      : 2
+therein        : 2
+melt           : 2
+fired          : 2
+PEASANTRY      : 2
+procuring      : 2
+fires          : 2
+beggars        : 2
+Right          : 2
+Ful            : 2
+marks          : 2
+mend           : 2
+Lest           : 2
+Friars         : 2
+designation    : 2
+WHISTLING      : 2
+soger          : 2
+profess        : 2
+feared         : 2
+quotes         : 2
+thereat        : 2
+adventures     : 2
+pointed        : 2
+fray           : 2
+FISHING        : 2
+Under          : 2
+HILL           : 2
+velvetFrom     : 2
+showed         : 2
+invite         : 2
+Quarles        : 2
+verbatim       : 2
+ruin           : 2
+keeper         : 2
+Does           : 2
+jumped         : 2
+inferior       : 2
+dramatic       : 2
+Castle         : 2
+comparatively  : 2
+rung           : 2
+dresses        : 2
+mantuas        : 2
+SEAMAN         : 2
+Doll           : 2
+steer          : 2
+appearance     : 2
+runs           : 2
+pole           : 2
+spite          : 2
+resolves       : 2
+dagger         : 2
+spits          : 2
+NOBLE          : 2
+Content        : 2
+remitted       : 2
+bestow         : 2
+BELOW          : 2
+concealed      : 2
+quantity       : 2
+nigh           : 2
+measter        : 2
+invented       : 2
+adapted        : 2
+Park           : 2
+feign          : 2
+charged        : 2
+retire         : 2
+Mine           : 2
+gayTo          : 2
+blush          : 2
+knowen         : 2
+port           : 2
+Saviour        : 2
+grandeur       : 2
+lyrics         : 2
+reigning       : 2
+WELL           : 2
+improvement    : 2
+pledge         : 2
+REMEMBER       : 2
+property       : 2
+sporting       : 2
+clogs          : 2
+fairer         : 2
+OUTLANDISH     : 2
+syde           : 2
+saddled        : 2
+FIRST          : 2
+shed           : 2
+presume        : 2
+UPON           : 2
+April          : 2
+BONFIRE        : 2
+DEARY          : 2
+hypothesis     : 2
+annual         : 2
+bargin         : 2
+parkin         : 2
+letten         : 2
+brayded        : 2
+Denham         : 2
+sheaf          : 2
+fertile        : 2
+Wordsworth     : 2
+Has            : 2
+MESSENGER      : 2
+repeated       : 2
+treacherous    : 2
+preach         : 2
+jet            : 2
+primrose       : 2
+leaving        : 2
+distance       : 2
+description    : 2
+hence          : 2
+PAIL           : 2
+grind          : 2
+stranger       : 2
+grossness      : 2
+hollow         : 2
+bounde         : 2
+PROCEEDS       : 2
+style          : 2
+purely         : 2
+ditches        : 2
+madam          : 2
+freedom        : 2
+onIs           : 2
+questionable   : 2
+influence      : 2
+corrupted      : 2
+important      : 2
+omit           : 2
+CHURCH         : 2
+clown          : 2
+Release        : 2
+gets           : 2
+twelvemonth    : 2
+Yon            : 2
+Assist         : 2
+adequately     : 2
+MILK           : 2
+luik           : 2
+NORTHERN       : 2
+vace           : 2
+DOWN           : 2
+getten         : 2
+EARLY          : 2
+western        : 2
+duties         : 2
+Stocker        : 2
+sources        : 2
+Devonport      : 2
+STINGO         : 2
+homeward       : 2
+related        : 2
+lump           : 2
 Northamptonshire: 2
-wearing: 2
-anciently: 2
-mowing: 2
-corner: 2
-costume: 2
-RHYME: 2
-deceiving: 2
-helle: 2
-BORDER: 2
-helpmate: 2
-vale: 2
-composed: 2
-Tooke: 2
-Hys: 2
-missed: 2
-joke: 2
-powers: 2
-lute: 2
-expressed: 2
-nettles: 2
-WINDS: 2
-lurk: 2
-David: 2
-CATSKIN: 2
-ALICE: 2
-control: 2
-compositions: 2
-conjure: 2
-supposing: 2
-Never: 2
-FRAGMENT: 2
-lighted: 2
-remaining: 2
-badge: 2
-mystic: 2
-agayne: 2
-ragman: 2
-referring: 2
-laying: 2
-stopper: 2
-laughing: 2
-confine: 2
-conjured: 2
-plowman: 2
-especially: 2
-peculiarities: 2
-doleful: 2
-kin: 2
-reach: 2
-comparative: 2
-Give: 2
-collar: 2
-trudge: 2
-lawless: 2
-sits: 2
-departin: 2
-expect: 2
-resembles: 2
-buckskin: 2
-Noble: 2
-FIGHTING: 2
-BROMSGROVE: 2
-match: 2
-fearful: 2
-Dispel: 2
-reade: 2
-prepare: 2
-pills: 2
-oather: 2
-fifty: 2
-Greenside: 2
-TAKES: 2
-rabbit: 2
-legs: 2
-wedded: 2
-Spaine: 2
-eleven: 2
-suffice: 2
-characters: 2
-minde: 2
-noblemen: 2
-ramble: 2
-Its: 2
-Whom: 2
-supposes: 2
-check: 2
-GENEROUS: 2
-applied: 2
-romantic: 2
-Wyth: 2
-ACCOMPANIED: 2
-observance: 2
-DUMBLE: 2
-oaken: 2
-gains: 2
-manuscripts: 2
-felicity: 2
-inHe: 2
-orders: 2
-solemnly: 2
-tormenter: 2
-contented: 2
-loves: 2
-Vere: 2
-quill: 2
-noisy: 2
-cheat: 2
-rhymes: 2
-capital: 2
-lal: 2
-spoon: 2
-differs: 2
-condition: 2
-generous: 2
-SUMMER: 2
-FITTE: 2
-Noah: 2
-opening: 2
-bereft: 2
-prey: 2
-nivver: 2
-forsook: 2
-LEGACY: 2
-clad: 2
-haughty: 2
-Catalogue: 2
-RURAL: 2
-lyric: 2
-alehouse: 2
-breders: 2
-fashion: 2
-surely: 2
-Court: 2
-homes: 2
-merit: 2
-nursed: 2
-destiny: 2
-Baron: 2
-churchyard: 2
-alight: 2
-HENCE: 2
-Wife: 2
-LOCAL: 2
-Montgomery: 2
-bide: 2
-Mongst: 2
-provide: 2
-bids: 2
-lot: 2
-lov: 2
-cheesecake: 2
-angels: 2
-CEREMONY: 2
-HISTORIAN: 2
-fury: 2
-prythee: 2
-imprints: 2
-pastimes: 2
-quick: 2
-zeeke: 2
-DRINK: 2
-minutes: 2
-particular: 2
-zome: 2
-York: 2
-MILKE: 2
-FARMERS: 2
-slaine: 2
-Manchester: 2
-besom: 2
-Success: 2
-pate: 2
-beaste: 2
-relative: 2
-oatmeal: 2
-adjoining: 2
-PLACE: 2
-waggoning: 2
-KENT: 2
-bird: 2
-alterations: 2
-Greta: 2
-delights: 2
-fiend: 2
-universe: 2
-Even: 2
-letters: 2
-VERY: 2
-PLAIN: 2
-adversity: 2
-coaches: 2
-virtuous: 2
-stamped: 2
-twenty: 2
-sprung: 2
-whistlers: 2
-capes: 2
-merrilie: 2
-exactly: 2
-orange: 2
-circulation: 2
-INTRODUCTION: 2
-LET: 2
-lodge: 2
-moderate: 2
-resident: 2
-danged: 2
-ACCOMPANIMENT: 2
-PARTY: 2
-PARTS: 2
-Grassington: 2
-destruction: 2
-holde: 2
-cleanly: 2
-project: 2
-beare: 2
-chuse: 2
-swains: 2
-felt: 2
-charmed: 2
-secured: 2
-recently: 2
-tradesmen: 2
-anthology: 2
-stile: 2
-beams: 2
-knowing: 2
-WIFE: 2
-Onley: 2
-slave: 2
-Whence: 2
-agen: 2
-altogether: 2
-cutting: 2
-butcher: 2
-WORLD: 2
+wearing        : 2
+anciently      : 2
+mowing         : 2
+corner         : 2
+costume        : 2
+RHYME          : 2
+deceiving      : 2
+helle          : 2
+BORDER         : 2
+helpmate       : 2
+vale           : 2
+composed       : 2
+Tooke          : 2
+Hys            : 2
+missed         : 2
+joke           : 2
+powers         : 2
+lute           : 2
+expressed      : 2
+nettles        : 2
+WINDS          : 2
+lurk           : 2
+David          : 2
+CATSKIN        : 2
+ALICE          : 2
+control        : 2
+compositions   : 2
+conjure        : 2
+supposing      : 2
+Never          : 2
+FRAGMENT       : 2
+lighted        : 2
+remaining      : 2
+badge          : 2
+mystic         : 2
+agayne         : 2
+ragman         : 2
+referring      : 2
+laying         : 2
+stopper        : 2
+laughing       : 2
+confine        : 2
+conjured       : 2
+plowman        : 2
+especially     : 2
+peculiarities  : 2
+doleful        : 2
+kin            : 2
+reach          : 2
+comparative    : 2
+Give           : 2
+collar         : 2
+trudge         : 2
+lawless        : 2
+sits           : 2
+departin       : 2
+expect         : 2
+resembles      : 2
+buckskin       : 2
+Noble          : 2
+FIGHTING       : 2
+BROMSGROVE     : 2
+match          : 2
+fearful        : 2
+Dispel         : 2
+reade          : 2
+prepare        : 2
+pills          : 2
+oather         : 2
+fifty          : 2
+Greenside      : 2
+TAKES          : 2
+rabbit         : 2
+legs           : 2
+wedded         : 2
+Spaine         : 2
+eleven         : 2
+suffice        : 2
+characters     : 2
+minde          : 2
+noblemen       : 2
+ramble         : 2
+Its            : 2
+Whom           : 2
+supposes       : 2
+check          : 2
+GENEROUS       : 2
+applied        : 2
+romantic       : 2
+Wyth           : 2
+ACCOMPANIED    : 2
+observance     : 2
+DUMBLE         : 2
+oaken          : 2
+gains          : 2
+manuscripts    : 2
+felicity       : 2
+inHe           : 2
+orders         : 2
+solemnly       : 2
+tormenter      : 2
+contented      : 2
+loves          : 2
+Vere           : 2
+quill          : 2
+noisy          : 2
+cheat          : 2
+rhymes         : 2
+capital        : 2
+lal            : 2
+spoon          : 2
+differs        : 2
+condition      : 2
+generous       : 2
+SUMMER         : 2
+FITTE          : 2
+Noah           : 2
+opening        : 2
+bereft         : 2
+prey           : 2
+nivver         : 2
+forsook        : 2
+LEGACY         : 2
+clad           : 2
+haughty        : 2
+Catalogue      : 2
+RURAL          : 2
+lyric          : 2
+alehouse       : 2
+breders        : 2
+fashion        : 2
+surely         : 2
+Court          : 2
+homes          : 2
+merit          : 2
+nursed         : 2
+destiny        : 2
+Baron          : 2
+churchyard     : 2
+alight         : 2
+HENCE          : 2
+Wife           : 2
+LOCAL          : 2
+Montgomery     : 2
+bide           : 2
+Mongst         : 2
+provide        : 2
+bids           : 2
+lot            : 2
+lov            : 2
+cheesecake     : 2
+angels         : 2
+CEREMONY       : 2
+HISTORIAN      : 2
+fury           : 2
+prythee        : 2
+imprints       : 2
+pastimes       : 2
+quick          : 2
+zeeke          : 2
+DRINK          : 2
+minutes        : 2
+particular     : 2
+zome           : 2
+York           : 2
+MILKE          : 2
+FARMERS        : 2
+slaine         : 2
+Manchester     : 2
+besom          : 2
+Success        : 2
+pate           : 2
+beaste         : 2
+relative       : 2
+oatmeal        : 2
+adjoining      : 2
+PLACE          : 2
+waggoning      : 2
+KENT           : 2
+bird           : 2
+alterations    : 2
+Greta          : 2
+delights       : 2
+fiend          : 2
+universe       : 2
+Even           : 2
+letters        : 2
+VERY           : 2
+PLAIN          : 2
+adversity      : 2
+coaches        : 2
+virtuous       : 2
+stamped        : 2
+twenty         : 2
+sprung         : 2
+whistlers      : 2
+capes          : 2
+merrilie       : 2
+exactly        : 2
+orange         : 2
+circulation    : 2
+INTRODUCTION   : 2
+LET            : 2
+lodge          : 2
+moderate       : 2
+resident       : 2
+danged         : 2
+ACCOMPANIMENT  : 2
+PARTY          : 2
+PARTS          : 2
+Grassington    : 2
+destruction    : 2
+holde          : 2
+cleanly        : 2
+project        : 2
+beare          : 2
+chuse          : 2
+swains         : 2
+felt           : 2
+charmed        : 2
+secured        : 2
+recently       : 2
+tradesmen      : 2
+anthology      : 2
+stile          : 2
+beams          : 2
+knowing        : 2
+WIFE           : 2
+Onley          : 2
+slave          : 2
+Whence         : 2
+agen           : 2
+altogether     : 2
+cutting        : 2
+butcher        : 2
+WORLD          : 2
 GLOUCESTERSHIRE: 2
-appointed: 2
-canBoth: 2
-KNIGHTS: 2
-CARRION: 2
-jack: 2
-Cavalier: 2
-saved: 2
-Brooksby: 2
-Newcastle: 2
-ANTIQUITIES: 2
-gazing: 2
-stretched: 2
-refuse: 2
-beganTo: 2
-slay: 2
-menMust: 2
-bevore: 2
-scratched: 2
-WISH: 2
-female: 2
-chimney: 2
-ABOVE: 2
-spirited: 2
-mistake: 2
-Talk: 2
-visited: 2
-Indian: 2
-slew: 2
-release: 2
-rolled: 2
-HIMSELF: 2
-brethren: 2
-judge: 2
-darkness: 2
-naw: 2
-Just: 2
-gien: 2
-gallows: 2
-swell: 2
-grandmother: 2
-Receive: 2
-True: 2
-Lea: 2
-fully: 2
-toss: 2
-rewed: 2
-rotten: 2
-Strickland: 2
-exciseman: 2
-Madge: 2
-Lie: 2
-Martin: 2
-hooka: 2
-stayed: 2
-perry: 2
-groves: 2
-boast: 2
-girt: 2
-sovereign: 2
-wounds: 2
-yards: 2
-Parliament: 2
-nod: 2
-noe: 2
-simplicity: 2
-godly: 2
-toys: 2
-Romish: 2
-ladyWho: 2
-flame: 2
-BLESS: 2
-recited: 2
-reciter: 2
-Tobacco: 2
-ships: 2
-choicest: 2
-commencing: 2
-liege: 2
-direct: 2
-Dumble: 2
-Without: 2
-shire: 2
-MSS: 2
-bargains: 2
-LOVER: 2
-catskin: 2
-stockings: 2
-heads: 2
-pawned: 2
-Watling: 2
-Daughter: 2
-refers: 2
-weigh: 2
-wondrous: 2
-deserves: 2
-forswear: 2
-Fanny: 2
-inhabitants: 2
-FIGHT: 2
-custard: 2
-saucy: 2
-vein: 2
-turning: 2
-RECITATIVE: 2
-anterior: 2
-WEARING: 2
-presumed: 2
-girls: 2
-ribbon: 2
-nymphs: 2
-necessity: 2
-HOLY: 2
-jails: 2
-literally: 2
-verb: 2
-Mad: 2
-drinker: 2
-windings: 2
-PERFORMED: 2
-dree: 2
-bribe: 2
-Molly: 2
-magistrate: 2
-coal: 2
-abundantly: 2
-prayin: 2
-determine: 2
-RICHARD: 2
-puritan: 2
-breaking: 2
-wicht: 2
-diseases: 2
-Close: 2
-Call: 2
-dialogues: 2
-connected: 2
-dealer: 2
-elastic: 2
-blessings: 2
-wick: 2
-sprang: 2
-praised: 2
-coin: 2
-Nancy: 2
-honey: 2
-View: 2
-INTRODUCED: 2
-puss: 2
-leather: 2
-exist: 2
-examples: 2
-oud: 2
-Mrs: 2
-dart: 2
-More: 2
-LAWYER: 2
-insulting: 2
-roses: 2
-SUFFOLK: 2
-COLLECTION: 2
-ails: 2
-Most: 2
-owt: 2
-cord: 2
-hills: 2
-conveyed: 2
-cost: 2
-MILKING: 2
-wily: 2
-assured: 2
-challenge: 2
-contributions: 2
-Commons: 2
-Bryan: 2
-Consider: 2
-fashionable: 2
-Flora: 2
-concluded: 2
-faces: 2
-deadly: 2
-list: 2
-folks: 2
-Beare: 2
-wits: 2
-victory: 2
-perform: 2
+appointed      : 2
+canBoth        : 2
+KNIGHTS        : 2
+CARRION        : 2
+jack           : 2
+Cavalier       : 2
+saved          : 2
+Brooksby       : 2
+Newcastle      : 2
+ANTIQUITIES    : 2
+gazing         : 2
+stretched      : 2
+refuse         : 2
+beganTo        : 2
+slay           : 2
+menMust        : 2
+bevore         : 2
+scratched      : 2
+WISH           : 2
+female         : 2
+chimney        : 2
+ABOVE          : 2
+spirited       : 2
+mistake        : 2
+Talk           : 2
+visited        : 2
+Indian         : 2
+slew           : 2
+release        : 2
+rolled         : 2
+HIMSELF        : 2
+brethren       : 2
+judge          : 2
+darkness       : 2
+naw            : 2
+Just           : 2
+gien           : 2
+gallows        : 2
+swell          : 2
+grandmother    : 2
+Receive        : 2
+True           : 2
+Lea            : 2
+fully          : 2
+toss           : 2
+rewed          : 2
+rotten         : 2
+Strickland     : 2
+exciseman      : 2
+Madge          : 2
+Lie            : 2
+Martin         : 2
+hooka          : 2
+stayed         : 2
+perry          : 2
+groves         : 2
+boast          : 2
+girt           : 2
+sovereign      : 2
+wounds         : 2
+yards          : 2
+Parliament     : 2
+nod            : 2
+noe            : 2
+simplicity     : 2
+godly          : 2
+toys           : 2
+Romish         : 2
+ladyWho        : 2
+flame          : 2
+BLESS          : 2
+recited        : 2
+reciter        : 2
+Tobacco        : 2
+ships          : 2
+choicest       : 2
+commencing     : 2
+liege          : 2
+direct         : 2
+Dumble         : 2
+Without        : 2
+shire          : 2
+MSS            : 2
+bargains       : 2
+LOVER          : 2
+catskin        : 2
+stockings      : 2
+heads          : 2
+pawned         : 2
+Watling        : 2
+Daughter       : 2
+refers         : 2
+weigh          : 2
+wondrous       : 2
+deserves       : 2
+forswear       : 2
+Fanny          : 2
+inhabitants    : 2
+FIGHT          : 2
+custard        : 2
+saucy          : 2
+vein           : 2
+turning        : 2
+RECITATIVE     : 2
+anterior       : 2
+WEARING        : 2
+presumed       : 2
+girls          : 2
+ribbon         : 2
+nymphs         : 2
+necessity      : 2
+HOLY           : 2
+jails          : 2
+literally      : 2
+verb           : 2
+Mad            : 2
+drinker        : 2
+windings       : 2
+PERFORMED      : 2
+dree           : 2
+bribe          : 2
+Molly          : 2
+magistrate     : 2
+coal           : 2
+abundantly     : 2
+prayin         : 2
+determine      : 2
+RICHARD        : 2
+puritan        : 2
+breaking       : 2
+wicht          : 2
+diseases       : 2
+Close          : 2
+Call           : 2
+dialogues      : 2
+connected      : 2
+dealer         : 2
+elastic        : 2
+blessings      : 2
+wick           : 2
+sprang         : 2
+praised        : 2
+coin           : 2
+Nancy          : 2
+honey          : 2
+View           : 2
+INTRODUCED     : 2
+puss           : 2
+leather        : 2
+exist          : 2
+examples       : 2
+oud            : 2
+Mrs            : 2
+dart           : 2
+More           : 2
+LAWYER         : 2
+insulting      : 2
+roses          : 2
+SUFFOLK        : 2
+COLLECTION     : 2
+ails           : 2
+Most           : 2
+owt            : 2
+cord           : 2
+hills          : 2
+conveyed       : 2
+cost           : 2
+MILKING        : 2
+wily           : 2
+assured        : 2
+challenge      : 2
+contributions  : 2
+Commons        : 2
+Bryan          : 2
+Consider       : 2
+fashionable    : 2
+Flora          : 2
+concluded      : 2
+faces          : 2
+deadly         : 2
+list           : 2
+folks          : 2
+Beare          : 2
+wits           : 2
+victory        : 2
+perform        : 2
 NOTTINGHAMSHIRE: 2
-bleeding: 2
-GENTLEWOMAN: 2
-ceased: 2
-peck: 2
-PACKINGTON: 2
-TAILOR: 2
-kinds: 2
-shaven: 2
-Cozen: 2
-pie: 2
-Moore: 2
-DICKY: 2
-cloaks: 2
-Nelly: 2
-evil: 2
-fruit: 2
-represents: 2
-Playford: 2
-vulgar: 2
-Lunnun: 2
-design: 2
-follower: 2
-burning: 2
-groan: 2
-fiende: 2
-paschal: 2
-actions: 2
-CALL: 2
-cockade: 2
-CROW: 2
-beauteous: 2
-pronounced: 2
-dustReturn: 2
-CELEBRATED: 2
-Singing: 2
-anything: 2
-pipes: 2
-piper: 2
-Linton: 2
-keach: 2
-Towers: 2
-circles: 2
-infant: 2
-MOOR: 2
-LITTLE: 2
-OUR: 2
-gownd: 2
-theme: 2
-decked: 2
-MORE: 2
-Devon: 2
-travel: 2
-choice: 2
-visage: 2
-BOTH: 2
-group: 2
-induced: 2
-eighth: 2
-soone: 2
-knowledge: 2
-soft: 2
-bumpkin: 2
-scornfully: 2
-BOYS: 2
-emendations: 2
-spreads: 2
-WANDERING: 2
-maire: 2
-series: 2
-Hall: 2
-Ninepence: 2
-brewed: 2
-modesty: 2
-talk: 2
-Gone: 2
-train: 2
-Gold: 2
-Hand: 2
-Turk: 2
-figs: 2
-ewes: 2
-tidings: 2
-TERMINATES: 2
-trot: 2
-gamekeeper: 2
-midnight: 2
-holy: 2
-strictly: 2
-BLIND: 2
-OVER: 2
-rogues: 2
-fathom: 2
-ridicule: 2
-hood: 2
-longest: 2
-shoone: 2
-conquered: 2
-ALWAYS: 2
-member: 2
-succour: 2
-labouring: 2
-drown: 2
-valley: 2
-abundance: 2
-troubles: 2
-summat: 2
-heare: 2
-falling: 2
-linnets: 2
-villagers: 2
-faste: 2
-fist: 2
-repine: 2
-mutton: 2
-stwons: 2
-sighing: 2
-loudly: 2
-rough: 2
-SACK: 2
-MORNING: 2
-price: 2
-itself: 2
-danced: 2
-thumb: 2
-sheriff: 2
-uniform: 2
-moreover: 2
-JOCKEY: 2
-wherever: 2
-kinsman: 2
-puddings: 2
-bridegroom: 2
-publisher: 2
-frequent: 2
-outright: 2
-Bleakney: 2
-array: 2
-Holland: 2
-DANCING: 2
-hinny: 2
-performance: 2
-setting: 2
-rag: 2
-improbable: 2
-stabbed: 2
-appendix: 2
-hurried: 2
-endure: 2
-ringing: 2
-lallie: 2
-throat: 2
-BALLYMAN: 2
-mitigate: 2
-oppression: 2
-qualities: 2
-register: 2
-saddle: 2
-Lives: 2
-KEACH: 2
-finish: 2
-ren: 2
-gifts: 2
-swift: 2
-escaped: 2
-begged: 2
-soldiers: 2
-fledd: 2
-happiness: 2
-SCOTTISH: 2
-Dover: 2
-recorded: 2
-Peg: 2
-shoulders: 2
-GOSPEL: 2
-faults: 2
-saith: 2
-strangely: 2
-SQUIRE: 2
-Plymouth: 2
-melody: 2
-spot: 2
-presenting: 2
-aid: 2
-laddie: 2
-uncle: 2
-DEALING: 2
-sacred: 2
-blushing: 2
-Believe: 2
-nack: 2
-oder: 2
-wench: 2
-commenced: 2
-mode: 2
-cage: 2
-warre: 2
-als: 2
-expense: 2
-mouther: 2
-dumb: 2
-BOTTEL: 2
-abroad: 2
-curchy: 2
-tunes: 2
-hoary: 2
-nags: 2
-boft: 2
-consists: 2
-THEIR: 2
-resort: 2
-spirits: 2
-increased: 2
-Knights: 2
-patience: 2
-esteem: 2
-Swindells: 2
-GROVE: 2
-CONCLUDES: 2
-ass: 2
-cant: 2
-carryin: 2
-Look: 2
-stoure: 2
-trotting: 2
-mony: 2
-sowing: 2
-Whate: 2
-rye: 2
-pledged: 2
-CREEL: 2
-slice: 2
-admired: 2
-trunk: 2
-saving: 2
-sticks: 2
-glorious: 2
-burthen: 2
-vile: 2
-display: 2
-GENERALLY: 2
-tailors: 2
-described: 2
-mote: 2
-traces: 2
-affection: 2
-Burnt: 2
-Windsor: 2
-move: 2
-BAILLIE: 2
-earnestly: 2
-increase: 2
-RAL: 2
-awake: 2
-globe: 2
-Museum: 2
-sed: 2
-compared: 2
-joined: 2
-practices: 2
-battle: 2
-transferred: 2
-deck: 2
-bet: 2
-roasting: 2
-deep: 2
-shy: 2
-Scotland: 2
-AGE: 2
-MAIDS: 2
-meThat: 2
-stroke: 2
-retained: 2
-prerogative: 2
-chanson: 2
-India: 2
-exclusively: 2
-Catch: 2
-Margaret: 2
-Gargrave: 2
-viewed: 2
-clergy: 2
-tradition: 2
-HUNTING: 2
-trotted: 2
-cursed: 2
-boh: 2
-contriving: 2
-bow: 2
-larks: 2
-chance: 2
-PROCEEDINGS: 2
-Along: 2
-Ainsworth: 2
-pains: 2
-deny: 2
-closely: 2
-actors: 2
-lessons: 2
-extended: 2
-current: 2
-plainly: 2
-LONG: 2
-merriment: 2
-fragments: 2
-hastened: 2
-Kendrick: 2
-midsummer: 2
-awaye: 2
-doing: 2
-throne: 2
-Hugh: 2
-russet: 2
-streets: 2
-stown: 2
-streete: 2
-guide: 2
-Edition: 2
-dews: 2
-Theobald: 2
-gentles: 2
-LOVE: 2
-cease: 2
-robe: 2
-submission: 2
-behaviour: 2
-FAIRLOP: 2
-flattery: 2
-gwoes: 2
-growing: 2
-utterly: 2
-CATHOLICK: 2
-tap: 2
-tar: 2
-Hume: 2
-safe: 2
-instances: 2
-fled: 2
-hostelrie: 2
-aware: 2
-cap: 2
-alarm: 2
-ploughmen: 2
-refreshing: 2
+bleeding       : 2
+GENTLEWOMAN    : 2
+ceased         : 2
+peck           : 2
+PACKINGTON     : 2
+TAILOR         : 2
+kinds          : 2
+shaven         : 2
+Cozen          : 2
+pie            : 2
+Moore          : 2
+DICKY          : 2
+cloaks         : 2
+Nelly          : 2
+evil           : 2
+fruit          : 2
+represents     : 2
+Playford       : 2
+vulgar         : 2
+Lunnun         : 2
+design         : 2
+follower       : 2
+burning        : 2
+groan          : 2
+fiende         : 2
+paschal        : 2
+actions        : 2
+CALL           : 2
+cockade        : 2
+CROW           : 2
+beauteous      : 2
+pronounced     : 2
+dustReturn     : 2
+CELEBRATED     : 2
+Singing        : 2
+anything       : 2
+pipes          : 2
+piper          : 2
+Linton         : 2
+keach          : 2
+Towers         : 2
+circles        : 2
+infant         : 2
+MOOR           : 2
+LITTLE         : 2
+OUR            : 2
+gownd          : 2
+theme          : 2
+decked         : 2
+MORE           : 2
+Devon          : 2
+travel         : 2
+choice         : 2
+visage         : 2
+BOTH           : 2
+group          : 2
+induced        : 2
+eighth         : 2
+soone          : 2
+knowledge      : 2
+soft           : 2
+bumpkin        : 2
+scornfully     : 2
+BOYS           : 2
+emendations    : 2
+spreads        : 2
+WANDERING      : 2
+maire          : 2
+series         : 2
+Hall           : 2
+Ninepence      : 2
+brewed         : 2
+modesty        : 2
+talk           : 2
+Gone           : 2
+train          : 2
+Gold           : 2
+Hand           : 2
+Turk           : 2
+figs           : 2
+ewes           : 2
+tidings        : 2
+TERMINATES     : 2
+trot           : 2
+gamekeeper     : 2
+midnight       : 2
+holy           : 2
+strictly       : 2
+BLIND          : 2
+OVER           : 2
+rogues         : 2
+fathom         : 2
+ridicule       : 2
+hood           : 2
+longest        : 2
+shoone         : 2
+conquered      : 2
+ALWAYS         : 2
+member         : 2
+succour        : 2
+labouring      : 2
+drown          : 2
+valley         : 2
+abundance      : 2
+troubles       : 2
+summat         : 2
+heare          : 2
+falling        : 2
+linnets        : 2
+villagers      : 2
+faste          : 2
+fist           : 2
+repine         : 2
+mutton         : 2
+stwons         : 2
+sighing        : 2
+loudly         : 2
+rough          : 2
+SACK           : 2
+MORNING        : 2
+price          : 2
+itself         : 2
+danced         : 2
+thumb          : 2
+sheriff        : 2
+uniform        : 2
+moreover       : 2
+JOCKEY         : 2
+wherever       : 2
+kinsman        : 2
+puddings       : 2
+bridegroom     : 2
+publisher      : 2
+frequent       : 2
+outright       : 2
+Bleakney       : 2
+array          : 2
+Holland        : 2
+DANCING        : 2
+hinny          : 2
+performance    : 2
+setting        : 2
+rag            : 2
+improbable     : 2
+stabbed        : 2
+appendix       : 2
+hurried        : 2
+endure         : 2
+ringing        : 2
+lallie         : 2
+throat         : 2
+BALLYMAN       : 2
+mitigate       : 2
+oppression     : 2
+qualities      : 2
+register       : 2
+saddle         : 2
+Lives          : 2
+KEACH          : 2
+finish         : 2
+ren            : 2
+gifts          : 2
+swift          : 2
+escaped        : 2
+begged         : 2
+soldiers       : 2
+fledd          : 2
+happiness      : 2
+SCOTTISH       : 2
+Dover          : 2
+recorded       : 2
+Peg            : 2
+shoulders      : 2
+GOSPEL         : 2
+faults         : 2
+saith          : 2
+strangely      : 2
+SQUIRE         : 2
+Plymouth       : 2
+melody         : 2
+spot           : 2
+presenting     : 2
+aid            : 2
+laddie         : 2
+uncle          : 2
+DEALING        : 2
+sacred         : 2
+blushing       : 2
+Believe        : 2
+nack           : 2
+oder           : 2
+wench          : 2
+commenced      : 2
+mode           : 2
+cage           : 2
+warre          : 2
+als            : 2
+expense        : 2
+mouther        : 2
+dumb           : 2
+BOTTEL         : 2
+abroad         : 2
+curchy         : 2
+tunes          : 2
+hoary          : 2
+nags           : 2
+boft           : 2
+consists       : 2
+THEIR          : 2
+resort         : 2
+spirits        : 2
+increased      : 2
+Knights        : 2
+patience       : 2
+esteem         : 2
+Swindells      : 2
+GROVE          : 2
+CONCLUDES      : 2
+ass            : 2
+cant           : 2
+carryin        : 2
+Look           : 2
+stoure         : 2
+trotting       : 2
+mony           : 2
+sowing         : 2
+Whate          : 2
+rye            : 2
+pledged        : 2
+CREEL          : 2
+slice          : 2
+admired        : 2
+trunk          : 2
+saving         : 2
+sticks         : 2
+glorious       : 2
+burthen        : 2
+vile           : 2
+display        : 2
+GENERALLY      : 2
+tailors        : 2
+described      : 2
+mote           : 2
+traces         : 2
+affection      : 2
+Burnt          : 2
+Windsor        : 2
+move           : 2
+BAILLIE        : 2
+earnestly      : 2
+increase       : 2
+RAL            : 2
+awake          : 2
+globe          : 2
+Museum         : 2
+sed            : 2
+compared       : 2
+joined         : 2
+practices      : 2
+battle         : 2
+transferred    : 2
+deck           : 2
+bet            : 2
+roasting       : 2
+deep           : 2
+shy            : 2
+Scotland       : 2
+AGE            : 2
+MAIDS          : 2
+meThat         : 2
+stroke         : 2
+retained       : 2
+prerogative    : 2
+chanson        : 2
+India          : 2
+exclusively    : 2
+Catch          : 2
+Margaret       : 2
+Gargrave       : 2
+viewed         : 2
+clergy         : 2
+tradition      : 2
+HUNTING        : 2
+trotted        : 2
+cursed         : 2
+boh            : 2
+contriving     : 2
+bow            : 2
+larks          : 2
+chance         : 2
+PROCEEDINGS    : 2
+Along          : 2
+Ainsworth      : 2
+pains          : 2
+deny           : 2
+closely        : 2
+actors         : 2
+lessons        : 2
+extended       : 2
+current        : 2
+plainly        : 2
+LONG           : 2
+merriment      : 2
+fragments      : 2
+hastened       : 2
+Kendrick       : 2
+midsummer      : 2
+awaye          : 2
+doing          : 2
+throne         : 2
+Hugh           : 2
+russet         : 2
+streets        : 2
+stown          : 2
+streete        : 2
+guide          : 2
+Edition        : 2
+dews           : 2
+Theobald       : 2
+gentles        : 2
+LOVE           : 2
+cease          : 2
+robe           : 2
+submission     : 2
+behaviour      : 2
+FAIRLOP        : 2
+flattery       : 2
+gwoes          : 2
+growing        : 2
+utterly        : 2
+CATHOLICK      : 2
+tap            : 2
+tar            : 2
+Hume           : 2
+safe           : 2
+instances      : 2
+fled           : 2
+hostelrie      : 2
+aware          : 2
+cap            : 2
+alarm          : 2
+ploughmen      : 2
+refreshing     : 2

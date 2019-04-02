@@ -46,7 +46,7 @@ public class Consumer implements Runnable {
             try (BufferedWriter bw = new BufferedWriter(new FileWriter(new File("./files/output/" + book.getInputfilename() + "-output.txt")))) {
                 for (String key : countWords.keySet()) {
                     if(countWords.get(key) == 1) continue;
-                    bw.write(key + ": " + countWords.get(key) + "\n");
+                    bw.write(String.format("%-15s: %d\n", key, countWords.get(key)));
                 }
             } catch (IOException ex) {
                 Logger.getLogger(Consumer.class.getName()).log(Level.SEVERE, null, ex);

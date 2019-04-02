@@ -1,2124 +1,2124 @@
-y: 737
-yn: 603
-r: 600
-i: 465
-a: 416
-ei: 274
-A: 266
-fy: 265
-ar: 240
-n: 227
-o: 209
-Yn: 174
-yr: 150
-I: 129
-O: 128
-Mae: 111
-Y: 106
-Ond: 105
-mae: 97
-ac: 97
-Ac: 95
-dy: 92
-Ar: 89
-am: 86
-oedd: 82
-the: 70
-m: 62
-Fe: 62
-fel: 61
-to: 60
-gan: 60
-hen: 60
-na: 59
-yw: 59
-un: 53
-of: 52
-th: 48
-wrth: 47
-ni: 45
-Pan: 44
-hi: 42
-ond: 42
-ti: 41
-you: 41
-Menna: 40
-or: 40
-fi: 38
-ol: 38
-mewn: 38
-and: 38
-ein: 37
-at: 37
-byd: 37
-Mi: 36
-eu: 35
-hun: 35
-sydd: 35
-gyda: 34
-R: 33
-haul: 33
-don: 33
-di: 33
-er: 33
-ALAW: 33
-w: 32
-Wrth: 32
-wedi: 32
-mi: 31
-Project: 31
-mor: 30
-Fy: 30
-eto: 30
-Yr: 30
-mynydd: 30
-fod: 30
-this: 30
-ben: 30
-dyn: 29
-nos: 29
-Cymru: 29
-etext: 29
-anwyl: 29
-hyd: 29
-fe: 28
-awr: 28
-Fel: 27
-hon: 27
-nghalon: 27
-hyn: 27
-byw: 27
-Gutenberg: 26
-ef: 26
-tros: 26
-Gan: 26
-dydd: 25
-nef: 25
-wen: 25
-wlad: 25
-bach: 24
-Na: 24
-by: 24
-in: 24
-tan: 24
-erioed: 23
-mam: 23
-ydyw: 23
-mawr: 23
-efo: 23
-Os: 23
-be: 23
-is: 23
-fyw: 23
-sy: 23
-galon: 23
-c: 22
-Rwy: 22
-awel: 22
-gwyn: 21
-byth: 21
-nid: 21
-fam: 21
-gad: 21
-afon: 20
-Mewn: 20
-Ceiriog: 20
-for: 20
-oes: 20
-pan: 20
-yno: 20
-chwi: 20
-edrych: 20
-Gymru: 19
-heb: 19
-Fod: 19
-imi: 19
-farw: 19
-mwyn: 19
-canu: 19
-Yng: 19
-can: 19
-lan: 18
-fan: 18
-trwy: 18
-are: 18
-mynd: 17
-lle: 17
-dan: 17
-dod: 17
-Am: 17
-Tra: 17
-Pe: 17
-it: 17
-Duw: 17
-Nes: 17
-lawr: 17
-ddaw: 17
-other: 17
-gwynt: 16
-Ni: 16
-nefoedd: 16
-ganu: 16
-fu: 16
-draw: 16
-Wen: 16
-hwn: 16
-iawn: 16
-fawr: 16
-uwch: 16
-Aberdyfi: 16
-hynny: 16
-ffordd: 15
-os: 15
-coed: 15
-your: 15
-fydd: 15
-wyneb: 15
-bychan: 15
-bedd: 15
-any: 15
-u: 14
-may: 14
-marw: 14
-Ei: 14
-Er: 14
-nes: 14
-Trwy: 14
-daeth: 14
-rhwng: 14
-fyd: 14
-oll: 14
-llawer: 14
-fyny: 14
-wawr: 14
-yng: 14
-holl: 14
-beth: 14
-roi: 14
-Hen: 14
-llon: 14
-ddaear: 14
-swn: 14
-weld: 13
-lli: 13
-ngwlad: 13
-dim: 13
-bryn: 13
-bawn: 13
-The: 13
-bu: 13
-ty: 13
-bryniau: 13
-fynd: 13
-pob: 13
-hoff: 13
-hwyr: 13
-calon: 13
-from: 13
-llaw: 13
-ddim: 13
-cofio: 13
-ddaeth: 13
-fachgen: 12
-gartref: 12
-allan: 12
-innau: 12
-Tros: 12
-Sy: 12
-hwnnw: 12
-gael: 12
-Yw: 12
-chwaer: 12
-Dduw: 12
-Garreg: 12
-hardd: 12
-unig: 12
-plentyn: 12
-fechan: 12
-bore: 12
-eich: 11
-Annie: 11
-dad: 11
-rhyw: 11
-mwy: 11
-not: 11
-gwlad: 11
-bywyd: 11
-if: 11
-le: 11
-wyn: 11
-ym: 11
-gennyf: 11
-get: 11
-John: 11
-Nid: 11
-iach: 11
-yna: 11
-Wele: 11
-fach: 11
-gorwedd: 11
-ddyn: 11
-plant: 11
-bob: 11
-ngeneth: 11
-llygad: 10
-loew: 10
-gynt: 10
-gelyn: 10
-ddywed: 10
-If: 10
-neb: 10
-nen: 10
-dechreu: 10
-nis: 10
-myned: 10
-Daw: 10
-galw: 10
-do: 10
-wyt: 10
-iaith: 10
-aros: 10
-angau: 10
-gweled: 10
-cael: 10
-delyn: 10
-ser: 10
-megis: 10
-blodau: 10
-bod: 10
-weled: 10
-iddo: 10
-Etexts: 10
-mhen: 10
-gwyr: 9
-dagrau: 9
-hunan: 9
-meddwl: 9
-awen: 9
-fodrwy: 9
-newydd: 9
-mai: 9
-hanner: 9
-rhoi: 9
-Bu: 9
-enw: 9
-bardd: 9
-gwlaw: 9
-lawer: 9
-as: 9
-bo: 9
-that: 9
-Men: 9
-wyf: 9
-on: 9
-codi: 9
-dail: 9
-our: 9
-ger: 9
-ardd: 9
-fynwent: 9
-gyntaf: 9
-nhad: 9
-ddydd: 9
-serch: 9
-ail: 9
-Rhen: 9
-alaw: 9
-all: 9
-Foundation: 9
-ddod: 9
-ryw: 9
-phen: 9
-wnaeth: 9
-llais: 9
-well: 8
-law: 8
-aeth: 8
-tua: 8
-dynion: 8
-ninnau: 8
-rhai: 8
-fedd: 8
-graig: 8
-fedwen: 8
-alawon: 8
-GUTENBERG: 8
-neu: 8
-OR: 8
-fynydd: 8
-chware: 8
-Ti: 8
-Cyn: 8
-gangen: 8
-Un: 8
-Lle: 8
-droed: 8
-wyddost: 8
-af: 8
-Beibl: 8
-oer: 8
-Archive: 8
-one: 8
-Literary: 8
-PROJECT: 8
-will: 8
-lais: 8
-haf: 8
-erbyn: 8
-Does: 8
-seren: 8
-dlos: 8
-Gyda: 8
-welais: 8
-heulwen: 8
-gefn: 8
-brenin: 8
-ddol: 8
-adar: 8
-Dydd: 8
-bai: 8
-bynnag: 8
-Dyna: 8
-gwan: 8
-gwin: 8
-bur: 8
-gollwng: 8
-bydd: 8
-goch: 8
-dyffryn: 7
-tra: 7
-feddwl: 7
-dda: 7
-states: 7
-made: 7
-man: 7
-dro: 7
-about: 7
-crynnu: 7
-At: 7
-Fa: 7
-nad: 7
-We: 7
-YN: 7
-miwsig: 7
-fin: 7
-felly: 7
-ai: 7
-ch: 7
-fore: 7
-du: 7
-form: 7
-Cymro: 7
-fro: 7
-Dos: 7
-la: 7
-fun: 7
-glychau: 7
-us: 7
-Please: 7
-we: 7
-gam: 7
-dros: 7
-Alun: 7
-ieuanc: 7
-with: 7
-ynghyd: 7
-eistedd: 7
-Bydd: 7
-Wel: 7
-hir: 7
-amser: 7
-Haul: 7
-arall: 7
-llwyn: 7
-baban: 7
-HEN: 7
-olaf: 7
-donations: 7
-Dyffryn: 7
-YOU: 7
-ydoedd: 7
-nant: 7
-ferch: 7
-Pwy: 7
-Gwenllian: 7
-Hun: 7
-breuddwyd: 7
-son: 7
-Etext: 7
-mynyddoedd: 7
-godi: 7
-Michael: 6
-Small: 6
-ymhell: 6
-wnaf: 6
-bloeddio: 6
-pren: 6
-Cwyd: 6
-dal: 6
-ddu: 6
-deg: 6
-teimlo: 6
-gerllaw: 6
-dir: 6
-bachgen: 6
-dlawd: 6
-gwybod: 6
-dyfroedd: 6
-Print: 6
-hefyd: 6
-milwr: 6
-books: 6
-fewn: 6
-daear: 6
-ddwylaw: 6
-clychau: 6
-Ef: 6
-dyma: 6
-nag: 6
-dyna: 6
-unwaith: 6
-melyn: 6
-OF: 6
-Pa: 6
-Chwi: 6
-TO: 6
-machgen: 6
-wan: 6
-YR: 6
-Ym: 6
-wel: 6
-defaid: 6
-huno: 6
-ag: 6
-fo: 6
-gyfrol: 6
-fry: 6
-hyfryd: 6
-ysbryd: 6
-thad: 6
-Sydd: 6
-welodd: 6
-fwy: 6
-pe: 6
-hedd: 6
-Hughes: 6
-ffwrdd: 6
-flwyddyn: 6
-date: 6
-arch: 6
-Oedd: 6
-Nad: 6
-deigryn: 6
-pen: 6
-eiriau: 6
-arni: 6
-cysgu: 6
-Nis: 6
-pur: 6
-peth: 6
-Walia: 6
-Gwyn: 6
-gweddi: 6
-march: 6
-blant: 6
-Byth: 6
-Wyt: 6
-rudd: 6
-eigion: 6
-rhydd: 6
-traed: 6
-Ger: 6
-glust: 6
-deryn: 6
-uchel: 6
-oleu: 6
-ffarwel: 6
-Merch: 6
-fath: 6
-rhedeg: 6
-dyfod: 6
-llall: 6
-Peidiwch: 6
-ysgwydd: 6
-cain: 6
-daith: 6
-yntau: 6
-aur: 6
-waith: 6
-Scer: 6
-nerth: 6
-gwcw: 6
-iddi: 6
-should: 6
-only: 6
-gwyd: 6
-teg: 5
-rwyf: 5
-b: 5
-f: 5
-s: 5
-information: 5
-wele: 5
-Ynys: 5
-ymlaen: 5
-las: 5
-fyned: 5
-Ffarwel: 5
-gwrwg: 5
-Hedd: 5
-This: 5
-dwys: 5
-mynwes: 5
-undyn: 5
-Mabon: 5
-chalon: 5
-lleuad: 5
-Gwalia: 5
-bugeiliaid: 5
-rhan: 5
-Anwyl: 5
-mil: 5
-work: 5
-doriad: 5
-gwynion: 5
-year: 5
-Ai: 5
-boreu: 5
-golli: 5
-copyright: 5
-nas: 5
-diolch: 5
-fywyd: 5
-lloer: 5
-crwydro: 5
-fynych: 5
-merlen: 5
-mwyaf: 5
-Ryddid: 5
-eisieu: 5
-disgyn: 5
-gref: 5
-ganwyd: 5
-Myfanwy: 5
-golwg: 5
-fwyn: 5
-dwedyd: 5
-wir: 5
-aderyn: 5
-wna: 5
-mebyd: 5
-da: 5
-creigiau: 5
-grug: 5
-gu: 5
-oeddwn: 5
-oed: 5
-Claddasom: 5
-fud: 5
-than: 5
-pa: 5
-dreuliais: 5
-they: 5
-cwyd: 5
-Cymer: 5
-tonnau: 5
-frenin: 5
-org: 5
-Mon: 5
-grudd: 5
-heno: 5
-these: 5
-gwenu: 5
-adael: 5
-sibrwd: 5
-gweld: 5
-FOR: 5
-waed: 5
-Llances: 5
-diwedd: 5
-gwn: 5
-Neu: 5
-Difyrrwch: 5
-pell: 5
-deimlad: 5
-nghariad: 5
-Arthur: 5
-telyn: 5
-cyfaill: 5
-Gwyr: 5
-Owen: 5
-aelwyd: 5
-arian: 5
-bell: 5
-Hart: 5
-hwy: 5
-Wnaf: 5
-eneth: 5
-Aeth: 5
-Lisle: 5
-ennyd: 5
-dorri: 5
-iti: 5
-gynnes: 5
-gwallt: 5
-enaid: 5
-wedyn: 5
-gadwaf: 5
-hynt: 5
-Heb: 5
-Rhyddid: 5
-llawn: 5
-Fenai: 5
-You: 5
-phan: 5
-drain: 5
-Bardd: 5
-llyn: 5
-weddi: 5
-meddyliau: 5
-Hyd: 5
-Dowch: 5
-bopeth: 5
-nghanol: 5
-Yfory: 5
-gwir: 5
-welai: 5
-welaf: 5
-hanwyl: 4
-N: 4
-t: 4
-troed: 4
-geiriau: 4
-hart: 4
-wely: 4
-fynyddoedd: 4
-tri: 4
-eira: 4
-erch: 4
-distribute: 4
-cyn: 4
-Awn: 4
-ochor: 4
-Corn: 4
-pawb: 4
-lyn: 4
-bren: 4
-permission: 4
-frwydr: 4
-etexts: 4
-mab: 4
-magu: 4
-mel: 4
-Fyny: 4
-bron: 4
-received: 4
-dwr: 4
-ynddi: 4
-mron: 4
-flodau: 4
-arnaf: 4
-gutenberg: 4
-Tan: 4
-bwthyn: 4
-Can: 4
-gwywo: 4
-ddewr: 4
-As: 4
-estron: 4
-Wyddfa: 4
-Do: 4
-adgofion: 4
-Gymry: 4
-release: 4
-wledydd: 4
-ymyl: 4
-Hi: 4
-Fiwsig: 4
-heibio: 4
-gwneyd: 4
-gwyneb: 4
-bwrdd: 4
-sued: 4
-statement: 4
-wag: 4
-gadw: 4
-chwaon: 4
-fad: 4
-oddiwrth: 4
-llwch: 4
-ffyn: 4
-ed: 4
-fory: 4
-filwyr: 4
-Mai: 4
-gariad: 4
-ofn: 4
-lu: 4
-ne: 4
-no: 4
-fys: 4
-gwyllt: 4
-dair: 4
-so: 4
-email: 4
-tm: 4
-Mwyn: 4
-llawen: 4
-aiff: 4
-gaf: 4
-wn: 4
-gwirion: 4
-wy: 4
-eraill: 4
-Meddai: 4
-copy: 4
-byddai: 4
-drws: 4
-mhlentyn: 4
-drumiau: 4
-without: 4
-adref: 4
-Ein: 4
-araf: 4
-list: 4
-cystudd: 4
-gofal: 4
-gwenith: 4
-million: 4
-Eto: 4
-gwr: 4
-arno: 4
-gyd: 4
-GARREG: 4
-ganol: 4
-Llywelyn: 4
-hel: 4
-hiraeth: 4
-Myfi: 4
-yma: 4
-gofio: 4
-medd: 4
-hol: 4
-additional: 4
-gwddw: 4
-mlaen: 4
-thyner: 4
-gauaf: 4
-carreg: 4
-werth: 4
-hogyn: 4
-Paid: 4
-roddi: 4
-fron: 4
-anwylyd: 4
-chwilio: 4
-rai: 4
-Toriad: 4
-ran: 4
-ardal: 4
-ateb: 4
-ddau: 4
-Iesu: 4
-fryn: 4
-Mentra: 4
-Nghymru: 4
-filwr: 4
-llygaid: 4
-Pob: 4
-cant: 4
-rwy: 4
-Dafydd: 4
-more: 4
-cariad: 4
-gladdu: 4
-gyfaill: 4
-Daeth: 4
-lygad: 4
-dyddiau: 4
-feibion: 4
-ceirg: 4
-longau: 4
-South: 4
-gwel: 4
-gofyn: 4
-Garibaldi: 4
-gwiw: 4
-tuag: 4
-darllen: 4
-Rhwng: 4
-tragwyddol: 4
-reach: 4
-hwian: 4
-gloew: 4
-siwr: 4
-blodyn: 4
-tad: 4
-Imi: 4
-files: 4
-cae: 4
-gloch: 4
-wedd: 4
-febyd: 3
-electronically: 3
-gwaed: 3
-D: 3
-E: 3
-characters: 3
-S: 3
-wnaet: 3
-dwed: 3
-gwrdd: 3
-gyndadau: 3
-thi: 3
-readers: 3
-llinell: 3
-fwrdro: 3
-tir: 3
-dwfn: 3
-hunain: 3
-priodi: 3
-Rhy: 3
-ofid: 3
-eill: 3
-ngoleu: 3
-wenu: 3
-llosgi: 3
-Draw: 3
-furiau: 3
-machlud: 3
-additions: 3
-produce: 3
-com: 3
-siomedigaeth: 3
-Gweld: 3
-Rol: 3
-tro: 3
-wneuthur: 3
-Cwsg: 3
-hwyliau: 3
-ganddo: 3
-hatal: 3
-pres: 3
-each: 3
-ystafell: 3
-does: 3
-claer: 3
-adduned: 3
-lin: 3
-mynwent: 3
-haulAr: 3
-These: 3
-dwyn: 3
-fund: 3
-paid: 3
-lwch: 3
-gilydd: 3
-provide: 3
-tryloewon: 3
-cainc: 3
-fynwes: 3
-daw: 3
-Tyrd: 3
-ydynt: 3
-del: 3
-Seren: 3
-domain: 3
-THE: 3
-ddeigryn: 3
-Serch: 3
-University: 3
-month: 3
-locust: 3
-suddo: 3
-ddiolch: 3
-babi: 3
-rhag: 3
-anrhydedd: 3
-maent: 3
-blentyn: 3
-maen: 3
-wefus: 3
-clyw: 3
-llances: 3
-fees: 3
-Bob: 3
-cymoedd: 3
-met: 3
-awyr: 3
-DAER: 3
-mhlant: 3
-curo: 3
-trefydd: 3
-Idris: 3
-draeth: 3
-min: 3
-dechreuech: 3
-ynddo: 3
-Pell: 3
-ceisiaf: 3
-ruddiau: 3
-gwanwyn: 3
-Ymwel: 3
-WEDDI: 3
-money: 3
-mod: 3
-ganeuon: 3
-Cymeryd: 3
-rhuo: 3
-bryd: 3
-cyfan: 3
-cusan: 3
-beddau: 3
-rhyfel: 3
-craig: 3
-efe: 3
-deductible: 3
-thorri: 3
-fardd: 3
-Cei: 3
-chwydder: 3
-drodd: 3
-By: 3
-cartref: 3
-official: 3
-ganodd: 3
-Berwyn: 3
-EI: 3
-agor: 3
-need: 3
-agos: 3
-Cydgan: 3
-hoffi: 3
-Dy: 3
-http: 3
-FY: 3
-donau: 3
-gwynfa: 3
-eos: 3
-IF: 3
-II: 3
-MAE: 3
-Gymro: 3
-finnau: 3
-dwedai: 3
-new: 3
-honno: 3
-MS: 3
-Glog: 3
-freuddwyd: 3
-wythnos: 3
-ngoleuni: 3
-such: 3
-noson: 3
-TI: 3
-ddyfod: 3
-Tu: 3
-ffol: 3
-nor: 3
-trademark: 3
-hoffwn: 3
-was: 3
-gist: 3
-Blodau: 3
-FoundationPMB: 3
-when: 3
-Gwanwyn: 3
-give: 3
-dringo: 3
-gain: 3
-gwelwch: 3
-Madog: 3
-Hafren: 3
-Dan: 3
-wnaiff: 3
-diwrnod: 3
-used: 3
-flaen: 3
-breuddwydiodd: 3
-wylo: 3
-lawen: 3
-hanes: 3
-Gwened: 3
-unrhyw: 3
-fil: 3
-BEDD: 3
-ap: 3
-Itali: 3
-meirwon: 3
-Dim: 3
-ywen: 3
-gyffwrdd: 3
-telynor: 3
-oddiyno: 3
-gewch: 3
-ha: 3
-ddarfu: 3
-ia: 3
-fri: 3
-im: 3
-chlywid: 3
-Cymreig: 3
-oen: 3
-Edrych: 3
-ftp: 3
-mhriod: 3
-mo: 3
-daer: 3
-bedair: 3
-wyr: 3
-wnawn: 3
-States: 3
-Gymreig: 3
-them: 3
-cyntaf: 3
-phlentyn: 3
-ddilynodd: 3
-clywais: 3
-know: 3
-henffych: 3
-droi: 3
-dano: 3
-Caradog: 3
-gwylio: 3
-Mor: 3
-Nant: 3
-Alma: 3
-yd: 3
-sefyll: 3
-Carodd: 3
-Tywysog: 3
-gennym: 3
-WEN: 3
-tyrd: 3
-daro: 3
-brydferth: 3
-frawd: 3
-corn: 3
-own: 3
-mesur: 3
-pedwar: 3
-phawb: 3
-note: 3
-brith: 3
-garreg: 3
-contributions: 3
-gwely: 3
-GUTINDEX: 3
-ymgodi: 3
-arad: 3
-nghi: 3
-Morgan: 3
-gwell: 3
-days: 3
-wish: 3
-pleser: 3
-Clywir: 3
-lleill: 3
-medium: 3
-gro: 3
-Nac: 3
-roddodd: 3
-even: 3
-wneyd: 3
-Eisteddfod: 3
-gwedd: 3
-Among: 3
-groes: 3
-liability: 3
-cychwyn: 3
-want: 3
-roedd: 3
-genais: 3
-things: 3
-Nos: 3
-Fan: 3
-ibiblio: 3
-gerdd: 3
-gwlith: 3
-cledd: 3
-Goch: 3
-pwy: 3
-torri: 3
-fyrdd: 3
-ddedwydd: 3
-tref: 3
-Feirionnydd: 3
-request: 3
-hoew: 3
-requirements: 3
-glan: 3
-gwaith: 3
-Siwr: 3
-cangen: 3
-Rwyn: 3
-deall: 3
-ddont: 3
-swyn: 3
-Mynd: 3
-take: 3
-Dwed: 3
-Brenin: 3
-glir: 3
-dweyd: 3
-Fry: 3
-natur: 3
-file: 3
-within: 3
-Codiad: 3
-return: 3
-ngwydd: 3
-wyddfod: 3
-Wyn: 3
-deimlo: 3
-ochr: 3
-ysgol: 3
-plygu: 3
-Cariad: 3
-United: 3
-Ivan: 3
-free: 3
-minnau: 3
-people: 3
-faes: 3
-glyn: 3
-Doed: 3
-Owain: 3
-ddechreu: 3
-llong: 3
-glyw: 3
-gwraig: 3
-mhell: 3
-fyddai: 3
-refund: 3
-isel: 3
-Ebrill: 3
-first: 3
-gwelir: 3
-atat: 3
-public: 3
-cymer: 3
-GWYN: 3
-prudd: 3
-frwyn: 3
-Disgynnai: 3
-Eryri: 3
-acw: 3
-its: 3
-Rhai: 3
-nesaf: 3
-ddeg: 3
-oddi: 3
-Dywedir: 3
-wenai: 3
-cadw: 3
-mamau: 3
-ddail: 3
-copies: 3
-cyffwrdd: 3
-Uwchben: 3
-expense: 3
-alw: 3
-Magi: 3
-Rhown: 3
-Bala: 3
-ymysg: 3
-phoen: 3
-llanw: 3
-ddysgu: 3
-anial: 3
-moli: 3
-edition: 3
-faner: 3
-anwylaf: 3
-Hedydd: 3
-rym: 3
-wrando: 3
-llawr: 3
-feirdd: 3
-bugail: 3
-most: 3
-Rhyw: 3
-Yno: 3
-glaswelltyn: 3
-equivalent: 3
-hedeg: 3
-ban: 3
-aden: 3
-llun: 3
-fiwsig: 3
-Dymunwn: 3
-bychain: 3
-syrthiodd: 3
-nofio: 3
-dwylaw: 3
-coedydd: 3
-Mynydd: 3
-Dyma: 3
-pobox: 3
-begin: 3
-udgorn: 3
-angel: 3
-chwerw: 3
-amdo: 3
-ddiwedd: 3
-gwen: 3
-flodeuog: 3
-ddernyn: 3
-phob: 3
-bro: 3
-Bywyd: 3
-wraig: 3
-Missouri: 3
-storm: 3
-ddweyd: 3
-lefaru: 3
-breuddwydion: 3
-deffry: 3
-gwsg: 3
-Elen: 3
-freuddwydiodd: 3
-greigiau: 3
-readable: 3
-roed: 3
-tax: 3
-person: 3
-rhyddid: 3
-Ior: 3
-prepare: 2
-gwelyau: 2
-fifty: 2
-glaer: 2
-ccx: 2
-Employee: 2
-lefn: 2
-C: 2
-cei: 2
-throi: 2
-e: 2
-hongian: 2
-g: 2
-ambell: 2
-fagnel: 2
-rheng: 2
-Roedd: 2
-Aed: 2
-ddinam: 2
-disclaimers: 2
-welw: 2
-better: 2
-dderbyn: 2
-anghofio: 2
-wnai: 2
-Monwyson: 2
-ymaith: 2
-gors: 2
-Montana: 2
-garaf: 2
-goedwig: 2
-Kentucky: 2
-mysg: 2
-Cantata: 2
-fudI: 2
-anhawsderau: 2
-wallt: 2
-hypertext: 2
-dderyn: 2
-have: 2
-cor: 2
-Eden: 2
-lam: 2
-glanio: 2
-Lleuad: 2
-nwylaw: 2
-Roi: 2
-Dinas: 2
-Gwell: 2
-hafddydd: 2
-mraich: 2
-ganddi: 2
-odlau: 2
-Dacw: 2
-nhroed: 2
-lawenydd: 2
-led: 2
-taranau: 2
-docs: 2
-les: 2
-tywydd: 2
-fwyaf: 2
-dyrfa: 2
-dollars: 2
-Defects: 2
-BUT: 2
-Norman: 2
-hiaith: 2
-cwm: 2
-anfarwoldeb: 2
-greadigaeth: 2
-donation: 2
-hoffech: 2
-beithynen: 2
-Ave: 2
-wywodd: 2
-cwrdd: 2
-CODIAD: 2
-cyfeillion: 2
-GarregI: 2
-trwst: 2
-pant: 2
-lon: 2
-computer: 2
-brigau: 2
-Rhaid: 2
-dau: 2
-day: 2
-rhyfeloedd: 2
-raian: 2
-tyfodd: 2
-dorf: 2
-einioes: 2
-fagnelau: 2
-der: 2
-announcement: 2
-Arad: 2
-ffraeo: 2
-beunydd: 2
-Llwyn: 2
-thithau: 2
-chollodd: 2
-miloedd: 2
-chodai: 2
-eitha: 2
-lleddf: 2
-tadau: 2
-braw: 2
-erys: 2
-pryd: 2
-CYMRU: 2
-gynta: 2
-anadl: 2
-mhobol: 2
-bryder: 2
-BEIBL: 2
-gollen: 2
-dwyrain: 2
-gyfan: 2
-chwardd: 2
-clyd: 2
-usually: 2
-letters: 2
-drysor: 2
-being: 2
-doi: 2
-loes: 2
-dihalog: 2
-dos: 2
-Gwnaed: 2
-rhes: 2
-legally: 2
-dwymyn: 2
-hithau: 2
-use: 2
-merch: 2
-inni: 2
-dri: 2
-ogof: 2
-Cledd: 2
-fedr: 2
-equipment: 2
-dry: 2
-ebai: 2
-fedi: 2
-Price: 2
-erchwyn: 2
-Information: 2
-included: 2
-TUA: 2
-dur: 2
-manO: 2
-dychwelais: 2
-gaiff: 2
-gemau: 2
-coventry: 2
-Idaho: 2
-oleuni: 2
-long: 2
-anfarwol: 2
-into: 2
-trostynt: 2
-Paham: 2
-barn: 2
-Disgynnodd: 2
-tylodion: 2
-rhos: 2
-THIS: 2
-Cyfeiriais: 2
-allor: 2
-holau: 2
-DDALL: 2
-apply: 2
-phlant: 2
-magnelau: 2
-rhuai: 2
-raisingwill: 2
-profits: 2
-Natur: 2
-nhalcen: 2
-Byddwn: 2
-word: 2
-dewch: 2
-mawn: 2
-agen: 2
-goreu: 2
-Rhuddlan: 2
-addysg: 2
-mawredd: 2
-lengoedd: 2
-CORN: 2
-mud: 2
-mun: 2
-mur: 2
-glywn: 2
-dirif: 2
-orwedd: 2
-Oxford: 2
-bloeddiwn: 2
-mwg: 2
-teimlais: 2
-donnau: 2
-teithio: 2
-cyhoeddwyd: 2
-AR: 2
-waeth: 2
-Ab: 2
-Llanarmon: 2
-Af: 2
-gwahanu: 2
-werdd: 2
-Nevada: 2
-DIM: 2
-iddynt: 2
-dilyn: 2
-godai: 2
-Adawodd: 2
-users: 2
-materials: 2
-teimlad: 2
-Vermont: 2
-Holl: 2
-Eu: 2
-end: 2
-Fu: 2
-Shecina: 2
-gadael: 2
-START: 2
-rhoddwyd: 2
-Manceinion: 2
-nac: 2
-nabod: 2
-IS: 2
-dolydd: 2
-EVEN: 2
-ffenestri: 2
-siarad: 2
-melus: 2
-ddelw: 2
-nefol: 2
-etc: 2
-net: 2
-below: 2
-adsain: 2
-NA: 2
-ochenaid: 2
-rhoddodd: 2
-NO: 2
-Mo: 2
-ysgafn: 2
-islaw: 2
-amrant: 2
-llwybrau: 2
-Tua: 2
-Ngwalia: 2
-gyfeillion: 2
-Indiana: 2
-Draig: 2
-lyfrau: 2
-helbul: 2
-ieuenctid: 2
-suai: 2
-byddwn: 2
-Cwm: 2
-alternatively: 2
-glannau: 2
-nesu: 2
-nhraed: 2
-gyhoeddi: 2
-hawdd: 2
-ffos: 2
-To: 2
-dywedais: 2
-gerbyd: 2
-chwithau: 2
-Texas: 2
-next: 2
-estyn: 2
-foch: 2
-beirddion: 2
-MON: 2
-amryw: 2
-what: 2
-Fwyalchen: 2
-dowch: 2
-gadair: 2
-Ferch: 2
-YW: 2
-meirch: 2
-Gadlys: 2
-PUBLIC: 2
-waered: 2
-glywed: 2
-colli: 2
-grio: 2
-dywell: 2
-wrong: 2
-organization: 2
-Godant: 2
-Indiaid: 2
-fee: 2
-produced: 2
-gair: 2
-keep: 2
-who: 2
-raid: 2
-glywaf: 2
-glywai: 2
-cenais: 2
-Saith: 2
-gorwyrion: 2
-wiw: 2
-rhowch: 2
-cwch: 2
-freuddwydio: 2
-gant: 2
-Meirion: 2
-lledu: 2
-EIN: 2
-an: 2
-cleddyfau: 2
-briod: 2
-gysegredig: 2
-hwyrddydd: 2
-Defect: 2
-co: 2
-ffont: 2
-arnynt: 2
-Thegid: 2
-which: 2
-garu: 2
-garw: 2
-END: 2
-TROS: 2
-popeth: 2
-gyflafan: 2
-Number: 2
-Cymry: 2
-gawn: 2
-Gydag: 2
-wyliem: 2
-Vychan: 2
-ddeiliaid: 2
-Mab: 2
-fysedd: 2
-gwelodd: 2
-oeddyt: 2
-gryn: 2
-welwyd: 2
-www: 2
-nghwrwg: 2
-author: 2
-iechyd: 2
-Carolina: 2
-disk: 2
-fwg: 2
-tawelwch: 2
-tafod: 2
-TRWY: 2
-chlywed: 2
-amgylch: 2
-od: 2
-toriad: 2
-og: 2
-llesg: 2
-dibyn: 2
-Ddim: 2
-oreu: 2
-Llan: 2
-Oriau: 2
-tydi: 2
-coch: 2
-gogoniant: 2
-drachefn: 2
-chaiff: 2
-tyfu: 2
-then: 2
-Mil: 2
-praidd: 2
-ro: 2
-MEWN: 2
-freichiau: 2
-frenhines: 2
-pump: 2
-nghamrau: 2
-dalcen: 2
-anwiredd: 2
-theimlais: 2
-dall: 2
-uk: 2
-up: 2
-DAMAGES: 2
-NOT: 2
-blin: 2
-thlysaf: 2
-Canu: 2
-dalu: 2
-FAM: 2
-addewid: 2
-felus: 2
-nhelyn: 2
-distribution: 2
-out: 2
-dychwel: 2
-Louisiana: 2
-Mud: 2
-send: 2
-Llais: 2
-cenin: 2
-cost: 2
-Mwy: 2
-nghyfaill: 2
-gwena: 2
-ganai: 2
-Ngharreg: 2
-amrantau: 2
-DOMAIN: 2
-addfwyn: 2
-listing: 2
-union: 2
-Clywch: 2
-goeden: 2
-gog: 2
-roddwyd: 2
-ladd: 2
-got: 2
-grwydro: 2
-Gawrfloeddio: 2
-goleuni: 2
-remove: 2
-Colorado: 2
-sydyn: 2
-there: 2
-rbydd: 2
-brudd: 2
-ETEXT: 2
-Nas: 2
-synwyr: 2
-Enwadau: 2
-symud: 2
-per: 2
-arwain: 2
-ever: 2
-hundred: 2
-orsedd: 2
-deilen: 2
-fachludiad: 2
-Nef: 2
-diroedd: 2
-enfys: 2
-groew: 2
-pennau: 2
-ceunant: 2
-WLAD: 2
-honynt: 2
-Gwel: 2
-basio: 2
-amcan: 2
-Craig: 2
-derwen: 2
-intended: 2
-prydferthaf: 2
-ETEXTS: 2
-Gwenferch: 2
-ple: 2
-lamp: 2
-ogoniant: 2
-Gwir: 2
-Canfyddem: 2
-must: 2
-OND: 2
-Identification: 2
-arluniau: 2
-Trillion: 2
-ddisgynyddion: 2
-tithau: 2
-goelcerth: 2
-sylwi: 2
-has: 2
-hau: 2
-last: 2
-cwmwl: 2
-GAD: 2
-diwyd: 2
-adewais: 2
-cyfarfod: 2
-boddhau: 2
-arwr: 2
-ngwyddfod: 2
-neshau: 2
-time: 2
-pub: 2
-laws: 2
-croes: 2
-Connecticut: 2
-GET: 2
-wrido: 2
-naddu: 2
-chanwyll: 2
-murmur: 2
-buasai: 2
-Mhen: 2
-before: 2
-hin: 2
-proofread: 2
-gaeth: 2
-archive: 2
-wennol: 2
-gliniau: 2
-bobloedd: 2
-Wedi: 2
-solicited: 2
-anwyd: 2
-been: 2
-safem: 2
-Rwyf: 2
-fflamio: 2
-ysgrifennu: 2
-derfyn: 2
-rhoddi: 2
-trig: 2
-LIMITED: 2
-bedw: 2
-geisiaf: 2
-Oklahoma: 2
-Wna: 2
-datodiad: 2
-barth: 2
-Rhufeiniaid: 2
-BARDD: 2
-safai: 2
-rhodio: 2
-Wyoming: 2
-ASCII: 2
-cynt: 2
-includinglegal: 2
-aber: 2
-edrychwch: 2
-clywaf: 2
-barod: 2
-faban: 2
-tant: 2
-gwelwn: 2
-Offa: 2
-Hudol: 2
-just: 2
-ddwys: 2
-Canent: 2
-troi: 2
-croesi: 2
-clywch: 2
-royalty: 2
-ganddynt: 2
-Arfon: 2
-canodd: 2
-JOHN: 2
-heddyw: 2
-Bugail: 2
-cwympo: 2
-glod: 2
-nyth: 2
-gonest: 2
-paham: 2
-cerddor: 2
-Gorn: 2
-machine: 2
-ruai: 2
-Wyf: 2
-gystudd: 2
-lygaid: 2
-header: 2
-yfais: 2
-nghlyw: 2
-hour: 2
-lampau: 2
-chwe: 2
-gudd: 2
-gauad: 2
-cyfrwy: 2
-gwelem: 2
-gwynnu: 2
-waelod: 2
-EBCDIC: 2
-flynyddoedd: 2
-chymer: 2
-Onn: 2
-unless: 2
-ias: 2
-tyner: 2
-Caiff: 2
-gymorth: 2
-tyrddu: 2
-Gad: 2
-ychydig: 2
-wylio: 2
-Chwaer: 2
-fagu: 2
-pruddglwyf: 2
-rhaiadrau: 2
-Frenhines: 2
-Edrychem: 2
-zip: 2
-fenyw: 2
-agree: 2
-damages: 2
-ddistaw: 2
-cysgod: 2
-Awel: 2
-Eisteddai: 2
-esmwyth: 2
-temlau: 2
-ataf: 2
-Eidal: 2
-fami: 2
-ini: 2
-heniaith: 2
-Goleu: 2
-nyddu: 2
-heddwch: 2
-ydwyt: 2
-Ychwaneg: 2
-posted: 2
-SMALL: 2
-deimlais: 2
-Gleision: 2
-Bran: 2
-Cewch: 2
-ddal: 2
-fwynhad: 2
-BABAN: 2
-etifedd: 2
-OWEN: 2
-production: 2
-anrheg: 2
-Donations: 2
-Rhag: 2
-HUN: 2
-fryd: 2
-ehedydd: 2
-fryniau: 2
-ddysgais: 2
-gagendor: 2
-number: 2
-Handel: 2
-BYTH: 2
-rhywun: 2
-Harlech: 2
-wenau: 2
-Wynedd: 2
-deulu: 2
-aig: 2
-ain: 2
-beraidd: 2
-HAVE: 2
-olwg: 2
-hedydd: 2
-achos: 2
-HAUL: 2
-tyred: 2
-boed: 2
-dreigiau: 2
-modd: 2
-amI: 2
-rhodiai: 2
-rioed: 2
-rod: 2
-rhwyfwn: 2
-crio: 2
-cwpan: 2
-using: 2
-prairienet: 2
-gynhebrwng: 2
-ennill: 2
-hafaidd: 2
-sisial: 2
-stafell: 2
-ffynnon: 2
-through: 2
-anian: 2
-flynyddau: 2
-Oherwydd: 2
-arwydd: 2
-ato: 2
-those: 2
-ddyweyd: 2
-weithiau: 2
-syml: 2
-book: 2
-allu: 2
-ddaliodd: 2
-munud: 2
-brwyn: 2
-editing: 2
-awn: 2
-bont: 2
-afael: 2
-caru: 2
-pasio: 2
-ddywedaist: 2
-ddua: 2
-oleuodd: 2
-arosodd: 2
-ddwedyd: 2
-ddwy: 2
-nghartref: 2
-Hawdd: 2
-breichiau: 2
-ddillad: 2
-cryd: 2
-Bryn: 2
-INCLUDING: 2
-ddilyn: 2
-ngwaed: 2
-ENETH: 2
-Yna: 2
-Oddiwrth: 2
-Morfa: 2
-ddeuent: 2
-chanlyn: 2
-also: 2
-nawn: 2
-ddrws: 2
-bad: 2
-magwyd: 2
-clawdd: 2
-gwartheg: 2
-SERCH: 2
-ofnadwy: 2
-adeg: 2
-Brythoniaid: 2
-gallaf: 2
-gynhesodd: 2
-chwerthin: 2
-wddf: 2
-Ferwyn: 2
-see: 2
-indicate: 2
-set: 2
-contain: 2
-WARRANTY: 2
-orsoftware: 2
-drist: 2
-siglo: 2
-contact: 2
-ddowch: 2
-mhraidd: 2
-gydag: 2
-helpu: 2
-draed: 2
-genethig: 2
-Minnau: 2
-weddw: 2
-modrwy: 2
-over: 2
-Gwenith: 2
-dirion: 2
-big: 2
-cherdd: 2
-Breuddwydion: 2
-gweddiau: 2
-gwae: 2
-DAFYDD: 2
-deil: 2
-world: 2
-cenedl: 2
-ble: 2
-Addfwyn: 2
-ganwn: 2
-cerdd: 2
-Dakota: 2
-Porthmadog: 2
-myrdd: 2
-ALL: 2
-gwefus: 2
-download: 2
-chwery: 2
-directly: 2
-plentynrwydd: 2
-Felly: 2
-engyl: 2
-David: 2
-ddamwain: 2
-cleddyf: 2
-adre: 2
-defnyn: 2
-chofia: 2
-ANY: 2
-chawn: 2
-PRINT: 2
-DYCHWELIAD: 2
-bri: 2
-draws: 2
-gymer: 2
-suo: 2
-but: 2
-ngwaelod: 2
-pellder: 2
-written: 2
-ngrudd: 2
-Iowa: 2
-proprietary: 2
-bounces: 2
-Rhwyfwn: 2
-byr: 2
-dychryn: 2
-syrthio: 2
-canwn: 2
-dywed: 2
-amod: 2
-dewr: 2
-rodd: 2
-derive: 2
-Massachusetts: 2
-braidd: 2
-rhosyn: 2
-myfi: 2
-maesydd: 2
-chwech: 2
-plith: 2
-erlid: 2
-ffroen: 2
-Ysgrifennwyd: 2
-gobaith: 2
-plain: 2
-fendith: 2
-Dolydd: 2
-dynol: 2
-helyg: 2
-goed: 2
-dynnu: 2
-welir: 2
-ddiameu: 2
-alaru: 2
-cau: 2
-fachludo: 2
-garnedd: 2
-DYDD: 2
+y              : 737
+yn             : 603
+r              : 600
+i              : 465
+a              : 416
+ei             : 274
+A              : 266
+fy             : 265
+ar             : 240
+n              : 227
+o              : 209
+Yn             : 174
+yr             : 150
+I              : 129
+O              : 128
+Mae            : 111
+Y              : 106
+Ond            : 105
+mae            : 97
+ac             : 97
+Ac             : 95
+dy             : 92
+Ar             : 89
+am             : 86
+oedd           : 82
+the            : 70
+m              : 62
+Fe             : 62
+fel            : 61
+to             : 60
+gan            : 60
+hen            : 60
+na             : 59
+yw             : 59
+un             : 53
+of             : 52
+th             : 48
+wrth           : 47
+ni             : 45
+Pan            : 44
+hi             : 42
+ond            : 42
+ti             : 41
+you            : 41
+Menna          : 40
+or             : 40
+fi             : 38
+ol             : 38
+mewn           : 38
+and            : 38
+ein            : 37
+at             : 37
+byd            : 37
+Mi             : 36
+eu             : 35
+hun            : 35
+sydd           : 35
+gyda           : 34
+R              : 33
+haul           : 33
+don            : 33
+di             : 33
+er             : 33
+ALAW           : 33
+w              : 32
+Wrth           : 32
+wedi           : 32
+mi             : 31
+Project        : 31
+mor            : 30
+Fy             : 30
+eto            : 30
+Yr             : 30
+mynydd         : 30
+fod            : 30
+this           : 30
+ben            : 30
+dyn            : 29
+nos            : 29
+Cymru          : 29
+etext          : 29
+anwyl          : 29
+hyd            : 29
+fe             : 28
+awr            : 28
+Fel            : 27
+hon            : 27
+nghalon        : 27
+hyn            : 27
+byw            : 27
+Gutenberg      : 26
+ef             : 26
+tros           : 26
+Gan            : 26
+dydd           : 25
+nef            : 25
+wen            : 25
+wlad           : 25
+bach           : 24
+Na             : 24
+by             : 24
+in             : 24
+tan            : 24
+erioed         : 23
+mam            : 23
+ydyw           : 23
+mawr           : 23
+efo            : 23
+Os             : 23
+be             : 23
+is             : 23
+fyw            : 23
+sy             : 23
+galon          : 23
+c              : 22
+Rwy            : 22
+awel           : 22
+gwyn           : 21
+byth           : 21
+nid            : 21
+fam            : 21
+gad            : 21
+afon           : 20
+Mewn           : 20
+Ceiriog        : 20
+for            : 20
+oes            : 20
+pan            : 20
+yno            : 20
+chwi           : 20
+edrych         : 20
+Gymru          : 19
+heb            : 19
+Fod            : 19
+imi            : 19
+farw           : 19
+mwyn           : 19
+canu           : 19
+Yng            : 19
+can            : 19
+lan            : 18
+fan            : 18
+trwy           : 18
+are            : 18
+mynd           : 17
+lle            : 17
+dan            : 17
+dod            : 17
+Am             : 17
+Tra            : 17
+Pe             : 17
+it             : 17
+Duw            : 17
+Nes            : 17
+lawr           : 17
+ddaw           : 17
+other          : 17
+gwynt          : 16
+Ni             : 16
+nefoedd        : 16
+ganu           : 16
+fu             : 16
+draw           : 16
+Wen            : 16
+hwn            : 16
+iawn           : 16
+fawr           : 16
+uwch           : 16
+Aberdyfi       : 16
+hynny          : 16
+ffordd         : 15
+os             : 15
+coed           : 15
+your           : 15
+fydd           : 15
+wyneb          : 15
+bychan         : 15
+bedd           : 15
+any            : 15
+u              : 14
+may            : 14
+marw           : 14
+Ei             : 14
+Er             : 14
+nes            : 14
+Trwy           : 14
+daeth          : 14
+rhwng          : 14
+fyd            : 14
+oll            : 14
+llawer         : 14
+fyny           : 14
+wawr           : 14
+yng            : 14
+holl           : 14
+beth           : 14
+roi            : 14
+Hen            : 14
+llon           : 14
+ddaear         : 14
+swn            : 14
+weld           : 13
+lli            : 13
+ngwlad         : 13
+dim            : 13
+bryn           : 13
+bawn           : 13
+The            : 13
+bu             : 13
+ty             : 13
+bryniau        : 13
+fynd           : 13
+pob            : 13
+hoff           : 13
+hwyr           : 13
+calon          : 13
+from           : 13
+llaw           : 13
+ddim           : 13
+cofio          : 13
+ddaeth         : 13
+fachgen        : 12
+gartref        : 12
+allan          : 12
+innau          : 12
+Tros           : 12
+Sy             : 12
+hwnnw          : 12
+gael           : 12
+Yw             : 12
+chwaer         : 12
+Dduw           : 12
+Garreg         : 12
+hardd          : 12
+unig           : 12
+plentyn        : 12
+fechan         : 12
+bore           : 12
+eich           : 11
+Annie          : 11
+dad            : 11
+rhyw           : 11
+mwy            : 11
+not            : 11
+gwlad          : 11
+bywyd          : 11
+if             : 11
+le             : 11
+wyn            : 11
+ym             : 11
+gennyf         : 11
+get            : 11
+John           : 11
+Nid            : 11
+iach           : 11
+yna            : 11
+Wele           : 11
+fach           : 11
+gorwedd        : 11
+ddyn           : 11
+plant          : 11
+bob            : 11
+ngeneth        : 11
+llygad         : 10
+loew           : 10
+gynt           : 10
+gelyn          : 10
+ddywed         : 10
+If             : 10
+neb            : 10
+nen            : 10
+dechreu        : 10
+nis            : 10
+myned          : 10
+Daw            : 10
+galw           : 10
+do             : 10
+wyt            : 10
+iaith          : 10
+aros           : 10
+angau          : 10
+gweled         : 10
+cael           : 10
+delyn          : 10
+ser            : 10
+megis          : 10
+blodau         : 10
+bod            : 10
+weled          : 10
+iddo           : 10
+Etexts         : 10
+mhen           : 10
+gwyr           : 9
+dagrau         : 9
+hunan          : 9
+meddwl         : 9
+awen           : 9
+fodrwy         : 9
+newydd         : 9
+mai            : 9
+hanner         : 9
+rhoi           : 9
+Bu             : 9
+enw            : 9
+bardd          : 9
+gwlaw          : 9
+lawer          : 9
+as             : 9
+bo             : 9
+that           : 9
+Men            : 9
+wyf            : 9
+on             : 9
+codi           : 9
+dail           : 9
+our            : 9
+ger            : 9
+ardd           : 9
+fynwent        : 9
+gyntaf         : 9
+nhad           : 9
+ddydd          : 9
+serch          : 9
+ail            : 9
+Rhen           : 9
+alaw           : 9
+all            : 9
+Foundation     : 9
+ddod           : 9
+ryw            : 9
+phen           : 9
+wnaeth         : 9
+llais          : 9
+well           : 8
+law            : 8
+aeth           : 8
+tua            : 8
+dynion         : 8
+ninnau         : 8
+rhai           : 8
+fedd           : 8
+graig          : 8
+fedwen         : 8
+alawon         : 8
+GUTENBERG      : 8
+neu            : 8
+OR             : 8
+fynydd         : 8
+chware         : 8
+Ti             : 8
+Cyn            : 8
+gangen         : 8
+Un             : 8
+Lle            : 8
+droed          : 8
+wyddost        : 8
+af             : 8
+Beibl          : 8
+oer            : 8
+Archive        : 8
+one            : 8
+Literary       : 8
+PROJECT        : 8
+will           : 8
+lais           : 8
+haf            : 8
+erbyn          : 8
+Does           : 8
+seren          : 8
+dlos           : 8
+Gyda           : 8
+welais         : 8
+heulwen        : 8
+gefn           : 8
+brenin         : 8
+ddol           : 8
+adar           : 8
+Dydd           : 8
+bai            : 8
+bynnag         : 8
+Dyna           : 8
+gwan           : 8
+gwin           : 8
+bur            : 8
+gollwng        : 8
+bydd           : 8
+goch           : 8
+dyffryn        : 7
+tra            : 7
+feddwl         : 7
+dda            : 7
+states         : 7
+made           : 7
+man            : 7
+dro            : 7
+about          : 7
+crynnu         : 7
+At             : 7
+Fa             : 7
+nad            : 7
+We             : 7
+YN             : 7
+miwsig         : 7
+fin            : 7
+felly          : 7
+ai             : 7
+ch             : 7
+fore           : 7
+du             : 7
+form           : 7
+Cymro          : 7
+fro            : 7
+Dos            : 7
+la             : 7
+fun            : 7
+glychau        : 7
+us             : 7
+Please         : 7
+we             : 7
+gam            : 7
+dros           : 7
+Alun           : 7
+ieuanc         : 7
+with           : 7
+ynghyd         : 7
+eistedd        : 7
+Bydd           : 7
+Wel            : 7
+hir            : 7
+amser          : 7
+Haul           : 7
+arall          : 7
+llwyn          : 7
+baban          : 7
+HEN            : 7
+olaf           : 7
+donations      : 7
+Dyffryn        : 7
+YOU            : 7
+ydoedd         : 7
+nant           : 7
+ferch          : 7
+Pwy            : 7
+Gwenllian      : 7
+Hun            : 7
+breuddwyd      : 7
+son            : 7
+Etext          : 7
+mynyddoedd     : 7
+godi           : 7
+Michael        : 6
+Small          : 6
+ymhell         : 6
+wnaf           : 6
+bloeddio       : 6
+pren           : 6
+Cwyd           : 6
+dal            : 6
+ddu            : 6
+deg            : 6
+teimlo         : 6
+gerllaw        : 6
+dir            : 6
+bachgen        : 6
+dlawd          : 6
+gwybod         : 6
+dyfroedd       : 6
+Print          : 6
+hefyd          : 6
+milwr          : 6
+books          : 6
+fewn           : 6
+daear          : 6
+ddwylaw        : 6
+clychau        : 6
+Ef             : 6
+dyma           : 6
+nag            : 6
+dyna           : 6
+unwaith        : 6
+melyn          : 6
+OF             : 6
+Pa             : 6
+Chwi           : 6
+TO             : 6
+machgen        : 6
+wan            : 6
+YR             : 6
+Ym             : 6
+wel            : 6
+defaid         : 6
+huno           : 6
+ag             : 6
+fo             : 6
+gyfrol         : 6
+fry            : 6
+hyfryd         : 6
+ysbryd         : 6
+thad           : 6
+Sydd           : 6
+welodd         : 6
+fwy            : 6
+pe             : 6
+hedd           : 6
+Hughes         : 6
+ffwrdd         : 6
+flwyddyn       : 6
+date           : 6
+arch           : 6
+Oedd           : 6
+Nad            : 6
+deigryn        : 6
+pen            : 6
+eiriau         : 6
+arni           : 6
+cysgu          : 6
+Nis            : 6
+pur            : 6
+peth           : 6
+Walia          : 6
+Gwyn           : 6
+gweddi         : 6
+march          : 6
+blant          : 6
+Byth           : 6
+Wyt            : 6
+rudd           : 6
+eigion         : 6
+rhydd          : 6
+traed          : 6
+Ger            : 6
+glust          : 6
+deryn          : 6
+uchel          : 6
+oleu           : 6
+ffarwel        : 6
+Merch          : 6
+fath           : 6
+rhedeg         : 6
+dyfod          : 6
+llall          : 6
+Peidiwch       : 6
+ysgwydd        : 6
+cain           : 6
+daith          : 6
+yntau          : 6
+aur            : 6
+waith          : 6
+Scer           : 6
+nerth          : 6
+gwcw           : 6
+iddi           : 6
+should         : 6
+only           : 6
+gwyd           : 6
+teg            : 5
+rwyf           : 5
+b              : 5
+f              : 5
+s              : 5
+information    : 5
+wele           : 5
+Ynys           : 5
+ymlaen         : 5
+las            : 5
+fyned          : 5
+Ffarwel        : 5
+gwrwg          : 5
+Hedd           : 5
+This           : 5
+dwys           : 5
+mynwes         : 5
+undyn          : 5
+Mabon          : 5
+chalon         : 5
+lleuad         : 5
+Gwalia         : 5
+bugeiliaid     : 5
+rhan           : 5
+Anwyl          : 5
+mil            : 5
+work           : 5
+doriad         : 5
+gwynion        : 5
+year           : 5
+Ai             : 5
+boreu          : 5
+golli          : 5
+copyright      : 5
+nas            : 5
+diolch         : 5
+fywyd          : 5
+lloer          : 5
+crwydro        : 5
+fynych         : 5
+merlen         : 5
+mwyaf          : 5
+Ryddid         : 5
+eisieu         : 5
+disgyn         : 5
+gref           : 5
+ganwyd         : 5
+Myfanwy        : 5
+golwg          : 5
+fwyn           : 5
+dwedyd         : 5
+wir            : 5
+aderyn         : 5
+wna            : 5
+mebyd          : 5
+da             : 5
+creigiau       : 5
+grug           : 5
+gu             : 5
+oeddwn         : 5
+oed            : 5
+Claddasom      : 5
+fud            : 5
+than           : 5
+pa             : 5
+dreuliais      : 5
+they           : 5
+cwyd           : 5
+Cymer          : 5
+tonnau         : 5
+frenin         : 5
+org            : 5
+Mon            : 5
+grudd          : 5
+heno           : 5
+these          : 5
+gwenu          : 5
+adael          : 5
+sibrwd         : 5
+gweld          : 5
+FOR            : 5
+waed           : 5
+Llances        : 5
+diwedd         : 5
+gwn            : 5
+Neu            : 5
+Difyrrwch      : 5
+pell           : 5
+deimlad        : 5
+nghariad       : 5
+Arthur         : 5
+telyn          : 5
+cyfaill        : 5
+Gwyr           : 5
+Owen           : 5
+aelwyd         : 5
+arian          : 5
+bell           : 5
+Hart           : 5
+hwy            : 5
+Wnaf           : 5
+eneth          : 5
+Aeth           : 5
+Lisle          : 5
+ennyd          : 5
+dorri          : 5
+iti            : 5
+gynnes         : 5
+gwallt         : 5
+enaid          : 5
+wedyn          : 5
+gadwaf         : 5
+hynt           : 5
+Heb            : 5
+Rhyddid        : 5
+llawn          : 5
+Fenai          : 5
+You            : 5
+phan           : 5
+drain          : 5
+Bardd          : 5
+llyn           : 5
+weddi          : 5
+meddyliau      : 5
+Hyd            : 5
+Dowch          : 5
+bopeth         : 5
+nghanol        : 5
+Yfory          : 5
+gwir           : 5
+welai          : 5
+welaf          : 5
+hanwyl         : 4
+N              : 4
+t              : 4
+troed          : 4
+geiriau        : 4
+hart           : 4
+wely           : 4
+fynyddoedd     : 4
+tri            : 4
+eira           : 4
+erch           : 4
+distribute     : 4
+cyn            : 4
+Awn            : 4
+ochor          : 4
+Corn           : 4
+pawb           : 4
+lyn            : 4
+bren           : 4
+permission     : 4
+frwydr         : 4
+etexts         : 4
+mab            : 4
+magu           : 4
+mel            : 4
+Fyny           : 4
+bron           : 4
+received       : 4
+dwr            : 4
+ynddi          : 4
+mron           : 4
+flodau         : 4
+arnaf          : 4
+gutenberg      : 4
+Tan            : 4
+bwthyn         : 4
+Can            : 4
+gwywo          : 4
+ddewr          : 4
+As             : 4
+estron         : 4
+Wyddfa         : 4
+Do             : 4
+adgofion       : 4
+Gymry          : 4
+release        : 4
+wledydd        : 4
+ymyl           : 4
+Hi             : 4
+Fiwsig         : 4
+heibio         : 4
+gwneyd         : 4
+gwyneb         : 4
+bwrdd          : 4
+sued           : 4
+statement      : 4
+wag            : 4
+gadw           : 4
+chwaon         : 4
+fad            : 4
+oddiwrth       : 4
+llwch          : 4
+ffyn           : 4
+ed             : 4
+fory           : 4
+filwyr         : 4
+Mai            : 4
+gariad         : 4
+ofn            : 4
+lu             : 4
+ne             : 4
+no             : 4
+fys            : 4
+gwyllt         : 4
+dair           : 4
+so             : 4
+email          : 4
+tm             : 4
+Mwyn           : 4
+llawen         : 4
+aiff           : 4
+gaf            : 4
+wn             : 4
+gwirion        : 4
+wy             : 4
+eraill         : 4
+Meddai         : 4
+copy           : 4
+byddai         : 4
+drws           : 4
+mhlentyn       : 4
+drumiau        : 4
+without        : 4
+adref          : 4
+Ein            : 4
+araf           : 4
+list           : 4
+cystudd        : 4
+gofal          : 4
+gwenith        : 4
+million        : 4
+Eto            : 4
+gwr            : 4
+arno           : 4
+gyd            : 4
+GARREG         : 4
+ganol          : 4
+Llywelyn       : 4
+hel            : 4
+hiraeth        : 4
+Myfi           : 4
+yma            : 4
+gofio          : 4
+medd           : 4
+hol            : 4
+additional     : 4
+gwddw          : 4
+mlaen          : 4
+thyner         : 4
+gauaf          : 4
+carreg         : 4
+werth          : 4
+hogyn          : 4
+Paid           : 4
+roddi          : 4
+fron           : 4
+anwylyd        : 4
+chwilio        : 4
+rai            : 4
+Toriad         : 4
+ran            : 4
+ardal          : 4
+ateb           : 4
+ddau           : 4
+Iesu           : 4
+fryn           : 4
+Mentra         : 4
+Nghymru        : 4
+filwr          : 4
+llygaid        : 4
+Pob            : 4
+cant           : 4
+rwy            : 4
+Dafydd         : 4
+more           : 4
+cariad         : 4
+gladdu         : 4
+gyfaill        : 4
+Daeth          : 4
+lygad          : 4
+dyddiau        : 4
+feibion        : 4
+ceirg          : 4
+longau         : 4
+South          : 4
+gwel           : 4
+gofyn          : 4
+Garibaldi      : 4
+gwiw           : 4
+tuag           : 4
+darllen        : 4
+Rhwng          : 4
+tragwyddol     : 4
+reach          : 4
+hwian          : 4
+gloew          : 4
+siwr           : 4
+blodyn         : 4
+tad            : 4
+Imi            : 4
+files          : 4
+cae            : 4
+gloch          : 4
+wedd           : 4
+febyd          : 3
+electronically : 3
+gwaed          : 3
+D              : 3
+E              : 3
+characters     : 3
+S              : 3
+wnaet          : 3
+dwed           : 3
+gwrdd          : 3
+gyndadau       : 3
+thi            : 3
+readers        : 3
+llinell        : 3
+fwrdro         : 3
+tir            : 3
+dwfn           : 3
+hunain         : 3
+priodi         : 3
+Rhy            : 3
+ofid           : 3
+eill           : 3
+ngoleu         : 3
+wenu           : 3
+llosgi         : 3
+Draw           : 3
+furiau         : 3
+machlud        : 3
+additions      : 3
+produce        : 3
+com            : 3
+siomedigaeth   : 3
+Gweld          : 3
+Rol            : 3
+tro            : 3
+wneuthur       : 3
+Cwsg           : 3
+hwyliau        : 3
+ganddo         : 3
+hatal          : 3
+pres           : 3
+each           : 3
+ystafell       : 3
+does           : 3
+claer          : 3
+adduned        : 3
+lin            : 3
+mynwent        : 3
+haulAr         : 3
+These          : 3
+dwyn           : 3
+fund           : 3
+paid           : 3
+lwch           : 3
+gilydd         : 3
+provide        : 3
+tryloewon      : 3
+cainc          : 3
+fynwes         : 3
+daw            : 3
+Tyrd           : 3
+ydynt          : 3
+del            : 3
+Seren          : 3
+domain         : 3
+THE            : 3
+ddeigryn       : 3
+Serch          : 3
+University     : 3
+month          : 3
+locust         : 3
+suddo          : 3
+ddiolch        : 3
+babi           : 3
+rhag           : 3
+anrhydedd      : 3
+maent          : 3
+blentyn        : 3
+maen           : 3
+wefus          : 3
+clyw           : 3
+llances        : 3
+fees           : 3
+Bob            : 3
+cymoedd        : 3
+met            : 3
+awyr           : 3
+DAER           : 3
+mhlant         : 3
+curo           : 3
+trefydd        : 3
+Idris          : 3
+draeth         : 3
+min            : 3
+dechreuech     : 3
+ynddo          : 3
+Pell           : 3
+ceisiaf        : 3
+ruddiau        : 3
+gwanwyn        : 3
+Ymwel          : 3
+WEDDI          : 3
+money          : 3
+mod            : 3
+ganeuon        : 3
+Cymeryd        : 3
+rhuo           : 3
+bryd           : 3
+cyfan          : 3
+cusan          : 3
+beddau         : 3
+rhyfel         : 3
+craig          : 3
+efe            : 3
+deductible     : 3
+thorri         : 3
+fardd          : 3
+Cei            : 3
+chwydder       : 3
+drodd          : 3
+By             : 3
+cartref        : 3
+official       : 3
+ganodd         : 3
+Berwyn         : 3
+EI             : 3
+agor           : 3
+need           : 3
+agos           : 3
+Cydgan         : 3
+hoffi          : 3
+Dy             : 3
+http           : 3
+FY             : 3
+donau          : 3
+gwynfa         : 3
+eos            : 3
+IF             : 3
+II             : 3
+MAE            : 3
+Gymro          : 3
+finnau         : 3
+dwedai         : 3
+new            : 3
+honno          : 3
+MS             : 3
+Glog           : 3
+freuddwyd      : 3
+wythnos        : 3
+ngoleuni       : 3
+such           : 3
+noson          : 3
+TI             : 3
+ddyfod         : 3
+Tu             : 3
+ffol           : 3
+nor            : 3
+trademark      : 3
+hoffwn         : 3
+was            : 3
+gist           : 3
+Blodau         : 3
+FoundationPMB  : 3
+when           : 3
+Gwanwyn        : 3
+give           : 3
+dringo         : 3
+gain           : 3
+gwelwch        : 3
+Madog          : 3
+Hafren         : 3
+Dan            : 3
+wnaiff         : 3
+diwrnod        : 3
+used           : 3
+flaen          : 3
+breuddwydiodd  : 3
+wylo           : 3
+lawen          : 3
+hanes          : 3
+Gwened         : 3
+unrhyw         : 3
+fil            : 3
+BEDD           : 3
+ap             : 3
+Itali          : 3
+meirwon        : 3
+Dim            : 3
+ywen           : 3
+gyffwrdd       : 3
+telynor        : 3
+oddiyno        : 3
+gewch          : 3
+ha             : 3
+ddarfu         : 3
+ia             : 3
+fri            : 3
+im             : 3
+chlywid        : 3
+Cymreig        : 3
+oen            : 3
+Edrych         : 3
+ftp            : 3
+mhriod         : 3
+mo             : 3
+daer           : 3
+bedair         : 3
+wyr            : 3
+wnawn          : 3
+States         : 3
+Gymreig        : 3
+them           : 3
+cyntaf         : 3
+phlentyn       : 3
+ddilynodd      : 3
+clywais        : 3
+know           : 3
+henffych       : 3
+droi           : 3
+dano           : 3
+Caradog        : 3
+gwylio         : 3
+Mor            : 3
+Nant           : 3
+Alma           : 3
+yd             : 3
+sefyll         : 3
+Carodd         : 3
+Tywysog        : 3
+gennym         : 3
+WEN            : 3
+tyrd           : 3
+daro           : 3
+brydferth      : 3
+frawd          : 3
+corn           : 3
+own            : 3
+mesur          : 3
+pedwar         : 3
+phawb          : 3
+note           : 3
+brith          : 3
+garreg         : 3
+contributions  : 3
+gwely          : 3
+GUTINDEX       : 3
+ymgodi         : 3
+arad           : 3
+nghi           : 3
+Morgan         : 3
+gwell          : 3
+days           : 3
+wish           : 3
+pleser         : 3
+Clywir         : 3
+lleill         : 3
+medium         : 3
+gro            : 3
+Nac            : 3
+roddodd        : 3
+even           : 3
+wneyd          : 3
+Eisteddfod     : 3
+gwedd          : 3
+Among          : 3
+groes          : 3
+liability      : 3
+cychwyn        : 3
+want           : 3
+roedd          : 3
+genais         : 3
+things         : 3
+Nos            : 3
+Fan            : 3
+ibiblio        : 3
+gerdd          : 3
+gwlith         : 3
+cledd          : 3
+Goch           : 3
+pwy            : 3
+torri          : 3
+fyrdd          : 3
+ddedwydd       : 3
+tref           : 3
+Feirionnydd    : 3
+request        : 3
+hoew           : 3
+requirements   : 3
+glan           : 3
+gwaith         : 3
+Siwr           : 3
+cangen         : 3
+Rwyn           : 3
+deall          : 3
+ddont          : 3
+swyn           : 3
+Mynd           : 3
+take           : 3
+Dwed           : 3
+Brenin         : 3
+glir           : 3
+dweyd          : 3
+Fry            : 3
+natur          : 3
+file           : 3
+within         : 3
+Codiad         : 3
+return         : 3
+ngwydd         : 3
+wyddfod        : 3
+Wyn            : 3
+deimlo         : 3
+ochr           : 3
+ysgol          : 3
+plygu          : 3
+Cariad         : 3
+United         : 3
+Ivan           : 3
+free           : 3
+minnau         : 3
+people         : 3
+faes           : 3
+glyn           : 3
+Doed           : 3
+Owain          : 3
+ddechreu       : 3
+llong          : 3
+glyw           : 3
+gwraig         : 3
+mhell          : 3
+fyddai         : 3
+refund         : 3
+isel           : 3
+Ebrill         : 3
+first          : 3
+gwelir         : 3
+atat           : 3
+public         : 3
+cymer          : 3
+GWYN           : 3
+prudd          : 3
+frwyn          : 3
+Disgynnai      : 3
+Eryri          : 3
+acw            : 3
+its            : 3
+Rhai           : 3
+nesaf          : 3
+ddeg           : 3
+oddi           : 3
+Dywedir        : 3
+wenai          : 3
+cadw           : 3
+mamau          : 3
+ddail          : 3
+copies         : 3
+cyffwrdd       : 3
+Uwchben        : 3
+expense        : 3
+alw            : 3
+Magi           : 3
+Rhown          : 3
+Bala           : 3
+ymysg          : 3
+phoen          : 3
+llanw          : 3
+ddysgu         : 3
+anial          : 3
+moli           : 3
+edition        : 3
+faner          : 3
+anwylaf        : 3
+Hedydd         : 3
+rym            : 3
+wrando         : 3
+llawr          : 3
+feirdd         : 3
+bugail         : 3
+most           : 3
+Rhyw           : 3
+Yno            : 3
+glaswelltyn    : 3
+equivalent     : 3
+hedeg          : 3
+ban            : 3
+aden           : 3
+llun           : 3
+fiwsig         : 3
+Dymunwn        : 3
+bychain        : 3
+syrthiodd      : 3
+nofio          : 3
+dwylaw         : 3
+coedydd        : 3
+Mynydd         : 3
+Dyma           : 3
+pobox          : 3
+begin          : 3
+udgorn         : 3
+angel          : 3
+chwerw         : 3
+amdo           : 3
+ddiwedd        : 3
+gwen           : 3
+flodeuog       : 3
+ddernyn        : 3
+phob           : 3
+bro            : 3
+Bywyd          : 3
+wraig          : 3
+Missouri       : 3
+storm          : 3
+ddweyd         : 3
+lefaru         : 3
+breuddwydion   : 3
+deffry         : 3
+gwsg           : 3
+Elen           : 3
+freuddwydiodd  : 3
+greigiau       : 3
+readable       : 3
+roed           : 3
+tax            : 3
+person         : 3
+rhyddid        : 3
+Ior            : 3
+prepare        : 2
+gwelyau        : 2
+fifty          : 2
+glaer          : 2
+ccx            : 2
+Employee       : 2
+lefn           : 2
+C              : 2
+cei            : 2
+throi          : 2
+e              : 2
+hongian        : 2
+g              : 2
+ambell         : 2
+fagnel         : 2
+rheng          : 2
+Roedd          : 2
+Aed            : 2
+ddinam         : 2
+disclaimers    : 2
+welw           : 2
+better         : 2
+dderbyn        : 2
+anghofio       : 2
+wnai           : 2
+Monwyson       : 2
+ymaith         : 2
+gors           : 2
+Montana        : 2
+garaf          : 2
+goedwig        : 2
+Kentucky       : 2
+mysg           : 2
+Cantata        : 2
+fudI           : 2
+anhawsderau    : 2
+wallt          : 2
+hypertext      : 2
+dderyn         : 2
+have           : 2
+cor            : 2
+Eden           : 2
+lam            : 2
+glanio         : 2
+Lleuad         : 2
+nwylaw         : 2
+Roi            : 2
+Dinas          : 2
+Gwell          : 2
+hafddydd       : 2
+mraich         : 2
+ganddi         : 2
+odlau          : 2
+Dacw           : 2
+nhroed         : 2
+lawenydd       : 2
+led            : 2
+taranau        : 2
+docs           : 2
+les            : 2
+tywydd         : 2
+fwyaf          : 2
+dyrfa          : 2
+dollars        : 2
+Defects        : 2
+BUT            : 2
+Norman         : 2
+hiaith         : 2
+cwm            : 2
+anfarwoldeb    : 2
+greadigaeth    : 2
+donation       : 2
+hoffech        : 2
+beithynen      : 2
+Ave            : 2
+wywodd         : 2
+cwrdd          : 2
+CODIAD         : 2
+cyfeillion     : 2
+GarregI        : 2
+trwst          : 2
+pant           : 2
+lon            : 2
+computer       : 2
+brigau         : 2
+Rhaid          : 2
+dau            : 2
+day            : 2
+rhyfeloedd     : 2
+raian          : 2
+tyfodd         : 2
+dorf           : 2
+einioes        : 2
+fagnelau       : 2
+der            : 2
+announcement   : 2
+Arad           : 2
+ffraeo         : 2
+beunydd        : 2
+Llwyn          : 2
+thithau        : 2
+chollodd       : 2
+miloedd        : 2
+chodai         : 2
+eitha          : 2
+lleddf         : 2
+tadau          : 2
+braw           : 2
+erys           : 2
+pryd           : 2
+CYMRU          : 2
+gynta          : 2
+anadl          : 2
+mhobol         : 2
+bryder         : 2
+BEIBL          : 2
+gollen         : 2
+dwyrain        : 2
+gyfan          : 2
+chwardd        : 2
+clyd           : 2
+usually        : 2
+letters        : 2
+drysor         : 2
+being          : 2
+doi            : 2
+loes           : 2
+dihalog        : 2
+dos            : 2
+Gwnaed         : 2
+rhes           : 2
+legally        : 2
+dwymyn         : 2
+hithau         : 2
+use            : 2
+merch          : 2
+inni           : 2
+dri            : 2
+ogof           : 2
+Cledd          : 2
+fedr           : 2
+equipment      : 2
+dry            : 2
+ebai           : 2
+fedi           : 2
+Price          : 2
+erchwyn        : 2
+Information    : 2
+included       : 2
+TUA            : 2
+dur            : 2
+manO           : 2
+dychwelais     : 2
+gaiff          : 2
+gemau          : 2
+coventry       : 2
+Idaho          : 2
+oleuni         : 2
+long           : 2
+anfarwol       : 2
+into           : 2
+trostynt       : 2
+Paham          : 2
+barn           : 2
+Disgynnodd     : 2
+tylodion       : 2
+rhos           : 2
+THIS           : 2
+Cyfeiriais     : 2
+allor          : 2
+holau          : 2
+DDALL          : 2
+apply          : 2
+phlant         : 2
+magnelau       : 2
+rhuai          : 2
+raisingwill    : 2
+profits        : 2
+Natur          : 2
+nhalcen        : 2
+Byddwn         : 2
+word           : 2
+dewch          : 2
+mawn           : 2
+agen           : 2
+goreu          : 2
+Rhuddlan       : 2
+addysg         : 2
+mawredd        : 2
+lengoedd       : 2
+CORN           : 2
+mud            : 2
+mun            : 2
+mur            : 2
+glywn          : 2
+dirif          : 2
+orwedd         : 2
+Oxford         : 2
+bloeddiwn      : 2
+mwg            : 2
+teimlais       : 2
+donnau         : 2
+teithio        : 2
+cyhoeddwyd     : 2
+AR             : 2
+waeth          : 2
+Ab             : 2
+Llanarmon      : 2
+Af             : 2
+gwahanu        : 2
+werdd          : 2
+Nevada         : 2
+DIM            : 2
+iddynt         : 2
+dilyn          : 2
+godai          : 2
+Adawodd        : 2
+users          : 2
+materials      : 2
+teimlad        : 2
+Vermont        : 2
+Holl           : 2
+Eu             : 2
+end            : 2
+Fu             : 2
+Shecina        : 2
+gadael         : 2
+START          : 2
+rhoddwyd       : 2
+Manceinion     : 2
+nac            : 2
+nabod          : 2
+IS             : 2
+dolydd         : 2
+EVEN           : 2
+ffenestri      : 2
+siarad         : 2
+melus          : 2
+ddelw          : 2
+nefol          : 2
+etc            : 2
+net            : 2
+below          : 2
+adsain         : 2
+NA             : 2
+ochenaid       : 2
+rhoddodd       : 2
+NO             : 2
+Mo             : 2
+ysgafn         : 2
+islaw          : 2
+amrant         : 2
+llwybrau       : 2
+Tua            : 2
+Ngwalia        : 2
+gyfeillion     : 2
+Indiana        : 2
+Draig          : 2
+lyfrau         : 2
+helbul         : 2
+ieuenctid      : 2
+suai           : 2
+byddwn         : 2
+Cwm            : 2
+alternatively  : 2
+glannau        : 2
+nesu           : 2
+nhraed         : 2
+gyhoeddi       : 2
+hawdd          : 2
+ffos           : 2
+To             : 2
+dywedais       : 2
+gerbyd         : 2
+chwithau       : 2
+Texas          : 2
+next           : 2
+estyn          : 2
+foch           : 2
+beirddion      : 2
+MON            : 2
+amryw          : 2
+what           : 2
+Fwyalchen      : 2
+dowch          : 2
+gadair         : 2
+Ferch          : 2
+YW             : 2
+meirch         : 2
+Gadlys         : 2
+PUBLIC         : 2
+waered         : 2
+glywed         : 2
+colli          : 2
+grio           : 2
+dywell         : 2
+wrong          : 2
+organization   : 2
+Godant         : 2
+Indiaid        : 2
+fee            : 2
+produced       : 2
+gair           : 2
+keep           : 2
+who            : 2
+raid           : 2
+glywaf         : 2
+glywai         : 2
+cenais         : 2
+Saith          : 2
+gorwyrion      : 2
+wiw            : 2
+rhowch         : 2
+cwch           : 2
+freuddwydio    : 2
+gant           : 2
+Meirion        : 2
+lledu          : 2
+EIN            : 2
+an             : 2
+cleddyfau      : 2
+briod          : 2
+gysegredig     : 2
+hwyrddydd      : 2
+Defect         : 2
+co             : 2
+ffont          : 2
+arnynt         : 2
+Thegid         : 2
+which          : 2
+garu           : 2
+garw           : 2
+END            : 2
+TROS           : 2
+popeth         : 2
+gyflafan       : 2
+Number         : 2
+Cymry          : 2
+gawn           : 2
+Gydag          : 2
+wyliem         : 2
+Vychan         : 2
+ddeiliaid      : 2
+Mab            : 2
+fysedd         : 2
+gwelodd        : 2
+oeddyt         : 2
+gryn           : 2
+welwyd         : 2
+www            : 2
+nghwrwg        : 2
+author         : 2
+iechyd         : 2
+Carolina       : 2
+disk           : 2
+fwg            : 2
+tawelwch       : 2
+tafod          : 2
+TRWY           : 2
+chlywed        : 2
+amgylch        : 2
+od             : 2
+toriad         : 2
+og             : 2
+llesg          : 2
+dibyn          : 2
+Ddim           : 2
+oreu           : 2
+Llan           : 2
+Oriau          : 2
+tydi           : 2
+coch           : 2
+gogoniant      : 2
+drachefn       : 2
+chaiff         : 2
+tyfu           : 2
+then           : 2
+Mil            : 2
+praidd         : 2
+ro             : 2
+MEWN           : 2
+freichiau      : 2
+frenhines      : 2
+pump           : 2
+nghamrau       : 2
+dalcen         : 2
+anwiredd       : 2
+theimlais      : 2
+dall           : 2
+uk             : 2
+up             : 2
+DAMAGES        : 2
+NOT            : 2
+blin           : 2
+thlysaf        : 2
+Canu           : 2
+dalu           : 2
+FAM            : 2
+addewid        : 2
+felus          : 2
+nhelyn         : 2
+distribution   : 2
+out            : 2
+dychwel        : 2
+Louisiana      : 2
+Mud            : 2
+send           : 2
+Llais          : 2
+cenin          : 2
+cost           : 2
+Mwy            : 2
+nghyfaill      : 2
+gwena          : 2
+ganai          : 2
+Ngharreg       : 2
+amrantau       : 2
+DOMAIN         : 2
+addfwyn        : 2
+listing        : 2
+union          : 2
+Clywch         : 2
+goeden         : 2
+gog            : 2
+roddwyd        : 2
+ladd           : 2
+got            : 2
+grwydro        : 2
+Gawrfloeddio   : 2
+goleuni        : 2
+remove         : 2
+Colorado       : 2
+sydyn          : 2
+there          : 2
+rbydd          : 2
+brudd          : 2
+ETEXT          : 2
+Nas            : 2
+synwyr         : 2
+Enwadau        : 2
+symud          : 2
+per            : 2
+arwain         : 2
+ever           : 2
+hundred        : 2
+orsedd         : 2
+deilen         : 2
+fachludiad     : 2
+Nef            : 2
+diroedd        : 2
+enfys          : 2
+groew          : 2
+pennau         : 2
+ceunant        : 2
+WLAD           : 2
+honynt         : 2
+Gwel           : 2
+basio          : 2
+amcan          : 2
+Craig          : 2
+derwen         : 2
+intended       : 2
+prydferthaf    : 2
+ETEXTS         : 2
+Gwenferch      : 2
+ple            : 2
+lamp           : 2
+ogoniant       : 2
+Gwir           : 2
+Canfyddem      : 2
+must           : 2
+OND            : 2
+Identification : 2
+arluniau       : 2
+Trillion       : 2
+ddisgynyddion  : 2
+tithau         : 2
+goelcerth      : 2
+sylwi          : 2
+has            : 2
+hau            : 2
+last           : 2
+cwmwl          : 2
+GAD            : 2
+diwyd          : 2
+adewais        : 2
+cyfarfod       : 2
+boddhau        : 2
+arwr           : 2
+ngwyddfod      : 2
+neshau         : 2
+time           : 2
+pub            : 2
+laws           : 2
+croes          : 2
+Connecticut    : 2
+GET            : 2
+wrido          : 2
+naddu          : 2
+chanwyll       : 2
+murmur         : 2
+buasai         : 2
+Mhen           : 2
+before         : 2
+hin            : 2
+proofread      : 2
+gaeth          : 2
+archive        : 2
+wennol         : 2
+gliniau        : 2
+bobloedd       : 2
+Wedi           : 2
+solicited      : 2
+anwyd          : 2
+been           : 2
+safem          : 2
+Rwyf           : 2
+fflamio        : 2
+ysgrifennu     : 2
+derfyn         : 2
+rhoddi         : 2
+trig           : 2
+LIMITED        : 2
+bedw           : 2
+geisiaf        : 2
+Oklahoma       : 2
+Wna            : 2
+datodiad       : 2
+barth          : 2
+Rhufeiniaid    : 2
+BARDD          : 2
+safai          : 2
+rhodio         : 2
+Wyoming        : 2
+ASCII          : 2
+cynt           : 2
+includinglegal : 2
+aber           : 2
+edrychwch      : 2
+clywaf         : 2
+barod          : 2
+faban          : 2
+tant           : 2
+gwelwn         : 2
+Offa           : 2
+Hudol          : 2
+just           : 2
+ddwys          : 2
+Canent         : 2
+troi           : 2
+croesi         : 2
+clywch         : 2
+royalty        : 2
+ganddynt       : 2
+Arfon          : 2
+canodd         : 2
+JOHN           : 2
+heddyw         : 2
+Bugail         : 2
+cwympo         : 2
+glod           : 2
+nyth           : 2
+gonest         : 2
+paham          : 2
+cerddor        : 2
+Gorn           : 2
+machine        : 2
+ruai           : 2
+Wyf            : 2
+gystudd        : 2
+lygaid         : 2
+header         : 2
+yfais          : 2
+nghlyw         : 2
+hour           : 2
+lampau         : 2
+chwe           : 2
+gudd           : 2
+gauad          : 2
+cyfrwy         : 2
+gwelem         : 2
+gwynnu         : 2
+waelod         : 2
+EBCDIC         : 2
+flynyddoedd    : 2
+chymer         : 2
+Onn            : 2
+unless         : 2
+ias            : 2
+tyner          : 2
+Caiff          : 2
+gymorth        : 2
+tyrddu         : 2
+Gad            : 2
+ychydig        : 2
+wylio          : 2
+Chwaer         : 2
+fagu           : 2
+pruddglwyf     : 2
+rhaiadrau      : 2
+Frenhines      : 2
+Edrychem       : 2
+zip            : 2
+fenyw          : 2
+agree          : 2
+damages        : 2
+ddistaw        : 2
+cysgod         : 2
+Awel           : 2
+Eisteddai      : 2
+esmwyth        : 2
+temlau         : 2
+ataf           : 2
+Eidal          : 2
+fami           : 2
+ini            : 2
+heniaith       : 2
+Goleu          : 2
+nyddu          : 2
+heddwch        : 2
+ydwyt          : 2
+Ychwaneg       : 2
+posted         : 2
+SMALL          : 2
+deimlais       : 2
+Gleision       : 2
+Bran           : 2
+Cewch          : 2
+ddal           : 2
+fwynhad        : 2
+BABAN          : 2
+etifedd        : 2
+OWEN           : 2
+production     : 2
+anrheg         : 2
+Donations      : 2
+Rhag           : 2
+HUN            : 2
+fryd           : 2
+ehedydd        : 2
+fryniau        : 2
+ddysgais       : 2
+gagendor       : 2
+number         : 2
+Handel         : 2
+BYTH           : 2
+rhywun         : 2
+Harlech        : 2
+wenau          : 2
+Wynedd         : 2
+deulu          : 2
+aig            : 2
+ain            : 2
+beraidd        : 2
+HAVE           : 2
+olwg           : 2
+hedydd         : 2
+achos          : 2
+HAUL           : 2
+tyred          : 2
+boed           : 2
+dreigiau       : 2
+modd           : 2
+amI            : 2
+rhodiai        : 2
+rioed          : 2
+rod            : 2
+rhwyfwn        : 2
+crio           : 2
+cwpan          : 2
+using          : 2
+prairienet     : 2
+gynhebrwng     : 2
+ennill         : 2
+hafaidd        : 2
+sisial         : 2
+stafell        : 2
+ffynnon        : 2
+through        : 2
+anian          : 2
+flynyddau      : 2
+Oherwydd       : 2
+arwydd         : 2
+ato            : 2
+those          : 2
+ddyweyd        : 2
+weithiau       : 2
+syml           : 2
+book           : 2
+allu           : 2
+ddaliodd       : 2
+munud          : 2
+brwyn          : 2
+editing        : 2
+awn            : 2
+bont           : 2
+afael          : 2
+caru           : 2
+pasio          : 2
+ddywedaist     : 2
+ddua           : 2
+oleuodd        : 2
+arosodd        : 2
+ddwedyd        : 2
+ddwy           : 2
+nghartref      : 2
+Hawdd          : 2
+breichiau      : 2
+ddillad        : 2
+cryd           : 2
+Bryn           : 2
+INCLUDING      : 2
+ddilyn         : 2
+ngwaed         : 2
+ENETH          : 2
+Yna            : 2
+Oddiwrth       : 2
+Morfa          : 2
+ddeuent        : 2
+chanlyn        : 2
+also           : 2
+nawn           : 2
+ddrws          : 2
+bad            : 2
+magwyd         : 2
+clawdd         : 2
+gwartheg       : 2
+SERCH          : 2
+ofnadwy        : 2
+adeg           : 2
+Brythoniaid    : 2
+gallaf         : 2
+gynhesodd      : 2
+chwerthin      : 2
+wddf           : 2
+Ferwyn         : 2
+see            : 2
+indicate       : 2
+set            : 2
+contain        : 2
+WARRANTY       : 2
+orsoftware     : 2
+drist          : 2
+siglo          : 2
+contact        : 2
+ddowch         : 2
+mhraidd        : 2
+gydag          : 2
+helpu          : 2
+draed          : 2
+genethig       : 2
+Minnau         : 2
+weddw          : 2
+modrwy         : 2
+over           : 2
+Gwenith        : 2
+dirion         : 2
+big            : 2
+cherdd         : 2
+Breuddwydion   : 2
+gweddiau       : 2
+gwae           : 2
+DAFYDD         : 2
+deil           : 2
+world          : 2
+cenedl         : 2
+ble            : 2
+Addfwyn        : 2
+ganwn          : 2
+cerdd          : 2
+Dakota         : 2
+Porthmadog     : 2
+myrdd          : 2
+ALL            : 2
+gwefus         : 2
+download       : 2
+chwery         : 2
+directly       : 2
+plentynrwydd   : 2
+Felly          : 2
+engyl          : 2
+David          : 2
+ddamwain       : 2
+cleddyf        : 2
+adre           : 2
+defnyn         : 2
+chofia         : 2
+ANY            : 2
+chawn          : 2
+PRINT          : 2
+DYCHWELIAD     : 2
+bri            : 2
+draws          : 2
+gymer          : 2
+suo            : 2
+but            : 2
+ngwaelod       : 2
+pellder        : 2
+written        : 2
+ngrudd         : 2
+Iowa           : 2
+proprietary    : 2
+bounces        : 2
+Rhwyfwn        : 2
+byr            : 2
+dychryn        : 2
+syrthio        : 2
+canwn          : 2
+dywed          : 2
+amod           : 2
+dewr           : 2
+rodd           : 2
+derive         : 2
+Massachusetts  : 2
+braidd         : 2
+rhosyn         : 2
+myfi           : 2
+maesydd        : 2
+chwech         : 2
+plith          : 2
+erlid          : 2
+ffroen         : 2
+Ysgrifennwyd   : 2
+gobaith        : 2
+plain          : 2
+fendith        : 2
+Dolydd         : 2
+dynol          : 2
+helyg          : 2
+goed           : 2
+dynnu          : 2
+welir          : 2
+ddiameu        : 2
+alaru          : 2
+cau            : 2
+fachludo       : 2
+garnedd        : 2
+DYDD           : 2
