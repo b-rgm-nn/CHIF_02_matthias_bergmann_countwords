@@ -4,9 +4,13 @@ import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
+import java.util.Collections;
 import java.util.HashMap;
+import java.util.LinkedHashMap;
+import java.util.Map;
 import java.util.logging.Level;
 import java.util.logging.Logger;
+import static java.util.stream.Collectors.toMap;
 
 public class Consumer implements Runnable {
 
@@ -33,8 +37,13 @@ public class Consumer implements Runnable {
                 }
             }
 
+            LinkedHashMap<String, Integer> countWords = book.countWords()
+                    .entrySet()
+                    .stream()
+                    .sorted(Collections.reverseOrder(Map.Entry.comparingByValue()))
+                    .collect(toMap(Map.Entry::getKey, Map.Entry::getValue, (e1, e2) -> e2,
+                LinkedHashMap::new));
             try (BufferedWriter bw = new BufferedWriter(new FileWriter(new File("./files/output/" + book.getInputfilename() + "-output.txt")))) {
-                HashMap<String, Integer> countWords = book.countWords();
                 for (String key : countWords.keySet()) {
                     if(countWords.get(key) == 1) continue;
                     bw.write(key + ": " + countWords.get(key) + "\n");
